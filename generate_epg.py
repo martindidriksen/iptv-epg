@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-from datetime import datetime, timedelta, date, timezone
+from datetime import datetime, timedelta, date
 from lxml import etree
 import os
 
@@ -70,7 +70,7 @@ for offset in range(DAYS):
             minute=minute
         )
 
-        utc_dt = local_dt.replace(tzinfo=timezone.utc)
+        utc_dt = local_dt - timedelta(hours=1)
 
         events.append({
             "dt": utc_dt,
@@ -79,9 +79,7 @@ for offset in range(DAYS):
             "desc": desc_el.get_text(" ", strip=True) if desc_el else ""
         })
 
-
 events.sort(key=lambda x: x["dt"])
-
 
 for i, e in enumerate(events):
 
@@ -110,7 +108,6 @@ for i, e in enumerate(events):
     if e["desc"]:
         desc = etree.SubElement(programme, "desc")
         desc.text = e["desc"]
-
 
 
 tmp_file = "kvf.xml.tmp"
