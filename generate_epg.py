@@ -1,86 +1,15 @@
 import requests
 from bs4 import BeautifulSoup
-from datetime import datetime, timedelta
-from zoneinfo import ZoneInfo
+from datetime import datetime, timedelta, date, timezone
 from lxml import etree
+import os
 
-URL = "https://kvf.fo/nskra/sv"
+BASE_URL = "https://kvf.fo/nskra/sv"
+DAYS = 7
 
-def xmltv_timestamp(dt):
+
+def xmltv_timestamp(dt: datetime):
     return dt.strftime("%Y%m%d%H%M%S %z")
-
-
-# ---- Fetch HTML ----
-
-r = requests.get(
-    URL,
-    timeout=30,
-    headers={
-        "User-Agent": "Mozilla/5.0"
-    }
-)
-
-r.raise_for_status()
-
-soup = BeautifulSoup(r.text, "html.parser")
-
-
-# ---- Parse schedule rows ----
-
-rows = []
-
-for entry in soup.select("div.views-row"):
-
-    normal = entry.select_one(".s-normal")
-    if not normal:
-        continue
-
-    # first text node in s-normal is the time (e.g. 19:30)
-    raw_time = normal.find(string=True)
-
-    if not raw_time:
-        continue
-
-    start_time = raw_time.strip()
-
-    if ":" not in start_time:
-        continue
-
-    title_el = entry.select_one(".s-heiti")
-    if not title_el:
-        continue
-
-    title = title_el.get_text(" ", strip=True)
-
-    subtitle_el = entry.select_one(".s-subtitle")
-    subtitle = (
-        subtitle_el.get_text(" ", strip=True)
-        if subtitle_el else ""
-    )
-
-    desc_el = entry.select_one(".s-text")
-    desc = (
-        desc_el.get_text(" ", strip=True)
-        if desc_el else ""
-    )
-
-    rows.append({
-        "time": start_time,
-        "title": title,
-        "subtitle": subtitle,
-        "desc": desc
-    })
-
-
-# ---- Safety check ----
-
-if len(rows) < 5:
-    raise Exception(
-        f"Scrape likely failed, only found {len(rows)} programs"
-    )
-
-
-# ---- Build XMLTV ----
 
 root = etree.Element(
     "tv",
@@ -90,63 +19,78 @@ root = etree.Element(
     }
 )
 
-channel = etree.SubElement(
-    root,
-    "channel",
-    id="kvf.fo"
-)
-
-display = etree.SubElement(
-    channel,
-    "display-name"
-)
-
+channel = etree.SubElement(root, "channel", id="kvf.fo")
+display = etree.SubElement(channel, "display-name")
 display.text = "KVF"
+events = []
+today = date.today()
 
+for offset in range(DAYS):
 
-# Use Faroe timezone (handles DST)
-tz = ZoneInfo("Atlantic/Faroe")
-today = datetime.now(tz).date()
+    day = today + timedelta(days=offset)
+    url = f"{BASE_URL}?date={day.isoformat()}"
 
-
-for i, p in enumerate(rows):
-
-    hour, minute = map(int, p["time"].split(":"))
-
-    start_dt = datetime.combine(
-        today,
-        datetime.min.time(),
-        tzinfo=tz
-    ) + timedelta(
-        hours=hour,
-        minutes=minute
+    r = requests.get(
+        url,
+        timeout=30,
+        headers={"User-Agent": "Mozilla/5.0"}
     )
+    r.raise_for_status()
 
-    # stop time = next show's start
-    if i < len(rows)-1:
+    soup = BeautifulSoup(r.text, "html.parser")
 
-        nh, nm = map(
-            int,
-            rows[i+1]["time"].split(":")
+    for entry in soup.select("div.views-row"):
+
+        normal = entry.select_one(".s-normal")
+        if not normal:
+            continue
+
+        raw_time = normal.find(string=True)
+        if not raw_time:
+            continue
+
+        time_str = raw_time.strip()
+        if ":" not in time_str:
+            continue
+
+        title_el = entry.select_one(".s-heiti")
+        if not title_el:
+            continue
+
+        subtitle_el = entry.select_one(".s-subtitle")
+        desc_el = entry.select_one(".s-text")
+
+        hour, minute = map(int, time_str.split(":"))
+
+        local_dt = datetime(
+            year=day.year,
+            month=day.month,
+            day=day.day,
+            hour=hour,
+            minute=minute
         )
 
-        stop_dt = datetime.combine(
-            today,
-            datetime.min.time(),
-            tzinfo=tz
-        ) + timedelta(
-            hours=nh,
-            minutes=nm
-        )
+        utc_dt = local_dt.replace(tzinfo=timezone.utc)
 
-        # handle midnight rollover
-        if stop_dt <= start_dt:
-            stop_dt += timedelta(days=1)
+        events.append({
+            "dt": utc_dt,
+            "title": title_el.get_text(" ", strip=True),
+            "subtitle": subtitle_el.get_text(" ", strip=True) if subtitle_el else "",
+            "desc": desc_el.get_text(" ", strip=True) if desc_el else ""
+        })
 
+
+events.sort(key=lambda x: x["dt"])
+
+
+for i, e in enumerate(events):
+
+    start_dt = e["dt"]
+
+    if i < len(events) - 1:
+        stop_dt = events[i + 1]["dt"]
     else:
-        # fallback for last program
         stop_dt = start_dt + timedelta(hours=1)
-
 
     programme = etree.SubElement(
         root,
@@ -156,28 +100,18 @@ for i, p in enumerate(rows):
         channel="kvf.fo"
     )
 
-    title = etree.SubElement(
-        programme,
-        "title"
-    )
-    title.text = p["title"]
+    title = etree.SubElement(programme, "title")
+    title.text = e["title"]
 
-    if p["subtitle"]:
-        sub = etree.SubElement(
-            programme,
-            "sub-title"
-        )
-        sub.text = p["subtitle"]
+    if e["subtitle"]:
+        sub = etree.SubElement(programme, "sub-title")
+        sub.text = e["subtitle"]
 
-    if p["desc"]:
-        desc = etree.SubElement(
-            programme,
-            "desc"
-        )
-        desc.text = p["desc"]
+    if e["desc"]:
+        desc = etree.SubElement(programme, "desc")
+        desc.text = e["desc"]
 
 
-# ---- Write atomically ----
 
 tmp_file = "kvf.xml.tmp"
 final_file = "kvf.xml"
@@ -192,7 +126,6 @@ with open(tmp_file, "wb") as f:
         )
     )
 
-import os
 os.replace(tmp_file, final_file)
 
-print("Generated kvf.xml successfully")
+print(f"Generated kvf.xml successfully with {len(events)} events")
