@@ -1,45 +1,45 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv>
+<tv source-info-url="https://github.com/martindidriksen/kvf-epg" generator-info-name="KVF EPG Scraper">
   <channel id="kvf.fo">
     <display-name>KVF</display-name>
   </channel>
-  <programme start="20260424175500 +0100" stop="20260424182000 +0100" channel="kvf.fo">
+  <programme start="20260425175500 +0100" stop="20260425182000 +0100" channel="kvf.fo">
     <title>Mumi 46</title>
     <sub-title>- teknirøð til smábørn</sub-title>
   </programme>
-  <programme start="20260424182000 +0100" stop="20260424190000 +0100" channel="kvf.fo">
+  <programme start="20260425182000 +0100" stop="20260425190000 +0100" channel="kvf.fo">
     <title>KAKUMIKS II - seinna hálvfinala</title>
     <sub-title>- føroysk bakikapping til børn og ung (6:7)</sub-title>
   </programme>
-  <programme start="20260424190000 +0100" stop="20260424192500 +0100" channel="kvf.fo">
+  <programme start="20260425190000 +0100" stop="20260425192500 +0100" channel="kvf.fo">
     <title>Dagur og vika</title>
   </programme>
-  <programme start="20260424192500 +0100" stop="20260424193000 +0100" channel="kvf.fo">
+  <programme start="20260425192500 +0100" stop="20260425193000 +0100" channel="kvf.fo">
     <title>Veðrið</title>
   </programme>
-  <programme start="20260424193000 +0100" stop="20260424194000 +0100" channel="kvf.fo">
+  <programme start="20260425193000 +0100" stop="20260425194000 +0100" channel="kvf.fo">
     <title>$elfie</title>
     <sub-title>- hvørvisjón, føroyskt skemt (6:8)</sub-title>
     <desc>Pauli skal introducera ein film hjá Filmsfelagnum og fær møguleikan at gera eitt collab við einum stórum poppartisti.</desc>
   </programme>
-  <programme start="20260424194000 +0100" stop="20260424202500 +0100" channel="kvf.fo">
+  <programme start="20260425194000 +0100" stop="20260425202500 +0100" channel="kvf.fo">
     <title>Gekkur</title>
   </programme>
-  <programme start="20260424202500 +0100" stop="20260424210500 +0100" channel="kvf.fo">
+  <programme start="20260425202500 +0100" stop="20260425210500 +0100" channel="kvf.fo">
     <title>Popptoppurin 2</title>
     <sub-title>- Burhan G, donsk tónleikasending</sub-title>
     <desc>Burhan G fær eitt risastórt yvirraskilsi, tá hann í Rørvig Havn verður møttur av einari heilt serligari tulking, sum slær beinini undan honum. Hóast Burhan hevur ilt við at vera í miðdeplinum, er hann meira opin enn nakrantíð, tá hann deilir søgur frá sínum ótrúliga lívið. Sesong: 14 Partur: 2 Ár: 2026 Framleitt fyri: TV 2 DANMARK</desc>
   </programme>
-  <programme start="20260424210500 +0100" stop="20260424232000 +0100" channel="kvf.fo">
+  <programme start="20260425210500 +0100" stop="20260425232000 +0100" channel="kvf.fo">
     <title>Hacksaw Ridge</title>
     <sub-title>- am. krígsfilmur frá 2016, óhósk.fyri børn</sub-title>
     <desc>USA undir øðrum veraldarbardaga. Ungi Desmond T. Doss (Andrew Garfield) vil fegin verða lækni og fer sjálvboðin í herin sum sjúkrarøktari. Hann er friðarhugaður og noktar at bera vápn, hóast yvirmenninir halda tað vera býttligt og ábyrgdarleyst. Men hann fær loyvi at tæna landinum, og undir tí stóra bardaganum á Okinawa eydnaðist honum at bjarga 75 av sínum medhermonnum - uttan sjálvur at taka eitt einasta lív hjá fíggindanum. Filmurin byggir á veruligar hendingar. Við eru: Desmond T. Doss: Andrew Garfield, Dorothy Schutte: Teresa Palmer og Sergent Howell: Vince Vaughn. Framl. ár: 2016 Aldursmark: 15</desc>
   </programme>
-  <programme start="20260424232000 +0100" stop="20260424235000 +0100" channel="kvf.fo">
+  <programme start="20260425232000 +0100" stop="20260425235000 +0100" channel="kvf.fo">
     <title>Dagur og vika</title>
     <sub-title>- við teksti</sub-title>
   </programme>
-  <programme start="20260424235000 +0100" stop="20260425005000 +0100" channel="kvf.fo">
+  <programme start="20260425235000 +0100" stop="20260426005000 +0100" channel="kvf.fo">
     <title>Veðrið</title>
   </programme>
 </tv>
