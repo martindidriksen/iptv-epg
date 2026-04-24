@@ -82,7 +82,13 @@ if len(rows) < 5:
 
 # ---- Build XMLTV ----
 
-root = etree.Element("tv")
+root = etree.Element(
+    "tv",
+    attrib={
+        "source-info-url": "https://github.com/martindidriksen/kvf-epg",
+        "generator-info-name": "KVF EPG Scraper"
+    }
+)
 
 channel = etree.SubElement(
     root,
