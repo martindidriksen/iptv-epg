@@ -3,45 +3,6 @@
   <channel id="kvf.fo">
     <display-name>KVF</display-name>
   </channel>
-  <programme start="20260424165500 " stop="20260424172000 " channel="kvf.fo">
-    <title>Mumi 46</title>
-    <sub-title>- teknirøð til smábørn</sub-title>
-  </programme>
-  <programme start="20260424172000 " stop="20260424180000 " channel="kvf.fo">
-    <title>KAKUMIKS II - seinna hálvfinala</title>
-    <sub-title>- føroysk bakikapping til børn og ung (6:7)</sub-title>
-  </programme>
-  <programme start="20260424180000 " stop="20260424182500 " channel="kvf.fo">
-    <title>Dagur og vika</title>
-  </programme>
-  <programme start="20260424182500 " stop="20260424183000 " channel="kvf.fo">
-    <title>Veðrið</title>
-  </programme>
-  <programme start="20260424183000 " stop="20260424184000 " channel="kvf.fo">
-    <title>$elfie</title>
-    <sub-title>- hvørvisjón, føroyskt skemt (6:8)</sub-title>
-    <desc>Pauli skal introducera ein film hjá Filmsfelagnum og fær møguleikan at gera eitt collab við einum stórum poppartisti.</desc>
-  </programme>
-  <programme start="20260424184000 " stop="20260424192500 " channel="kvf.fo">
-    <title>Gekkur</title>
-  </programme>
-  <programme start="20260424192500 " stop="20260424200500 " channel="kvf.fo">
-    <title>Popptoppurin 2</title>
-    <sub-title>- Burhan G, donsk tónleikasending</sub-title>
-    <desc>Burhan G fær eitt risastórt yvirraskilsi, tá hann í Rørvig Havn verður møttur av einari heilt serligari tulking, sum slær beinini undan honum. Hóast Burhan hevur ilt við at vera í miðdeplinum, er hann meira opin enn nakrantíð, tá hann deilir søgur frá sínum ótrúliga lívið. Sesong: 14 Partur: 2 Ár: 2026 Framleitt fyri: TV 2 DANMARK</desc>
-  </programme>
-  <programme start="20260424200500 " stop="20260424222000 " channel="kvf.fo">
-    <title>Hacksaw Ridge</title>
-    <sub-title>- am. krígsfilmur frá 2016, óhósk.fyri børn</sub-title>
-    <desc>USA undir øðrum veraldarbardaga. Ungi Desmond T. Doss (Andrew Garfield) vil fegin verða lækni og fer sjálvboðin í herin sum sjúkrarøktari. Hann er friðarhugaður og noktar at bera vápn, hóast yvirmenninir halda tað vera býttligt og ábyrgdarleyst. Men hann fær loyvi at tæna landinum, og undir tí stóra bardaganum á Okinawa eydnaðist honum at bjarga 75 av sínum medhermonnum - uttan sjálvur at taka eitt einasta lív hjá fíggindanum. Filmurin byggir á veruligar hendingar. Við eru: Desmond T. Doss: Andrew Garfield, Dorothy Schutte: Teresa Palmer og Sergent Howell: Vince Vaughn. Framl. ár: 2016 Aldursmark: 15</desc>
-  </programme>
-  <programme start="20260424222000 " stop="20260424225000 " channel="kvf.fo">
-    <title>Dagur og vika</title>
-    <sub-title>- við teksti</sub-title>
-  </programme>
-  <programme start="20260424225000 " stop="20260425180000 " channel="kvf.fo">
-    <title>Veðrið</title>
-  </programme>
   <programme start="20260425180000 " stop="20260425193000 " channel="kvf.fo">
     <title>Eldsál</title>
     <sub-title>- franskur animatiónsfilmur við danskari talu frá 2022</sub-title>
@@ -306,7 +267,43 @@
     <title>Dagur og vika</title>
     <sub-title>- við teksti</sub-title>
   </programme>
-  <programme start="20260430220000 " stop="20260430230000 " channel="kvf.fo">
+  <programme start="20260430220000 " stop="20260501100000 " channel="kvf.fo">
     <title>Veðrið</title>
+  </programme>
+  <programme start="20260501100000 " stop="20260501150000 " channel="kvf.fo">
+    <title>Gudstænasta úr Havnar kirkju</title>
+    <sub-title>- Anne Mette Greve Klemensen, prestur, prædikar</sub-title>
+  </programme>
+  <programme start="20260501150000 " stop="20260501161000 " channel="kvf.fo">
+    <title>Gudstænasta úr Havnar kirkju</title>
+    <sub-title>- Anne Mette Greve Klemensen, prestur, prædikar</sub-title>
+  </programme>
+  <programme start="20260501161000 " stop="20260501171000 " channel="kvf.fo">
+    <title>Martin - ein superheili hvørvur</title>
+    <sub-title>- donsk dokumentarsending</sub-title>
+    <desc>Martin hevur autismu og er kendur fyri sína stóru vitan um alt frá toktíðum og plátumerkjum. Nú leitar hann eftir einari sjáldsamari Beatles-plátu, og samstundis er lív hansara við at broytast. Eftir tvey ár er TV 2 aftur á vitjan hjá "Samler-Martin". Framleiðsluár: 2026 Framleitt fyri: TV 2 DANMARK</desc>
+  </programme>
+  <programme start="20260501171000 " stop="20260501180000 " channel="kvf.fo">
+    <title>KAKUMIKS II - finalan</title>
+    <sub-title>- føroysk bakikapping til børn og ung (7:7)</sub-title>
+  </programme>
+  <programme start="20260501180000 " stop="20260501181000 " channel="kvf.fo">
+    <title>Andakt</title>
+    <sub-title>- Steintóra Gleðisheygg Joensen, prestur</sub-title>
+  </programme>
+  <programme start="20260501181000 " stop="20260501193000 " channel="kvf.fo">
+    <title>Stríðsmenn í Havn</title>
+    <sub-title>- føroyskur dokumentarur</sub-title>
+    <desc>Havnar Arbeiðsmannafelag hátíðarhelt 16. januar í 2016 sín 100 ára stovningardag. Í tí sambandi er filmurin "Stríðsmenn í Havn" gjørdur. Hann lýsir stovnanina, livikorini í Havn og hørð stríð á arbeiðsmarknaðinum. Við í filminum eru Helgi Eidesgaard, Erland V. Joensen, Jógvan Arge, Jóanes Nielsen, Johan Norðfoss, Poul Mohr, Jørleif Kúrberg og onnur. Lagt til rættis: Uni Arge og Hans Petur Hansen.</desc>
+  </programme>
+  <programme start="20260501193000 " stop="20260501201500 " channel="kvf.fo">
+    <title>Operatión X: Stóra svikið við mentalvenjing</title>
+    <sub-title>- donsk sending við Morten Spiegelhauer</sub-title>
+    <desc>Hann kallar seg ?besti mentalvenjari í Danmark?. Milliónirnar streyma inn. Men hvussu er tað í veruleikanum við fakligheitini? Og hvar koma pengarnir frá? Framleiðsluár: 2025</desc>
+  </programme>
+  <programme start="20260501201500 " stop="20260501211500 " channel="kvf.fo">
+    <title>Driving Miss Daisy</title>
+    <sub-title>- am. oscarvirðisl. filmur frá 1989</sub-title>
+    <desc>Í 1948 er ríka jødiska suðurstatseinkjan Daisy Wertham vorðin 72 ára gomul, og eftir eitt bilóhapp fáa tey hana til at seta ein bilførara í starv. Bilførarin verður tann svarti Hoke Colburn, ein virðiligur harri, farin um tey seksti. Í fyrstuni er rættiliga kalt teirra millum, men sum árini ganga, og viðurskiftini millum fólkasløgini broytast, mennist eisini eitt forstáilsi millum tey bæði Hoke og Daisy. Leikarar: Daisy Werthan: Jessica Tandy. Hoke Colburn: Morgan Freeman. Boolie Werthan: Dan Aykroyd. Leikstjórn: Bruce Beresford.</desc>
   </programme>
 </tv>
