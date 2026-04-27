@@ -1,4 +1,4 @@
-name: Generate KVF EPG
+name: Generate EPG
 
 on:
   schedule:
@@ -22,16 +22,20 @@ jobs:
       - name: Install deps
         run: pip install requests beautifulsoup4 lxml
 
-      - name: Generate EPG
+      - name: Generate KVF EPG
         working-directory: kvf
         run: python kvf_epg_generator.py
+
+      - name: Generate RUV EPG
+        working-directory: ruv
+        run: python ruv_epg_generator.py
 
       - name: Commit XML
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
 
-          git add kvf/kvf.xml
+          git add kvf/kvf.xml ruv/ruv.xml ruv/ruv2.xml
 
           git diff --staged --quiet || git commit -m "Update EPG"
 
