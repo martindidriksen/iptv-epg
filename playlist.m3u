@@ -2,3 +2,18 @@
 
 #EXTINF:-1 tvg-id="kvf.fo" tvg-name="KVF" group-title="Faroe Islands",KVF Sjónvarp
 https://play.kringvarp.fo/redirect/kvf/_definst_/smil:kvf.smil?type=m3u8
+
+#EXTINF:-1 tvg-id="ruv.is" tvg-name="RÚV 1" group-title="Iceland",RÚV 1
+https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl/stream1_.m3u8
+
+#EXTINF:-1 tvg-id="ruv2.is" tvg-name="RÚV 2" group-title="Iceland",RÚV 2
+https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index/stream4_.m3u8
+
+#EXTINF:-1 tvg-id="dr1.dk" tvg-name="DR1" group-title="Denmark",DR1
+https://drlivedr1hls.akamaized.net/hls/live/2113625/drlivedr1/3.m3u8
+
+#EXTINF:-1 tvg-id="dr2.dk" tvg-name="DR2" group-title="Denmark",DR2
+https://drlivedr2hls.akamaized.net/hls/live/2113623/drlivedr2/5.m3u8
+
+#EXTINF:-1 tvg-id="drtva.dk" tvg-name="DR TVA" group-title="Denmark",DR TVA
+https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/5.m3u8
