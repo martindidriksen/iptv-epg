@@ -3,6 +3,7 @@ from lxml import etree
 
 SOURCES = [
     "kvf/kvf.xml",
+    "kvf/kvf2.xml",
     "ruv/ruv.xml",
     "ruv/ruv2.xml",
     "dr/dr1.xml",

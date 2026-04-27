@@ -3,6 +3,9 @@
   <channel id="kvf.fo">
     <display-name>KVF</display-name>
   </channel>
+  <channel id="kvf2.fo">
+    <display-name>KVF 2</display-name>
+  </channel>
   <channel id="ruv.is">
     <display-name>RÚV 1</display-name>
   </channel>
@@ -311,6 +314,27 @@
     <title>Martin - ein superheili hvørvur</title>
     <sub-title>- donsk dokumentarsending</sub-title>
     <desc>Martin hevur autismu og er kendur fyri sína stóru vitan um alt frá toktíðum og plátumerkjum. Nú leitar hann eftir einari sjáldsamari Beatles-plátu, og samstundis er lív hansara við at broytast. Eftir tvey ár er TV 2 aftur á vitjan hjá "Samler-Martin". Framleiðsluár: 2026 Framleitt fyri: TV 2 DANMARK</desc>
+  </programme>
+  <programme start="20260427000000 +0000" stop="20260428000000 +0000" channel="kvf2.fo">
+    <title>Onki á skrá</title>
+  </programme>
+  <programme start="20260428000000 +0000" stop="20260429000000 +0000" channel="kvf2.fo">
+    <title>Onki á skrá</title>
+  </programme>
+  <programme start="20260429000000 +0000" stop="20260430000000 +0000" channel="kvf2.fo">
+    <title>Onki á skrá</title>
+  </programme>
+  <programme start="20260430000000 +0000" stop="20260501000000 +0000" channel="kvf2.fo">
+    <title>Onki á skrá</title>
+  </programme>
+  <programme start="20260501000000 +0000" stop="20260502000000 +0000" channel="kvf2.fo">
+    <title>Onki á skrá</title>
+  </programme>
+  <programme start="20260502000000 +0000" stop="20260503000000 +0000" channel="kvf2.fo">
+    <title>Onki á skrá</title>
+  </programme>
+  <programme start="20260503000000 +0000" stop="20260504000000 +0000" channel="kvf2.fo">
+    <title>Onki á skrá</title>
   </programme>
   <programme start="20260427130000 +0000" stop="20260427132000 +0000" channel="ruv.is">
     <title>Fréttir (með táknmálstúlkun)</title>
