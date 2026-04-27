@@ -30,12 +30,19 @@ jobs:
         working-directory: ruv
         run: python ruv_epg_generator.py
 
+      - name: Generate DR EPG
+        working-directory: dr
+        run: python dr_epg_generator.py
+
+      - name: Merge EPG
+        run: python merge_epg.py
+
       - name: Commit XML
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
 
-          git add kvf/kvf.xml ruv/ruv.xml ruv/ruv2.xml
+          git add kvf/kvf.xml ruv/ruv.xml ruv/ruv2.xml dr/dr1.xml dr/dr2.xml dr/drtva.xml epg.xml
 
           git diff --staged --quiet || git commit -m "Update EPG"
 
