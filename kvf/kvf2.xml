@@ -3,9 +3,6 @@
   <channel id="kvf2.fo">
     <display-name>KVF 2</display-name>
   </channel>
-  <programme start="20260427000000 +0000" stop="20260428000000 +0000" channel="kvf2.fo">
-    <title>Onki á skrá</title>
-  </programme>
   <programme start="20260428000000 +0000" stop="20260429000000 +0000" channel="kvf2.fo">
     <title>Onki á skrá</title>
   </programme>
@@ -22,6 +19,9 @@
     <title>Onki á skrá</title>
   </programme>
   <programme start="20260503000000 +0000" stop="20260504000000 +0000" channel="kvf2.fo">
+    <title>Onki á skrá</title>
+  </programme>
+  <programme start="20260504000000 +0000" stop="20260505000000 +0000" channel="kvf2.fo">
     <title>Onki á skrá</title>
   </programme>
 </tv>

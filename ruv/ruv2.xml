@@ -3,10 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260427190000 +0000" stop="20260427192700 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20260428190000 +0000" stop="20260428192700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
@@ -73,5 +69,9 @@ Fjórir listar eru í framboði á Skagafirði fyrir sveitarstjórnarkosningar �
     <title>Asía - með enskum þul</title>
     <sub-title>(3 af 7)</sub-title>
     <desc>Heimildarþáttaröð þar sem David Attenborough kannar náttúru og dýralíf í Asíu, stærstu heimsálfu jarðar.</desc>
+  </programme>
+  <programme start="20260504190000 +0000" stop="20260504192700 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
 </tv>
