@@ -3,170 +3,36 @@
   <channel id="dr2.dk">
     <display-name>DR2</display-name>
   </channel>
-  <programme start="20260427233000 +0000" stop="20260428001500 +0000" channel="dr2.dk">
-    <title>Er der en arkitekt til stede?: Silkeborgs forsvundne bypark</title>
-    <desc>Det nye Søtorvet i Silkeborg skulle samle byen med en grøn bypark - men endte i stedet med at dele den midtover. Hvad skete der, siden drømmene og visionerne blev til en massiv mur? Ane Cortzen går på jagt efter den forsvundne bypark i 'Danmarks Outdoor Hovedstad' og spørger, om der har været en arkitekt til stede.</desc>
-    <episode-num system="xmltv_ns">4.0.0</episode-num>
-  </programme>
-  <programme start="20260428001500 +0000" stop="20260428010000 +0000" channel="dr2.dk">
-    <title>Manden i hullet (3:7) Kærlighed mellem mænd</title>
-    <desc>Rasmus Bruun har besluttet at give en musikalsk kærlighedsgave til Frederik Cilius, men det betyder de to kommer ud i den store søgen hvor trehovedede hunde, lokkende musik fra Andreas Odbjerg - og Allan Gravgaard Madsen - er bare nogle af de prøvelser, de to bliver udsat for.</desc>
-    <episode-num system="xmltv_ns">0.2.0</episode-num>
-  </programme>
-  <programme start="20260428010000 +0000" stop="20260428020000 +0000" channel="dr2.dk">
-    <title>Den klassiske musikquiz (4:4)</title>
-    <desc>Hvor svært er det at genkende musik spillet bagfra? Er det overhovedet muligt at bestemme et stykke efter bare en enkelt tone? Og kan man spille orkestermusik på udtjente slagtøjsinstrumenter? Frederik Cilius og Mathias Hammer er holdkaptajnerne, der styrer aftenens to hold gennem udfordringerne. Med sig har de Isabella Hübener, Peter Ettrup Larsen, Maria Frej og Søren Rastogi. DR SymfoniOrkestret og dirigent Thomas Søndergård står for musikken, mens Phillip Faber er den oplagte vært, der forsøger at holde styr på løjerne.</desc>
-    <episode-num system="xmltv_ns">0.3.0</episode-num>
-  </programme>
-  <programme start="20260428020000 +0000" stop="20260428023000 +0000" channel="dr2.dk">
-    <title>Deadline: Ulven er løs</title>
-    <desc>Ulven er løs! Og i de seneste uger har ulve dræbt en pony, en hundehvalp og nær skræmt livet af et vestjysk ægtepar. Er det på tide at gribe til våben? Eller skal vi vænne os til at leve side om side med ulven? Trine Maria Ilsøe tager debatten med Danmarksdemokraterne og Alternativet.</desc>
-    <episode-num system="xmltv_ns">2025.61.0</episode-num>
-  </programme>
-  <programme start="20260428023000 +0000" stop="20260428030000 +0000" channel="dr2.dk">
-    <title>Deadline: Dramaet på Marienborg</title>
-    <desc>En måned med forhandlinger. Intet resultat. Til gengæld har der i denne uge været lækager, trusler og masser af drama på Marienborg. Derfor spørger Trine Maria Ilsøe i dag: Er vi tættere på et nyvalg end på en ny regering?</desc>
-    <episode-num system="xmltv_ns">2025.60.0</episode-num>
-  </programme>
-  <programme start="20260428030000 +0000" stop="20260428033000 +0000" channel="dr2.dk">
-    <title>Deadline: For ung til forvaring?</title>
-    <desc>Selvom Retslægerådet mener, at den 17-årige mand, der voldtog og dræbte en bare 13-årig pige i Hjallerup forrige år, er til fare for andre og egentlig burde have forvaring, så endte landsretten i går med at fastholde straffen på 12 års fængsel.
-Antallet af forvaringsdomme er ellers steget markant de senere år, men når det det kommer til unge, er domstolene tilbageholdende.
-Trine Maria Ilsøe spørger en ekspert, hvorfor det er sådan. Og så taler hun med Dansk Folkepartis Anders Vistisen, som mener, at domstolene har anlagt en rigid tilgang. </desc>
-    <episode-num system="xmltv_ns">2025.59.0</episode-num>
-  </programme>
-  <programme start="20260428033000 +0000" stop="20260428040000 +0000" channel="dr2.dk">
-    <title>Deadline: Er aktierne gået amok?</title>
-    <desc>Mens krig og usikkerhed præger verden, og økonomer advarer om inflation og recession, ja så sætter kurserne på Wall Street nye rekorder. I dag spørger Casper Schrøder, om der er gode grunde til de store stigninger, eller om markederne helt har mistet jordforbindelsen - med risikoen for et krak?</desc>
-    <episode-num system="xmltv_ns">2025.58.0</episode-num>
-  </programme>
-  <programme start="20260428040000 +0000" stop="20260428043000 +0000" channel="dr2.dk">
-    <title>Kærlighed og kaos i kollektivet (2:5)</title>
-    <desc>Nye familieformer.
-Thomas Vinterberg flyttede som 7-årig til kollektivet Nordkrog i Hellerup sammen med sin familie. Hans forældre havde en aftale om at det var OK med seksuelle forhold til andre men de ville vedblive at være kernefamilie. Modellen holdt nogle år - så blev de skilt. Nadia Kløvedal Reich og hendes mor flyttede også til Nordkrog - og for Nadias mor betød kollektivet en helt ny frihed for hende som kvinde. Så meget at Nadia knyttede sig til de andre voksne og i dag har hun - til hendes mors fortrydelse - et tættere forhold til de andre voksne fra kollektivet end til sin mor.</desc>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-  </programme>
-  <programme start="20260428043000 +0000" stop="20260428051000 +0000" channel="dr2.dk">
-    <title>Alle tiders underholdning (2:8)</title>
-    <desc>Dansk dokumentarserie fra 2002. Erotik og superstjerner. Det er dansk films trumfkort i 1910'erne. Vi er berømte og berygtede i hele verden. Filmstjerner som Poul Reumert og Emilie Sannom er udsat for voldsom idoldyrkelse. Forlystelseslivet blomstrer, og det er revyernes storhedstid. Den nye storbyavis B.T. er en stor succes, og de første tegneserier dukker op. I 20'erne kommer Hollywood på banen. Det er kun Fy og Bi, der kan hamle op med konkurrencen fra Chaplin.
-Tilrettelæggelse: Liv Thomsen.</desc>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-  </programme>
-  <programme start="20260428051000 +0000" stop="20260428060000 +0000" channel="dr2.dk">
-    <title>Verdens lækreste spisesteder - Sydwales (6:6)</title>
-    <desc>Britisk madserie fra 2021.
-(Remarkable Places to Eat)
-Sydwales. Forrevne kyster, grønne dale og en af de mest levende madscener i Storbritannien. Restauratør Thomasina Miers tager Fred med til det sydlige Wales. Her udforsker de nogle af de vildeste spisesteder, der byder på lokale produkter i høj kvalitet, walisisk stolthed og varm gæstfrihed ad libitum.</desc>
-    <episode-num system="xmltv_ns">2.5.0</episode-num>
-  </programme>
-  <programme start="20260428060000 +0000" stop="20260428060500 +0000" channel="dr2.dk">
-    <title>Radioavisen</title>
-    <desc>Bliv opdateret på de seneste nyheder fra ind- og udland.</desc>
-  </programme>
-  <programme start="20260428060500 +0000" stop="20260428063000 +0000" channel="dr2.dk">
-    <title>Morgenandagten</title>
-    <desc>Morgenandagten fra Vor Frue Kirke, Københavns Domkirke.</desc>
-    <episode-num system="xmltv_ns">2025.96.0</episode-num>
-  </programme>
-  <programme start="20260428063000 +0000" stop="20260428100000 +0000" channel="dr2.dk">
-    <title>Seneste nyt fra TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260428100000 +0000" stop="20260428151500 +0000" channel="dr2.dk">
-    <title>Seneste nyt fra TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260428151500 +0000" stop="20260428163000 +0000" channel="dr2.dk">
-    <title>Gamle Danmark (4)</title>
-    <desc>Dansk dokumentarserie fra 1984. 1949 -1955. Hans Hedtofts socialdemokratiske mindretalsregering falder til fordel for Erik Eriksens VK-regering. Danmark får en ny grundlov, hvor de tre væsentligste ændringer er - afskaffelse af Landstinget, Grønland bliver ophøjet fra koloni til en del af riget og kvindelig tronfølge. Kvindens stilling i samfundet kommer i søgelyset. 
-Forfatter og fortæller: Paul Hammerich.</desc>
-    <episode-num system="xmltv_ns">0.3.0</episode-num>
-  </programme>
-  <programme start="20260428163000 +0000" stop="20260428170000 +0000" channel="dr2.dk">
-    <title>På sporet af reformationen</title>
-    <desc>Hvad er det, som gør Danmark til Danmark og os danskere til danskere? Spørgsmålet er, om svaret kan findes i religionen. For er vi som danskere og samfund i dag stadig påvirket af Martin Luthers reformation, som begyndte for 500 år siden?</desc>
-  </programme>
-  <programme start="20260428170500 +0000" stop="20260428180000 +0000" channel="dr2.dk">
-    <title>Nazisternes storhed og fald IV (1:3)</title>
-    <desc>BBC-dokumentarserie fra 2023.
-(Rise of the Nazis)
-Efter 2. verdenskrig går nogle af historiens værste krigsforbrydere under jorden. Mange får nyt navn, og de mest eftersøgte flygter til Sydamerika. De allierede indleder en menneskejagt for at opspore dem og finde beviser for deres forbrydelser. I alt bliver 22 ledende nazister anklaget for krigsforbrydelser ved straffedomstolen i Nürnberg. Men ved starten af retssagen nægter de sig alle skyldige. De allieredes anklagere må nu kæmpe for at bevise deres skyld.</desc>
-    <episode-num system="xmltv_ns">3.0.0</episode-num>
-  </programme>
-  <programme start="20260428180000 +0000" stop="20260428190000 +0000" channel="dr2.dk">
-    <title>Store danske kunstnere: L.A. Ring</title>
-    <desc>Fra sin plads på samfundets udkant malede han folket, som de så ud på landet. Med realistisk ærlighed stillede han skarpt på omkostningerne ved de store industrielle og politiske omvæltninger ved indgangen til det 20. århundrede. Den hudløse ægthed i L.A. Rings malerier bragte dansk kunst ind i den moderne verden.</desc>
-    <episode-num system="xmltv_ns">2.1.0</episode-num>
-  </programme>
-  <programme start="20260428190000 +0000" stop="20260428193000 +0000" channel="dr2.dk">
-    <title>Landevejens konger: Byttedyr eller rovdyr</title>
-    <desc>Det umage makkerpar Leif og Kurt satser alt, da DSV vil opkøbe et firma der er seks gange større end dem selv. Kan de holde sammen, når presset stiger? Imens mærker chaufførerne friheden svinde.</desc>
-    <episode-num system="xmltv_ns">0.2.0</episode-num>
-  </programme>
-  <programme start="20260428193000 +0000" stop="20260428200000 +0000" channel="dr2.dk">
-    <title>Uropatruljen - politiets hårde hunde (2:3)</title>
-    <desc>Dansk historieserie fra 2018
-Uropatruljen er en af de mest berømte og berygtede politienheder i dansk politihistorie. Urobetjentene opererede fra 1965-2001 og skulle slå ned på narkohandel, rockere og bz-ere. De patruljerede i de københavnske uroområder i civilt tøj, og de fik ofte kritik for deres kontante og utraditionelle metoder. I dette afsnit står urobetjentene over for en ny type modstandere: Bz-ere og politiske aktivister - og det går ikke stille af.
-Sendt første gang 28.11.18</desc>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-  </programme>
-  <programme start="20260428200000 +0000" stop="20260428201500 +0000" channel="dr2.dk">
-    <title>TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260428201500 +0000" stop="20260428204500 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
-    <episode-num system="xmltv_ns">2025.62.0</episode-num>
-  </programme>
-  <programme start="20260428204500 +0000" stop="20260428213000 +0000" channel="dr2.dk">
-    <title>En ganske særlig familie (4:7) Forkert baby</title>
-    <desc>Norsk dokumentarserie fra 2024.
-(Familien Nerdrum)
-Odd skal udstille i Polen, men til hans store frustration går det ikke helt efter planen. Bork og Jikke passer gården, mens de andre er væk. Aftur indrømmer, at hun elsker tango, så hun og Daniel holder børnefri, har stævnemøde og tager på tangokursus.</desc>
-    <episode-num system="xmltv_ns">0.3.0</episode-num>
-  </programme>
-  <programme start="20260428213000 +0000" stop="20260428220000 +0000" channel="dr2.dk">
-    <title>Moderne Klassikere: New Order - Blue Monday</title>
-    <desc>Det 30 år siden New Order udgav den sang som blev en klassiker på grund af sin lyd - og sin vanvittige historie. Nu mange år senere er New Order et splittet band. Men her fortæller samtlige medlemmer hvordan bandet rejste sig fra en personlig tragedie - sanger Ian Curtis selvmord - og med Blue Monday tog det endelige skridt fra rock til popmusik og lavede en af musikhistoriens mest opmuntrende sange. Sangen er et stilstudie i bandkonflikter, dumheder og hvordan man kan slå salgsrekord og alligevel får underskud. For Blue Monday har et pladecover, der var så dyrt at fremstille at pladen gav underskud.</desc>
-    <episode-num system="xmltv_ns">2.3.0</episode-num>
-  </programme>
-  <programme start="20260428220000 +0000" stop="20260428225000 +0000" channel="dr2.dk">
-    <title>24 timer vi aldrig glemmer: Tjernobyl</title>
-    <desc>Den 28. april 1986 registrerede man forhøjet radioaktivitet ved Risø i Danmark. Fundet udløste straks et omfattende beredskabs- og undersøgelsesarbejde, da man endnu ikke vidste, hvor den farlige stråling stammede fra. Først troede man, det kom fra Sverige, derefter Finland. Men senere samme dag blev det klart, at den forhøjede radioaktivitet skyldtes en ulykke, som var sket to dage tidligere - den 26. april - på det sovjetiske atomkraftværk Tjernobyl.
-Vi følger det døgn da atomulykken blev kendt i Danmark. Set fra danske miljømyndigheders vinkel, fra miljøorganisationerne, fra pressen og fra den helt almindelige dansker, som blev påvirket af verdenshistoriens værste ulykke på et atomkraftværk. 
-Tilrettelæggelse: Jakob Kronborg Heick.</desc>
-    <episode-num system="xmltv_ns">1.4.0</episode-num>
-  </programme>
-  <programme start="20260428225000 +0000" stop="20260428234500 +0000" channel="dr2.dk">
-    <title>Sådan taber man en verdenskrig (1:5) Selv de bedste planer</title>
-    <desc>Fransk dokumentarserie fra 2023.
-(How to Lose a War)
-Hvordan taber man en verdenskrig? Især når den forekommer umulig at tabe. I 1942 så det ud, som om Aksemagterne - Tyskland, Japan og Italien - var tæt på verdensherredømmet. De vandt sejr efter sejr, men få år senere lå deres planer i ruiner. Hvorfor gik det så galt? Var det grundet manglende fælles strategiske mål, dårlig planlægning, lederne eller de vaklende alliancer, der tilsammen forvandlede en tilsyneladende sikker sejr til et knusende nederlag?</desc>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-  </programme>
-  <programme start="20260428234500 +0000" stop="20260429004500 +0000" channel="dr2.dk">
+  <programme start="20260428234000 +0000" stop="20260429004000 +0000" channel="dr2.dk">
     <title>Sverige under 2. Verdenskrig (5:5) 1944-1945</title>
     <desc>Svensk dokumentarserie fra 2025.
 (Sverige och kriget)
 Transittogene stopper med at rulle gennem Sverige. Svenskerne kan ikke længere lukke øjnene for dødslejrene. Tyskland taber ved den ene front efter den anden, men deportationerne af Europas jøder fortsætter. Fra det nordlige Finland kommer titusindvis af mennesker til fods over grænsen til Sverige med deres husdyr, fordi nazisterne trækker sig tilbage og brænder landsbyer og huse ned.</desc>
     <episode-num system="xmltv_ns">0.4.0</episode-num>
   </programme>
-  <programme start="20260429005000 +0000" stop="20260429012000 +0000" channel="dr2.dk">
+  <programme start="20260429004000 +0000" stop="20260429011000 +0000" channel="dr2.dk">
     <title>Rejsen til Slagmarken: Somme</title>
     <desc>I 2016 er det 100 år siden, at to af de største og drabeligste slag blev udkæmpet i 1. verdenskrig. Danmark deltog ikke i krigen, men på trods af det døde der alligevel mange tusinde danske soldater i kamp på begge sider af fronten. I to programmer rejser de to historikere Kåre Johannesen og Cecilie Nielsen i de danske soldaters fodspor og fortæller historien om slagene. I andet program går turen til Somme, det sidste af de to grufulde og voldsomme slag, der begge var fuldstændig afgørende for hvordan 1. verdenskrig endte.</desc>
     <episode-num system="xmltv_ns">0.1.0</episode-num>
   </programme>
-  <programme start="20260429012000 +0000" stop="20260429020000 +0000" channel="dr2.dk">
+  <programme start="20260429011000 +0000" stop="20260429015000 +0000" channel="dr2.dk">
     <title>Jerusalem - Kampen om den hellige by (3:6)</title>
     <desc>Amerikansk dokumentarserie fra 2021.
 (Jerusalem: City of Faith and Fury) 
 Jerusalem, 1187 e.Kr. Byen er nu en hellig stad for verdens tre store religioner: jødedommen, kristendommen og islam. Men jøderne er blevet fordrevet fra Jerusalem og bor i eksil i Europa og Afrika. Under det tredje korstog støder sultan Saladin og den engelske kong Richard Løvehjerte sammen i en episk kamp. Hærene udkæmper slag efter slag, og hærførerne er fast besluttede på at erobre Jerusalem i deres egen guds navn.</desc>
     <episode-num system="xmltv_ns">0.2.0</episode-num>
   </programme>
+  <programme start="20260429015000 +0000" stop="20260429020000 +0000" channel="dr2.dk">
+    <title>Tænkepauser: Omsorg</title>
+    <desc>Kærlighed kan flytte bjerge, men omsorg kan flytte mennesker. Et af vores mest basale behov er nemlig at blive set og hørt og rummet. De omsorgsfulde giver os fast grund under fødderne, selv når vi er trodsige og umedgørlige - hvad enten omsorgen kommer fra fagfolk eller familie. 
+Tag med på landevejen med hjemløse Oscar Larsen og hans hund Aussie.
+En film af Michael Klint efter en bog af Ditte Winther-Lindqvist.</desc>
+    <episode-num system="xmltv_ns">0.9.0</episode-num>
+  </programme>
   <programme start="20260429020000 +0000" stop="20260429023000 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <title>Deadline: Dødsdoula - en ven i døden</title>
+    <desc>I Danmark er vi pludseligt begyndt at tale om "dødsdoulaer". Hollywood-stjerner har været med til at sætte det på dagsordenen, og herhjemme tilbyder flere servicen. Hvad siger det om vores familierelationer og samfund, at det er blevet en profession at håndtere døden?
+Birgitte Agger Mote er Danmarks første dødsdoula, og Sandra Brovall taler med hende om, hvorfor vi som samfund har brug for en dødsdoula.</desc>
     <episode-num system="xmltv_ns">2025.62.0</episode-num>
   </programme>
   <programme start="20260429023000 +0000" stop="20260429030000 +0000" channel="dr2.dk">
@@ -174,7 +40,7 @@ Jerusalem, 1187 e.Kr. Byen er nu en hellig stad for verdens tre store religioner
     <desc>Ulven er løs! Og i de seneste uger har ulve dræbt en pony, en hundehvalp og nær skræmt livet af et vestjysk ægtepar. Er det på tide at gribe til våben? Eller skal vi vænne os til at leve side om side med ulven? Trine Maria Ilsøe tager debatten med Danmarksdemokraterne og Alternativet.</desc>
     <episode-num system="xmltv_ns">2025.61.0</episode-num>
   </programme>
-  <programme start="20260429030000 +0000" stop="20260429033000 +0000" channel="dr2.dk">
+  <programme start="20260429030000 +0000" stop="20260429032500 +0000" channel="dr2.dk">
     <title>Deadline: Dramaet på Marienborg</title>
     <desc>En måned med forhandlinger. Intet resultat. Til gengæld har der i denne uge været lækager, trusler og masser af drama på Marienborg. Derfor spørger Trine Maria Ilsøe i dag: Er vi tættere på et nyvalg end på en ny regering?</desc>
     <episode-num system="xmltv_ns">2025.60.0</episode-num>
@@ -215,10 +81,12 @@ Nu tager "Husker du..." fat på et nyt årti. 1970 - et år hvor ungdommen for a
 Sendt første gang 16.02.05</desc>
     <episode-num system="xmltv_ns">1.0.0</episode-num>
   </programme>
-  <programme start="20260429162500 +0000" stop="20260429164000 +0000" channel="dr2.dk">
-    <title>Troldspejlet: Pokémon for voksne</title>
-    <desc>Da Pokemon blev lanceret for 30 år siden, blev der slået alarm - men det lykkedes heldigvis ikke de voksne at få det forbudt. I dag er det Jakob Stegelmanns påstand, at Pokémon i høj grad er for voksne.</desc>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
+  <programme start="20260429162000 +0000" stop="20260429164000 +0000" channel="dr2.dk">
+    <title>Alt forladt - Civilbunkeren Regan Vest</title>
+    <desc>Dybt inde i Rold Skov i Nordjylland ligger det sted, hvor Kongehuset og den danske regering skulle overleve og styre Danmark, hvis atomkrigen brød ud. De to Urban Explorers Jan Elhøj og Morten Kirckhoff går på opdagelse i de mørke tunneler og forestiller sig livet under jorden efter ragnarok.
+Tilrettelæggelse: Morten Steenstrup
+Sendt første gang 28.01.13</desc>
+    <episode-num system="xmltv_ns">0.2.0</episode-num>
   </programme>
   <programme start="20260429164000 +0000" stop="20260429172000 +0000" channel="dr2.dk">
     <title>Champions League håndbold: Kvartfinale: Sporting CP - Aalborg Håndbold (m), direkte</title>
@@ -286,8 +154,9 @@ Sendt første gang 24.04.11</desc>
     <episode-num system="xmltv_ns">2025.63.0</episode-num>
   </programme>
   <programme start="20260430023000 +0000" stop="20260430030000 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <title>Deadline: Dødsdoula - en ven i døden</title>
+    <desc>I Danmark er vi pludseligt begyndt at tale om "dødsdoulaer". Hollywood-stjerner har været med til at sætte det på dagsordenen, og herhjemme tilbyder flere servicen. Hvad siger det om vores familierelationer og samfund, at det er blevet en profession at håndtere døden?
+Birgitte Agger Mote er Danmarks første dødsdoula, og Sandra Brovall taler med hende om, hvorfor vi som samfund har brug for en dødsdoula.</desc>
     <episode-num system="xmltv_ns">2025.62.0</episode-num>
   </programme>
   <programme start="20260430030000 +0000" stop="20260430033000 +0000" channel="dr2.dk">
@@ -431,8 +300,9 @@ Sendt første gang 04.02.13</desc>
     <episode-num system="xmltv_ns">2025.63.0</episode-num>
   </programme>
   <programme start="20260501030000 +0000" stop="20260501033000 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <title>Deadline: Dødsdoula - en ven i døden</title>
+    <desc>I Danmark er vi pludseligt begyndt at tale om "dødsdoulaer". Hollywood-stjerner har været med til at sætte det på dagsordenen, og herhjemme tilbyder flere servicen. Hvad siger det om vores familierelationer og samfund, at det er blevet en profession at håndtere døden?
+Birgitte Agger Mote er Danmarks første dødsdoula, og Sandra Brovall taler med hende om, hvorfor vi som samfund har brug for en dødsdoula.</desc>
     <episode-num system="xmltv_ns">2025.62.0</episode-num>
   </programme>
   <programme start="20260501040000 +0000" stop="20260501042500 +0000" channel="dr2.dk">
@@ -795,6 +665,7 @@ Sendt første gang 20.12.09</desc>
     <desc>DR Pigekoret synger Ensomhed og Flyv, min fugl.
 Dirigent: Charlotte Rowan. 
 Optaget i Koncerthuset i maj 2024.</desc>
+    <episode-num system="xmltv_ns">0.5.0</episode-num>
   </programme>
   <programme start="20260503180000 +0000" stop="20260503190000 +0000" channel="dr2.dk">
     <title>Den klassiske musikquiz (2:8)</title>
@@ -907,13 +778,13 @@ Tilrettelæggelse: Liv Thomsen.</desc>
 Tilrettelæggelse: Liv Thomsen.</desc>
     <episode-num system="xmltv_ns">0.7.0</episode-num>
   </programme>
-  <programme start="20260504164000 +0000" stop="20260504171000 +0000" channel="dr2.dk">
+  <programme start="20260504163500 +0000" stop="20260504170500 +0000" channel="dr2.dk">
     <title>Kærlighed og kaos i kollektivet (4:5)</title>
     <desc>Tidligt voksen
 I kollektiverne blæste 70`ernes pædagogiske frisind og Mek Pek oplevede en barndom uden grænser, som har givet ham problemer som voksen og gjort det svært selv at opdrage børn. Nadia Kløvedal Reich var meget selvstændig og blev som 14-årig kæreste med en mand på 28 år. Thomas Vinterberg synes han blev styrket af at skulle tage så mange beslutninger så tidligt i livet - men en seksuel debut som 12-årig var dog for meget.</desc>
     <episode-num system="xmltv_ns">0.3.0</episode-num>
   </programme>
-  <programme start="20260504171000 +0000" stop="20260504180000 +0000" channel="dr2.dk">
+  <programme start="20260504170500 +0000" stop="20260504180000 +0000" channel="dr2.dk">
     <title>Fortidens fantastiske ingeniørkunst (1:10) Veje, der ændrede verden</title>
     <desc>Britisk dokumentarserie fra 2021.
 (Ancient Engineering) 
@@ -928,7 +799,7 @@ Emmanuèle haster til hospitalet, da hendes 85-årige far, André, får et slagt
 Medvirkende: Sophie Marceau, André Dussollier, Géraldine Pailhas m.fl.
 Instruktion: François Ozon.</desc>
   </programme>
-  <programme start="20260504195000 +0000" stop="20260504200000 +0000" channel="dr2.dk">
+  <programme start="20260504194500 +0000" stop="20260504200000 +0000" channel="dr2.dk">
     <title>Tænkepauser: Ro</title>
     <desc>Ro er lige så vigtigt for dig som rent vand og ren luft. Men hvor finder du ro i en verden, der buldrer og brager? Tag med på en kvindes spændende rejse i roens univers. Ro er blevet en mangelvare, som vi kan købe os til i den moderne verden. Ro er en tilstand, du kan opsøge, og som du kan bede om at få... Roen ligger ikke kun i stilheden - men kan også ligge i en lyd eller en bevægelse, og den hænger sammen med handlinger og rutiner.
 En film af Rikke Louise Schjødt efter en bog af Iben Have.</desc>
@@ -962,5 +833,138 @@ Kreativ, talentfuld og en enspænder. Edward Hopper var en af USA's største kun
   <programme start="20260504233000 +0000" stop="20260505001500 +0000" channel="dr2.dk">
     <title>Er der en arkitekt til stede?: Ondskabsfuldt P-hus i Nordvest</title>
     <desc>Midt i Københavns Nordvestkvarter har et stort, mørkt parkeringshus rejst sig og ødelagt områdets vibrerende charme og sjæl. Men hvad kan vi overhovedet kræve af bygninger, der bare skal huse biler? Ane Cortzen lægger vejen forbi Nordvest for at finde ud af, om der har været en arkitekt til stede.</desc>
+  </programme>
+  <programme start="20260505001500 +0000" stop="20260505010000 +0000" channel="dr2.dk">
+    <title>Manden i hullet (4:7) Højt at flyve, dybt at grave</title>
+    <desc>Rasmus Bruun er ved at grave sig dybt ned, han søger "diggers high". Men Frederik Cilius advarer ham: Flyver han som Ikaros højere end vingerne kan bære? De to venner læner sig direkte ind i tragedien.</desc>
+    <episode-num system="xmltv_ns">0.3.0</episode-num>
+  </programme>
+  <programme start="20260505010000 +0000" stop="20260505020000 +0000" channel="dr2.dk">
+    <title>Den klassiske musikquiz (1:8)</title>
+    <desc>Hvor svært er det at genkende musik spillet bagfra? Er det overhovedet muligt at bestemme et stykke efter bare en enkelt tone? Og kan man spille orkestermusik på udtjente slagtøjsinstrumenter? Frederik Cilius og Mathias Hammer er holdkaptajnerne, der styrer aftenens to hold gennem udfordringerne. Med sig har de Eva Hess Thaysen, Sara Rosendal, Tuva Semmingsen og Magnus Koch Jensen. DR SymfoniOrkestret og dirigent Henrik Schaefer står for musikken, mens Phillip Faber er den oplagte vært, der forsøger at holde styr på løjerne.</desc>
+    <episode-num system="xmltv_ns">1.0.0</episode-num>
+  </programme>
+  <programme start="20260505020000 +0000" stop="20260505023000 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+  </programme>
+  <programme start="20260505023000 +0000" stop="20260505030000 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+  </programme>
+  <programme start="20260505030000 +0000" stop="20260505033000 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+  </programme>
+  <programme start="20260505033000 +0000" stop="20260505040000 +0000" channel="dr2.dk">
+    <title>Deadline: Dødsdoula - en ven i døden</title>
+    <desc>I Danmark er vi pludseligt begyndt at tale om "dødsdoulaer". Hollywood-stjerner har været med til at sætte det på dagsordenen, og herhjemme tilbyder flere servicen. Hvad siger det om vores familierelationer og samfund, at det er blevet en profession at håndtere døden?
+Birgitte Agger Mote er Danmarks første dødsdoula, og Sandra Brovall taler med hende om, hvorfor vi som samfund har brug for en dødsdoula.</desc>
+    <episode-num system="xmltv_ns">2025.62.0</episode-num>
+  </programme>
+  <programme start="20260505040000 +0000" stop="20260505043000 +0000" channel="dr2.dk">
+    <title>Kærlighed og kaos i kollektivet (3:5)</title>
+    <desc>Mange forældre
+Skafte Herskind flyttede ind i kollektivet Felicia, da han var 3 år og lærte at kalde alle voksne for far og mor. For han var fællesbarn. Det tror han er en del af grunden til at han ikke har noget nært forhold til sin far i dag. Da Maria Fabrin var 11 år valgte hun at blive boende i kollektivet Kana i stedet for at flytte sammen med sin mor for hun ville ikke bo sammen med sin mors nye kæreste. Thomas Vinterberg valgte som teenager også at blive boende i kollektivet, da hans forældre flyttede - kollektivet var blevet hans familie og hans hjem.</desc>
+    <episode-num system="xmltv_ns">0.2.0</episode-num>
+  </programme>
+  <programme start="20260505043000 +0000" stop="20260505051000 +0000" channel="dr2.dk">
+    <title>Alle tiders underholdning (3:8)</title>
+    <desc>Dansk dokumentarserie fra 2002. Sang, solskin og sødme. Vi drømmer om uskyld og tabte tider. Marguerite Viby er hele Danmarks kæledægge. Radioen bliver også hvermandseje. Gunnar Nu og 'Lille henrivende Inge' er danskernes nye helte. Under besættelsen blomstrer opfindsomheden op. Vi driller tyskerne med morgenrevyer, humørviser og alsang. I krigens sidste år sniger der sig mørkere toner ind i underholdningen. Dystre kriminalfilm og uhyggelige historier er populære. 
+Tilrettelæggelse: Liv Thomsen.</desc>
+    <episode-num system="xmltv_ns">0.2.0</episode-num>
+  </programme>
+  <programme start="20260505051000 +0000" stop="20260505060000 +0000" channel="dr2.dk">
+    <title>De gådefulde Nazcalinjer</title>
+    <desc>Amerikansk dokumentar fra 2022.
+(Nazca Desert Mystery)
+En kæmpe abe, en edderkop og en kolibri, der hver især måler mellem 46 og 110 m, indgraveret for tusinder af år siden i den peruvianske ørken. Geoglyfferne er så store, at de bedst ses fra luften - og de blev først genopdaget i 1920'erne. Hvem skabte disse linjer, geometriske former, dyrefigurer og hvorfor? Nu har arkæologer fundet flere hundreder andre skjulte linjer og figurer - og vigtigst af alt: beviser på gamle ritualer.</desc>
+  </programme>
+  <programme start="20260505060000 +0000" stop="20260505060500 +0000" channel="dr2.dk">
+    <title>Radioavisen</title>
+    <desc>Bliv opdateret på de seneste nyheder fra ind- og udland.</desc>
+  </programme>
+  <programme start="20260505060500 +0000" stop="20260505063000 +0000" channel="dr2.dk">
+    <title>Morgenandagten</title>
+    <desc>Morgenandagten fra Vor Frue Kirke, Københavns Domkirke.</desc>
+  </programme>
+  <programme start="20260505063000 +0000" stop="20260505100000 +0000" channel="dr2.dk">
+    <title>Seneste nyt fra TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260505100000 +0000" stop="20260505151500 +0000" channel="dr2.dk">
+    <title>Seneste nyt fra TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260505151500 +0000" stop="20260505164000 +0000" channel="dr2.dk">
+    <title>Gamle Danmark (5)</title>
+    <desc>Dansk dokumentarserie fra 1984. 1953-60. Med H.C. Hansen som statsminister styrer samfundet mod større velfærd. Men regeringen bliver sat på hård prøve, da overenskomstforhandlingerne bryder sammen i 1956. Med kommunistlederen Aksel Larsen i spidsen proklamerer oprørske arbejdere "situationens generalstab" og udløser den første generalstrejke efter krigen.
+Forfatter og fortæller: Paul Hammerich.</desc>
+    <episode-num system="xmltv_ns">0.4.0</episode-num>
+  </programme>
+  <programme start="20260505164000 +0000" stop="20260505171000 +0000" channel="dr2.dk">
+    <title>Besættelsens danske filmkonger (1:2)</title>
+    <desc>I de første år efter Tysklands besættelse af Danmark i 1940 kæmper de danske filmkonger en indædt kamp om nazisternes gunst. Det er gode tider for dansk film og blandt dem der går længst for at få de indbringende kontrakter er direktøren for ASA - film, Henning Karmark. Han melder sig ind i det danske nazistparti og angiver jødiske skuespillere til tyskerne.</desc>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+  </programme>
+  <programme start="20260505171000 +0000" stop="20260505180500 +0000" channel="dr2.dk">
+    <title>Nazisternes storhed og fald IV (2:3)</title>
+    <desc>BBC-dokumentarserie fra 2023.
+(Rise of the Nazis)
+De ledende nazister er blevet henrettet eller fængslet efter retssagerne i Nürnberg. Men da den Kolde Krig eskalerer, stopper Vesten med at eftersøge flere nazister som den brutale Gestapo-chef Klaus Barbie, der begynder et nyt liv i Sydamerika, og Adolf Eichmann, der arrangerede transporten af millioner af jøder til dødslejrene. Han er allerede flygtet fra en allieret interneringslejr og bor nu i skoven i Nordtyskland under falsk identitet.</desc>
+    <episode-num system="xmltv_ns">3.1.0</episode-num>
+  </programme>
+  <programme start="20260505180500 +0000" stop="20260505193000 +0000" channel="dr2.dk">
+    <title>Sitting Bull - Høvding og kriger (1:2)</title>
+    <desc>Britisk dokumentarserie fra 2024.
+(Sitting Bull)
+I 1865 slutter Den Amerikanske Borgerkrig. I tiden derefter strømmer nybyggere og soldater ind på de store sletter, hvor de fordriver eller udrydder de oprindelige folk. Men lakota-folkets leder Sitting Bull organiserer sammen med den frygtindgydende kriger Crazy Horse en hidtil uset modstandsbevægelse for at kæmpe imod den fremrykkende amerikanske hær.</desc>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+  </programme>
+  <programme start="20260505193000 +0000" stop="20260505200000 +0000" channel="dr2.dk">
+    <title>Uropatruljen - politiets hårde hunde (3:3)</title>
+    <desc>Dansk historieserie fra 2018
+Uropatruljen er en af de mest berømte og berygtede politienheder i dansk politihistorie. Urobetjentene opererede fra 1965-2001 og skulle slå ned på narkohandel, rockere og bz-ere. De patruljerede i de københavnske uroområder i civilt tøj, og de fik ofte kritik for deres kontante og utraditionelle metoder. I dette afsnit slår urobetjentene ned på afrikanske narkohandlere, truende rockere og brodne kar i egne rækker - og de ender i gadekrig, hvor de må trække pistoler og skyde mod stenkastende demonstranter.
+Sendt første gang 05.12.18</desc>
+    <episode-num system="xmltv_ns">0.2.0</episode-num>
+  </programme>
+  <programme start="20260505200000 +0000" stop="20260505201500 +0000" channel="dr2.dk">
+    <title>TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260505201500 +0000" stop="20260505204500 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+  </programme>
+  <programme start="20260505204500 +0000" stop="20260505213500 +0000" channel="dr2.dk">
+    <title>En ganske særlig familie (5:7) Kampen for det klassiske</title>
+    <desc>Norsk dokumentarserie fra 2024.
+(Familien Nerdrum)
+Odd søger ind på efterårsudstillingen. Han er spændt på, om han kommer med. Han får også besøg af samtidskunstneren Bjarne Melgaard - de to planlægger en udstilling sammen.  Et spændende møde mellem to af Norges største kunstnere inden for hver sin retning.</desc>
+    <episode-num system="xmltv_ns">0.4.0</episode-num>
+  </programme>
+  <programme start="20260505213500 +0000" stop="20260505220500 +0000" channel="dr2.dk">
+    <title>Moderne Klassikere: (I´ve had) The Time Of My Life</title>
+    <desc>Kærlighedsduetten er uløseligt knyttet til Dirty Dancing. Men vidste du, at Johnny og Baby danser til en anden version under optagelserne? Se historien om hittet, mød 60´er legenden Bill Medley, sangskriverne og kvinden som skrev filmen ingen troede på i 1987.</desc>
+  </programme>
+  <programme start="20260505220500 +0000" stop="20260505225500 +0000" channel="dr2.dk">
+    <title>24 timer vi aldrig glemmer - Mordet på Makrellen</title>
+    <desc>Fredag 25. maj 1984 kl. 10:25 sætter 'Makrellen', der er præsident for rockerklubben Bullshit, sig ind i sit folkevognsrugbrød på Amager. Sekunder senere er han død, mejet ned af en maskeret drabsmand med et maskingevær. Mordet baner vej for rivalerne Hells Angels' totale herredømme over den danske rockerverden. I 24 timer vi aldrig glemmer, fortæller blandt andre politiet og journalist Barbara Gram om den dag, der bliver begyndelsen til enden i 1980ernes danske rockerkrig.
+Tilrettelæggelse: Janus Køster-Rasmussen.
+Sendt første gang 20.12.09</desc>
+  </programme>
+  <programme start="20260505225500 +0000" stop="20260505234500 +0000" channel="dr2.dk">
+    <title>Sådan taber man en verdenskrig (2:5) De mænd, der gav ordrene</title>
+    <desc>Fransk dokumentarserie fra 2023.
+(How to Lose a War)
+Under 2. verdenskrig havde hver af Aksemagterne en individuel styrke, som de tilsammen kunne have vundet krigen med. Men stærk udrustning og selvtillid er ingen garanti for succes. Hitler, Göring, Mussolini og Yamamoto, der gav ordrerne, var kun mennesker. Deres beslutninger var styret af fordomme, magtspil og deres store egoer. De begik kolossale, strategiske fejl, der ødelagde boliger, byer og territorier - og kostede millioner af soldater og civile livet.</desc>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+  </programme>
+  <programme start="20260505234500 +0000" stop="20260506004000 +0000" channel="dr2.dk">
+    <title>Nazisternes storhed og fald IV (1:3)</title>
+    <desc>BBC-dokumentarserie fra 2023.
+(Rise of the Nazis)
+Efter 2. verdenskrig går nogle af historiens værste krigsforbrydere under jorden. Mange får nyt navn, og de mest eftersøgte flygter til Sydamerika. De allierede indleder en menneskejagt for at opspore dem og finde beviser for deres forbrydelser. I alt bliver 22 ledende nazister anklaget for krigsforbrydelser ved straffedomstolen i Nürnberg. Men ved starten af retssagen nægter de sig alle skyldige. De allieredes anklagere må nu kæmpe for at bevise deres skyld.</desc>
+    <episode-num system="xmltv_ns">3.0.0</episode-num>
   </programme>
 </tv>
