@@ -7,10 +7,10 @@ https://play.kringvarp.fo/redirect/kvf/_definst_/smil:kvf.smil?type=m3u8
 https://w-live-edge2.kringvarp.fo/kvf-2/_definst_/smil:kvf-2.smil/chunklist_w336537633_b6000000_slfao.m3u8
 
 #EXTINF:-1 tvg-id="ruv.is" tvg-name="RÚV 1" group-title="Iceland",RÚV 1
-https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl/stream1_.m3u8
+https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8
 
 #EXTINF:-1 tvg-id="ruv2.is" tvg-name="RÚV 2" group-title="Iceland",RÚV 2
-https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index/stream4_.m3u8
+https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8
 
 #EXTINF:-1 tvg-id="dr1.dk" tvg-name="DR1" group-title="Denmark",DR1
 https://drlivedr1hls.akamaized.net/hls/live/2113625/drlivedr1/3.m3u8
