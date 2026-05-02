@@ -3,15 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260501190000 +0000" stop="20260501192000 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
-  <programme start="20260501194000 +0000" stop="20260501200400 +0000" channel="ruv2.is">
-    <title>20 Something (with English subtitles)</title>
-    <sub-title>(3 af 6)</sub-title>
-    <desc>An Icelandic comedy series by Arnór Björnsson, Óli Gunnar Gunnarsson and Vigdís Hafliðadóttir. Three young adults navigate the challenges of their twenties: university life, the job market, ghosts of past relationships and faded childhood dreams. The series features six original songs by the band FLOTT. Starring: Arnór Björnsson, Óli Gunnar Gunnarsson and Vigdís Hafliðadóttir. Director: Kristófer Dignus. Production: Kontent.</desc>
-  </programme>
   <programme start="20260502100000 +0000" stop="20260502160000 +0000" channel="ruv2.is">
     <title>Sindratorfæran</title>
     <desc>Flugbjörgunarsveitin á Hellu heldur Sindratorfæruna sem er fyrsta umferð Íslandsmótsins. Keppt hefur verið á svæðinu síðan 1973 og hefur keppnin ætíð verið ein sú vinsælasta á mótinu enda bíður svæðið upp á allt, brattar brekkur, akstur á vatni og í mýri.</desc>
@@ -61,5 +52,22 @@ Sex listar eru í framboði í Norðurþingi fyrir sveitarstjórnarkosningar í 
   <programme start="20260507190000 +0000" stop="20260507192700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260508180500 +0000" stop="20260508183200 +0000" channel="ruv2.is">
+    <title>X26: Oddvitaumræður</title>
+    <desc>Oddvitar allra framboða í sveitarfélaginu mætast í umræðuþætti.</desc>
+  </programme>
+  <programme start="20260508183000 +0000" stop="20260508185700 +0000" channel="ruv2.is">
+    <title>X26: Oddvitaumræður</title>
+    <desc>Oddvitar allra framboða í sveitarfélaginu mætast í umræðuþætti.</desc>
+  </programme>
+  <programme start="20260508190000 +0000" stop="20260508192700 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260508194500 +0000" stop="20260508201000 +0000" channel="ruv2.is">
+    <title>20 Something (with English subtitles)</title>
+    <sub-title>(4 af 6)</sub-title>
+    <desc>An Icelandic comedy series by Arnór Björnsson, Óli Gunnar Gunnarsson and Vigdís Hafliðadóttir. Three young adults navigate the challenges of their twenties: university life, the job market, ghosts of past relationships and faded childhood dreams. The series features six original songs by the band FLOTT. Starring: Arnór Björnsson, Óli Gunnar Gunnarsson and Vigdís Hafliðadóttir. Director: Kristófer Dignus. Production: Kontent.</desc>
   </programme>
 </tv>

@@ -3,42 +3,6 @@
   <channel id="kvf.fo">
     <display-name>KVF</display-name>
   </channel>
-  <programme start="20260501100000 " stop="20260501150000 " channel="kvf.fo">
-    <title>Gudstænasta úr Havnar kirkju</title>
-    <sub-title>- Anne Mette Greve Klemensen, prestur, prædikar</sub-title>
-  </programme>
-  <programme start="20260501150000 " stop="20260501161000 " channel="kvf.fo">
-    <title>Gudstænasta úr Havnar kirkju</title>
-    <sub-title>- Anne Mette Greve Klemensen, prestur, prædikar</sub-title>
-  </programme>
-  <programme start="20260501161000 " stop="20260501171000 " channel="kvf.fo">
-    <title>Martin - ein superheili hvørvur</title>
-    <sub-title>- donsk dokumentarsending</sub-title>
-    <desc>Martin hevur autismu og er kendur fyri sína stóru vitan um alt frá toktíðum og plátumerkjum. Nú leitar hann eftir einari sjáldsamari Beatles-plátu, og samstundis er lív hansara við at broytast. Eftir tvey ár er TV 2 aftur á vitjan hjá "Samler-Martin". Framleiðsluár: 2026 Framleitt fyri: TV 2 DANMARK</desc>
-  </programme>
-  <programme start="20260501171000 " stop="20260501180000 " channel="kvf.fo">
-    <title>KAKUMIKS II - finalan</title>
-    <sub-title>- føroysk bakikapping til børn og ung (7:7)</sub-title>
-  </programme>
-  <programme start="20260501180000 " stop="20260501181000 " channel="kvf.fo">
-    <title>Andakt</title>
-    <sub-title>- Steintóra Gleðisheygg Joensen, prestur</sub-title>
-  </programme>
-  <programme start="20260501181000 " stop="20260501193500 " channel="kvf.fo">
-    <title>Úr savninum: Stríðsmenn í Havn</title>
-    <sub-title>- føroyskur dokumentarur</sub-title>
-    <desc>Havnar Arbeiðsmannafelag hátíðarhelt 16. januar í 2016 sín 100 ára stovningardag. Í tí sambandi er filmurin "Stríðsmenn í Havn" gjørdur. Hann lýsir stovnanina, livikorini í Havn og hørð stríð á arbeiðsmarknaðinum. Við í filminum eru Helgi Eidesgaard, Erland V. Joensen, Jógvan Arge, Jóanes Nielsen, Johan Norðfoss, Poul Mohr, Jørleif Kúrberg og onnur. Lagt til rættis: Uni Arge og Hans Petur Hansen.</desc>
-  </programme>
-  <programme start="20260501193500 " stop="20260501203000 " channel="kvf.fo">
-    <title>Úr savninum: Áðrenn konsertina</title>
-    <sub-title>- føroysk dokumentar frá 2014</sub-title>
-    <desc>Sendingin er frá 2014 og er um Ólav Hátún, sála, ið  stóð á odda fyri føroyskum kórum í útivið hálva øld. Í 2014 var skeiðið um at enda. Ein konsert var eftir, har Ólavur stjórnaði Havnarkórinum fyri seinastu ferð. Ólavur var útbúgvin lærari, musikkpedagogur og organistur. Í sendingini lítur hann aftur á eitt langt lív við tónleiki, meðan hann fyrireikar síðstu konsertina. Lagt til rættis: Ivan Hentze Niclasen.</desc>
-  </programme>
-  <programme start="20260501203000 " stop="20260502180000 " channel="kvf.fo">
-    <title>Driving Miss Daisy</title>
-    <sub-title>- am. oscarvirðisl. filmur frá 1989</sub-title>
-    <desc>Í 1948 er ríka jødiska suðurstatseinkjan Daisy Wertham vorðin 72 ára gomul, og eftir eitt bilóhapp fáa tey hana til at seta ein bilførara í starv. Bilførarin verður tann svarti Hoke Colburn, ein virðiligur harri, farin um tey seksti. Í fyrstuni er rættiliga kalt teirra millum, men sum árini ganga, og viðurskiftini millum fólkasløgini broytast, mennist eisini eitt forstáilsi millum tey bæði Hoke og Daisy. Leikarar: Daisy Werthan: Jessica Tandy. Hoke Colburn: Morgan Freeman. Boolie Werthan: Dan Aykroyd. Leikstjórn: Bruce Beresford.</desc>
-  </programme>
   <programme start="20260502180000 " stop="20260502184500 " channel="kvf.fo">
     <title>Raskast í Noregi 10:10</title>
     <sub-title>- norsk kappingarrøð frá 2025</sub-title>
@@ -273,7 +237,48 @@
     <title>Dagur og vika</title>
     <sub-title>- við teksti</sub-title>
   </programme>
-  <programme start="20260507212500 " stop="20260507222500 " channel="kvf.fo">
+  <programme start="20260507212500 " stop="20260508170000 " channel="kvf.fo">
+    <title>Veðrið</title>
+  </programme>
+  <programme start="20260508170000 " stop="20260508173000 " channel="kvf.fo">
+    <title>Mumi 1</title>
+    <sub-title>- vár í Mumidalinum</sub-title>
+    <desc>Teknirøð við føroyskari talu til smábørn.</desc>
+  </programme>
+  <programme start="20260508173000 " stop="20260508180000 " channel="kvf.fo">
+    <title>MORSA 1:12</title>
+    <sub-title>- føroysk barnarøð</sub-title>
+    <desc>Í nýggju barnarøðini Morsa fer Elisabeth á Bakka at vísa ymiska hárseting. Og vit vísa nýggju bretsku barnarøðina Katie Morag, sum BBC hevur gjørt. Vertur: Jákup Wardum. Upptøka: Bjørg Mohr Andersen. Klipt: Bjørg Mohr Andersen og Sólfríð Maria í Rók. Lagt til rættis: Elin á Rógvi.</desc>
+  </programme>
+  <programme start="20260508180000 " stop="20260508182500 " channel="kvf.fo">
+    <title>Dagur og vika</title>
+  </programme>
+  <programme start="20260508182500 " stop="20260508183000 " channel="kvf.fo">
+    <title>Veðrið</title>
+  </programme>
+  <programme start="20260508183000 " stop="20260508184000 " channel="kvf.fo">
+    <title>$elfie</title>
+    <sub-title>- misery, føroyskt skemt (8:8)</sub-title>
+    <desc>Pauli vaknar upp á einum ókendum staði og skilir skjótt, at hann ikki er fríur at fara?</desc>
+  </programme>
+  <programme start="20260508184000 " stop="20260508192000 " channel="kvf.fo">
+    <title>Gekkur</title>
+  </programme>
+  <programme start="20260508192000 " stop="20260508201500 " channel="kvf.fo">
+    <title>Popptoppurin</title>
+    <sub-title>- Tina Dickow, donsk tónleikasending, (4:6)</sub-title>
+    <desc>Við sínum meira enn 25 árum í bransjuni hevur Tina Dickow eitt imponerandi sangkatalog, og stór yvirraskilsir bíða henni, tá hon verður møtt við nýggjum tulkingum av sínum sangum, sum minna hana á upp- og niðurtúrarnar í karrieruni. Sesong: 14 Partur: 4 Ár: 2026 Framleitt fyri: TV 2 DANMARK</desc>
+  </programme>
+  <programme start="20260508201500 " stop="20260508222000 " channel="kvf.fo">
+    <title>Moonfall</title>
+    <sub-title>- amr. ræðufilmur frá 2022</sub-title>
+    <desc>Ein gátufør kraft kastar mánan úr ringrás og sendir hann á samanstoytskós beint móti jørðini. Nú eru bara nakrar fáar vikur, til jørðin er oyðiløgd, men NASA-leiðarin, fyrrverandi rúmdarfarin Jo Fowler (Halle Berry), hevur eitt hugskot um, hvussu heimurin kann bjargast. Hon fer saman við rúmdarfaranum Brian Harper (Patrick Wilson) og konspiratiónsteoretikaranum K.C. Houseman (John Bradley), sum trúgva henni. Tey fara avstað eina vónleysa ferð í rúmdina. Kunnu tey bjarga heiminum? Við eru: Jocinda Fowler: Halle Berry, Brian Harper: Patrick Wilson og KC Houseman: John Bradley. Sonny Harper: Charlie Plummer. Michelle: Kelly Yu. Tom Lopez: Michael Pena. Brenda Lopez: Carolina Bartczak. Mosley: Chris Sandiford. Framl.ár:2022 Aldursmark:15</desc>
+  </programme>
+  <programme start="20260508222000 " stop="20260508224500 " channel="kvf.fo">
+    <title>Dagur og vika</title>
+    <sub-title>- við teksti</sub-title>
+  </programme>
+  <programme start="20260508224500 " stop="20260508234500 " channel="kvf.fo">
     <title>Veðrið</title>
   </programme>
 </tv>
