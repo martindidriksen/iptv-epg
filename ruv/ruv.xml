@@ -3,257 +3,72 @@
   <channel id="ruv.is">
     <display-name>RÚV 1</display-name>
   </channel>
-  <programme start="20260502070000 +0000" stop="20260502100000 +0000" channel="ruv.is">
-    <title>KrakkaRÚV</title>
-  </programme>
-  <programme start="20260502070000 +0000" stop="20260502070500 +0000" channel="ruv.is">
-    <title>Smástund II</title>
-    <desc>Smástund hentar vel fyrir þau allra yngstu, í hverjum þætti lærum við orð, liti, tölur og tónlist. Dagskrárgerð: Agnes Wild. Tónlist: Sigrún Harðardóttir.</desc>
-  </programme>
-  <programme start="20260502070500 +0000" stop="20260502071000 +0000" channel="ruv.is">
-    <title>Bursti og bóndabærinn</title>
-    <desc>Bursti elskar dýr og vélar! Í þessari seríu af Bursta fylgjumst við með honum heimsækja sveitina, þar sem kanínur, hænur, geitur, kýr og risastór dráttarvél verða á vegi hans.</desc>
-  </programme>
-  <programme start="20260502071000 +0000" stop="20260502071900 +0000" channel="ruv.is">
-    <title>Ferðalög Trymbils</title>
-    <desc>Trymbill fer á flakk með systkinunum Hildi og Theó, sem eiga það þó til að gleyma honum. Þá hefjast sko ævintýri Trymbils!</desc>
-  </programme>
-  <programme start="20260502071900 +0000" stop="20260502072500 +0000" channel="ruv.is">
-    <title>Fílsi og vélarnar III</title>
-    <desc>Ný sería um fjólubláa fílinn Fílsa sem lærir ýmislegt um allskonar mismunandi vélar.</desc>
-  </programme>
-  <programme start="20260502072500 +0000" stop="20260502073200 +0000" channel="ruv.is">
-    <title>Litla Ló</title>
-    <desc>Litla Ló býr með Kisu, bróður sínum Húgó, foreldrum sínum - og líka álfinum Búa sem býr í holu í veggnum. Búi er algjör töframaður og á hverjum degi býður hann Litlu Ló og Kisu í nýtt ævintýri úti í náttúrunni.</desc>
-  </programme>
-  <programme start="20260502073200 +0000" stop="20260502073700 +0000" channel="ruv.is">
-    <title>Molang VI</title>
-    <desc>Krúttlegir og vinalegir þættir fyrir þau allra yngstu. Molang er búttaður lítill „kanínugrís“. Hún er sérvitur, glaðvær og áhugasöm. Besti vinur hennar er litli hænuunginn Piu Piu. Molang er kóresk teiknimyndapersóna og afskaplega vinsæl í heimalandinu.</desc>
-  </programme>
-  <programme start="20260502073700 +0000" stop="20260502074500 +0000" channel="ruv.is">
-    <title>Leynilundur</title>
-    <desc>Flóra er níu ára og finnur gat í limgerðinu úti í garði. Hún skríður í gegn og er skyndilega stödd í skóginum endalausa – galdraheimi þar sem allt getur gerst. Þar ráfa um skrítnar og stórkostlegar verur. Þær lenda í ýmiss konar vandræðum og enginn getur hjálpað þeim – nema kannski Flóra sjálf?</desc>
-  </programme>
-  <programme start="20260502074500 +0000" stop="20260502075700 +0000" channel="ruv.is">
-    <title>Eysteinn og Salóme</title>
-    <desc>Fallegir teiknimyndaþættir um óvenjulega vináttu bjarnarins Ernests og músarinnar Célestine.</desc>
-  </programme>
-  <programme start="20260502075700 +0000" stop="20260502082000 +0000" channel="ruv.is">
-    <title>Úmísúmí</title>
-    <desc>Stærðfræðiofurhetjurnar Millý, Geó og Bói hjálpa krökkum að læra tölur, form og mynstur.</desc>
-  </programme>
-  <programme start="20260502082000 +0000" stop="20260502083100 +0000" channel="ruv.is">
-    <title>Jójó &amp; amma</title>
-    <desc>Jojo er alveg að verða fimm ára. Hún er svo heppin að búa í nágrenni við ömmu sína. Saman bralla þær ýmislegt</desc>
-  </programme>
-  <programme start="20260502083100 +0000" stop="20260502085400 +0000" channel="ruv.is">
-    <title>Hvolpasveitin</title>
-    <desc>Róbert og hressu hvolparnir í Hvolpasveitinni eru komin aftur og takast á við ný verkefni og nýja þorpara eins og þeim einum er lagið.</desc>
-  </programme>
-  <programme start="20260502085400 +0000" stop="20260502090200 +0000" channel="ruv.is">
-    <title>Sögur snjómannsins</title>
-    <desc>Huggulegir þættir þar sem snjómaðurinn les úr sínum uppáhaldsbókum fyrir litlu mýsnar í bókabúðinni.</desc>
-  </programme>
-  <programme start="20260502090200 +0000" stop="20260502092400 +0000" channel="ruv.is">
-    <title>Friðþjófur forvitni</title>
-    <desc>Friðþjófur forvitni er forvitinn og yndislegur api sem getur oft á tíðum verið full ævintýragjarn. Fylgjumst með ævintýrum hans og mannsins með gula hattinn eiganda hans.</desc>
-  </programme>
-  <programme start="20260502092400 +0000" stop="20260502094600 +0000" channel="ruv.is">
-    <title>Sögur úr Andabæ</title>
-    <desc>Teiknimyndaþættir um moldríku öndina Jóakim aðalönd, seinheppna frænda hans, Andrés önd, og félaga þeirra í Andabæ.</desc>
-  </programme>
-  <programme start="20260502094600 +0000" stop="20260502095800 +0000" channel="ruv.is">
-    <title>Töfratú</title>
-    <desc>Töfratú er fantasíuland dásamlegra álfa og hafmeyja þar sem raunveruleg viðfangsefni á borð við systkinaerjur, sanngirni og sjálfstraust eru könnuð nánar.</desc>
-  </programme>
-  <programme start="20260502095800 +0000" stop="20260502095900 +0000" channel="ruv.is">
-    <title>Jasmín &amp; Jómbi - Tónverksmiðjan II</title>
-    <desc>Jasmín og Jómbi eru góðir vinir sem elska tónlist og njóta tónanna sem óma um Hljómbæ.</desc>
-  </programme>
-  <programme start="20260502100000 +0000" stop="20260502102500 +0000" channel="ruv.is">
-    <title>Ævar vísindamaður IV</title>
-    <desc>Edduverðlaunaþættir frá 2016 úr smiðju Ævars vísindamanns. Sem fyrr kannar Ævar furðulega og spennandi hluti úr heimi vísindanna. Hann fer meðal annars í svaðilför til Surtseyjar og rannsaka stærstu tilraun í heimi. Stórskemmtilegir þættir fyrir alla fjölskylduna. Dagskrárgerð: Gunnar B. Gudmundsson og Ævar Þór Benediktsson.
-
-Í þættinum setjum við frumefnin undir smásjána. Vísindamaður dagsins bjó til lotukerfið, við skoðum hvað gerist ef allt súrefni á jörðinni hyrfi í fimm sekúndur og svo ætlar Ævar að skoða vísindin á bak við köfun.</desc>
-  </programme>
-  <programme start="20260502102500 +0000" stop="20260502105200 +0000" channel="ruv.is">
-    <title>Landinn</title>
-    <desc>Þáttur um mannlífið í landinu. Landinn leitar uppi skemmtilegt fólk í bæjum og sveitum og skoðar áhugaverða staði landshorna á milli. Ritstjóri er Gísli Einarsson. Aðrir umsjónarmenn: Edda Sif Pálsdóttir, Þórdís Claessen, Hafsteinn Vilhelmsson, Amanda Guðrún Bjarnadóttir og Andri Freyr Viðarsson. Dagskrárgerð: Jóhannes Jónsson, Hjalti Stefánsson, Benedikt Nikulás Anes Ketilsson, Björgvin Kolbeinsson og Adelina Antal.
-
-Í Landanum í kvöld hittum við konu sem greindist með krabbamein á meðgöngu, við skoðum fornar mannvistaleifar úr lofti, við hlýðum á seiðandi Gregorssöng og kíkjum á tæknidaga í Neskaupsstað.</desc>
-  </programme>
-  <programme start="20260502105500 +0000" stop="20260502112300 +0000" channel="ruv.is">
-    <title>Norrænir rafstraumar</title>
-    <desc>Heimildarþættir frá 2023 um sögu raftónlistar á Norðurlöndunum. Norræn raftónlist hefur notið vinsælda víðs vegar um heiminn síðan á níunda áratug síðustu aldar og hún hefur átt stóran þátt í að móta senuna. Fjallað er um tónlistarfólk eins og Björk, Röyksopp, Kygo, Aqua og E-Type.</desc>
-  </programme>
-  <programme start="20260502112400 +0000" stop="20260502115300 +0000" channel="ruv.is">
-    <title>Könnuðir líkamans</title>
-    <desc>Sænsk heimildarþáttaröð í fimm hlutum. Á hverjum degi fáum við mismunandi skilaboð um hvað er hollt og hvað ekki, og oftast er erfitt að vita hvað býr að baki niðurstöðunum. Hvernig virka líkamar okkar? Og hvaða áhrif hefur lífsstíll okkar nákvæmlega á heilsuna?</desc>
-  </programme>
-  <programme start="20260502120500 +0000" stop="20260502125900 +0000" channel="ruv.is">
-    <title>Íslendingar</title>
-    <desc>Fjallað er um Íslendinga sem settu svip sinn á íslenskt samfélag um sína daga með margvíslegum hætti. Þættirnir spegla jafnframt sögu þjóðarinnar og samtíð á ýmsum tímum, menningu, listir, stjórnmál og fleira. Þeir eru byggðir á efni úr safni RÚV á nærfellt hálfrar aldar tímabili. Dagskrárgerð: Andrés Indriðason.</desc>
-  </programme>
-  <programme start="20260502130000 +0000" stop="20260502132000 +0000" channel="ruv.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.
-
-Baráttudagur verkalýðsins í skugga óróa á vinnumarkaði</desc>
-  </programme>
-  <programme start="20260502132300 +0000" stop="20260502143100 +0000" channel="ruv.is">
-    <title>Vikan með Gísla Marteini</title>
-    <desc>Gísli Marteinn tekur á móti góðum gestum á föstudagskvöldum í vetur og fer með þeim yfir helstu atburði vikunnar í stjórnmálum, menningu og mannlífi. Persónur og leikendur koma í spjall og brakandi fersk tónlistaratriði koma landsmönnum í helgarstemninguna. Stjórn útsendingar: Ragnar Eyþórsson.</desc>
-  </programme>
-  <programme start="20260502143200 +0000" stop="20260502151500 +0000" channel="ruv.is">
-    <title>Fiskur á disk</title>
-    <desc>Færeyskir þættir sem sýna ferlið frá því að fiskur er veiddur og þar til hann er fluttur frá Færeyjum til þess staðar þar sem hann er matreiddur.</desc>
-  </programme>
-  <programme start="20260502151700 +0000" stop="20260502160300 +0000" channel="ruv.is">
-    <title>Sofðu vel</title>
-    <desc>Sænskir heimildarþættir frá 2023 þar sem svefnsérfræðingurinn Christian Benedict aðstoðar fjóra einstaklinga sem öll glíma við mismunandi svefnvandamál.</desc>
-  </programme>
-  <programme start="20260502160300 +0000" stop="20260502163100 +0000" channel="ruv.is">
-    <title>Ráðgátan um Óðin</title>
-    <desc>Cecilie Nielsen kynnir sér dularfulla og drungalega fortíð Óðins, en tengsl guðsins við Danmörk eru ef til vill sterkari en nokkurn hefði grunað.</desc>
-  </programme>
-  <programme start="20260502163200 +0000" stop="20260502170100 +0000" channel="ruv.is">
-    <title>Fjölskyldan í forgrunni</title>
-    <sub-title>(1 af 6)</sub-title>
-    <desc>Breskir gamanþættir frá 2022 um hina óviðjafnanlegu Jessop-fjölskyldu. Daglegt líf þeirra er heldur óreiðukennt og yngsti sonurinn Sam festir það allt á filmu. Aðalhlutverk: Katherine Parkinson, Jim Howick og Freya Parks. Handritshöfundur: Tom Basden.</desc>
-  </programme>
-  <programme start="20260502170200 +0000" stop="20260502173000 +0000" channel="ruv.is">
-    <title>AT 2002-2003</title>
-    <desc>Menningarþættir fyrir ungt fólk frá 2002-2003. Í þáttunum er m.a. fjallað um tónlist og mannlíf, kynntar ýmsar starfsgreinar og fastir liðir eins og dót og vefsíða vikunnar verða á sínum stað.
-
-Umsjón: Sigrún Ósk Kristjánsdóttir og Vilhelm Anton Jónsson.
-
-Dagskrárgerð: Helgi Jóhannesson og Hjördís Unnur Másdóttir.</desc>
-  </programme>
-  <programme start="20260502173000 +0000" stop="20260502182000 +0000" channel="ruv.is">
-    <title>KrakkaRÚV</title>
-  </programme>
-  <programme start="20260502173000 +0000" stop="20260502175100 +0000" channel="ruv.is">
-    <title>Ormhildarsaga</title>
-    <desc>Jöklarnir hafa hopað og allar þjóðsagnaverurnar úr gömlu bókunum eru komnar fram í dagsljósið. Ormhildur og Albert gamli leggja af stað í leiðangur með Guðrúnu og Brynhildi. Þau ætla að fremja galdraseið til að kveða vættirnar aftur inn í jöklana. Allt fer á hliðina þegar Albert er tekinn höndum og hópurinn hrapar í fjallinu. Á ferðalaginu uppgötvar Ormhildur að hún býr yfir leyndum hæfileika og kemst að því að töfraverurnar eru ekki allar þar sem þær eru séðar.
-
-Hópurinn tekst á við Finngálkn og hittir ísbjarnakónginn Björn. Til að vinna upp tíma sem tapaðist í gildrunni í konungsríki nykranna smíða þau fleka til að komast yfir hafið að  Heklu. Misheppnaður ljósagaldur Vakurs veldur fyndinni uppákomu á Árbæjareyju.</desc>
-  </programme>
-  <programme start="20260502175100 +0000" stop="20260502175700 +0000" channel="ruv.is">
-    <title>Eplabær</title>
-    <sub-title>(14 af 20)</sub-title>
-    <desc>Velkomin til Eplabæjar. Eplabær er svo daufur og óspennandi að hann hefur verið tekinn út af landakortum. En ef betur er að gáð fela jafnvel mestu leiðindin í sér ævintýri. Stundum getur ómerkilegasti staðurinn orðið vettvangur stórkostlegra uppátækja – ef ímyndunaraflið fær að ráða.</desc>
-  </programme>
-  <programme start="20260502175700 +0000" stop="20260502180800 +0000" channel="ruv.is">
-    <title>Skrímslasjúkir snillingar</title>
-    <desc>Þegar afi ykkar er búin að þjálfa ykkur sem skrímslaveiðimenn, þá er ekkert annað í stöðunni en að veiða öll skrímslin! Það er þó eitt vandamál, krakkarnir elska skrímslin og vilja helst bara bjarga þeim. Það geta þau gert á meðan afi blundar, eða hvað?</desc>
-  </programme>
-  <programme start="20260502180800 +0000" stop="20260502181900 +0000" channel="ruv.is">
-    <title>Strumparnir II</title>
-    <desc>Þættir um óteljandi ævintýri Strumpanna og Kjartans galdrakarls sem fara hér á kostum í Strumpabæ.</desc>
-  </programme>
-  <programme start="20260502182000 +0000" stop="20260502184400 +0000" channel="ruv.is">
-    <title>Andrar á flandri</title>
-    <desc>Þáttaröð í sex hlutum þar sem nafnarnir og sjónvarpsmennirnir Andri Freyr Viðarsson úr þáttunum Andri á flandri og Andri Freyr Hilmarsson úr Með okkar augum leggja land undir fót og er ferðinni heitið til Bretlandseyja. Þar freista þeir þess að hitta átrúnaðargoð Andra Freys Hilmarssonar, Mr. Bean. Á meðan Andri Freyr Viðarsson reynir að komast í samband við leikarann Rowan Atkinson nota nafnarnir tímann og skoða sig um á Bretlandseyjum.
-
-Nú liggur leið nafnanna til Lundúna og hringurinn um Mr. Bean þrengist. Þeir fylgjast með varðskiptum fyrir utan Buckinghamhöll, villast í neðanjarðarlestarkerfinu, fá sér ís í Hyde Park og fara í alvöru skeggrakstur.</desc>
-  </programme>
-  <programme start="20260502185200 +0000" stop="20260502185500 +0000" channel="ruv.is">
-    <title>Lottó</title>
-    <desc>Lottó-útdráttur vikunnar.</desc>
-  </programme>
-  <programme start="20260502190000 +0000" stop="20260502192000 +0000" channel="ruv.is">
-    <title>Fréttir</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
-  <programme start="20260502192400 +0000" stop="20260502193400 +0000" channel="ruv.is">
-    <title>Íþróttir</title>
-    <desc>Íþróttafréttir.</desc>
-  </programme>
-  <programme start="20260502193500 +0000" stop="20260502194000 +0000" channel="ruv.is">
-    <title>Veður</title>
-    <desc>Veðurfréttir.</desc>
-  </programme>
-  <programme start="20260502194500 +0000" stop="20260502205000 +0000" channel="ruv.is">
-    <title>Góðir Íslendingar</title>
-    <sub-title>(6 af 6)</sub-title>
-    <desc>Hildur Vala Baldursdóttir tekur á móti góðum gestum í nýjum skemmtiþætti þar sem boðið er upp á skemmtiatriði í beinni útsendingu í bland við upptekin atriði og lifandi tónlistarflutning. Tónlistarstjóri: Magnús Jóhann Ragnarsson. Leikstjórn: Allan Sigurðsson, Hannes Þór Arason og Hannes Þór Halldórsson. Framleiðsla: Atlavík. Stjórn útsendingar: Vilhjálmur Siggeirsson.
-
-Íslensk matarmenning blómstrar en það tók langan tíma að komast svo langt. Gestastjórnendur eru Saga Garðarsdóttir og Sandra Barilli.</desc>
-  </programme>
-  <programme start="20260502210100 +0000" stop="20260502224200 +0000" channel="ruv.is">
-    <title>Faðir brúðarinnar</title>
-    <desc>Bandarísk gamanmynd frá 1991 með Steve Martin og Diane Keaton í hlutverkum hjónanna George og Ninu Banks sem undirbúa brúðkaup elstu dóttur sinnar, Annie. George reynist erfitt að sleppa takinu og sætta sig við að litla stelpan hans sé orðin fullorðin. Leikstjóri: Charles Shyer.</desc>
-  </programme>
-  <programme start="20260502224500 +0000" stop="20260503004900 +0000" channel="ruv.is">
-    <title>Kóngsmenn: Sérsveitin</title>
-    <desc>Bresk njósnamynd frá 2014 í leikstjórn Matthews Vaughn. Colin Firth fer með hlutverk leyniþjónustumanns sem kominn er á eftirlaun og tekur ungan nýliða undir verndarvæng sinn. Aðalhlutverk: Colin Firth, Taron Egerton og Samuel L. Jackson. Myndin er ekki við hæfi barna yngri en 16 ára.</desc>
-  </programme>
   <programme start="20260503070000 +0000" stop="20260503100000 +0000" channel="ruv.is">
     <title>KrakkaRÚV</title>
   </programme>
-  <programme start="20260503070100 +0000" stop="20260503070500 +0000" channel="ruv.is">
+  <programme start="20260503070000 +0000" stop="20260503070400 +0000" channel="ruv.is">
     <title>Smástund I</title>
     <desc>Smástund hentar vel fyrir þau allra yngstu, í hverjum þætti lærum við orð, liti, tölur og tónlist. Dagskrárgerð: Agnes Wild. Tónlist: Sigrún Harðardóttir.</desc>
   </programme>
-  <programme start="20260503070500 +0000" stop="20260503071100 +0000" channel="ruv.is">
+  <programme start="20260503070400 +0000" stop="20260503071100 +0000" channel="ruv.is">
     <title>Fílsi og eldhústækin</title>
     <desc>Fílsi lærir ýmislegt um mismunandi eldhústæki, sem getur svo sannarlega komið sér vel að kunna þegar útbúa skal mat!</desc>
   </programme>
-  <programme start="20260503071200 +0000" stop="20260503071500 +0000" channel="ruv.is">
+  <programme start="20260503071100 +0000" stop="20260503071400 +0000" channel="ruv.is">
     <title>Bursti II</title>
     <desc>Ævintýri Bursta og vina hans. Bursti er forvitinn og þrjóskur broddgöltur sem býr þar sem litlir hlutir eru stórir.</desc>
   </programme>
-  <programme start="20260503071500 +0000" stop="20260503072800 +0000" channel="ruv.is">
+  <programme start="20260503071400 +0000" stop="20260503072800 +0000" channel="ruv.is">
     <title>Andri og Edda II</title>
     <desc>Andri og Edda eru á sama leikskóla og eru bestu vinir. Bæði eiga þau tuskudýr sem lifna við og eiga samleið líkt og eigendur þeirra.</desc>
   </programme>
-  <programme start="20260503072900 +0000" stop="20260503073600 +0000" channel="ruv.is">
+  <programme start="20260503072800 +0000" stop="20260503073500 +0000" channel="ruv.is">
     <title>Fjölskyldufár</title>
     <desc>Gamansamir þættir um strútapabbann Edda og áttburana hans. Eddi strútapabbi er fullkomnunarsinni og reynir að gera allt sem í hans valdi stendur til að vernda áttburana sína. Hann á fullt í fangi með það, enda eru ævintýrin hjá stórri fjölskyldu mörg og ímyndunaraflið mikið.
 
 Eddi strútapabbi er hræddur um að ofur segullinn sem dóttir hans býr til muni laða að sér alla þungu hlutina á heimilinu og valda slysi! Hvernig getur hann stoppað hana?</desc>
   </programme>
-  <programme start="20260503073600 +0000" stop="20260503074100 +0000" channel="ruv.is">
+  <programme start="20260503073500 +0000" stop="20260503074000 +0000" channel="ruv.is">
     <title>Rán - Rún</title>
     <desc>Rán er ung og hress stelpa sem styttir sér stundir með ímynduðu vinkonu sinni. En hún Rún virðist raunverulegri en flestir.</desc>
   </programme>
-  <programme start="20260503074100 +0000" stop="20260503074600 +0000" channel="ruv.is">
+  <programme start="20260503074000 +0000" stop="20260503074500 +0000" channel="ruv.is">
     <title>Molang V</title>
     <desc>Krúttlegir og vinalegir þættir fyrir þau allra yngstu. Molang er búttaður lítill „kanínugrís“. Hún er sérvitur, glaðvær og áhugasöm. Besti vinur hennar er litli hænuunginn Piu Piu. Molang er kóresk teiknimyndapersóna og afskaplega vinsæl í heimalandinu.</desc>
   </programme>
-  <programme start="20260503074600 +0000" stop="20260503075300 +0000" channel="ruv.is">
+  <programme start="20260503074500 +0000" stop="20260503075200 +0000" channel="ruv.is">
     <title>Blæja I</title>
     <desc>Fyrsta þáttaröðin af hinni vinsælu Blæju. Blæja er sex ára hundur sem er stútfull af óstöðvandi gleði. Allir venjulegir hlutir geta orðið ævintýri hjá Blæju og fjölskyldu hennar.</desc>
   </programme>
-  <programme start="20260503075300 +0000" stop="20260503081600 +0000" channel="ruv.is">
+  <programme start="20260503075200 +0000" stop="20260503081500 +0000" channel="ruv.is">
     <title>Kúlugúbbarnir</title>
     <desc>Krúttlegir teiknimyndaþættir um litla hafbúa sem eru saman í bekk og elska að syngja og dansa. Kennarinn þeirra er hress gullfiskur sem kennir þeim ýmislegt um lífið og tilveruna.</desc>
   </programme>
-  <programme start="20260503081600 +0000" stop="20260503082400 +0000" channel="ruv.is">
+  <programme start="20260503081500 +0000" stop="20260503082300 +0000" channel="ruv.is">
     <title>Sögur snjómannsins 4</title>
     <desc>Huggulegir þættir þar sem snjómaðurinn les úr sínum uppáhaldsbókum fyrir litlu mýsnar í bókabúðinni.</desc>
   </programme>
-  <programme start="20260503082400 +0000" stop="20260503083500 +0000" channel="ruv.is">
+  <programme start="20260503082300 +0000" stop="20260503083400 +0000" channel="ruv.is">
     <title>Krílin</title>
     <desc>Leikföngin í Háaloftsbæ lifna við og breyta hversdagslegum hlutum í stórskemmtilegar uppfinningar. Krílin eru nefnilega snillingar í að nota ímyndunaraflið og um leið hvetja börn til þess að skapa og prófa sig áfram.</desc>
   </programme>
-  <programme start="20260503083500 +0000" stop="20260503085600 +0000" channel="ruv.is">
+  <programme start="20260503083400 +0000" stop="20260503085600 +0000" channel="ruv.is">
     <title>Múmínálfarnir I</title>
     <desc>Skemmtilegir þættir um hina ástsælu Múmínálfa Tove Jansson og ævintýri þeirra.</desc>
   </programme>
-  <programme start="20260503085700 +0000" stop="20260503090400 +0000" channel="ruv.is">
+  <programme start="20260503085600 +0000" stop="20260503090300 +0000" channel="ruv.is">
     <title>Jasmín &amp; Jómbi</title>
     <desc>Jasmín og Jómbi eru góðir vinir sem elska tónlist. Saman njóta þau tónanna sem óma um Hljómbæ.</desc>
   </programme>
-  <programme start="20260503090400 +0000" stop="20260503091500 +0000" channel="ruv.is">
+  <programme start="20260503090300 +0000" stop="20260503091400 +0000" channel="ruv.is">
     <title>Strumparnir II</title>
     <desc>Þættir um óteljandi ævintýri Strumpanna og Kjartans galdrakarls sem fara hér á kostum í Strumpabæ.</desc>
   </programme>
-  <programme start="20260503091500 +0000" stop="20260503093800 +0000" channel="ruv.is">
+  <programme start="20260503091400 +0000" stop="20260503093700 +0000" channel="ruv.is">
     <title>Dóta Læknir</title>
     <desc>Líflegir barnaþættir um stúlku sem getur læknað leikföng með hjálp frá uppstoppuðum vinum sínum sem öðlast líf í gegnum töfra hlustunarpípu hennar.</desc>
   </programme>
-  <programme start="20260503093800 +0000" stop="20260503095900 +0000" channel="ruv.is">
+  <programme start="20260503093700 +0000" stop="20260503095900 +0000" channel="ruv.is">
     <title>Ormhildarsaga</title>
     <desc>Jöklarnir hafa hopað og allar þjóðsagnaverurnar úr gömlu bókunum eru komnar fram í dagsljósið. Ormhildur og Albert gamli leggja af stað í leiðangur með Guðrúnu og Brynhildi. Þau ætla að fremja galdraseið til að kveða vættirnar aftur inn í jöklana. Allt fer á hliðina þegar Albert er tekinn höndum og hópurinn hrapar í fjallinu. Á ferðalaginu uppgötvar Ormhildur að hún býr yfir leyndum hæfileika og kemst að því að töfraverurnar eru ekki allar þar sem þær eru séðar.
 
@@ -264,37 +79,39 @@ Hópurinn tekst á við Finngálkn og hittir ísbjarnakónginn Björn. Til að v
     <sub-title>(4 af 6)</sub-title>
     <desc>Heimildarþáttaröð þar sem David Attenborough kannar náttúru og dýralíf á köldustu svæðum jarðar. Þættirnir eru talsettir á íslensku en sýndir með ensku tali á RÚV 2 á sama tíma.</desc>
   </programme>
-  <programme start="20260503105000 +0000" stop="20260503115500 +0000" channel="ruv.is">
+  <programme start="20260503105000 +0000" stop="20260503120000 +0000" channel="ruv.is">
     <title>Góðir Íslendingar</title>
     <sub-title>(6 af 6)</sub-title>
     <desc>Hildur Vala Baldursdóttir tekur á móti góðum gestum í nýjum skemmtiþætti þar sem boðið er upp á skemmtiatriði í beinni útsendingu í bland við upptekin atriði og lifandi tónlistarflutning. Tónlistarstjóri: Magnús Jóhann Ragnarsson. Leikstjórn: Allan Sigurðsson, Hannes Þór Arason og Hannes Þór Halldórsson. Framleiðsla: Atlavík. Stjórn útsendingar: Vilhjálmur Siggeirsson.
 
 Íslensk matarmenning blómstrar en það tók langan tíma að komast svo langt. Gestastjórnendur eru Saga Garðarsdóttir og Sandra Barilli.</desc>
   </programme>
-  <programme start="20260503120500 +0000" stop="20260503125600 +0000" channel="ruv.is">
+  <programme start="20260503121000 +0000" stop="20260503130100 +0000" channel="ruv.is">
     <title>Goðsagnir í tennisheiminum</title>
     <sub-title>(2 af 3)</sub-title>
     <desc>Breskir heimildarþættir frá 2023 um gullaldartíma tennisins þegar tennisgoðsagnirnar Ashe, McEnroe, Borg, King, Navratilova og Evert réðu ríkjum.</desc>
   </programme>
-  <programme start="20260503130000 +0000" stop="20260503132000 +0000" channel="ruv.is">
+  <programme start="20260503130200 +0000" stop="20260503132200 +0000" channel="ruv.is">
     <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.
+
+Píparar missa vinnuna og komast ekki á samning</desc>
   </programme>
-  <programme start="20260503132000 +0000" stop="20260503140300 +0000" channel="ruv.is">
+  <programme start="20260503132300 +0000" stop="20260503140600 +0000" channel="ruv.is">
     <title>Færeyskar krásir</title>
     <desc>Færeyskir matreiðsluþættir þar sem Trándur og Kári elda girnilegar máltíðir.</desc>
   </programme>
-  <programme start="20260503140500 +0000" stop="20260503141500 +0000" channel="ruv.is">
+  <programme start="20260503140700 +0000" stop="20260503141800 +0000" channel="ruv.is">
     <title>Poppkorn - sagan á bak við myndbandið</title>
     <desc>Stuttir þættir þar sem rýnt er í gömul íslensk tónlistarmyndbönd og sagan á bak við þau skoðuð. Dagskrárgerð: Gunnlaugur Jónsson.</desc>
   </programme>
-  <programme start="20260503142000 +0000" stop="20260503163000 +0000" channel="ruv.is">
+  <programme start="20260503141900 +0000" stop="20260503162900 +0000" channel="ruv.is">
     <title>Barcelona - Bayern Munchen</title>
     <desc>Leikir í Meistaradeild kvenna í fótbolta.
 
 Leikur Barcelona og Bayern Munchen í undanúrslitum Meistaradeildar kvenna í fótbolta.</desc>
   </programme>
-  <programme start="20260503163000 +0000" stop="20260503171400 +0000" channel="ruv.is">
+  <programme start="20260503163100 +0000" stop="20260503171500 +0000" channel="ruv.is">
     <title>Kiljan</title>
     <desc>Þáttur sem er löngu orðinn ómissandi í bókmenntaumræðunni í landinu. Egill og bókelskir félagar hans fjalla sem fyrr um forvitnilegar bækur af ýmsum toga og úr öllum áttum. Umsjón: Egill Helgason. Dagskrárgerð: Jón Víðir Hauksson.
 
@@ -306,21 +123,21 @@ Leikur Barcelona og Bayern Munchen í undanúrslitum Meistaradeildar kvenna í f
 
 Kristinn og Janus leggja mikið á sig til að komast í bað upp á hálendi. Þeir villast í þokunni en finna loks rétta leið og ná markmiði sínu. Janus bjargar deginum og fær að launum gómsæta hreindýrapítsu frá Kristni.</desc>
   </programme>
-  <programme start="20260503173000 +0000" stop="20260503182000 +0000" channel="ruv.is">
+  <programme start="20260503173000 +0000" stop="20260503182100 +0000" channel="ruv.is">
     <title>KrakkaRÚV</title>
   </programme>
-  <programme start="20260503173100 +0000" stop="20260503175200 +0000" channel="ruv.is">
+  <programme start="20260503173000 +0000" stop="20260503175100 +0000" channel="ruv.is">
     <title>Stundin okkar - Tökum á loft I</title>
     <sub-title>(3 af 11)</sub-title>
     <desc>Loft hefur svifið um loftin blá frá örófi alda án þess að lenda nokkurn tímann á jörðu. Það kynnist ævintýralegri tilvist mannsbarna í gegnum sjónaukann sinn og endurspeglar sjálft sig í þeim.
 
 Nóra norðurljós hrapar í loftbelginn, Loft kann ekki að taka á móti gestum og Sjón verður afbrýðisöm. Á meðan bíður Áróra eftir norðurljósunum en ekkert gerist.</desc>
   </programme>
-  <programme start="20260503175200 +0000" stop="20260503180000 +0000" channel="ruv.is">
+  <programme start="20260503175100 +0000" stop="20260503180000 +0000" channel="ruv.is">
     <title>Björgunarhundurinn Bessí</title>
     <desc>Anne Dorothea á mjög sérstakan besta vin, björgunarhundinn Bessa!</desc>
   </programme>
-  <programme start="20260503180100 +0000" stop="20260503180900 +0000" channel="ruv.is">
+  <programme start="20260503180000 +0000" stop="20260503180800 +0000" channel="ruv.is">
     <title>Íþróttatími</title>
     <desc>Bolli og Bjalla lýsa hörkuspennandi íþróttakeppni þar sem krakkar keppast við að klára allskonar íþróttaþrautir.
 
@@ -352,13 +169,13 @@ Eyþór Örn Gunnarsson
 
 Aron Leví Arnþórsson</desc>
   </programme>
-  <programme start="20260503180900 +0000" stop="20260503181400 +0000" channel="ruv.is">
+  <programme start="20260503180800 +0000" stop="20260503181300 +0000" channel="ruv.is">
     <title>Stundin rokkar</title>
     <desc>Fjórir krakkar í rokkhljómsveit æfa þekkt íslenskt rokklag og semja eigið lag. Í leiðinni fræðumst við um hljóðfærin í hljómsveitinni og rokktónlistarsöguna.
 
 Krakkarnir í hljómsveitinni æfa lagið Barfly með hljómsveitinni Jeff Who? Auk þess kynnumst við nokkrum af frægustu rokkhljómsveitum tónlistarsögunnar. Hljómsveitarmeðlimir: Elísabet Hauksdóttir, Hjörleifur Daði Oddsson, Onni Máni Sigurðsson og Þorgerður K. Hermundardóttir. Tónlistarstjóri: Sigurður Ingi Einarsson.</desc>
   </programme>
-  <programme start="20260503181400 +0000" stop="20260503181800 +0000" channel="ruv.is">
+  <programme start="20260503181300 +0000" stop="20260503181800 +0000" channel="ruv.is">
     <title>Skrýtna kaffiævintýrið</title>
     <desc>Leiknar stuttmyndir úr smiðju ungra höfunda sem framleiddar voru í tengslum við verkefnið Sögur hjá KrakkaRÚV 2024.
 
@@ -384,14 +201,14 @@ Danshöfundur:
 
 Sandra Ómarsdóttir</desc>
   </programme>
-  <programme start="20260503182000 +0000" stop="20260503184900 +0000" channel="ruv.is">
+  <programme start="20260503182000 +0000" stop="20260503185000 +0000" channel="ruv.is">
     <title>Hljómskálinn</title>
     <sub-title>(5 af 5)</sub-title>
     <desc>Hljómskálinn snýr aftur, fullur langt út úr dyrum af nýjum viðtölum, nýjum andlitum og nýrri íslenskri tónlist. Sigtryggur Baldursson og Una Torfadóttir yfirheyra íslenskt tónlistarfólk og greiningardeildin kryfur bransann til mergjar. Framleiðsla: Stjörnusambandsstöðin.
 
 Við spjöllum við tónlistarfólk sem tengist hafinu á ýmsan hátt. Elst upp við það, eða hreinlega á því. Loks taka óvæntir skipsfélagar, þeir Benni Hemm Hemm og Páll Óskar, nýtt lag saman.</desc>
   </programme>
-  <programme start="20260503185000 +0000" stop="20260503185300 +0000" channel="ruv.is">
+  <programme start="20260503185100 +0000" stop="20260503185400 +0000" channel="ruv.is">
     <title>Lag dagsins</title>
     <desc>Íslensk tónlistarmyndbönd.
 
@@ -413,21 +230,21 @@ Höfundar: Karl O. Runólfsson og Valdimar Hólm Hallstað</desc>
     <title>Veður</title>
     <desc>Veðurfréttir.</desc>
   </programme>
-  <programme start="20260503194500 +0000" stop="20260503201200 +0000" channel="ruv.is">
+  <programme start="20260503194600 +0000" stop="20260503201300 +0000" channel="ruv.is">
     <title>Landinn</title>
     <desc>Þáttur um mannlífið í landinu. Landinn leitar uppi skemmtilegt fólk í bæjum og sveitum og skoðar áhugaverða staði landshorna á milli. Ritstjóri er Gísli Einarsson. Aðrir umsjónarmenn: Edda Sif Pálsdóttir, Þórdís Claessen, Hafsteinn Vilhelmsson, Amanda Guðrún Bjarnadóttir og Andri Freyr Viðarsson. Dagskrárgerð: Jóhannes Jónsson, Hjalti Stefánsson, Benedikt Nikulás Anes Ketilsson, Björgvin Kolbeinsson og Adelina Antal.</desc>
   </programme>
-  <programme start="20260503201500 +0000" stop="20260503210300 +0000" channel="ruv.is">
+  <programme start="20260503201600 +0000" stop="20260503210500 +0000" channel="ruv.is">
     <title>Asía - með íslenskum þul</title>
     <sub-title>(3 af 7)</sub-title>
     <desc>Heimildarþáttaröð þar sem David Attenborough kannar náttúru og dýralíf í Asíu, stærstu heimsálfu jarðar. Þættirnir eru talsettir á íslensku en sýndir með ensku tali á RÚV 2 á sama tíma.</desc>
   </programme>
-  <programme start="20260503211000 +0000" stop="20260503220400 +0000" channel="ruv.is">
+  <programme start="20260503211000 +0000" stop="20260503220500 +0000" channel="ruv.is">
     <title>Carmenrúllur III</title>
     <sub-title>(4 af 9)</sub-title>
     <desc>Þriðja og síðasta þáttaröð þessara sannsögulegu dönsku þátta. Árið er 1968 og þrátt fyrir velgengni carmenrúllanna á heimsvísu er fyrirtækið í fjárhagsvandræðum. Axel þarf að taka stórar ákvarðanir til að bjarga fyrirtækinu, með ófyrirséðum afleiðingum fyrir alla sem standa honum nærri. Aðalhlutverk: Morten Hee Andersen, Maria Rossing, Lars Ranthe og Nicolai Jørgensen. Þættirnir eru ekki við hæfi barna yngri en 12 ára.</desc>
   </programme>
-  <programme start="20260503220500 +0000" stop="20260504000800 +0000" channel="ruv.is">
+  <programme start="20260503220600 +0000" stop="20260504000900 +0000" channel="ruv.is">
     <title>Snertifælni</title>
     <desc>Rúmensk verðlaunamynd frá 2018 í leikstjórn Adinu Pintilie. Myndin er spunaverk þar sem leikstjóri og leikarar skoða nánd og ást frá ýmsum sjónarhornum. Fylgst er með tilfinningalegu ferðalagi Lauru, Tómasar og Christians í gegnum ólínulega frásögn sem er á óljósum mörkum skáldskapar og raunveruleika og veitir einstaka innsýn í líf þeirra. Aðalhlutverk: Laura Benson, Tómas Lemarquis og Christian Bayerlein. Myndin er ekki við hæfi barna yngri en 18 ára.</desc>
   </programme>
@@ -1027,5 +844,209 @@ Diljá fer á djammið. Janus fer á djammið. Teitur fer á djammið.</desc>
   <programme start="20260508234500 +0000" stop="20260509010900 +0000" channel="ruv.is">
     <title>Sálgreinir í Túnis</title>
     <desc>Frönsk-túnisk gamanmynd frá 2019 í leikstjórn Manele Labidi Labbé. Sálgreinirinn Selma snýr aftur til heimabæjar síns í Túnis og opnar sálfræðistofu. Ekki eru allir bæjarbúar sáttir við þetta framtak í fyrstu en smám saman snýst þeim hugur og kúnnahópur hennar stækkar ört. Fljótlega veit Selma öll leyndarmál bæjarins og málin flækjast enn frekar þegar myndarlegur lögreglumaður fer að sýna henni áhuga. Aðalhlutverk: Moncef Ajengui, Amen Arbi og Ramla Ayari.</desc>
+  </programme>
+  <programme start="20260509070000 +0000" stop="20260509095900 +0000" channel="ruv.is">
+    <title>KrakkaRÚV</title>
+  </programme>
+  <programme start="20260509070100 +0000" stop="20260509070600 +0000" channel="ruv.is">
+    <title>Smástund II</title>
+    <desc>Smástund hentar vel fyrir þau allra yngstu, í hverjum þætti lærum við orð, liti, tölur og tónlist. Dagskrárgerð: Agnes Wild. Tónlist: Sigrún Harðardóttir.</desc>
+  </programme>
+  <programme start="20260509070600 +0000" stop="20260509071100 +0000" channel="ruv.is">
+    <title>Bursti og bóndabærinn</title>
+    <desc>Bursti elskar dýr og vélar! Í þessari seríu af Bursta fylgjumst við með honum heimsækja sveitina, þar sem kanínur, hænur, geitur, kýr og risastór dráttarvél verða á vegi hans.</desc>
+  </programme>
+  <programme start="20260509071100 +0000" stop="20260509071800 +0000" channel="ruv.is">
+    <title>Ferðalög Trymbils</title>
+    <desc>Trymbill fer á flakk með systkinunum Hildi og Theó, sem eiga það þó til að gleyma honum. Þá hefjast sko ævintýri Trymbils!</desc>
+  </programme>
+  <programme start="20260509071800 +0000" stop="20260509072400 +0000" channel="ruv.is">
+    <title>Fílsi og vélarnar III</title>
+    <desc>Ný sería um fjólubláa fílinn Fílsa sem lærir ýmislegt um allskonar mismunandi vélar.</desc>
+  </programme>
+  <programme start="20260509072500 +0000" stop="20260509073200 +0000" channel="ruv.is">
+    <title>Litla Ló</title>
+    <desc>Litla Ló býr með Kisu, bróður sínum Húgó, foreldrum sínum - og líka álfinum Búa sem býr í holu í veggnum. Búi er algjör töframaður og á hverjum degi býður hann Litlu Ló og Kisu í nýtt ævintýri úti í náttúrunni.</desc>
+  </programme>
+  <programme start="20260509073200 +0000" stop="20260509073700 +0000" channel="ruv.is">
+    <title>Molang VI</title>
+    <desc>Krúttlegir og vinalegir þættir fyrir þau allra yngstu. Molang er búttaður lítill „kanínugrís“. Hún er sérvitur, glaðvær og áhugasöm. Besti vinur hennar er litli hænuunginn Piu Piu. Molang er kóresk teiknimyndapersóna og afskaplega vinsæl í heimalandinu.</desc>
+  </programme>
+  <programme start="20260509073700 +0000" stop="20260509074400 +0000" channel="ruv.is">
+    <title>Leynilundur</title>
+    <desc>Flóra er níu ára og finnur gat í limgerðinu úti í garði. Hún skríður í gegn og er skyndilega stödd í skóginum endalausa – galdraheimi þar sem allt getur gerst. Þar ráfa um skrítnar og stórkostlegar verur. Þær lenda í ýmiss konar vandræðum og enginn getur hjálpað þeim – nema kannski Flóra sjálf?</desc>
+  </programme>
+  <programme start="20260509074400 +0000" stop="20260509075600 +0000" channel="ruv.is">
+    <title>Eysteinn og Salóme</title>
+    <desc>Fallegir teiknimyndaþættir um óvenjulega vináttu bjarnarins Ernests og músarinnar Célestine.</desc>
+  </programme>
+  <programme start="20260509075600 +0000" stop="20260509081900 +0000" channel="ruv.is">
+    <title>Úmísúmí</title>
+    <desc>Stærðfræðiofurhetjurnar Millý, Geó og Bói hjálpa krökkum að læra tölur, form og mynstur.</desc>
+  </programme>
+  <programme start="20260509081900 +0000" stop="20260509083000 +0000" channel="ruv.is">
+    <title>Jójó &amp; amma</title>
+    <desc>Jojo er alveg að verða fimm ára. Hún er svo heppin að búa í nágrenni við ömmu sína. Saman bralla þær ýmislegt</desc>
+  </programme>
+  <programme start="20260509083100 +0000" stop="20260509085300 +0000" channel="ruv.is">
+    <title>Hvolpasveitin</title>
+    <desc>Róbert og hressu hvolparnir í Hvolpasveitinni eru komin aftur og takast á við ný verkefni og nýja þorpara eins og þeim einum er lagið.</desc>
+  </programme>
+  <programme start="20260509085300 +0000" stop="20260509090100 +0000" channel="ruv.is">
+    <title>Sögur snjómannsins</title>
+    <desc>Huggulegir þættir þar sem snjómaðurinn les úr sínum uppáhaldsbókum fyrir litlu mýsnar í bókabúðinni.</desc>
+  </programme>
+  <programme start="20260509090200 +0000" stop="20260509092400 +0000" channel="ruv.is">
+    <title>Friðþjófur forvitni</title>
+    <desc>Friðþjófur forvitni er forvitinn og yndislegur api sem getur oft á tíðum verið full ævintýragjarn. Fylgjumst með ævintýrum hans og mannsins með gula hattinn eiganda hans.</desc>
+  </programme>
+  <programme start="20260509092500 +0000" stop="20260509094600 +0000" channel="ruv.is">
+    <title>Sögur úr Andabæ</title>
+    <desc>Teiknimyndaþættir um moldríku öndina Jóakim aðalönd, seinheppna frænda hans, Andrés önd, og félaga þeirra í Andabæ.</desc>
+  </programme>
+  <programme start="20260509094700 +0000" stop="20260509095800 +0000" channel="ruv.is">
+    <title>Töfratú</title>
+    <desc>Töfratú er fantasíuland dásamlegra álfa og hafmeyja þar sem raunveruleg viðfangsefni á borð við systkinaerjur, sanngirni og sjálfstraust eru könnuð nánar.</desc>
+  </programme>
+  <programme start="20260509095900 +0000" stop="20260509100000 +0000" channel="ruv.is">
+    <title>Jasmín &amp; Jómbi - Tónverksmiðjan II</title>
+    <desc>Jasmín og Jómbi eru góðir vinir sem elska tónlist og njóta tónanna sem óma um Hljómbæ.</desc>
+  </programme>
+  <programme start="20260509100000 +0000" stop="20260509102600 +0000" channel="ruv.is">
+    <title>Ævar vísindamaður IV</title>
+    <desc>Edduverðlaunaþættir frá 2016 úr smiðju Ævars vísindamanns. Sem fyrr kannar Ævar furðulega og spennandi hluti úr heimi vísindanna. Hann fer meðal annars í svaðilför til Surtseyjar og rannsaka stærstu tilraun í heimi. Stórskemmtilegir þættir fyrir alla fjölskylduna. Dagskrárgerð: Gunnar B. Gudmundsson og Ævar Þór Benediktsson.
+
+Í þessum þætti skoðum við stærðfræði og alls kyns furðuleg stærðfræðidæmi, vísindamaður dagsins er Alan Turing og að lokum ætlum við að reyna að búa til Dauðahafið.</desc>
+  </programme>
+  <programme start="20260509102500 +0000" stop="20260509105200 +0000" channel="ruv.is">
+    <title>Landinn</title>
+    <desc>Þáttur um mannlífið í landinu. Landinn leitar uppi skemmtilegt fólk í bæjum og sveitum og skoðar áhugaverða staði landshorna á milli. Ritstjóri er Gísli Einarsson. Aðrir umsjónarmenn: Edda Sif Pálsdóttir, Þórdís Claessen, Hafsteinn Vilhelmsson, Amanda Guðrún Bjarnadóttir og Andri Freyr Viðarsson. Dagskrárgerð: Jóhannes Jónsson, Hjalti Stefánsson, Benedikt Nikulás Anes Ketilsson, Björgvin Kolbeinsson og Adelina Antal.</desc>
+  </programme>
+  <programme start="20260509105500 +0000" stop="20260509113900 +0000" channel="ruv.is">
+    <title>Sofðu vel</title>
+    <desc>Sænskir heimildarþættir frá 2023 þar sem svefnsérfræðingurinn Christian Benedict aðstoðar fjóra einstaklinga sem öll glíma við mismunandi svefnvandamál.</desc>
+  </programme>
+  <programme start="20260509114000 +0000" stop="20260509120400 +0000" channel="ruv.is">
+    <title>Leiðin á HM</title>
+    <sub-title>(1 af 12)</sub-title>
+    <desc>Þættir sem fjalla um þjóðirnar sem taka þátt á HM karla í fótbolta. Við kynnumst leikmönnum, þjálfurum og þeim þjóðum sem keppa um heimsmeistaratitilinn á þessum stærsta viðburði vinsælustu íþróttagreinar veraldar.</desc>
+  </programme>
+  <programme start="20260509120500 +0000" stop="20260509123200 +0000" channel="ruv.is">
+    <title>X26: Oddvitaumræður</title>
+    <desc>Oddvitar allra framboða í sveitarfélaginu mætast í umræðuþætti.</desc>
+  </programme>
+  <programme start="20260509123000 +0000" stop="20260509125600 +0000" channel="ruv.is">
+    <title>X26: Oddvitaumræður</title>
+    <desc>Oddvitar allra framboða í sveitarfélaginu mætast í umræðuþætti.</desc>
+  </programme>
+  <programme start="20260509130000 +0000" stop="20260509132700 +0000" channel="ruv.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260509133000 +0000" stop="20260509135800 +0000" channel="ruv.is">
+    <title>Könnuðir líkamans</title>
+    <desc>Sænsk heimildarþáttaröð í fimm hlutum. Á hverjum degi fáum við mismunandi skilaboð um hvað er hollt og hvað ekki, og oftast er erfitt að vita hvað býr að baki niðurstöðunum. Hvernig virka líkamar okkar? Og hvaða áhrif hefur lífsstíll okkar nákvæmlega á heilsuna?</desc>
+  </programme>
+  <programme start="20260509140000 +0000" stop="20260509160200 +0000" channel="ruv.is">
+    <title>Söngkeppni Samfés</title>
+    <desc>Bein útsending frá Söngkeppni Samfés í Laugardalshöll.
+
+Stjórn útsendingar: Ragnar Eyþórsson</desc>
+  </programme>
+  <programme start="20260509160500 +0000" stop="20260509161600 +0000" channel="ruv.is">
+    <title>Pabbasoð</title>
+    <desc>Matreiðsluþættir með Kristni Guðmundssyni. Eftir að Kristinn varð pabbi fór hann að elda ofnrétti oftar. Þar sem hann er vanur að fara ótroðnar slóðir eldar hann alla réttina í eldofni sem hann byggði með vinum sínum í Norður-Frakklandi. Dagskrárgerð og framleiðsla: Kristinn Guðmundsson.</desc>
+  </programme>
+  <programme start="20260509162000 +0000" stop="20260509163000 +0000" channel="ruv.is">
+    <title>Áhrif loftslagsbreytinga á náttúru Íslands</title>
+    <desc>Stuttir þættir þar sem rætt er við vísindamenn um hvaða áhrif loftslagsbreytingar geta haft á villta náttúru Íslands. Þættirnir eru unnir í samvinnu við Náttúrufræðistofnun Íslands. Dagskrárgerð: Guðbergur Davíðsson og Konráð Gylfason. Framleiðsla: Ljósop.
+
+Þúsundir dýrategunda berast um heiminn á hverjum degi og flutningur framandi tegunda er önnur helsta ógnin við líffræðilegan fjölbreytileika á heimsvísu á eftir búsvæðaeyðingu. Í þættinum er rætt við vísindamenn um framandi ágengar tegundir sem finnast á Íslandi og áhrif hugsanlegra loftslagsbreytinga á þá þróun.</desc>
+  </programme>
+  <programme start="20260509163000 +0000" stop="20260509170000 +0000" channel="ruv.is">
+    <title>Mótorsport</title>
+    <sub-title>(1 af 9)</sub-title>
+    <desc>Þáttur um Íslandsmótin í rallý, torfæru og ýmsu öðru. Dagskrárgerð: Bragi Þórðarson.</desc>
+  </programme>
+  <programme start="20260509170000 +0000" stop="20260509172800 +0000" channel="ruv.is">
+    <title>AT 2002-2003</title>
+    <desc>Menningarþættir fyrir ungt fólk frá 2002-2003. Í þáttunum er m.a. fjallað um tónlist og mannlíf, kynntar ýmsar starfsgreinar og fastir liðir eins og dót og vefsíða vikunnar verða á sínum stað.
+
+Umsjón: Sigrún Ósk Kristjánsdóttir og Vilhelm Anton Jónsson.
+
+Dagskrárgerð: Helgi Jóhannesson og Hjördís Unnur Másdóttir.</desc>
+  </programme>
+  <programme start="20260509173000 +0000" stop="20260509182000 +0000" channel="ruv.is">
+    <title>KrakkaRÚV</title>
+  </programme>
+  <programme start="20260509173100 +0000" stop="20260509175200 +0000" channel="ruv.is">
+    <title>Ormhildarsaga</title>
+    <desc>Jöklarnir hafa hopað og allar þjóðsagnaverurnar úr gömlu bókunum eru komnar fram í dagsljósið. Ormhildur og Albert gamli leggja af stað í leiðangur með Guðrúnu og Brynhildi. Þau ætla að fremja galdraseið til að kveða vættirnar aftur inn í jöklana. Allt fer á hliðina þegar Albert er tekinn höndum og hópurinn hrapar í fjallinu. Á ferðalaginu uppgötvar Ormhildur að hún býr yfir leyndum hæfileika og kemst að því að töfraverurnar eru ekki allar þar sem þær eru séðar.
+
+Þegar hópurinn mætir hafgýgjunum hefja þau upp raust sína til að verjast álögum. Tilraun Alberts með Töfraflautuna eftir Mozart mistekst. Ormhildur bjargar öllu með því að syngja um sætu öndina sína, Alberti til lítillar gleði. Hallgrímur fylgist með Vakri í gegnum verndargripinn á leiðinni að Galdrahellinum. Álfur vaknar í bústað Björns.</desc>
+  </programme>
+  <programme start="20260509175300 +0000" stop="20260509175800 +0000" channel="ruv.is">
+    <title>Eplabær</title>
+    <sub-title>(16 af 20)</sub-title>
+    <desc>Velkomin til Eplabæjar. Eplabær er svo daufur og óspennandi að hann hefur verið tekinn út af landakortum. En ef betur er að gáð fela jafnvel mestu leiðindin í sér ævintýri. Stundum getur ómerkilegasti staðurinn orðið vettvangur stórkostlegra uppátækja – ef ímyndunaraflið fær að ráða.</desc>
+  </programme>
+  <programme start="20260509175800 +0000" stop="20260509180900 +0000" channel="ruv.is">
+    <title>Skrímslasjúkir snillingar</title>
+    <desc>Þegar afi ykkar er búin að þjálfa ykkur sem skrímslaveiðimenn, þá er ekkert annað í stöðunni en að veiða öll skrímslin! Það er þó eitt vandamál, krakkarnir elska skrímslin og vilja helst bara bjarga þeim. Það geta þau gert á meðan afi blundar, eða hvað?</desc>
+  </programme>
+  <programme start="20260509180900 +0000" stop="20260509182000 +0000" channel="ruv.is">
+    <title>Strumparnir II</title>
+    <desc>Þættir um óteljandi ævintýri Strumpanna og Kjartans galdrakarls sem fara hér á kostum í Strumpabæ.</desc>
+  </programme>
+  <programme start="20260509182000 +0000" stop="20260509184400 +0000" channel="ruv.is">
+    <title>Andrar á flandri</title>
+    <desc>Þáttaröð í sex hlutum þar sem nafnarnir og sjónvarpsmennirnir Andri Freyr Viðarsson úr þáttunum Andri á flandri og Andri Freyr Hilmarsson úr Með okkar augum leggja land undir fót og er ferðinni heitið til Bretlandseyja. Þar freista þeir þess að hitta átrúnaðargoð Andra Freys Hilmarssonar, Mr. Bean. Á meðan Andri Freyr Viðarsson reynir að komast í samband við leikarann Rowan Atkinson nota nafnarnir tímann og skoða sig um á Bretlandseyjum.
+
+Í þessum síðasta þætti þeytast nafnarnir um Lundúnir í örvæntingarfullri leit að Mr. Bean. Þeir versla meðal annars í þungarokksplötubúð, læra ensku útgáfuna af keilu og villast aftur í neðanjarðarlestarkerfinu.</desc>
+  </programme>
+  <programme start="20260509184500 +0000" stop="20260509184800 +0000" channel="ruv.is">
+    <title>Lag dagsins</title>
+    <desc>Íslensk tónlistarmyndbönd.
+
+Lag: Fyrir ofan himinn
+
+Flytjandi: Friðrik Dór Jónsson
+
+Höfundar: Ragnar Zolberg og Baldvin Freyr Þorsteinsson</desc>
+  </programme>
+  <programme start="20260509185200 +0000" stop="20260509185500 +0000" channel="ruv.is">
+    <title>Lottó</title>
+    <desc>Lottó-útdráttur vikunnar.</desc>
+  </programme>
+  <programme start="20260509190000 +0000" stop="20260509192000 +0000" channel="ruv.is">
+    <title>Fréttir</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260509192500 +0000" stop="20260509193500 +0000" channel="ruv.is">
+    <title>Íþróttir</title>
+    <desc>Íþróttafréttir.</desc>
+  </programme>
+  <programme start="20260509193500 +0000" stop="20260509194000 +0000" channel="ruv.is">
+    <title>Veður</title>
+    <desc>Veðurfréttir.</desc>
+  </programme>
+  <programme start="20260509194500 +0000" stop="20260509202000 +0000" channel="ruv.is">
+    <title>Góðir Íslendingar - bestu brotin</title>
+    <desc>Brot af því besta úr skemmtiþættinum Góðir Íslendingar þar sem Hildur Vala Baldursdóttir tekur á móti góðum gestum. Tónlistarstjóri: Magnús Jóhann Ragnarsson. Leikstjórn: Allan Sigurðsson, Hannes Þór Arason og Hannes Þór Halldórsson. Framleiðsla: Atlavík. Stjórn útsendingar: Vilhjálmur Siggeirsson.</desc>
+  </programme>
+  <programme start="20260509202500 +0000" stop="20260509215400 +0000" channel="ruv.is">
+    <title>Félagarnir fimm</title>
+    <sub-title>(1 af 3)</sub-title>
+    <desc>Breskar spennumyndir fyrir alla fjölskylduna um ævintýri fjögurra krakka og hundsins þeirra. Myndirnar eru lauslega byggðar á Fimm-bókunum eftir rithöfundinn Enid Blyton. Aðalhlutverk: Diaana Babnicova, Kit Rakusen, Flora Jacoby Richardson og Elliott Rose.
+
+Georg, Júlli, Jonni og Anna ákveða að rannsaka bölvun sem er sögð hvíla á Fagurey en komast fljótlega að því að þau eru ekki ein á ferð. Leikstjóri: Tim Kirkby.</desc>
+  </programme>
+  <programme start="20260509220000 +0000" stop="20260509234400 +0000" channel="ruv.is">
+    <title>Bomba</title>
+    <desc>Bandarísk kvikmynd frá 2019 byggð á sönnum atburðum. Árið 2016 kærði Gretchen Carlson, fyrrverandi fréttakona bandarísku sjónvarpsstöðvarinnar Fox News, Roger Ailes, stjórnarformann stöðvarinnar, fyrir kynferðislega áreitni. Í kjölfarið steig hópur kvenna fram sem hafði sömu sögu að segja um Ailes. Aðalhlutverk: Charlize Theron, Nicole Kidman og Margot Robbie. Leikstjórn: Jay Roach. Myndin er ekki við hæfi barna yngri en 12 ára.</desc>
+  </programme>
+  <programme start="20260509234500 +0000" stop="20260510011300 +0000" channel="ruv.is">
+    <title>Barnaby ræður gátuna</title>
+    <desc>Bresk sakamálamynd byggð á sögu eftir Caroline Graham þar sem Barnaby lögreglufulltrúi glímir við morðgátur í ensku þorpi. Meðal leikenda eru Neil Dudgeon og Nick Hendrix. Myndin er ekki við hæfi barna yngri en 12 ára.</desc>
   </programme>
 </tv>
