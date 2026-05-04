@@ -3,20 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260503100000 +0000" stop="20260503105000 +0000" channel="ruv2.is">
-    <title>Ísalönd - með ensku tali</title>
-    <sub-title>(4 af 6)</sub-title>
-    <desc>Heimildarþáttaröð þar sem David Attenborough kannar náttúru og dýralíf á köldustu svæðum jarðar.</desc>
-  </programme>
-  <programme start="20260503190000 +0000" stop="20260503192000 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
-  <programme start="20260503201600 +0000" stop="20260503210500 +0000" channel="ruv2.is">
-    <title>Asía - með enskum þul</title>
-    <sub-title>(3 af 7)</sub-title>
-    <desc>Heimildarþáttaröð þar sem David Attenborough kannar náttúru og dýralíf í Asíu, stærstu heimsálfu jarðar.</desc>
-  </programme>
   <programme start="20260504190000 +0000" stop="20260504192700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
@@ -63,6 +49,15 @@ Sex listar eru í framboði í Norðurþingi fyrir sveitarstjórnarkosningar í 
     <desc>An Icelandic comedy series by Arnór Björnsson, Óli Gunnar Gunnarsson and Vigdís Hafliðadóttir. Three young adults navigate the challenges of their twenties: university life, the job market, ghosts of past relationships and faded childhood dreams. The series features six original songs by the band FLOTT. Starring: Arnór Björnsson, Óli Gunnar Gunnarsson and Vigdís Hafliðadóttir. Director: Kristófer Dignus. Production: Kontent.</desc>
   </programme>
   <programme start="20260509190000 +0000" stop="20260509192000 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260510100000 +0000" stop="20260510105000 +0000" channel="ruv2.is">
+    <title>Ísalönd - með ensku tali</title>
+    <sub-title>(5 af 6)</sub-title>
+    <desc>Heimildarþáttaröð þar sem David Attenborough kannar náttúru og dýralíf á köldustu svæðum jarðar.</desc>
+  </programme>
+  <programme start="20260510190000 +0000" stop="20260510192000 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
