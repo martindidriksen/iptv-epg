@@ -3,10 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260504190000 +0000" stop="20260504192700 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20260505190000 +0000" stop="20260505192700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
@@ -33,11 +29,15 @@ Sex listar eru í framboði í Norðurþingi fyrir sveitarstjórnarkosningar í 
   </programme>
   <programme start="20260508180500 +0000" stop="20260508183200 +0000" channel="ruv2.is">
     <title>X26: Oddvitaumræður</title>
-    <desc>Oddvitar allra framboða í sveitarfélaginu mætast í umræðuþætti.</desc>
+    <desc>Oddvitar allra framboða í sveitarfélaginu mætast í umræðuþætti.
+
+Fimm listar eru í framboði í Múlaþingi fyrir sveitarstjórnarkosningar í vor. Oddvitar þeirra mætast í umræðum.  Þátttakendur eru Jónína Brynjólfsdóttir, Framsóknarflokki, Berglind Harpa Svavarsdóttir, Sjálfstæðisflokki, Hólmfríður Rut Einarsdóttir, Austurlistanum og Viðreisn, Lárus Bjarnason, Miðflokki og Ásrún Mjöll Stefánsdóttir, Vinstrihreyfingarinnar-græns framboðs og óháðra.</desc>
   </programme>
   <programme start="20260508183000 +0000" stop="20260508185600 +0000" channel="ruv2.is">
     <title>X26: Oddvitaumræður</title>
-    <desc>Oddvitar allra framboða í sveitarfélaginu mætast í umræðuþætti.</desc>
+    <desc>Oddvitar allra framboða í sveitarfélaginu mætast í umræðuþætti.
+
+Tveir listar eru í framboði í Ölfusi fyrir sveitarstjórnarkosningar í vor. Oddvitar þeirra mætast í umræðum.  Þátttakendur eru Grétar Ingi Erlendsson, Sjálfstæðisflokki, og Gunnsteinn R. Ómarsson, Samfylkingu og félaga.</desc>
   </programme>
   <programme start="20260508190000 +0000" stop="20260508192700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
@@ -58,6 +58,10 @@ Sex listar eru í framboði í Norðurþingi fyrir sveitarstjórnarkosningar í 
     <desc>Heimildarþáttaröð þar sem David Attenborough kannar náttúru og dýralíf á köldustu svæðum jarðar.</desc>
   </programme>
   <programme start="20260510190000 +0000" stop="20260510192000 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260511190000 +0000" stop="20260511192700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
