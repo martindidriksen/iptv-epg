@@ -3,10 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260505190000 +0000" stop="20260505192700 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20260506180500 +0000" stop="20260506183200 +0000" channel="ruv2.is">
     <title>X26: Oddvitaumræður</title>
     <desc>Oddvitar allra framboða í sveitarfélaginu mætast í umræðuþætti.
@@ -62,6 +58,28 @@ Tveir listar eru í framboði í Ölfusi fyrir sveitarstjórnarkosningar í vor.
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
   <programme start="20260511190000 +0000" stop="20260511192700 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260512180500 +0000" stop="20260512183200 +0000" channel="ruv2.is">
+    <title>X26: Oddvitaumræður</title>
+    <desc>Oddvitar allra framboða í sveitarfélaginu mætast í umræðuþætti.
+
+Fjórir listar eru í framboði í Suðurnesjabæ fyrir sveitarstjórnarkosningar í vor. Oddvitar þeirra mætast í umræðum.  Þátttakendur eru Anton Kristinn Guðmundsson, Framsóknarflokki og óháðra, Haukur Andreasson, Sjálfstæðisflokki og óháðra, Daði Bergþórsson, Miðflokki og Svavar Grétarsson, Samfylkingu og óháðra.</desc>
+  </programme>
+  <programme start="20260512183000 +0000" stop="20260512185700 +0000" channel="ruv2.is">
+    <title>X26: Oddvitaumræður</title>
+    <desc>Oddvitar allra framboða í sveitarfélaginu mætast í umræðuþætti.
+
+Fjórir listar eru í framboði í Fjarðabyggð fyrir sveitarstjórnarkosningar í vor. Oddvitar þeirra mætast í umræðum.  Þátttakendur eru Þuríður Lillý Sigurðardóttir, Framsóknarflokki, Ragnar Sigurðsson, Sjálfstæðisflokki, Hrafn Bjarnason, Miðflokki og Stefán Þór Eysteinsson, Samfylkingu og annars félagshyggjufólks.</desc>
+  </programme>
+  <programme start="20260512190000 +0000" stop="20260512211500 +0000" channel="ruv2.is">
+    <title>Eurovision</title>
+    <desc>Eurovision í Vínarborg.
+
+Fyrri undankeppni Eurovision í Vínarborg.</desc>
+  </programme>
+  <programme start="20260512211500 +0000" stop="20260512214200 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>

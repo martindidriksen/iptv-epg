@@ -3,152 +3,14 @@
   <channel id="dr2.dk">
     <display-name>DR2</display-name>
   </channel>
-  <programme start="20260504233000 +0000" stop="20260505001500 +0000" channel="dr2.dk">
-    <title>Er der en arkitekt til stede?: Ondskabsfuldt P-hus i Nordvest</title>
-    <desc>Midt i Københavns Nordvestkvarter har et stort, mørkt parkeringshus rejst sig og ødelagt områdets vibrerende charme og sjæl. Men hvad kan vi overhovedet kræve af bygninger, der bare skal huse biler? Ane Cortzen lægger vejen forbi Nordvest for at finde ud af, om der har været en arkitekt til stede.</desc>
-    <episode-num system="xmltv_ns">4.1.0</episode-num>
-  </programme>
-  <programme start="20260505001500 +0000" stop="20260505010000 +0000" channel="dr2.dk">
-    <title>Manden i hullet (4:7) Højt at flyve, dybt at grave</title>
-    <desc>Rasmus Bruun er ved at grave sig dybt ned, han søger "diggers high". Men Frederik Cilius advarer ham: Flyver han som Ikaros højere end vingerne kan bære? De to venner læner sig direkte ind i tragedien.</desc>
-    <episode-num system="xmltv_ns">0.3.0</episode-num>
-  </programme>
-  <programme start="20260505010000 +0000" stop="20260505020000 +0000" channel="dr2.dk">
-    <title>Den klassiske musikquiz (1:8)</title>
-    <desc>Hvor svært er det at genkende musik spillet bagfra? Er det overhovedet muligt at bestemme et stykke efter bare en enkelt tone? Og kan man spille orkestermusik på udtjente slagtøjsinstrumenter? Frederik Cilius og Mathias Hammer er holdkaptajnerne, der styrer aftenens to hold gennem udfordringerne. Med sig har de Eva Hess Thaysen, Sara Rosendal, Tuva Semmingsen og Magnus Koch Jensen. DR SymfoniOrkestret og dirigent Henrik Schaefer står for musikken, mens Phillip Faber er den oplagte vært, der forsøger at holde styr på løjerne.</desc>
-    <episode-num system="xmltv_ns">1.0.0</episode-num>
-  </programme>
-  <programme start="20260505020000 +0000" stop="20260505023000 +0000" channel="dr2.dk">
-    <title>Deadline: Trump - upopulær som aldrig før</title>
-    <desc>Opbakningen til Donald Trump er lige nu i frit fald. Iran-krig, inflation og intriger - aldrig før har præsidenten været så upopulær i befolkningen. Men, men, men - lyder det ikke som noget, vi har hørt før? Sandra Brovall spørger blandt andre Trumps tidligere kommunikationschef Anthony Scaramucci, om det denne gang rent faktisk er begyndelsen til enden på Trump?</desc>
-    <episode-num system="xmltv_ns">2025.65.0</episode-num>
-  </programme>
-  <programme start="20260505023000 +0000" stop="20260505030000 +0000" channel="dr2.dk">
-    <title>Deadline: Er du ægte dansker?</title>
-    <desc>I flere uger har vi diskuteret danskhed: Handler det om blod eller ånd, om gener, mælk, kultur - eller om noget helt andet. I dag spørger vi en af debatten absolutte hovedpersoner, De Radikales Samira Narwa: Hvad er en ægte dansker?</desc>
-    <episode-num system="xmltv_ns">2025.64.0</episode-num>
-  </programme>
-  <programme start="20260505030000 +0000" stop="20260505033000 +0000" channel="dr2.dk">
-    <title>Deadline: Konspirationsteoriernes tidsalder</title>
-    <desc>Weekendens attentatforsøg på Donald Trump har sat internettet i brand. Næsten før den formodede gerningsmand ved korrespondentmiddagen nåede at få håndjern på, eksploderede nettet i konspirationsteorier. Hvad gør det ved et samfund, når der bliver sat spørgsmålstegn ved alt? Det spørger Trine Maria Ilsøe om i dagens udgave af Deadline.</desc>
-    <episode-num system="xmltv_ns">2025.63.0</episode-num>
-  </programme>
-  <programme start="20260505033000 +0000" stop="20260505040000 +0000" channel="dr2.dk">
-    <title>Deadline: Dødsdoula - en ven i døden</title>
-    <desc>I Danmark er vi pludseligt begyndt at tale om "dødsdoulaer". Hollywood-stjerner har været med til at sætte det på dagsordenen, og herhjemme tilbyder flere servicen. Hvad siger det om vores familierelationer og samfund, at det er blevet en profession at håndtere døden?
-Birgitte Agger Mote er Danmarks første dødsdoula, og Sandra Brovall taler med hende om, hvorfor vi som samfund har brug for en dødsdoula.</desc>
-    <episode-num system="xmltv_ns">2025.62.0</episode-num>
-  </programme>
-  <programme start="20260505040000 +0000" stop="20260505043000 +0000" channel="dr2.dk">
-    <title>Kærlighed og kaos i kollektivet (3:5)</title>
-    <desc>Mange forældre
-Skafte Herskind flyttede ind i kollektivet Felicia, da han var 3 år og lærte at kalde alle voksne for far og mor. For han var fællesbarn. Det tror han er en del af grunden til at han ikke har noget nært forhold til sin far i dag. Da Maria Fabrin var 11 år valgte hun at blive boende i kollektivet Kana i stedet for at flytte sammen med sin mor for hun ville ikke bo sammen med sin mors nye kæreste. Thomas Vinterberg valgte som teenager også at blive boende i kollektivet, da hans forældre flyttede - kollektivet var blevet hans familie og hans hjem.</desc>
-    <episode-num system="xmltv_ns">0.2.0</episode-num>
-  </programme>
-  <programme start="20260505043000 +0000" stop="20260505051000 +0000" channel="dr2.dk">
-    <title>Alle tiders underholdning (3:8)</title>
-    <desc>Dansk dokumentarserie fra 2002. Sang, solskin og sødme. Vi drømmer om uskyld og tabte tider. Marguerite Viby er hele Danmarks kæledægge. Radioen bliver også hvermandseje. Gunnar Nu og 'Lille henrivende Inge' er danskernes nye helte. Under besættelsen blomstrer opfindsomheden op. Vi driller tyskerne med morgenrevyer, humørviser og alsang. I krigens sidste år sniger der sig mørkere toner ind i underholdningen. Dystre kriminalfilm og uhyggelige historier er populære. 
-Tilrettelæggelse: Liv Thomsen.</desc>
-    <episode-num system="xmltv_ns">0.2.0</episode-num>
-  </programme>
-  <programme start="20260505051000 +0000" stop="20260505060000 +0000" channel="dr2.dk">
-    <title>De gådefulde Nazcalinjer</title>
-    <desc>Amerikansk dokumentar fra 2022.
-(Nazca Desert Mystery)
-En kæmpe abe, en edderkop og en kolibri, der hver især måler mellem 46 og 110 m, indgraveret for tusinder af år siden i den peruvianske ørken. Geoglyfferne er så store, at de bedst ses fra luften - og de blev først genopdaget i 1920'erne. Hvem skabte disse linjer, geometriske former, dyrefigurer og hvorfor? Nu har arkæologer fundet flere hundreder andre skjulte linjer og figurer - og vigtigst af alt: beviser på gamle ritualer.</desc>
-  </programme>
-  <programme start="20260505060000 +0000" stop="20260505060500 +0000" channel="dr2.dk">
-    <title>Radioavisen</title>
-    <desc>Bliv opdateret på de seneste nyheder fra ind- og udland.</desc>
-  </programme>
-  <programme start="20260505060500 +0000" stop="20260505063000 +0000" channel="dr2.dk">
-    <title>Morgenandagten</title>
-    <desc>Morgenandagten fra Vor Frue Kirke, Københavns Domkirke.</desc>
-    <episode-num system="xmltv_ns">2025.102.0</episode-num>
-  </programme>
-  <programme start="20260505063000 +0000" stop="20260505100000 +0000" channel="dr2.dk">
-    <title>Seneste nyt fra TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260505100000 +0000" stop="20260505151500 +0000" channel="dr2.dk">
-    <title>Seneste nyt fra TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260505151500 +0000" stop="20260505164000 +0000" channel="dr2.dk">
-    <title>Gamle Danmark (5)</title>
-    <desc>Dansk dokumentarserie fra 1984. 1953-60. Med H.C. Hansen som statsminister styrer samfundet mod større velfærd. Men regeringen bliver sat på hård prøve, da overenskomstforhandlingerne bryder sammen i 1956. Med kommunistlederen Aksel Larsen i spidsen proklamerer oprørske arbejdere "situationens generalstab" og udløser den første generalstrejke efter krigen.
-Forfatter og fortæller: Paul Hammerich.</desc>
-    <episode-num system="xmltv_ns">0.4.0</episode-num>
-  </programme>
-  <programme start="20260505164000 +0000" stop="20260505171000 +0000" channel="dr2.dk">
-    <title>Besættelsens danske filmkonger (1:2)</title>
-    <desc>I de første år efter Tysklands besættelse af Danmark i 1940 kæmper de danske filmkonger en indædt kamp om nazisternes gunst. Det er gode tider for dansk film og blandt dem der går længst for at få de indbringende kontrakter er direktøren for ASA - film, Henning Karmark. Han melder sig ind i det danske nazistparti og angiver jødiske skuespillere til tyskerne.</desc>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-  </programme>
-  <programme start="20260505171000 +0000" stop="20260505180500 +0000" channel="dr2.dk">
-    <title>Nazisternes storhed og fald IV (2:3)</title>
-    <desc>BBC-dokumentarserie fra 2023.
-(Rise of the Nazis)
-De ledende nazister er blevet henrettet eller fængslet efter retssagerne i Nürnberg. Men da den Kolde Krig eskalerer, stopper Vesten med at eftersøge flere nazister som den brutale Gestapo-chef Klaus Barbie, der begynder et nyt liv i Sydamerika, og Adolf Eichmann, der arrangerede transporten af millioner af jøder til dødslejrene. Han er allerede flygtet fra en allieret interneringslejr og bor nu i skoven i Nordtyskland under falsk identitet.</desc>
-    <episode-num system="xmltv_ns">3.1.0</episode-num>
-  </programme>
-  <programme start="20260505180500 +0000" stop="20260505193000 +0000" channel="dr2.dk">
-    <title>Sitting Bull - Høvding og kriger (1:2)</title>
-    <desc>Britisk dokumentarserie fra 2024.
-(Sitting Bull)
-I 1865 slutter Den Amerikanske Borgerkrig. I tiden derefter strømmer nybyggere og soldater ind på de store sletter, hvor de fordriver eller udrydder de oprindelige folk. Men lakota-folkets leder Sitting Bull organiserer sammen med den frygtindgydende kriger Crazy Horse en hidtil uset modstandsbevægelse for at kæmpe imod den fremrykkende amerikanske hær.</desc>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-  </programme>
-  <programme start="20260505193000 +0000" stop="20260505200000 +0000" channel="dr2.dk">
-    <title>Uropatruljen - politiets hårde hunde (3:3)</title>
-    <desc>Dansk historieserie fra 2018
-Uropatruljen er en af de mest berømte og berygtede politienheder i dansk politihistorie. Urobetjentene opererede fra 1965-2001 og skulle slå ned på narkohandel, rockere og bz-ere. De patruljerede i de københavnske uroområder i civilt tøj, og de fik ofte kritik for deres kontante og utraditionelle metoder. I dette afsnit slår urobetjentene ned på afrikanske narkohandlere, truende rockere og brodne kar i egne rækker - og de ender i gadekrig, hvor de må trække pistoler og skyde mod stenkastende demonstranter.
-Sendt første gang 05.12.18</desc>
-    <episode-num system="xmltv_ns">0.2.0</episode-num>
-  </programme>
-  <programme start="20260505200000 +0000" stop="20260505201500 +0000" channel="dr2.dk">
-    <title>TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260505201500 +0000" stop="20260505204500 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
-    <episode-num system="xmltv_ns">2025.66.0</episode-num>
-  </programme>
-  <programme start="20260505204500 +0000" stop="20260505213500 +0000" channel="dr2.dk">
-    <title>En ganske særlig familie (5:7) Kampen for det klassiske</title>
-    <desc>Norsk dokumentarserie fra 2024.
-(Familien Nerdrum)
-Odd søger ind på efterårsudstillingen. Han er spændt på, om han kommer med. Han får også besøg af samtidskunstneren Bjarne Melgaard - de to planlægger en udstilling sammen.  Et spændende møde mellem to af Norges største kunstnere inden for hver sin retning.</desc>
-    <episode-num system="xmltv_ns">0.4.0</episode-num>
-  </programme>
-  <programme start="20260505213500 +0000" stop="20260505220500 +0000" channel="dr2.dk">
-    <title>Moderne Klassikere: (I´ve had) The Time Of My Life</title>
-    <desc>Kærlighedsduetten er uløseligt knyttet til Dirty Dancing. Men vidste du, at Johnny og Baby danser til en anden version under optagelserne? Se historien om hittet, mød 60´er legenden Bill Medley, sangskriverne og kvinden som skrev filmen ingen troede på i 1987.</desc>
-    <episode-num system="xmltv_ns">3.3.0</episode-num>
-  </programme>
-  <programme start="20260505220500 +0000" stop="20260505225500 +0000" channel="dr2.dk">
-    <title>24 timer vi aldrig glemmer - Mordet på Makrellen</title>
-    <desc>Fredag 25. maj 1984 kl. 10:25 sætter 'Makrellen', der er præsident for rockerklubben Bullshit, sig ind i sit folkevognsrugbrød på Amager. Sekunder senere er han død, mejet ned af en maskeret drabsmand med et maskingevær. Mordet baner vej for rivalerne Hells Angels' totale herredømme over den danske rockerverden. I 24 timer vi aldrig glemmer, fortæller blandt andre politiet og journalist Barbara Gram om den dag, der bliver begyndelsen til enden i 1980ernes danske rockerkrig.
-Tilrettelæggelse: Janus Køster-Rasmussen.
-Sendt første gang 20.12.09</desc>
-    <episode-num system="xmltv_ns">0.12.0</episode-num>
-  </programme>
-  <programme start="20260505225500 +0000" stop="20260505234500 +0000" channel="dr2.dk">
-    <title>Sådan taber man en verdenskrig (2:5) De mænd, der gav ordrene</title>
-    <desc>Fransk dokumentarserie fra 2023.
-(How to Lose a War)
-Under 2. verdenskrig havde hver af Aksemagterne en individuel styrke, som de tilsammen kunne have vundet krigen med. Men stærk udrustning og selvtillid er ingen garanti for succes. Hitler, Göring, Mussolini og Yamamoto, der gav ordrerne, var kun mennesker. Deres beslutninger var styret af fordomme, magtspil og deres store egoer. De begik kolossale, strategiske fejl, der ødelagde boliger, byer og territorier - og kostede millioner af soldater og civile livet.</desc>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-  </programme>
-  <programme start="20260505234500 +0000" stop="20260506004000 +0000" channel="dr2.dk">
+  <programme start="20260505234500 +0000" stop="20260506003500 +0000" channel="dr2.dk">
     <title>Nazisternes storhed og fald IV (1:3)</title>
     <desc>BBC-dokumentarserie fra 2023.
 (Rise of the Nazis)
 Efter 2. verdenskrig går nogle af historiens værste krigsforbrydere under jorden. Mange får nyt navn, og de mest eftersøgte flygter til Sydamerika. De allierede indleder en menneskejagt for at opspore dem og finde beviser for deres forbrydelser. I alt bliver 22 ledende nazister anklaget for krigsforbrydelser ved straffedomstolen i Nürnberg. Men ved starten af retssagen nægter de sig alle skyldige. De allieredes anklagere må nu kæmpe for at bevise deres skyld.</desc>
     <episode-num system="xmltv_ns">3.0.0</episode-num>
   </programme>
-  <programme start="20260506004000 +0000" stop="20260506011000 +0000" channel="dr2.dk">
+  <programme start="20260506003500 +0000" stop="20260506011000 +0000" channel="dr2.dk">
     <title>Thulebasen - Kold krig og kærlighed (1:2)</title>
     <desc>Dansk dokumentar fra 2018
 I sommeren 1968 er Axel Nielsen i Blokhus med sin kæreste Grethe. De kører i en hvid MGB sportsvogn med rødt læderindtræk. Det ser forkælet ud. Men det er det ikke. For når Axel ikke holder ferie i Blokhus arbejder han på Thulebasen i det nordligste Grønland. Og et halvt år tidligere var han øjenvidne til et flystyrt, der blev en af de største politiske skandaler i danmarkshistorien. Et flystyrt som Grethe måtte høre om i fjernsynet - mens hun passede deres lille datter alene hjemme i Aalborg.
@@ -169,8 +31,8 @@ Dansk videnskabsserie fra 2020 med de største fysikere i verden.</desc>
     <episode-num system="xmltv_ns">0.1.0</episode-num>
   </programme>
   <programme start="20260506020000 +0000" stop="20260506023000 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <title>Deadline: Ældreoprøret</title>
+    <desc>En lang række bøger, film, teater og fjernsyn tegner lige nu et andet og mere nuanceret billede af, hvad det vil sige at blive gammel i Danmark. Måske står vi lige frem midt i en alders-kulturkamp, hvor det kollektive blik på samfundets ældre forandrer sig. Men til hvad? Christian Bennike får besøg af TV-værten Sofie Linde, den 91-årige modejournalist Lotte Freddie og etnologen Aske Juul Lassen, der forsker i alderens betydning for vores livsforløb.</desc>
     <episode-num system="xmltv_ns">2025.66.0</episode-num>
   </programme>
   <programme start="20260506023000 +0000" stop="20260506030000 +0000" channel="dr2.dk">
@@ -182,6 +44,11 @@ Dansk videnskabsserie fra 2020 med de største fysikere i verden.</desc>
     <title>Deadline: Er du ægte dansker?</title>
     <desc>I flere uger har vi diskuteret danskhed: Handler det om blod eller ånd, om gener, mælk, kultur - eller om noget helt andet. I dag spørger vi en af debatten absolutte hovedpersoner, De Radikales Samira Narwa: Hvad er en ægte dansker?</desc>
     <episode-num system="xmltv_ns">2025.64.0</episode-num>
+  </programme>
+  <programme start="20260506033000 +0000" stop="20260506040000 +0000" channel="dr2.dk">
+    <title>Deadline: Konspirationsteoriernes tidsalder</title>
+    <desc>Weekendens attentatforsøg på Donald Trump har sat internettet i brand. Næsten før den formodede gerningsmand ved korrespondentmiddagen nåede at få håndjern på, eksploderede nettet i konspirationsteorier. Hvad gør det ved et samfund, når der bliver sat spørgsmålstegn ved alt? Det spørger Trine Maria Ilsøe om i dagens udgave af Deadline.</desc>
+    <episode-num system="xmltv_ns">2025.63.0</episode-num>
   </programme>
   <programme start="20260506040000 +0000" stop="20260506050000 +0000" channel="dr2.dk">
     <title>Jane Austen - Født til at skrive (3:3)</title>
@@ -213,8 +80,8 @@ Som 38-årig har Jane Austen udgivet tre romaner: 'Stolthed og fordom', 'Fornuft
     <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
   </programme>
   <programme start="20260506151500 +0000" stop="20260506183000 +0000" channel="dr2.dk">
-    <title>Beredskabskontoret: Er vi egentlig beredte i Danmark?</title>
-    <desc>Det er national beredskabsuge, og derfor åbner vi Beredskabskontoret, så vi sammen kan inspirere hinanden til at få styr på hjemmeberedskabet. Og så sørger vi for gode eksperter i studiet, der kan svare på jeres spørgsmål. Send en sms til 1212 (skriv DRTV før din besked) eller send en mail til Beredskabskontor@dr.dk.</desc>
+    <title>Beredskabskontoret: Stil dit spørgsmål og få styr på hjemmeberedskabet</title>
+    <desc>Beredskabskontoret har stadig åbent i forbindelse med den nationale beredskabsuge. Sammen skal vi inspirere hinanden til at få styr på hjemmeberedskabet. Og så sørger vi for gode eksperter i studiet, der kan svare på jeres spørgsmål. Send en sms til 1212 (skriv DRTV før din besked) eller send en mail til Beredskabskontor@dr.dk.</desc>
     <episode-num system="xmltv_ns">2025.2.0</episode-num>
   </programme>
   <programme start="20260506183000 +0000" stop="20260506192000 +0000" channel="dr2.dk">
@@ -274,19 +141,14 @@ Sendt første gang 28.11.18</desc>
     <episode-num system="xmltv_ns">2025.67.0</episode-num>
   </programme>
   <programme start="20260507023000 +0000" stop="20260507030000 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <title>Deadline: Ældreoprøret</title>
+    <desc>En lang række bøger, film, teater og fjernsyn tegner lige nu et andet og mere nuanceret billede af, hvad det vil sige at blive gammel i Danmark. Måske står vi lige frem midt i en alders-kulturkamp, hvor det kollektive blik på samfundets ældre forandrer sig. Men til hvad? Christian Bennike får besøg af TV-værten Sofie Linde, den 91-årige modejournalist Lotte Freddie og etnologen Aske Juul Lassen, der forsker i alderens betydning for vores livsforløb.</desc>
     <episode-num system="xmltv_ns">2025.66.0</episode-num>
   </programme>
   <programme start="20260507030000 +0000" stop="20260507033000 +0000" channel="dr2.dk">
     <title>Deadline: Trump - upopulær som aldrig før</title>
     <desc>Opbakningen til Donald Trump er lige nu i frit fald. Iran-krig, inflation og intriger - aldrig før har præsidenten været så upopulær i befolkningen. Men, men, men - lyder det ikke som noget, vi har hørt før? Sandra Brovall spørger blandt andre Trumps tidligere kommunikationschef Anthony Scaramucci, om det denne gang rent faktisk er begyndelsen til enden på Trump?</desc>
     <episode-num system="xmltv_ns">2025.65.0</episode-num>
-  </programme>
-  <programme start="20260507033000 +0000" stop="20260507040000 +0000" channel="dr2.dk">
-    <title>Deadline: Er du ægte dansker?</title>
-    <desc>I flere uger har vi diskuteret danskhed: Handler det om blod eller ånd, om gener, mælk, kultur - eller om noget helt andet. I dag spørger vi en af debatten absolutte hovedpersoner, De Radikales Samira Narwa: Hvad er en ægte dansker?</desc>
-    <episode-num system="xmltv_ns">2025.64.0</episode-num>
   </programme>
   <programme start="20260507040000 +0000" stop="20260507043000 +0000" channel="dr2.dk">
     <title>Landevejens konger: Byttedyr eller rovdyr</title>
@@ -429,8 +291,8 @@ Stamford Bridge, London, juni 2004. Den karismatiske portugiser José Mourinho b
     <episode-num system="xmltv_ns">2025.67.0</episode-num>
   </programme>
   <programme start="20260508030000 +0000" stop="20260508033000 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <title>Deadline: Ældreoprøret</title>
+    <desc>En lang række bøger, film, teater og fjernsyn tegner lige nu et andet og mere nuanceret billede af, hvad det vil sige at blive gammel i Danmark. Måske står vi lige frem midt i en alders-kulturkamp, hvor det kollektive blik på samfundets ældre forandrer sig. Men til hvad? Christian Bennike får besøg af TV-værten Sofie Linde, den 91-årige modejournalist Lotte Freddie og etnologen Aske Juul Lassen, der forsker i alderens betydning for vores livsforløb.</desc>
     <episode-num system="xmltv_ns">2025.66.0</episode-num>
   </programme>
   <programme start="20260508033000 +0000" stop="20260508040000 +0000" channel="dr2.dk">
@@ -514,12 +376,10 @@ Sprogprofessoren Alice Howland begynder pludselig at lede efter ordene. Lægens 
 Medvirkende: Julianne Moore, Alec Baldwin, Kristen Stewart m.fl.
 Instruktion: Richard Glatzer og Wash Westmoreland.</desc>
   </programme>
-  <programme start="20260508194000 +0000" stop="20260508200000 +0000" channel="dr2.dk">
-    <title>Alt forladt - Mønsted Kalkgruber</title>
-    <desc>Langt inde i den lukkede del af Mønsted Kalkgruber findes der graffiti, som er over 100 år gammel. Det skal de to Urban Explorers Jan Elhøj og Morten Kirckhoff have et billede af. Et andet sted i Danmark finder de en gammel seismograf, gemt og glemt, men som faktisk har været med til at bestemme, at jorden har en fast kerne.
-Tilrettelæggelse: Morten Steenstrup
-Sendt første gang 11.02.13</desc>
-    <episode-num system="xmltv_ns">0.4.0</episode-num>
+  <programme start="20260508193500 +0000" stop="20260508200000 +0000" channel="dr2.dk">
+    <title>Explainer: Er du klar til katastrofen?</title>
+    <desc>Alexander har overtalt sin familie til at medvirke i et eksperiment. I tre døgn skal de leve i et realistisk katastrofescenarie, hvor de hverken har vand, strøm, internet eller varme. For er vi danskere forberedte nok, hvis katastrofen pludselig rammer?</desc>
+    <episode-num system="xmltv_ns">2023.2.0</episode-num>
   </programme>
   <programme start="20260508200000 +0000" stop="20260508201500 +0000" channel="dr2.dk">
     <title>TVA</title>
@@ -597,6 +457,7 @@ Instruktion: Erik Balling.</desc>
   <programme start="20260509060500 +0000" stop="20260509063000 +0000" channel="dr2.dk">
     <title>Morgenandagten</title>
     <desc>Morgenandagten fra Vor Frue Kirke, Københavns Domkirke.</desc>
+    <episode-num system="xmltv_ns">2025.106.0</episode-num>
   </programme>
   <programme start="20260509063000 +0000" stop="20260509100000 +0000" channel="dr2.dk">
     <title>Seneste nyt fra TVA</title>
@@ -633,7 +494,7 @@ Medvirkende: Søren Østergaard, Torben Zeller, Søren Hauch-Fausbøll, Claus Bu
     <desc>Dansk quizprogram fra 1992. I årstalslegen med klip fra DR's arkiver kan man se interview med den banebrydende hjertekirurg Christiaan Barnard, prinsesse Benediktes bryllup med prins Richard og Café Paradis, der kåres som årets bedste film ved uddelingen af Bodilprisen.</desc>
     <episode-num system="xmltv_ns">0.16.0</episode-num>
   </programme>
-  <programme start="20260509143000 +0000" stop="20260509151500 +0000" channel="dr2.dk">
+  <programme start="20260509143000 +0000" stop="20260509151000 +0000" channel="dr2.dk">
     <title>Mors dag</title>
     <desc>Dansk tv-drama fra 1996. Hvad gør en selvopofrende enlig mor, når hendes eneste søn falder i kløerne på et hunkønsvæsen - der i sin person forener alt det, en mor må hade? Hun forsøger sig med bestikkelse - men striglen dukker op igen. Måske en lejemorder kan skaffe hende af med mareridtet af en svigerdatter?
 Medvirkende: Malene Schwartz, Iben Hjejle, Jacob Weble, Maria Stokholm m.fl.
@@ -654,6 +515,7 @@ Instruktion: Norman Jewison.</desc>
 Jordskredsvalg, Watergate og bilfri søndage er nøgleord i et år, hvor de sure miner dominerer. I 1973 tager man tilværelsen alvorligt, og det er der god grund til.  Nyhedsværten Paula Larrain fortæller desuden om, hvordan hun som lille pige oplevede General Pinochets blodige kup i Chile. I USA bliver Nixon - som den første amerikanske præsident nogensinde - tvunget til at forlade sin post i utide, og herhjemme bliver Mogens Glistrup en af vores mest populære politikere. Men der ER grænser for alvoren. David Bowie spekulerer på, om der er liv på Mars, og Danmarks jetset-par nummer et, Margit og Erik Brandt, viser at der 
 - også i 1973 - er andet i livet end bekymringer og politik. 
 Sendt første gang 09.03.05</desc>
+    <episode-num system="xmltv_ns">1.3.0</episode-num>
   </programme>
   <programme start="20260509180000 +0000" stop="20260509193000 +0000" channel="dr2.dk">
     <title>DR Pigekoret &amp; Den Danske Strygekvartet</title>
@@ -771,6 +633,7 @@ Instruktion: Ken Annakin, Andrew Marton og Bernhard Wicki.</desc>
 Da Brødrene Olsen i 2000 stillede op i det danske Melodi Grand Prix, var der næppe nogen som troede, at de to modne herrer ville blive stjerner i hele Europa med deres sang om kærlighed. Brødrene var store popidoler i begyndelsen af 70´erne, men siden var det gået ned ad bakke med den musikalske anerkendelse. I 24 Timer vi aldrig glemmer, fortæller Jørgen Olsens døtre, Hilda og Keld Heick, og DRs daværende Grand Prix delegationsleder om deres frygt der blev til håb og til sidst forløstes i et brag af en sejr til Brødrene Olsen ved det store tv-show i Stockholm, den dag i år 2000 hvor Brødrene Olsen var bedst i Europa.
 Tilrettelæggelse: Kerstin Freiesleben.
 Sendt første gang 13.12.09</desc>
+    <episode-num system="xmltv_ns">0.7.0</episode-num>
   </programme>
   <programme start="20260510165000 +0000" stop="20260510174500 +0000" channel="dr2.dk">
     <title>Celine Dion - Fra Eurovision til verdensstjerne</title>
@@ -793,6 +656,7 @@ Optaget i Koncerthuset i maj 2024.</desc>
   <programme start="20260510190000 +0000" stop="20260510194500 +0000" channel="dr2.dk">
     <title>Er der en arkitekt til stede?: Herlevs høje skamstøtte</title>
     <desc>Herlevs nye rådhustårn skulle både være byens vartegn og skabe en levende bymidte. Men det er gået galt med den høje tilbygning på Herlev Bymidte Center - hvorfor? Og hvad er der sket med den store trappe, der leder op til rådhuset? Det undersøger Ane Cortzen, når hun spejder efter, om der har været en arkitekt til stede.</desc>
+    <episode-num system="xmltv_ns">4.2.0</episode-num>
   </programme>
   <programme start="20260510194500 +0000" stop="20260510200000 +0000" channel="dr2.dk">
     <title>På skuldrene af Bohr (1:6)</title>
@@ -880,6 +744,7 @@ Sendt første gang 20.12.09</desc>
   <programme start="20260511060500 +0000" stop="20260511063000 +0000" channel="dr2.dk">
     <title>Morgenandagten</title>
     <desc>Morgenandagten fra Vor Frue Kirke, Københavns Domkirke.</desc>
+    <episode-num system="xmltv_ns">2025.107.0</episode-num>
   </programme>
   <programme start="20260511063000 +0000" stop="20260511100000 +0000" channel="dr2.dk">
     <title>Seneste nyt fra TVA</title>
@@ -936,6 +801,7 @@ Sendt første gang 01.05.11</desc>
   <programme start="20260511201500 +0000" stop="20260511204500 +0000" channel="dr2.dk">
     <title>Deadline</title>
     <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <episode-num system="xmltv_ns">2025.69.0</episode-num>
   </programme>
   <programme start="20260511204500 +0000" stop="20260511214000 +0000" channel="dr2.dk">
     <title>Clint Eastwood - Den sidste legende</title>
@@ -959,5 +825,145 @@ Vi tror, vi kender hele historien om den canadiske superstjerne Céline Dion: ba
   <programme start="20260511233000 +0000" stop="20260512001500 +0000" channel="dr2.dk">
     <title>Er der en arkitekt til stede?: Herlevs høje skamstøtte</title>
     <desc>Herlevs nye rådhustårn skulle både være byens vartegn og skabe en levende bymidte. Men det er gået galt med den høje tilbygning på Herlev Bymidte Center - hvorfor? Og hvad er der sket med den store trappe, der leder op til rådhuset? Det undersøger Ane Cortzen, når hun spejder efter, om der har været en arkitekt til stede.</desc>
+    <episode-num system="xmltv_ns">4.2.0</episode-num>
+  </programme>
+  <programme start="20260512001500 +0000" stop="20260512010000 +0000" channel="dr2.dk">
+    <title>Manden i hullet (5:7) Komisk potentiale</title>
+    <desc>Er Rasmus Bruuns hul-graveri ved at udvikle sig til en komedie? Frederik Cilius tilkalder en humor-sagkyndig. Rasmus laver en helt særlig hapser til Frederik, der skal nydes under åben himmel.</desc>
+    <episode-num system="xmltv_ns">0.4.0</episode-num>
+  </programme>
+  <programme start="20260512010000 +0000" stop="20260512020000 +0000" channel="dr2.dk">
+    <title>Den klassiske musikquiz (2:8)</title>
+    <desc>Hvor svært er det at genkende musik spillet bagfra? Er det overhovedet muligt at bestemme et stykke efter bare en enkelt tone? Og kan man spille orkestermusik på plasticrør? Frederik Cilius og Mathias Hammer er holdkaptajnerne, der styrer aftenens to hold gennem udfordringerne. Med sig har de Katrine Gislinge, Klaus Tönshoff, Isabella Hübener og Peter Ettrup Larsen. DR SymfoniOrkestret og dirigent Henrik Schaefer står for musikken, mens Phillip Faber er den oplagte vært, der forsøger at holde styr på løjerne.</desc>
+    <episode-num system="xmltv_ns">1.1.0</episode-num>
+  </programme>
+  <programme start="20260512020000 +0000" stop="20260512023000 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <episode-num system="xmltv_ns">2025.69.0</episode-num>
+  </programme>
+  <programme start="20260512023000 +0000" stop="20260512030000 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <episode-num system="xmltv_ns">2025.68.0</episode-num>
+  </programme>
+  <programme start="20260512030000 +0000" stop="20260512033000 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <episode-num system="xmltv_ns">2025.67.0</episode-num>
+  </programme>
+  <programme start="20260512033000 +0000" stop="20260512040000 +0000" channel="dr2.dk">
+    <title>Deadline: Ældreoprøret</title>
+    <desc>En lang række bøger, film, teater og fjernsyn tegner lige nu et andet og mere nuanceret billede af, hvad det vil sige at blive gammel i Danmark. Måske står vi lige frem midt i en alders-kulturkamp, hvor det kollektive blik på samfundets ældre forandrer sig. Men til hvad? Christian Bennike får besøg af TV-værten Sofie Linde, den 91-årige modejournalist Lotte Freddie og etnologen Aske Juul Lassen, der forsker i alderens betydning for vores livsforløb.</desc>
+    <episode-num system="xmltv_ns">2025.66.0</episode-num>
+  </programme>
+  <programme start="20260512040000 +0000" stop="20260512043000 +0000" channel="dr2.dk">
+    <title>Kærlighed og kaos i kollektivet (4:5)</title>
+    <desc>Tidligt voksen
+I kollektiverne blæste 70`ernes pædagogiske frisind og Mek Pek oplevede en barndom uden grænser, som har givet ham problemer som voksen og gjort det svært selv at opdrage børn. Nadia Kløvedal Reich var meget selvstændig og blev som 14-årig kæreste med en mand på 28 år. Thomas Vinterberg synes han blev styrket af at skulle tage så mange beslutninger så tidligt i livet - men en seksuel debut som 12-årig var dog for meget.</desc>
+    <episode-num system="xmltv_ns">0.3.0</episode-num>
+  </programme>
+  <programme start="20260512043000 +0000" stop="20260512051000 +0000" channel="dr2.dk">
+    <title>Alle tiders underholdning (4:8)</title>
+    <desc>Dansk dokumentarserie fra 2002. Amerikanerne kommer til Danmark. Efter befrielsen invaderes landet af amerikanske film, musik og musicals. Nina og Frederik og Gustav Winckler er inspireret af de amerikanske toner. Poul Reichhardt er til gengæld den store danske operette- og filmhelt. De første tv-apparater dukker op. I 1957 kåres seer nr. 100.000. Samme år skaber et dansk kys opmærksomhed ved det internationale Melodi Grand Prix.
+Tilrettelæggelse: Liv Thomsen.</desc>
+    <episode-num system="xmltv_ns">0.3.0</episode-num>
+  </programme>
+  <programme start="20260512051000 +0000" stop="20260512060000 +0000" channel="dr2.dk">
+    <title>Impressionismens danske fader</title>
+    <desc>Amerikansk dokumentar fra 2022.
+(Pissarro: Father of Impressionism)
+Han betragtes som impressionismens fader. Den dansk-franske maler Camille Pissarro blev født i Vestindien, men kom til Frankrig i en meget ung alder. Her finder han hurtigt ligesindede, der sammen grundlægger selskabet 'De uafhængiges Salon'. Deres første udstilling får navnet: impressionisterne, og i de næste 40 år er Pissarro drivkraften bag den betydningsfulde kunstneriske bevægelse. Her dykker vi ned i den opfindsomme kunstners liv og arbejde.</desc>
+  </programme>
+  <programme start="20260512060000 +0000" stop="20260512060500 +0000" channel="dr2.dk">
+    <title>Radioavisen</title>
+    <desc>Bliv opdateret på de seneste nyheder fra ind- og udland.</desc>
+  </programme>
+  <programme start="20260512060500 +0000" stop="20260512063000 +0000" channel="dr2.dk">
+    <title>Morgenandagten</title>
+    <desc>Morgenandagten fra Vor Frue Kirke, Københavns Domkirke.</desc>
+    <episode-num system="xmltv_ns">2025.108.0</episode-num>
+  </programme>
+  <programme start="20260512063000 +0000" stop="20260512100000 +0000" channel="dr2.dk">
+    <title>Seneste nyt fra TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260512100000 +0000" stop="20260512151500 +0000" channel="dr2.dk">
+    <title>Seneste nyt fra TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260512151500 +0000" stop="20260512164000 +0000" channel="dr2.dk">
+    <title>Gamle Danmark (6)</title>
+    <desc>Dansk dokumentarserie fra 1984. 1956-62. Takket være bedre sociale og sundhedsmæssige vilkår er gruppen af ældre danskere tredoblet i løbet af de sidste 60 år. Folkepensionen bliver indført, men samfundet betragter de ældre som et besværligt element. Mørklægningens store årgange er blevet teenagere med idoler som Otto Brandenburg og Vivi Bak. De unge bliver for første gang objekter for forbrugerreklamen. Samtidig er skolereformer undervejs.
+Fortæller og forfatter: Paul Hammerich.</desc>
+    <episode-num system="xmltv_ns">0.5.0</episode-num>
+  </programme>
+  <programme start="20260512164000 +0000" stop="20260512171000 +0000" channel="dr2.dk">
+    <title>Besættelsens danske filmkonger (2:2)</title>
+    <desc>Under den tyske besættelse af Danmark kæmper de danske filmkonger en indædt kamp om nazisternes gunst. Blandt dem der er gået længst er direktøren for ASA - film, Henning Karmark, der har angivet jødiske skuespillere til tyskerne. Men i 1942 får modstandsbevægelsen øje på filmkongernes samarbejde med tyskerne. Forude venter et retsopgør med filmbranchen.</desc>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+  </programme>
+  <programme start="20260512171000 +0000" stop="20260512180500 +0000" channel="dr2.dk">
+    <title>Nazisternes storhed og fald IV (3:3)</title>
+    <desc>BBC-dokumentarserie fra 2023.
+(Rise of the Nazis)
+I 1960'erne og 70'erne er 2. verdenskrig kun et fjernt minde. Det er over ti år siden, jagten på nazister officielt blev indstillet. Men en håndfuld mennesker er fast besluttet på at få straffet de mange tusind nazister, der stadig er på fri fod. Beate Klarsfeld er en af dem. Hun ved, at den tyske kansler Kurt Kiesinger er tidligere nazist, og beslutter sig for at fortælle verden det ved at slå ham i ansigtet, da han skal holde tale ved sit partis årskonference.</desc>
+    <episode-num system="xmltv_ns">3.2.0</episode-num>
+  </programme>
+  <programme start="20260512180500 +0000" stop="20260512193000 +0000" channel="dr2.dk">
+    <title>Sitting Bull - Høvding og kriger (2:2)</title>
+    <desc>Britisk dokumentarserie fra 2024.
+(Sitting Bull)
+Sitting Bull og Crazy Horse står over for deres største modstander, George Armstrong Custer og det 7. kavaleri, i et af de mest afgørende slag i USA's historie: slaget ved Little Bighorn. Deres legendariske sejr over den amerikanske hær bringer dog ikke krigen til ophør, og de må fortsætte kampen for at bevare lakota-folkets livsform - trods næsten uoverstigelige odds.</desc>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+  </programme>
+  <programme start="20260512193000 +0000" stop="20260512200000 +0000" channel="dr2.dk">
+    <title>Sladderhistorie - Dyneløft på borgen</title>
+    <desc>Var Stauning en større gris end Jens Otto Krag? Hvordan lykkedes det Lars Barfoed at vælge mellem konen og elskerinden? Og hvad er der med Lone Dybkjær, Poul Nyrup Rasmussen og Luciano Pavarotti?</desc>
+    <episode-num system="xmltv_ns">0.3.0</episode-num>
+  </programme>
+  <programme start="20260512200000 +0000" stop="20260512201500 +0000" channel="dr2.dk">
+    <title>TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260512201500 +0000" stop="20260512204500 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <episode-num system="xmltv_ns">2025.70.0</episode-num>
+  </programme>
+  <programme start="20260512204500 +0000" stop="20260512214000 +0000" channel="dr2.dk">
+    <title>En ganske særlig familie (6:7) Jul på gården</title>
+    <desc>Norsk dokumentarserie fra 2024.
+(Familien Nerdrum)
+Odd hader julen, mens Aftur er juledronningen på gården. Turid sætter sig som mål at lave mindst muligt, når hun skal forberede julen. For Öde er juleferien et problem, da ingen arbejder på museet.</desc>
+    <episode-num system="xmltv_ns">0.5.0</episode-num>
+  </programme>
+  <programme start="20260512214000 +0000" stop="20260512221000 +0000" channel="dr2.dk">
+    <title>Moderne klassikere: Hard Knock Life - Jay-Z</title>
+    <desc>Hør historien om hiphop hittet som brød med alle regler og blev en klassiker. Kom med til Brooklyn, New York til kvarteret hvor Jay-Z boede - før han blev en mega-stjerne. Den 39-årige rapper fra New York har haft flere førstepladser på album-hitlisten end selveste Elvis Presley. Men det var en meget speciel sang, som sendte Jay-Z hele vejen til toppen. Nemlig "Hard Knock Life (Ghetto Anthem)" - der bryder alle hiphop regler fordi den indeholder en sampling fra musicalen og filmen "Annie".
+Sendt første gang 20.08.10</desc>
+    <episode-num system="xmltv_ns">0.4.0</episode-num>
+  </programme>
+  <programme start="20260512221000 +0000" stop="20260512230000 +0000" channel="dr2.dk">
+    <title>24 timer vi aldrig glemmer - Brdr. Olsen 2000</title>
+    <desc>Der findes døgn, der gør så stort et indtryk, at de for evigt sidder fast i hukommelsen. Den dag hvor Brødrene Olsen sang 'Smuk som et stjerneskud' til tops i det Internationale Melodi Grand Prix er en af dem.
+Da Brødrene Olsen i 2000 stillede op i det danske Melodi Grand Prix, var der næppe nogen som troede, at de to modne herrer ville blive stjerner i hele Europa med deres sang om kærlighed. Brødrene var store popidoler i begyndelsen af 70´erne, men siden var det gået ned ad bakke med den musikalske anerkendelse. I 24 Timer vi aldrig glemmer, fortæller Jørgen Olsens døtre, Hilda og Keld Heick, og DRs daværende Grand Prix delegationsleder om deres frygt der blev til håb og til sidst forløstes i et brag af en sejr til Brødrene Olsen ved det store tv-show i Stockholm, den dag i år 2000 hvor Brødrene Olsen var bedst i Europa.
+Tilrettelæggelse: Kerstin Freiesleben.
+Sendt første gang 13.12.09</desc>
+    <episode-num system="xmltv_ns">0.7.0</episode-num>
+  </programme>
+  <programme start="20260512230000 +0000" stop="20260512235500 +0000" channel="dr2.dk">
+    <title>Sådan taber man en verdenskrig (3:5) Krigens redskaber</title>
+    <desc>Fransk dokumentarserie fra 2023.
+(How to Lose a War)
+At vinde en verdenskrig kræver ikke kun lederskab og militær strategi, men i lige så høj grad materiel, penge og mandskab. For uden våben, udrustning og fungerende forsyningslinjer er en genial plan bare et stykke papir. Aksemagterne havde ikke forberedt sig tilstrækkeligt, før de startede krigen. Italien var underindustrialiseret. Japan kunne ikke levere forsyninger til frontlinjerne i Stillehavet, og Tyskland var ikke klar til at indføre krigsøkonomi.</desc>
+    <episode-num system="xmltv_ns">0.2.0</episode-num>
+  </programme>
+  <programme start="20260512235500 +0000" stop="20260513005000 +0000" channel="dr2.dk">
+    <title>Nazisternes storhed og fald IV (2:3)</title>
+    <desc>BBC-dokumentarserie fra 2023.
+(Rise of the Nazis)
+De ledende nazister er blevet henrettet eller fængslet efter retssagerne i Nürnberg. Men da den Kolde Krig eskalerer, stopper Vesten med at eftersøge flere nazister som den brutale Gestapo-chef Klaus Barbie, der begynder et nyt liv i Sydamerika, og Adolf Eichmann, der arrangerede transporten af millioner af jøder til dødslejrene. Han er allerede flygtet fra en allieret interneringslejr og bor nu i skoven i Nordtyskland under falsk identitet.</desc>
+    <episode-num system="xmltv_ns">3.1.0</episode-num>
   </programme>
 </tv>
