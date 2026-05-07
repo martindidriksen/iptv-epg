@@ -3,35 +3,6 @@
   <channel id="kvf.fo">
     <display-name>KVF</display-name>
   </channel>
-  <programme start="20260506170000 " stop="20260506173000 " channel="kvf.fo">
-    <title>Alt um djór</title>
-    <sub-title>- barnarøð frá BBC við føroyskari talu</sub-title>
-  </programme>
-  <programme start="20260506173000 " stop="20260506180000 " channel="kvf.fo">
-    <title>Snipp snapp</title>
-    <sub-title>- føroysk sending til børn</sub-title>
-    <desc>VIT hava verið í Fuglafjarðar skúla og filmað 11 nýggjar Snipp Snapp-sendingar. Børn, sum ganga í 2. flokki í Fuglafjarðar skúla eru vertir hvørt mikukvøld.</desc>
-  </programme>
-  <programme start="20260506180000 " stop="20260506190500 " channel="kvf.fo">
-    <title>Bygdin og bjørgini 1:3</title>
-    <sub-title>- føroysk sendirøð frá 1999</sub-title>
-    <desc>Hetta er fyrsta sending av trimum um Viðareiði og stórslignu bjørgini norðan fyri bygdina. Í hesum sendingum møta vit vøkru náttúruni í skiftandi veðri við myndum bæði av sjónum, landi og úr luftini. Sendingarnar lýsa ríku fólkamentanina, ið enn livir í samband við at røkja og søkja bjørgini. Lagt til rættis hevur Zacharias Hammer.</desc>
-  </programme>
-  <programme start="20260506190500 " stop="20260506193500 " channel="kvf.fo">
-    <title>Frank &amp; Kastanjugarðurin 3</title>
-    <sub-title>- brennitornið (3:20)</sub-title>
-    <desc>Á tí frystu ongini skal ein nøgd av brenni stápl­ast, og Frank avger at gera eitt runt brennitorn. Træ skal boygjast til myllutoppin, bast skal umskapast til snór, og síðani skulu takrør heystast.</desc>
-  </programme>
-  <programme start="20260506193500 " stop="20260506201500 " channel="kvf.fo">
-    <title>Leyslatin</title>
-    <sub-title>- eg eri klárur at brúka harðskap,  donsk sendirøð, (3:5)</sub-title>
-    <desc>Noah og Henrik stríðast við kensluni av at vera eftirlatnir, og Claus doyvir sítt einsemi við rúsevnum. Ella skal til eftirlitssamrøðu hjá Kriminalforsorgini og hevur avgjørt ikki at vera erlig í samrøðuni. Sesong 1.</desc>
-  </programme>
-  <programme start="20260506201500 " stop="20260507170000 " channel="kvf.fo">
-    <title>The Assistant</title>
-    <sub-title>- am. drama frá 2020</sub-title>
-    <desc>Tann unga Jane droymir um at gerast filmframleiðari, og hon fer tí til New York City, har hon byrjar sum assistentur hjá einum valdsmiklum framleiðara í einum filmfelag. Jane skal halda skil á í gerandisdegnum hjá framleiðaranum. Men skjótt varnast hon, at hon er partur av skipanini, sum ger tað møguligt hjá tí valdsmikla manninum at fjasast við fleiri um somu tíð. Tað brýggjar hon seg ikki um, men um hon mukkar, er hon liðug í vinnugreinini. Leikarar: Jane: Julia Garner, Wilcock: Matthew Macfadyen og Ruby: Makenzie Leigh. Framl. ár: 2020 Aldursmark: 15</desc>
-  </programme>
   <programme start="20260507170000 " stop="20260507173000 " channel="kvf.fo">
     <title>Snipp snapp</title>
     <sub-title>- føroysk sending til børn</sub-title>
@@ -270,7 +241,36 @@
     <title>Dagur og vika</title>
     <sub-title>- við teksti</sub-title>
   </programme>
-  <programme start="20260512212500 " stop="20260512222500 " channel="kvf.fo">
+  <programme start="20260512212500 " stop="20260513170000 " channel="kvf.fo">
     <title>Veðrið</title>
+  </programme>
+  <programme start="20260513170000 " stop="20260513173000 " channel="kvf.fo">
+    <title>Alt um djór</title>
+    <sub-title>- barnarøð frá BBC við føroyskari talu</sub-title>
+  </programme>
+  <programme start="20260513173000 " stop="20260513180000 " channel="kvf.fo">
+    <title>Snipp snapp</title>
+    <sub-title>- føroysk sending til børn</sub-title>
+    <desc>VIT hava verið í Fuglafjarðar skúla og filmað 11 nýggjar Snipp Snapp-sendingar. Børn, sum ganga í 2. flokki í Fuglafjarðar skúla eru vertir hvørt mikukvøld.</desc>
+  </programme>
+  <programme start="20260513180000 " stop="20260513190000 " channel="kvf.fo">
+    <title>Bygdin og bjørgini 2:3</title>
+    <sub-title>- føroysk sending frá 1999</sub-title>
+    <desc>Vestan fyri Enniberg er Riv, sum einaferð var besta lundapláss á Viðoynni. Undir krígnum kom rottan i Riv og oyddi plássið fyri lunda og lundapisur. Viðingar leggja á hvørjum ári rottueitur í Riv. Teir hava vónir um, at lundin aftur fer at taka búgv í Rivi. Eldri menn siga frá hendingum úr bjørgunum har fleiri mans eru falnir og komnir til skaða. Zacharias Hammer hevur gjørt sendingina.</desc>
+  </programme>
+  <programme start="20260513190000 " stop="20260513194000 " channel="kvf.fo">
+    <title>Leyslatin</title>
+    <sub-title>- eg vil hava eina kráku, donsk sendirøð, (3:5)</sub-title>
+    <desc>Tað gongur væl hjá Ellu og sjeikinum, men sambandið fær eina vend kvøldið fyri hon skal aftur í rættin. Henrik má eisini taka støðu til myndugleikarnar, tí løgreglan hevur ákært hann fyri fleiri brotsgerðir. Claus vitjar mammu sína, og tey hava eina torføra samrøðu um barndóm og framtíð. Á psykiatrisku deildini er Noah endiliga blivin edrúur, og hann ger av at byrja av nýggjum. Sesong 1.</desc>
+  </programme>
+  <programme start="20260513194000 " stop="20260513201000 " channel="kvf.fo">
+    <title>Antikkgoymslan 12:12</title>
+    <sub-title>- svensk røð frá 2025</sub-title>
+    <desc>Mentanarsøguliga ferðin hjá motorsúkkluni - frá brúksluti til eitt kul lívsstílssymbol og antikvitet. Anne Lundberg fær vitjan í studio av mc-áhugaðu Max Ferkinghoff og David Bendz.</desc>
+  </programme>
+  <programme start="20260513201000 " stop="20260513211000 " channel="kvf.fo">
+    <title>The Vow</title>
+    <sub-title>- am. kærleiksfilmur frá 2012</sub-title>
+    <desc>(The Vow) Paige og Leo hava hildið saman í fimm ár, tá ein ógvislig bilvanlukka endavendir øllum. Tá Paige raknar við á sjúkrahúsinum, hevur hon minnisloysi. Hon minnist hvørki Leo ella tíðina, tey hava havt saman. Nú má Leo royna at vinna kærleika hennara aftur. Paige: Rachel McAdams. Leo: Channing Tatum. Rita Thornton: Jessica Lange. Leikstj.: Michael Sucsy.</desc>
   </programme>
 </tv>

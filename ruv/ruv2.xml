@@ -3,27 +3,11 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260506180500 +0000" stop="20260506183200 +0000" channel="ruv2.is">
-    <title>X26: Oddvitaumræður</title>
-    <desc>Oddvitar allra framboða í sveitarfélaginu mætast í umræðuþætti.
-
-Þrír listar eru í framboði í Vestmannaeyjum fyrir sveitarstjórnarkosningar í vor. Oddvitar þeirra mætast í umræðum.  Þátttakendur eru Eyþór Harðarson, Sjálfstæðisflokki, Arndís María Kjartansdóttir, Eyjalistanum og Jón Þór Guðjónsson, Miðflokki.</desc>
-  </programme>
-  <programme start="20260506183000 +0000" stop="20260506185700 +0000" channel="ruv2.is">
-    <title>X26: Oddvitaumræður</title>
-    <desc>Oddvitar allra framboða í sveitarfélaginu mætast í umræðuþætti.
-
-Sex listar eru í framboði í Norðurþingi fyrir sveitarstjórnarkosningar í vor. Oddvitar þeirra mætast í umræðum.  Þátttakendur eru Eysteinn Heiðar Kristjánsson, Framsóknarflokki og félagshyggjufólks, Helena Eydís Ingólfsdóttir, Sjálfstæðisflokki, Ágúst Sigurður Óskarsson, M-listi samfélagsins, Ómar Gunnarsson, Óskalistanum, Kjartan Páll Þórarinsson, Samfylkingu og Aldey Unnur Traustadóttir, V-listi Velferðar.</desc>
-  </programme>
-  <programme start="20260506190000 +0000" stop="20260506192700 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20260507190000 +0000" stop="20260507192700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
-  <programme start="20260508180500 +0000" stop="20260508183200 +0000" channel="ruv2.is">
+  <programme start="20260508180500 +0000" stop="20260508183100 +0000" channel="ruv2.is">
     <title>X26: Oddvitaumræður</title>
     <desc>Oddvitar allra framboða í sveitarfélaginu mætast í umræðuþætti.
 
@@ -80,6 +64,22 @@ Fjórir listar eru í framboði í Fjarðabyggð fyrir sveitarstjórnarkosningar
 Fyrri undankeppni Eurovision í Vínarborg.</desc>
   </programme>
   <programme start="20260512211500 +0000" stop="20260512214200 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260513172000 +0000" stop="20260513193000 +0000" channel="ruv2.is">
+    <title>Þróttur - Breiðablik</title>
+    <desc>Keppnir í bikarkeppni karla í fótbolta.
+
+Leikur Þróttar og Breiðabliks í 16-liða úrslitum Mjólkurbikars karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260513195000 +0000" stop="20260513221000 +0000" channel="ruv2.is">
+    <title>Stjarnan - KR</title>
+    <desc>Keppnir í bikarkeppni karla í fótbolta.
+
+Leikur Stjörnunnar og KR í 16-liða úrslitum Mjólkurbikars karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260513221000 +0000" stop="20260513223700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
