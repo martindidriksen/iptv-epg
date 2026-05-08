@@ -3,10 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260507190000 +0000" stop="20260507192700 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20260508180500 +0000" stop="20260508183100 +0000" channel="ruv2.is">
     <title>X26: Oddvitaumræður</title>
     <desc>Oddvitar allra framboða í sveitarfélaginu mætast í umræðuþætti.
@@ -23,7 +19,7 @@ Tveir listar eru í framboði í Ölfusi fyrir sveitarstjórnarkosningar í vor.
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
-  <programme start="20260508194500 +0000" stop="20260508201000 +0000" channel="ruv2.is">
+  <programme start="20260508194500 +0000" stop="20260508200900 +0000" channel="ruv2.is">
     <title>20 Something (with English subtitles)</title>
     <sub-title>(4 af 6)</sub-title>
     <desc>An Icelandic comedy series by Arnór Björnsson, Óli Gunnar Gunnarsson and Vigdís Hafliðadóttir. Three young adults navigate the challenges of their twenties: university life, the job market, ghosts of past relationships and faded childhood dreams. The series features six original songs by the band FLOTT. Starring: Arnór Björnsson, Óli Gunnar Gunnarsson and Vigdís Hafliðadóttir. Director: Kristófer Dignus. Production: Kontent.</desc>
@@ -80,6 +76,28 @@ Leikur Þróttar og Breiðabliks í 16-liða úrslitum Mjólkurbikars karla í f
 Leikur Stjörnunnar og KR í 16-liða úrslitum Mjólkurbikars karla í fótbolta.</desc>
   </programme>
   <programme start="20260513221000 +0000" stop="20260513223700 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260514145000 +0000" stop="20260514165500 +0000" channel="ruv2.is">
+    <title>Fylkir - FH</title>
+    <desc>Keppnir í bikarkeppni karla í fótbolta.
+
+Leikur Fylkis og FH í 16-liða úrslitum Mjólkurbikars karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260514165500 +0000" stop="20260514174500 +0000" channel="ruv2.is">
+    <title>Bikarkvöld</title>
+    <desc>Umfjallanir um leiki í Mjólkurbikar karla í fótbolta.
+
+Umfjöllun um leiki í 16-liða úrslitum Mjólkurbikars karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260514190000 +0000" stop="20260514211500 +0000" channel="ruv2.is">
+    <title>Eurovision</title>
+    <desc>Eurovision í Vínarborg.
+
+Seinni undankeppni Eurovision í Vínarborg.</desc>
+  </programme>
+  <programme start="20260514211500 +0000" stop="20260514214200 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
