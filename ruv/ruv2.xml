@@ -3,27 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260508180500 +0000" stop="20260508183100 +0000" channel="ruv2.is">
-    <title>X26: Oddvitaumræður</title>
-    <desc>Oddvitar allra framboða í sveitarfélaginu mætast í umræðuþætti.
-
-Fimm listar eru í framboði í Múlaþingi fyrir sveitarstjórnarkosningar í vor. Oddvitar þeirra mætast í umræðum.  Þátttakendur eru Jónína Brynjólfsdóttir, Framsóknarflokki, Berglind Harpa Svavarsdóttir, Sjálfstæðisflokki, Hólmfríður Rut Einarsdóttir, Austurlistanum og Viðreisn, Lárus Bjarnason, Miðflokki og Ásrún Mjöll Stefánsdóttir, Vinstrihreyfingarinnar-græns framboðs og óháðra.</desc>
-  </programme>
-  <programme start="20260508183000 +0000" stop="20260508185600 +0000" channel="ruv2.is">
-    <title>X26: Oddvitaumræður</title>
-    <desc>Oddvitar allra framboða í sveitarfélaginu mætast í umræðuþætti.
-
-Tveir listar eru í framboði í Ölfusi fyrir sveitarstjórnarkosningar í vor. Oddvitar þeirra mætast í umræðum.  Þátttakendur eru Grétar Ingi Erlendsson, Sjálfstæðisflokki, og Gunnsteinn R. Ómarsson, Samfylkingu og félaga.</desc>
-  </programme>
-  <programme start="20260508190000 +0000" stop="20260508192700 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
-  <programme start="20260508194500 +0000" stop="20260508200900 +0000" channel="ruv2.is">
-    <title>20 Something (with English subtitles)</title>
-    <sub-title>(4 af 6)</sub-title>
-    <desc>An Icelandic comedy series by Arnór Björnsson, Óli Gunnar Gunnarsson and Vigdís Hafliðadóttir. Three young adults navigate the challenges of their twenties: university life, the job market, ghosts of past relationships and faded childhood dreams. The series features six original songs by the band FLOTT. Starring: Arnór Björnsson, Óli Gunnar Gunnarsson and Vigdís Hafliðadóttir. Director: Kristófer Dignus. Production: Kontent.</desc>
-  </programme>
   <programme start="20260509190000 +0000" stop="20260509192000 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
@@ -47,7 +26,7 @@ Tveir listar eru í framboði í Ölfusi fyrir sveitarstjórnarkosningar í vor.
 
 Fjórir listar eru í framboði í Suðurnesjabæ fyrir sveitarstjórnarkosningar í vor. Oddvitar þeirra mætast í umræðum.  Þátttakendur eru Anton Kristinn Guðmundsson, Framsóknarflokki og óháðra, Haukur Andreasson, Sjálfstæðisflokki og óháðra, Daði Bergþórsson, Miðflokki og Svavar Grétarsson, Samfylkingu og óháðra.</desc>
   </programme>
-  <programme start="20260512183000 +0000" stop="20260512185700 +0000" channel="ruv2.is">
+  <programme start="20260512183000 +0000" stop="20260512185500 +0000" channel="ruv2.is">
     <title>X26: Oddvitaumræður</title>
     <desc>Oddvitar allra framboða í sveitarfélaginu mætast í umræðuþætti.
 
@@ -100,5 +79,13 @@ Seinni undankeppni Eurovision í Vínarborg.</desc>
   <programme start="20260514211500 +0000" stop="20260514214200 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260515190000 +0000" stop="20260515192700 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260515194500 +0000" stop="20260515215500 +0000" channel="ruv2.is">
+    <title>X26: Umræðuþáttur (með táknmálstúlkun)</title>
+    <desc>Frambjóðendur til borgarstjórnar Reykjavíkur mætast í beinni útsendingu í sjónvarpssal.</desc>
   </programme>
 </tv>
