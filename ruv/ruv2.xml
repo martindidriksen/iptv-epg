@@ -3,10 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260509190000 +0000" stop="20260509192000 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20260510100000 +0000" stop="20260510105000 +0000" channel="ruv2.is">
     <title>Ísalönd - með ensku tali</title>
     <sub-title>(5 af 6)</sub-title>
@@ -87,5 +83,15 @@ Seinni undankeppni Eurovision í Vínarborg.</desc>
   <programme start="20260515194500 +0000" stop="20260515215500 +0000" channel="ruv2.is">
     <title>X26: Umræðuþáttur (með táknmálstúlkun)</title>
     <desc>Frambjóðendur til borgarstjórnar Reykjavíkur mætast í beinni útsendingu í sjónvarpssal.</desc>
+  </programme>
+  <programme start="20260516190000 +0000" stop="20260516230000 +0000" channel="ruv2.is">
+    <title>Eurovision</title>
+    <desc>Eurovision í Vínarborg.
+
+Bein útsending frá úrslitum Eurovision í Vínarborg.</desc>
+  </programme>
+  <programme start="20260516230000 +0000" stop="20260517060000 +0000" channel="ruv2.is">
+    <title>X26: Kosningavaka (með táknmálstúlkun)</title>
+    <desc>RÚV verður á ferðinni um land allt á kosninganótt. Nýjustu tölur verða birtar um leið og þær berast, rætt við gesti og gangandi, stjórnmálaleiðtoga, fréttaskýrendur og áhugafólk um stjórnmál.</desc>
   </programme>
 </tv>
