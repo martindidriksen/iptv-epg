@@ -3,15 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260510100000 +0000" stop="20260510105000 +0000" channel="ruv2.is">
-    <title>Ísalönd - með ensku tali</title>
-    <sub-title>(5 af 6)</sub-title>
-    <desc>Heimildarþáttaröð þar sem David Attenborough kannar náttúru og dýralíf á köldustu svæðum jarðar.</desc>
-  </programme>
-  <programme start="20260510190000 +0000" stop="20260510192000 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20260511190000 +0000" stop="20260511192700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
@@ -93,5 +84,27 @@ Bein útsending frá úrslitum Eurovision í Vínarborg.</desc>
   <programme start="20260516230000 +0000" stop="20260517060000 +0000" channel="ruv2.is">
     <title>X26: Kosningavaka (með táknmálstúlkun)</title>
     <desc>RÚV verður á ferðinni um land allt á kosninganótt. Nýjustu tölur verða birtar um leið og þær berast, rætt við gesti og gangandi, stjórnmálaleiðtoga, fréttaskýrendur og áhugafólk um stjórnmál.</desc>
+  </programme>
+  <programme start="20260517100100 +0000" stop="20260517105000 +0000" channel="ruv2.is">
+    <title>Ísalönd - með ensku tali</title>
+    <sub-title>(6 af 6)</sub-title>
+    <desc>Heimildarþáttaröð þar sem David Attenborough kannar náttúru og dýralíf á köldustu svæðum jarðar.</desc>
+  </programme>
+  <programme start="20260517120000 +0000" stop="20260517122000 +0000" channel="ruv2.is">
+    <title>Aukafréttatími (með táknmálstúlkun)</title>
+    <desc>
+
+
+
+Aukafréttatími vegna niðurstöðu sveitarstjórnarkosninga.</desc>
+  </programme>
+  <programme start="20260517190000 +0000" stop="20260517192000 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260517203500 +0000" stop="20260517212500 +0000" channel="ruv2.is">
+    <title>Asía - með enskum þul</title>
+    <sub-title>(4 af 7)</sub-title>
+    <desc>Heimildarþáttaröð þar sem David Attenborough kannar náttúru og dýralíf í Asíu, stærstu heimsálfu jarðar.</desc>
   </programme>
 </tv>
