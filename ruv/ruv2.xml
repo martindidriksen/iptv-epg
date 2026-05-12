@@ -3,10 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260511190000 +0000" stop="20260511192700 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20260512180500 +0000" stop="20260512183200 +0000" channel="ruv2.is">
     <title>X26: Oddvitaumræður</title>
     <desc>Oddvitar allra framboða í sveitarfélaginu mætast í umræðuþætti.
@@ -29,7 +25,7 @@ Fyrri undankeppni Eurovision í Vínarborg.</desc>
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
-  <programme start="20260513172000 +0000" stop="20260513193000 +0000" channel="ruv2.is">
+  <programme start="20260513172500 +0000" stop="20260513193500 +0000" channel="ruv2.is">
     <title>Þróttur - Breiðablik</title>
     <desc>Keppnir í bikarkeppni karla í fótbolta.
 
@@ -106,5 +102,9 @@ Aukafréttatími vegna niðurstöðu sveitarstjórnarkosninga.</desc>
     <title>Asía - með enskum þul</title>
     <sub-title>(4 af 7)</sub-title>
     <desc>Heimildarþáttaröð þar sem David Attenborough kannar náttúru og dýralíf í Asíu, stærstu heimsálfu jarðar.</desc>
+  </programme>
+  <programme start="20260518190000 +0000" stop="20260518192700 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
 </tv>
