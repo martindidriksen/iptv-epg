@@ -3,28 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260512180500 +0000" stop="20260512183200 +0000" channel="ruv2.is">
-    <title>X26: Oddvitaumræður</title>
-    <desc>Oddvitar allra framboða í sveitarfélaginu mætast í umræðuþætti.
-
-Fjórir listar eru í framboði í Suðurnesjabæ fyrir sveitarstjórnarkosningar í vor. Oddvitar þeirra mætast í umræðum.  Þátttakendur eru Anton Kristinn Guðmundsson, Framsóknarflokki og óháðra, Haukur Andreasson, Sjálfstæðisflokki og óháðra, Daði Bergþórsson, Miðflokki og Svavar Grétarsson, Samfylkingu og óháðra.</desc>
-  </programme>
-  <programme start="20260512183000 +0000" stop="20260512185500 +0000" channel="ruv2.is">
-    <title>X26: Oddvitaumræður</title>
-    <desc>Oddvitar allra framboða í sveitarfélaginu mætast í umræðuþætti.
-
-Fjórir listar eru í framboði í Fjarðabyggð fyrir sveitarstjórnarkosningar í vor. Oddvitar þeirra mætast í umræðum.  Þátttakendur eru Þuríður Lillý Sigurðardóttir, Framsóknarflokki, Ragnar Sigurðsson, Sjálfstæðisflokki, Hrafn Bjarnason, Miðflokki og Stefán Þór Eysteinsson, Samfylkingu og annars félagshyggjufólks.</desc>
-  </programme>
-  <programme start="20260512190000 +0000" stop="20260512211500 +0000" channel="ruv2.is">
-    <title>Eurovision</title>
-    <desc>Eurovision í Vínarborg.
-
-Fyrri undankeppni Eurovision í Vínarborg.</desc>
-  </programme>
-  <programme start="20260512211500 +0000" stop="20260512214200 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20260513172500 +0000" stop="20260513193500 +0000" channel="ruv2.is">
     <title>Þróttur - Breiðablik</title>
     <desc>Keppnir í bikarkeppni karla í fótbolta.
@@ -55,7 +33,7 @@ Umfjöllun um leiki í 16-liða úrslitum Mjólkurbikars karla í fótbolta.</de
   </programme>
   <programme start="20260514190000 +0000" stop="20260514211500 +0000" channel="ruv2.is">
     <title>Eurovision</title>
-    <desc>Eurovision í Vínarborg.
+    <desc>Eurovision í Vínarborg. Þulur er Guðrún Dís Emilsdóttir.
 
 Seinni undankeppni Eurovision í Vínarborg.</desc>
   </programme>
@@ -71,13 +49,13 @@ Seinni undankeppni Eurovision í Vínarborg.</desc>
     <title>X26: Umræðuþáttur (með táknmálstúlkun)</title>
     <desc>Frambjóðendur til borgarstjórnar Reykjavíkur mætast í beinni útsendingu í sjónvarpssal.</desc>
   </programme>
-  <programme start="20260516190000 +0000" stop="20260516230000 +0000" channel="ruv2.is">
+  <programme start="20260516190000 +0000" stop="20260516225000 +0000" channel="ruv2.is">
     <title>Eurovision</title>
-    <desc>Eurovision í Vínarborg.
+    <desc>Eurovision í Vínarborg. Þulur er Guðrún Dís Emilsdóttir.
 
 Bein útsending frá úrslitum Eurovision í Vínarborg.</desc>
   </programme>
-  <programme start="20260516230000 +0000" stop="20260517060000 +0000" channel="ruv2.is">
+  <programme start="20260516225000 +0000" stop="20260517060000 +0000" channel="ruv2.is">
     <title>X26: Kosningavaka (með táknmálstúlkun)</title>
     <desc>RÚV verður á ferðinni um land allt á kosninganótt. Nýjustu tölur verða birtar um leið og þær berast, rætt við gesti og gangandi, stjórnmálaleiðtoga, fréttaskýrendur og áhugafólk um stjórnmál.</desc>
   </programme>
@@ -104,6 +82,10 @@ Aukafréttatími vegna niðurstöðu sveitarstjórnarkosninga.</desc>
     <desc>Heimildarþáttaröð þar sem David Attenborough kannar náttúru og dýralíf í Asíu, stærstu heimsálfu jarðar.</desc>
   </programme>
   <programme start="20260518190000 +0000" stop="20260518192700 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260519190000 +0000" stop="20260519192700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
