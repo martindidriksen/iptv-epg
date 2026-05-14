@@ -3,35 +3,6 @@
   <channel id="kvf.fo">
     <display-name>KVF</display-name>
   </channel>
-  <programme start="20260513170000 " stop="20260513173000 " channel="kvf.fo">
-    <title>Alt um djór</title>
-    <sub-title>- barnarøð frá BBC við føroyskari talu</sub-title>
-  </programme>
-  <programme start="20260513173000 " stop="20260513180000 " channel="kvf.fo">
-    <title>Snipp snapp</title>
-    <sub-title>- føroysk sending til børn</sub-title>
-    <desc>VIT hava verið í Fuglafjarðar skúla og filmað 11 nýggjar Snipp Snapp-sendingar. Børn, sum ganga í 2. flokki í Fuglafjarðar skúla eru vertir hvørt mikukvøld.</desc>
-  </programme>
-  <programme start="20260513180000 " stop="20260513190000 " channel="kvf.fo">
-    <title>Bygdin og bjørgini 2:3</title>
-    <sub-title>- føroysk sending frá 1999</sub-title>
-    <desc>Vestan fyri Enniberg er Riv, sum einaferð var besta lundapláss á Viðoynni. Undir krígnum kom rottan i Riv og oyddi plássið fyri lunda og lundapisur. Viðingar leggja á hvørjum ári rottueitur í Riv. Teir hava vónir um, at lundin aftur fer at taka búgv í Rivi. Eldri menn siga frá hendingum úr bjørgunum har fleiri mans eru falnir og komnir til skaða. Zacharias Hammer hevur gjørt sendingina.</desc>
-  </programme>
-  <programme start="20260513190000 " stop="20260513194000 " channel="kvf.fo">
-    <title>Leyslatin</title>
-    <sub-title>- eg vil hava eina kráku, donsk sendirøð, (3:5)</sub-title>
-    <desc>Tað gongur væl hjá Ellu og sjeikinum, men sambandið fær eina vend kvøldið fyri hon skal aftur í rættin. Henrik má eisini taka støðu til myndugleikarnar, tí løgreglan hevur ákært hann fyri fleiri brotsgerðir. Claus vitjar mammu sína, og tey hava eina torføra samrøðu um barndóm og framtíð. Á psykiatrisku deildini er Noah endiliga blivin edrúur, og hann ger av at byrja av nýggjum. Sesong 1.</desc>
-  </programme>
-  <programme start="20260513194000 " stop="20260513201000 " channel="kvf.fo">
-    <title>Antikkgoymslan 12:12</title>
-    <sub-title>- svensk røð frá 2025</sub-title>
-    <desc>Mentanarsøguliga ferðin hjá motorsúkkluni - frá brúksluti til eitt kul lívsstílssymbol og antikvitet. Anne Lundberg fær vitjan í studio av mc-áhugaðu Max Ferkinghoff og David Bendz.</desc>
-  </programme>
-  <programme start="20260513201000 " stop="20260514100000 " channel="kvf.fo">
-    <title>The Vow</title>
-    <sub-title>- am. kærleiksfilmur frá 2012</sub-title>
-    <desc>(The Vow) Paige og Leo hava hildið saman í fimm ár, tá ein ógvislig bilvanlukka endavendir øllum. Tá Paige raknar við á sjúkrahúsinum, hevur hon minnisloysi. Hon minnist hvørki Leo ella tíðina, tey hava havt saman. Nú má Leo royna at vinna kærleika hennara aftur. Paige: Rachel McAdams. Leo: Channing Tatum. Rita Thornton: Jessica Lange. Leikstj.: Michael Sucsy.</desc>
-  </programme>
   <programme start="20260514100000 " stop="20260514150000 " channel="kvf.fo">
     <title>Guðstænasta úr Vesturkirkjuni</title>
     <sub-title>- Bergur Debes Joensen, prestur, prædikar</sub-title>
@@ -305,7 +276,40 @@
     <title>Dagur og vika</title>
     <sub-title>- við teksti</sub-title>
   </programme>
-  <programme start="20260519213500 " stop="20260519223500 " channel="kvf.fo">
+  <programme start="20260519213500 " stop="20260520170000 " channel="kvf.fo">
     <title>Veðrið</title>
+  </programme>
+  <programme start="20260520170000 " stop="20260520172500 " channel="kvf.fo">
+    <title>Alt um djór</title>
+    <sub-title>- barnarøð frá BBC við føroyskari talu</sub-title>
+  </programme>
+  <programme start="20260520172500 " stop="20260520173000 " channel="kvf.fo">
+    <title>Brævkassin - Tróndur og Kári</title>
+    <sub-title>- fø. sending til tey ungu</sub-title>
+  </programme>
+  <programme start="20260520173000 " stop="20260520180000 " channel="kvf.fo">
+    <title>Snipp snapp</title>
+    <sub-title>- føroysk sending til børn</sub-title>
+    <desc>VIT hava verið í Fuglafjarðar skúla og filmað 11 nýggjar Snipp Snapp-sendingar. Børn, sum ganga í 2. flokki í Fuglafjarðar skúla eru vertir hvørt mikukvøld.</desc>
+  </programme>
+  <programme start="20260520180000 " stop="20260520190000 " channel="kvf.fo">
+    <title>Bygdin og bjørgini 3:3</title>
+    <sub-title>- føroysk sendirøð frá 1999</sub-title>
+    <desc>Í seinastu sending fara vit við viðingum í stórslignar skorar og feitilendi í bjørgunum norðan fyri bygdina. Har ganga fleiri veðrar á summarbiti. Torført og bratt er at koma niður eftir veðrunum og ikki minni strævið at fáa teir upp á eggina. Lagt til rættis, Zacharis Hammer í 1999.</desc>
+  </programme>
+  <programme start="20260520190000 " stop="20260520193000 " channel="kvf.fo">
+    <title>Leyslatin</title>
+    <sub-title>- eg vil brenna alt niður (5:5)</sub-title>
+    <desc>Henrik er í arbeiðsvenjing á einum bóndagarði, meðan hann bíðar eftir at skula í rættin. Eftir fimm vikur í frælsi er Noah endaður á gøtuni og má klára seg sjálvur. Ella livir eisini við einsemi og saknar síni børn. Claus er framvegis á fríum fóti, men hann selur framvegis narkotika, og óttin fyri at enda í fongsli aftur veksur dag fyri dag. Sesong 1.</desc>
+  </programme>
+  <programme start="20260520193000 " stop="20260520201500 " channel="kvf.fo">
+    <title>Ekstremt vanligt</title>
+    <sub-title>- meira enn eina unnustu, donsk sendirøð (1:5)</sub-title>
+    <desc>Hvordan er det muligt at elske flere på én gang? Daniel og Anastasia insisterer på, at kærlighed ikke kan begrænses af samfundets normer. De er gift, men lever polyamorøst og har hver især flere kærester. Når Sanne Cigale Benmouyal flytter ind, finder hun ud af, hvordan det er at leve med flere kærlighedsrelationer på én gang. Hun møder et par af deres kærester og er med til parterapi, hvor usikkerhed og sårbarhed bliver sat på prøve. Til sidst bliver hendes egne grænser testet, når hun deltager i en krammeworkshop.</desc>
+  </programme>
+  <programme start="20260520201500 " stop="20260520211500 " channel="kvf.fo">
+    <title>The Devil Wears Prada</title>
+    <sub-title>- am. filmur frá 2006</sub-title>
+    <desc>(The Devil Wears Prada) Tá ungi journalisturin Andrea Sachs kemur til New York, strembar hon eftir at fáa arbeiði á einum av stóru dagbløðunum, men endar sum hjálparfólk hjá grussuni Maranda Priestly, sum er aðalblaðstjóri á einum av heimsins fremstu mótabløðum. Starvið er ógvuliga avbjóðandi, men Andrea fær at vita frá hinum hjálparfólkinum hjá Mirandu, hvussu hon skal bera seg at, og hvørji klæði hon skal ganga í. Starvið er so mikið krevjandi, at heimalívið er at kalla onki, og so við og við varnast Andrea, at hon er um at selja sína sál til tann grábeinta fyri at fáa tað, hon droymir um. Men vil hon tað? Leikarar: Miranda Priestly: Meryl Streep, Andy Sachs: Anna Hathaway og Emily: Emily Blunt. Nigel: Stanley Tucci. Nate: Adrian Grenier. Lily: Tracie Thoms. Doug: Rich Sommer. Christian Thompson: Simon Baker. Leikrit: Aline Brosh McKenna. Leikstjórn: David Frankel.</desc>
   </programme>
 </tv>

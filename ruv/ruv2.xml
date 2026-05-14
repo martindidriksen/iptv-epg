@@ -3,29 +3,13 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260513172500 +0000" stop="20260513193500 +0000" channel="ruv2.is">
-    <title>Þróttur - Breiðablik</title>
-    <desc>Keppnir í bikarkeppni karla í fótbolta.
-
-Leikur Þróttar og Breiðabliks í 16-liða úrslitum Mjólkurbikars karla í fótbolta.</desc>
-  </programme>
-  <programme start="20260513195000 +0000" stop="20260513221000 +0000" channel="ruv2.is">
-    <title>Stjarnan - KR</title>
-    <desc>Keppnir í bikarkeppni karla í fótbolta.
-
-Leikur Stjörnunnar og KR í 16-liða úrslitum Mjólkurbikars karla í fótbolta.</desc>
-  </programme>
-  <programme start="20260513221000 +0000" stop="20260513223700 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20260514145000 +0000" stop="20260514165500 +0000" channel="ruv2.is">
     <title>Fylkir - FH</title>
     <desc>Keppnir í bikarkeppni karla í fótbolta.
 
 Leikur Fylkis og FH í 16-liða úrslitum Mjólkurbikars karla í fótbolta.</desc>
   </programme>
-  <programme start="20260514165500 +0000" stop="20260514174500 +0000" channel="ruv2.is">
+  <programme start="20260514170400 +0000" stop="20260514175400 +0000" channel="ruv2.is">
     <title>Bikarkvöld</title>
     <desc>Umfjallanir um leiki í Mjólkurbikar karla í fótbolta.
 
@@ -37,7 +21,7 @@ Umfjöllun um leiki í 16-liða úrslitum Mjólkurbikars karla í fótbolta.</de
 
 Seinni undankeppni Eurovision í Vínarborg.</desc>
   </programme>
-  <programme start="20260514211500 +0000" stop="20260514214200 +0000" channel="ruv2.is">
+  <programme start="20260514212300 +0000" stop="20260514215000 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
@@ -86,6 +70,10 @@ Aukafréttatími vegna niðurstöðu sveitarstjórnarkosninga.</desc>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
   <programme start="20260519190000 +0000" stop="20260519192700 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260520190000 +0000" stop="20260520192700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
