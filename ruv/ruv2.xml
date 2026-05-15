@@ -3,27 +3,11 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260514145000 +0000" stop="20260514165500 +0000" channel="ruv2.is">
-    <title>Fylkir - FH</title>
-    <desc>Keppnir í bikarkeppni karla í fótbolta.
+  <programme start="20260515165500 +0000" stop="20260515190000 +0000" channel="ruv2.is">
+    <title>Valur - Grindavík/Njarðvík</title>
+    <desc>Beinar útsendingar frá bikarkeppni kvenna í fótbolta.
 
-Leikur Fylkis og FH í 16-liða úrslitum Mjólkurbikars karla í fótbolta.</desc>
-  </programme>
-  <programme start="20260514170400 +0000" stop="20260514175400 +0000" channel="ruv2.is">
-    <title>Bikarkvöld</title>
-    <desc>Umfjallanir um leiki í Mjólkurbikar karla í fótbolta.
-
-Umfjöllun um leiki í 16-liða úrslitum Mjólkurbikars karla í fótbolta.</desc>
-  </programme>
-  <programme start="20260514190000 +0000" stop="20260514211500 +0000" channel="ruv2.is">
-    <title>Eurovision</title>
-    <desc>Eurovision í Vínarborg. Þulur er Guðrún Dís Emilsdóttir.
-
-Seinni undankeppni Eurovision í Vínarborg.</desc>
-  </programme>
-  <programme start="20260514212300 +0000" stop="20260514215000 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+Leikur Vals og Grindavíkur/Njarðvíkur í 16-liða úrslitum Mjólkurbikars kvenna í fótbolta.</desc>
   </programme>
   <programme start="20260515190000 +0000" stop="20260515192700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
@@ -74,6 +58,10 @@ Aukafréttatími vegna niðurstöðu sveitarstjórnarkosninga.</desc>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
   <programme start="20260520190000 +0000" stop="20260520192700 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260521190000 +0000" stop="20260521192700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
