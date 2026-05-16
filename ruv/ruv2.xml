@@ -3,32 +3,18 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260515165500 +0000" stop="20260515190000 +0000" channel="ruv2.is">
-    <title>Valur - Grindavík/Njarðvík</title>
-    <desc>Beinar útsendingar frá bikarkeppni kvenna í fótbolta.
-
-Leikur Vals og Grindavíkur/Njarðvíkur í 16-liða úrslitum Mjólkurbikars kvenna í fótbolta.</desc>
-  </programme>
-  <programme start="20260515190000 +0000" stop="20260515192700 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
-  <programme start="20260515194500 +0000" stop="20260515215500 +0000" channel="ruv2.is">
-    <title>X26: Umræðuþáttur (með táknmálstúlkun)</title>
-    <desc>Frambjóðendur til borgarstjórnar Reykjavíkur mætast í beinni útsendingu í sjónvarpssal.</desc>
-  </programme>
   <programme start="20260516190000 +0000" stop="20260516225000 +0000" channel="ruv2.is">
     <title>Eurovision</title>
     <desc>Eurovision í Vínarborg. Þulur er Guðrún Dís Emilsdóttir.
 
 Bein útsending frá úrslitum Eurovision í Vínarborg.</desc>
   </programme>
-  <programme start="20260516225000 +0000" stop="20260517060000 +0000" channel="ruv2.is">
+  <programme start="20260516224800 +0000" stop="20260517004300 +0000" channel="ruv2.is">
     <title>X26: Kosningavaka (með táknmálstúlkun)</title>
     <desc>RÚV verður á ferðinni um land allt á kosninganótt. Nýjustu tölur verða birtar um leið og þær berast, rætt við gesti og gangandi, stjórnmálaleiðtoga, fréttaskýrendur og áhugafólk um stjórnmál.</desc>
   </programme>
-  <programme start="20260517100100 +0000" stop="20260517105000 +0000" channel="ruv2.is">
-    <title>Ísalönd - með ensku tali</title>
+  <programme start="20260517100000 +0000" stop="20260517104900 +0000" channel="ruv2.is">
+    <title>Ísalönd - með enskum þul</title>
     <sub-title>(6 af 6)</sub-title>
     <desc>Heimildarþáttaröð þar sem David Attenborough kannar náttúru og dýralíf á köldustu svæðum jarðar.</desc>
   </programme>
@@ -64,5 +50,14 @@ Aukafréttatími vegna niðurstöðu sveitarstjórnarkosninga.</desc>
   <programme start="20260521190000 +0000" stop="20260521192700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260522190000 +0000" stop="20260522192700 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260522194500 +0000" stop="20260522201000 +0000" channel="ruv2.is">
+    <title>20 Something (with English subtitles)</title>
+    <sub-title>(5 af 6)</sub-title>
+    <desc>An Icelandic comedy series by Arnór Björnsson, Óli Gunnar Gunnarsson and Vigdís Hafliðadóttir. Three young adults navigate the challenges of their twenties: university life, the job market, ghosts of past relationships and faded childhood dreams. The series features six original songs by the band FLOTT. Starring: Arnór Björnsson, Óli Gunnar Gunnarsson and Vigdís Hafliðadóttir. Director: Kristófer Dignus. Production: Kontent.</desc>
   </programme>
 </tv>

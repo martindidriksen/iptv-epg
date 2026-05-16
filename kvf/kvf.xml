@@ -3,47 +3,6 @@
   <channel id="kvf.fo">
     <display-name>KVF</display-name>
   </channel>
-  <programme start="20260515170000 " stop="20260515173000 " channel="kvf.fo">
-    <title>Mumi 2</title>
-    <sub-title>- Gandahatturin</sub-title>
-    <desc>Teknirøð við føroyskari talu til smábørn.</desc>
-  </programme>
-  <programme start="20260515173000 " stop="20260515180000 " channel="kvf.fo">
-    <title>MORSA 2:12</title>
-    <sub-title>- føroysk barnarøð</sub-title>
-    <desc>Í nýggju barnarøðini Morsa fer Elisabeth á Bakka at vísa ymiska hárseting. Og vit vísa nýggju bretsku barnarøðina Katie, sum BBC hevur gjørt. Vertur: Jákup Wardum. Upptøka: Bjørg Mohr Andersen. Klipt: Bjørg Mohr Andersen og Sólfríð Maria í Rók. Lagt til rættis: Elin á Rógvi.</desc>
-  </programme>
-  <programme start="20260515180000 " stop="20260515182500 " channel="kvf.fo">
-    <title>Dagur og vika</title>
-  </programme>
-  <programme start="20260515182500 " stop="20260515184000 " channel="kvf.fo">
-    <title>Veðrið</title>
-  </programme>
-  <programme start="20260515184000 " stop="20260515192000 " channel="kvf.fo">
-    <title>Gekkur</title>
-  </programme>
-  <programme start="20260515192000 " stop="20260515200000 " channel="kvf.fo">
-    <title>Popptoppurin</title>
-    <sub-title>- Nikolaj Manuel Vonsild, donsk tónleikasending (5:6)</sub-title>
-    <desc>Nikolaj Manuel Vonsild er forsangari í alternativa poppbólkinum When Saints Go Machine, sum hevur havt eina flúgvandi yrkisleið ? eisini altjóða. Men stóra og brádliga framgongdin hjá bólkinum hevur sett síni spor í Nikolaj, og tað verður ein rørandi ferð aftur í minnini, tá hini listafólkini stíga inn í heilt serliga universið hjá bólkinum. Sesong: 14 Partur: 5 Ár: 2026 Framleitt fyri: TV 2 DANMARK</desc>
-  </programme>
-  <programme start="20260515200000 " stop="20260515213500 " channel="kvf.fo">
-    <title>Boss Level</title>
-    <sub-title>- am. spenningsf. frá 2020, óhósk. fyri børn</sub-title>
-    <desc>Roy Pulver (Frank Grillo) hevur ein stóran trupulleika.  Hvønn morgun fer hann upp, og sum dagurin gongur verður hann myrdur á ymiskan hátt, skotin, hálshøgdur o.s.fr. Hann skilir onki hví, men alt hevur okkurt samband við tann ónda vísindamannin Ventor (Mel Gibson).</desc>
-  </programme>
-  <programme start="20260515213500 " stop="20260515222000 " channel="kvf.fo">
-    <title>Tvey dráp og ein býur í sjokki</title>
-    <sub-title>- bretsk dokumentarrøð (1:4)</sub-title>
-    <desc>Liverpool, august 2022. Innan minni enn tveir dagar verða 28 ára gamla Ashley og 9 ára gamla Olivia skotin í heimum sínum. Tvey ósek offur. Býurin og landið eru í sjokki. Løgreglan heitir á kriminella umhvørvið í Liverpool um at avdúka drápsmannin. Skjótt kemur fram, at Ashley og Olivia syrgiliga hava staðið í skotlinjuni millum  kriminellar bólkar, sum nú mugu taka støðu til, um tey vilja siga, hvør stendur aftan fyri. Framleiðsluár: 2024</desc>
-  </programme>
-  <programme start="20260515222000 " stop="20260515224500 " channel="kvf.fo">
-    <title>Dagur og vika</title>
-    <sub-title>- við teksti</sub-title>
-  </programme>
-  <programme start="20260515224500 " stop="20260516173000 " channel="kvf.fo">
-    <title>Veðrið</title>
-  </programme>
   <programme start="20260516173000 " stop="20260516180000 " channel="kvf.fo">
     <title>Hondbóltur: Undansending</title>
     <sub-title>- HM-playoff hjá hondbóltslandsliðnum við monnum</sub-title>
@@ -301,7 +260,52 @@
     <title>Dagur og vika</title>
     <sub-title>- við teksti</sub-title>
   </programme>
-  <programme start="20260521212000 " stop="20260521222000 " channel="kvf.fo">
+  <programme start="20260521212000 " stop="20260521230500 " channel="kvf.fo">
     <title>Veðrið</title>
+  </programme>
+  <programme start="20260521230500 " stop="20260522170000 " channel="kvf.fo">
+    <title>Veðrið</title>
+  </programme>
+  <programme start="20260522170000 " stop="20260522172500 " channel="kvf.fo">
+    <title>Mumi 3</title>
+    <sub-title>- Skipsvrakið</sub-title>
+    <desc>Teknirøð til smábørn við føroyskari talu.</desc>
+  </programme>
+  <programme start="20260522172500 " stop="20260522173000 " channel="kvf.fo">
+    <title>Brævkassin - Djóralækni og skúlastjóri</title>
+    <sub-title>- fø. sending til tey ungu</sub-title>
+  </programme>
+  <programme start="20260522173000 " stop="20260522180000 " channel="kvf.fo">
+    <title>MORSA 3:12</title>
+    <sub-title>- føroysk barnarøð</sub-title>
+    <desc>Í nýggju barnarøðini Morsa fer Elisabeth á Bakka at vísa ymiska hárseting. Og vit vísa nýggju bretsku barnarøðina Katie, sum BBC hevur gjørt. Vertur: Jákup Wardum. Upptøka: Bjørg Mohr Andersen. Klipt: Bjørg Mohr Andersen og Sólfríð Maria í Rók. Lagt til rættis: Elin á Rógvi.</desc>
+  </programme>
+  <programme start="20260522180000 " stop="20260522182500 " channel="kvf.fo">
+    <title>Dagur og vika</title>
+  </programme>
+  <programme start="20260522182500 " stop="20260522184000 " channel="kvf.fo">
+    <title>Veðrið</title>
+  </programme>
+  <programme start="20260522184000 " stop="20260522192000 " channel="kvf.fo">
+    <title>Gekkur</title>
+  </programme>
+  <programme start="20260522192000 " stop="20260522200000 " channel="kvf.fo">
+    <title>Popptoppurin</title>
+    <sub-title>- Lis Sørensen, donsk tónleikasending (6:6)</sub-title>
+    <desc>Lis Sørensen hevur gjøgnum 50 ár á danska tónleikapallinum skrivað seg inn sum ein av teimum mest elskaðu røddunum í danskari tónleikasøgu. Tað verður eitt brak av tónlistarligum upplivingum og spennandi anekdotum úr langa lívinum hjá Lis Sørensen, tá ársins sesong av ?Toppen af poppen? verður rundað av. Sæson: 14 Partur: 6 Ár: 2026 Framleitt fyri: TV 2 DANMARK</desc>
+  </programme>
+  <programme start="20260522200000 " stop="20260522215500 " channel="kvf.fo">
+    <title>One Life</title>
+    <sub-title>- bretskur dramafilmur frá 2023</sub-title>
+    <desc>Hin sanna søgan um virðisbrævasølumannin Sir Nicholas ?Nicky? Winton (Anthony Hopkins), sum í 1938 bjargaði 669 jødiskum børnum undan nasistunum. Fimti ár seinni minnist hann enn tey, hann ikki megnaði at bjarga ? inntil ein óvæntaður fundur í BBC-sendingini ?That?s Life? broytir alt. Upprunaheiti: One Life Viðvirkandi: Nicky Winton: Anthony Hopkins, Grete Winton: Lena Olin og Babi Winton: Helena Bonham Carter. Framleiðsluár: 2023 Aldursmark: 11 ár</desc>
+  </programme>
+  <programme start="20260522215500 " stop="20260522224000 " channel="kvf.fo">
+    <title>Tvey dráp og ein býur í sjokki</title>
+    <sub-title>- bretsk dokumentarrøð (2:4)</sub-title>
+    <desc>Liverpool, august 2022. Innan minni enn tveir dagar verða 28 ára gamla Ashley og 9 ára gamla Olivia skotin í heimum sínum. Tvey ósek offur. Býurin og landið eru í sjokki. Løgreglan heitir á kriminella umhvørvið í Liverpool um at avdúka drápsmannin. Skjótt kemur fram, at Ashley og Olivia syrgiliga hava staðið í skotlinjuni millum  kriminellar bólkar, sum nú mugu taka støðu til, um tey vilja siga, hvør stendur aftan fyri. Framleiðsluár: 2024</desc>
+  </programme>
+  <programme start="20260522224000 " stop="20260522234000 " channel="kvf.fo">
+    <title>Dagur og vika</title>
+    <sub-title>- við teksti</sub-title>
   </programme>
 </tv>
