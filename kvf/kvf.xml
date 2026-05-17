@@ -3,38 +3,6 @@
   <channel id="kvf.fo">
     <display-name>KVF</display-name>
   </channel>
-  <programme start="20260516173000 " stop="20260516180000 " channel="kvf.fo">
-    <title>Hondbóltur: Undansending</title>
-    <sub-title>- HM-playoff hjá hondbóltslandsliðnum við monnum</sub-title>
-  </programme>
-  <programme start="20260516180000 " stop="20260516184000 " channel="kvf.fo">
-    <title>Hondbóltur: Føroyar - Bosnia</title>
-    <sub-title>- fyrri hálvleikur</sub-title>
-  </programme>
-  <programme start="20260516184000 " stop="20260516185500 " channel="kvf.fo">
-    <title>Hálvleiksstudio</title>
-  </programme>
-  <programme start="20260516185500 " stop="20260516193500 " channel="kvf.fo">
-    <title>Hondbóltur: Føroyar - Bosnia</title>
-    <sub-title>- seinni hálvleikur</sub-title>
-  </programme>
-  <programme start="20260516193500 " stop="20260516200000 " channel="kvf.fo">
-    <title>Eftir dystin</title>
-  </programme>
-  <programme start="20260516200000 " stop="20260516204000 " channel="kvf.fo">
-    <title>Fjarskotin kærleiki</title>
-    <sub-title>- donsk røð frá 2026 (12:13)</sub-title>
-    <desc>Marcus skal taka stóru avgerðina millum sínar seinastu tvær kvinnur, so hann vil vísa teimum sítt elskaða Djursland. Samuel bjóðar sínum kvinnum við á eina seinastu ferð í Ree Park, har bæði villdjór og villar kenslur eru á skránni. Árg.: 7 Partur: 12 Framl. ár: 2026 Framl. fyri TV2: TV 2 DANMARK</desc>
-  </programme>
-  <programme start="20260516204000 " stop="20260516210000 " channel="kvf.fo">
-    <title>Úr savninum: Í luftini við Gretu</title>
-    <desc>Í luftini er sjónvarpsrøð við tónleiki og práti úr Kringvarpshøllini. Í sendingini tosa vit við fløguaktuellar tónleikarar, sum framføra nøkur løg av nýggjastu útgávuni. Hesa ferð er Gretu Svabo Bech gestur. Sendingin er gjørd í samstarvi við Faroe Music Export.</desc>
-  </programme>
-  <programme start="20260516210000 " stop="20260517070000 " channel="kvf.fo">
-    <title>The Almond and the Seahorse</title>
-    <sub-title>- bretskur filmur frá 2022</sub-title>
-    <desc>Fornfrøðingurin Sarah (Rebel Wilson) og arkitekturin Toni (Charlotte Gainsbourg) stríðast við ein harðan veruleika: maðurin hjá Sarah og unnustan hjá Toni eru rakt av heilaskaðum og hava mist minnið. Tær hittast á einum sjúkrahúsi og finna eitt óvæntað samband. Framleiðsluár: 2022 Aldursmark: 15</desc>
-  </programme>
   <programme start="20260517070000 " stop="20260517072500 " channel="kvf.fo">
     <title>MORSA 1:12</title>
     <sub-title>- føroysk barnarøð</sub-title>
@@ -304,8 +272,28 @@
     <sub-title>- bretsk dokumentarrøð (2:4)</sub-title>
     <desc>Liverpool, august 2022. Innan minni enn tveir dagar verða 28 ára gamla Ashley og 9 ára gamla Olivia skotin í heimum sínum. Tvey ósek offur. Býurin og landið eru í sjokki. Løgreglan heitir á kriminella umhvørvið í Liverpool um at avdúka drápsmannin. Skjótt kemur fram, at Ashley og Olivia syrgiliga hava staðið í skotlinjuni millum  kriminellar bólkar, sum nú mugu taka støðu til, um tey vilja siga, hvør stendur aftan fyri. Framleiðsluár: 2024</desc>
   </programme>
-  <programme start="20260522224000 " stop="20260522234000 " channel="kvf.fo">
+  <programme start="20260522224000 " stop="20260523180000 " channel="kvf.fo">
     <title>Dagur og vika</title>
     <sub-title>- við teksti</sub-title>
+  </programme>
+  <programme start="20260523180000 " stop="20260523182500 " channel="kvf.fo">
+    <title>Úr savninum: Gimmi</title>
+    <sub-title>- føroyskur dokumentarur frá januar 2022</sub-title>
+    <desc>Fyri 6 árum síðani brunnu húsini hjá Gimma Hansen í Rituvík niður í grund. Við eitt fór lívsverkið, hann sjálvur hevði smíðað sær, upp í royk. Men einki er so ringt, at tað ikki er gott fyri okkurt. 93 ára gamli maðurin av Slættanesi er nú fluttur inn í kjallaran hjá soninum á Signabø, har hann tekur bussin hvønn fyrrapart til Havnar. Í býarlívinum hevur Gimmi Hansen fingið nýtt lív og nýggjar vinir. Vit fylgdu honum ein summardag. Finnur Koba hevur klipt og lagt til rættis. Jónfinn Stenberg hevur filmað og klipt.</desc>
+  </programme>
+  <programme start="20260523182500 " stop="20260523190500 " channel="kvf.fo">
+    <title>Fjarskotin kærleiki</title>
+    <sub-title>-  donsk røð frá 2026 (13:13)</sub-title>
+    <desc>Samuel er undir trýsti, nú tað endaliga valið skal takast. Samstundis gleða hinir menninir seg til at brúka seinastu náttina saman við kvinnunum. Men heldur kærleikin, tá kvinnurnar fara heim, ella fara krákurnar enn einaferð at sita einsamallar eftir? Partur: 13 Framl. ár: 2026 Framl. fyri TV2: TV 2 DANMARK</desc>
+  </programme>
+  <programme start="20260523190500 " stop="20260523211500 " channel="kvf.fo">
+    <title>Pot-au-feu: Vegurin til hjartað</title>
+    <sub-title>- franskur romatiskur dramafilmur frá 2023</sub-title>
+    <desc>Hin dugnaligi kokkurin Eugénie (Juliette Binoche) hevur arbeitt hjá tí kenda stjørnukokkinum Dodin (Benoît Magimel) í meira enn 20 ár. Saman skapa tey heilt framúrskarandi rættir, sum undra heimsins mest kendu kokkar. Sum tíðin er liðin, er virðingin teirra millum ment til eitt romantiskt samband. Men Eugénie er glað fyri sítt frælsi og hevur ongantíð ynskt at giftast við Dodin. Tí avger hann at gera nakað, hann ongantíð hevur gjørt áður: at gera mat til hana. Viðvirkandi: Eugénie: Juliette Binoche, Dodin Bouffant: Benoît Magimel og Rabaz: Emmanuel Salinger. Framleiðsluár: 2023 Aldursmark: 7</desc>
+  </programme>
+  <programme start="20260523211500 " stop="20260523221500 " channel="kvf.fo">
+    <title>Marlowe</title>
+    <sub-title>- am. krimifilmur frá 2022</sub-title>
+    <desc>Los Angeles 1938. Her verður privatdetektivurin Philip Marlowe (Liam Neeson) leigaður av arvinginum Clare Cavendish (Diane Kruger) til at finna hennara horvna elskaða Nico Peterson (François Arnaud). Hann arbeiðir í filmsvinnuni, og Marlowe finnur út av, at hann er yvirkoyrdur av einum bili uttan fyri ein náttklubba. Marlowe er skeptiskur um hesa frágreiðingina og kemur skjótt á sporið av einum máli um korruptión og svik. Viðvirkandi: Philip Marlowe: Liam Neeson, Clare Cavendish: Diane Kruger og Dorothy Quincannon: Jessica Lange. Framleiðsluár: 2022 Aldursmark: 15</desc>
   </programme>
 </tv>

@@ -3,196 +3,24 @@
   <channel id="dr1.dk">
     <display-name>DR1</display-name>
   </channel>
-  <programme start="20260515233000 +0000" stop="20260516001500 +0000" channel="dr1.dk">
-    <title>Juveltyven Joan (3:6)</title>
-    <desc>Krimidrama baseret på virkelige hændelser
-(Joan)
-Joan vil forsøge at bevise, at hun kan give Kelly et stabilt hjem. Målet er at overgå Kellys plejeforældre økonomisk. Sammen med Boisie vil hun stjæle et værdifuldt maleri. Ikke alt går efter planen, men det er blot den første af Joans mange ideer om, hvordan hun kan berige sig selv.</desc>
-  </programme>
-  <programme start="20260516001500 +0000" stop="20260516020000 +0000" channel="dr1.dk">
-    <title>Hercule Poirot: Liget på golfbanen</title>
-    <desc>Krimiserie med David Suchet som Agatha Christies berømte detektiv. 
-(Agatha Christie's Poirot)
-Poirot og Hastings holder ferie i Frankrig, da Poirot igen må i arbejdstøjet. En mand bliver bortført - og senere dukker hans lig op på en golfbane. Jagten på morderen bliver et kapløb med den lokale detektiv Giraud, for Giraud har den frækhed at udfordre den lille belgier - hvem opklarer først sagen?</desc>
-    <episode-num system="xmltv_ns">5.2.0</episode-num>
-  </programme>
-  <programme start="20260516020000 +0000" stop="20260516024000 +0000" channel="dr1.dk">
-    <title>På vildspor med Monsen, Monsen og Mattis (6:7)</title>
-    <desc>Vildmarksentusiasten Lars Monsen, hans lillebror Jan og deres ven Mattis sætter denne gang ud på en krævende ekspedition. De vil krydse Finnmark på tværs med hundeslæde. En tur på 400 kilometer, der går gennem skov og vejrbidte bjergstrækninger, før de når i mål i Alta. Men kun en af dem har erfaring med at køre hundeslæde, og der er meget at lære.</desc>
-    <episode-num system="xmltv_ns">0.5.0</episode-num>
-  </programme>
-  <programme start="20260516024000 +0000" stop="20260516043000 +0000" channel="dr1.dk">
-    <title>Udsendelsesophør</title>
-    <desc>.</desc>
-  </programme>
-  <programme start="20260516043000 +0000" stop="20260516050000 +0000" channel="dr1.dk">
-    <title>Min allerførste date II (2:7)</title>
-    <desc>Australsk dokumentarserie fra 2024. 
-(Better Date than Never)
-Kento kæmper med at finde på interessante emner at tale om med sin date. Vil hans Hot Wheels-samling skræmme Madeline væk? Di skal endelig på en date.  Opstår der sød musik imellem dem? Og hvordan går det, når Asher lægger biblen på hylden og endelig træder ind i datingverdenen?</desc>
-    <episode-num system="xmltv_ns">1.1.0</episode-num>
-  </programme>
-  <programme start="20260516050000 +0000" stop="20260516053000 +0000" channel="dr1.dk">
-    <title>Min allerførste date II (3:7)</title>
-    <desc>Australsk dokumentarserie fra 2024. 
-(Better Date than Never)
-28-årige Charles er homoseksuel og synes dating er intimiderende. Alligevel forsøger han sig nu med speeddating. Jack og hans første date Phoebe har en masse tilfælles. Men de synes begge to, at det er svært at smalltalke. 28-årige Allycia med trisomi 18 drømmer om kærlighed, romantik og eventyr - helst med skuespilleren Chris Hemsworth.</desc>
-    <episode-num system="xmltv_ns">1.2.0</episode-num>
-  </programme>
-  <programme start="20260516053000 +0000" stop="20260516060000 +0000" channel="dr1.dk">
-    <title>Min allerførste date II (4:7)</title>
-    <desc>Australsk dokumentarserie fra 2024. 
-(Better Date than Never)
-Allycia gør sig klar til sin først date. Vil han være prinsen på den hvide hest? Kentos date med Rebecca går forbløffende godt. Måske det kan udvikle sig til mere imellem dem? Inden Charles kaster sig ud i speeddating, får han støtte og råd af sin gode ven Jimmy, der anbefaler ham at være sig selv - plus 10 procent mere.</desc>
-    <episode-num system="xmltv_ns">1.3.0</episode-num>
-  </programme>
-  <programme start="20260516060000 +0000" stop="20260516061500 +0000" channel="dr1.dk">
-    <title>TVA</title>
-    <desc>Den kongelige undersøger, Troels Lund Poulsen (V), fortsætter forhandlingerne om at danne en ny regering. I dag mødes han blandt andet med Socialdemokratiet, hvis økonomiske politik han ellers har beskrevet som 'forkert' i valgkampen. Troels Lund Poulsen har allerede afskåret Alternativet, Enhedslisten og SF med den begrundelse, at afstanden til deres økonomiske politik er for stor.
-
-TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260516061500 +0000" stop="20260516070500 +0000" channel="dr1.dk">
-    <title>Hjemmefronten II (5:6)</title>
-    <desc>Britisk dramaserie fra 2017.
-(Home Fires)
-2. Verdenskrig kaster lange skygger over en engelsk landsby. Mændene drager i krig, og kvinderne må kæmpe en sej kamp for at få livet til at fungere på hjemmefronten.</desc>
-  </programme>
-  <programme start="20260516070500 +0000" stop="20260516074949 +0000" channel="dr1.dk">
-    <title>Hjemmefronten II (6:6)</title>
-    <desc>Britisk dramaserie fra 2017.
-(Home Fires)
-2. Verdenskrig kaster lange skygger over en engelsk landsby. Mændene drager i krig, og kvinderne må kæmpe en sej kamp for at få livet til at fungere på hjemmefronten.</desc>
-  </programme>
-  <programme start="20260516074949 +0000" stop="20260516075500 +0000" channel="dr1.dk">
-    <title>Loppemarkedstips: Porcelæn og glas</title>
-    <desc>Svensk livsstilsprogram fra 2021.
-(Loppistipsen)
-Porcelæn fra 60'erne og værdifuld glaskunst på loppemarkedet i Skurup. Du får tips om, hvordan du skal prutte om prisen på et loppemarked, og vært Sofia Rågenklint får en opgave af antikeksperten Maria Granström.</desc>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-  </programme>
-  <programme start="20260516075500 +0000" stop="20260516092500 +0000" channel="dr1.dk">
-    <title>Vera: Pigen fra Irak</title>
-    <desc>Engelsk krimiserie fra 2013.
-(Vera: Poster Child)
-Den erfarne og ligefremme Vera Stanhope er kriminalinspektør i Nordøstengland. Kirurgen Dan Marsden bliver skudt i sit hjem, og hans to teenagedøtre bortføres. Vera og hendes hold kaster sig ud i et kapløb med tiden for at finde drabsmanden og redde de to søstre. Men snart tager sagen en overraskende og voldsom drejning.</desc>
-    <episode-num system="xmltv_ns">2.0.0</episode-num>
-  </programme>
-  <programme start="20260516092500 +0000" stop="20260516095000 +0000" channel="dr1.dk">
-    <title>Da jeg var ung - Hvad ville Madonna have gjort?</title>
-    <desc>Smurte du dig ind i selvbruner som Christian Bonde eller gik du på jazzklub som Asger Aamund? Og hvad spillede, når festen toppede? Kendte danskere mødes på tværs af generationer og genoplever festerne og de vilde nætter, hvor grænser blev rykket og identiteten formet.
-Uffe Elbæk og U$O har begge festet i Aarhus - med årtiers mellemrum. Sammen mindes de turene i byen.</desc>
-    <episode-num system="xmltv_ns">0.2.0</episode-num>
-  </programme>
-  <programme start="20260516095000 +0000" stop="20260516100000 +0000" channel="dr1.dk">
-    <title>P3 Essensen - Historien om Grønlands flag, som du måske ikke kender</title>
-    <desc>Grønlænderne har haft et modsætningsfyldt forhold til Danmark i flere hundrede år. Først som norsk-dansk handelskoloni - men i endnu højere grad efter præsten Hans Egede i 1721 kom til Grønland, og kolonisteder som Julianehåb og Upernavik blev anlagt. Men i 1985 fik Grønland sit eget flag - det foregik dog på en speciel måde. Her er historien om, hvordan Grønland fik sit flag.</desc>
-    <episode-num system="xmltv_ns">0.2.0</episode-num>
-  </programme>
-  <programme start="20260516100000 +0000" stop="20260516101500 +0000" channel="dr1.dk">
-    <title>TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260516101500 +0000" stop="20260516105000 +0000" channel="dr1.dk">
-    <title>Kontant: Køkkenkrejlere</title>
-    <desc>En række køkkenfirmaer efterlader frustrerede og skuffede kunder, når de drejer nøglen om. Kunderne betaler forud for dyre køkkener og badeværelser, men får slet ikke det, de betaler for. Tilsyneladende har virksomhederne ikke noget med hinanden at gøre, men både kunder og tidligere medarbejdere fortæller, at den samme mand er involveret, hver gang det går galt. Jacob Kragelund undersøger, hvem der i virkeligheden gemmer sig bag de mange kuldsejlede køkkenfirmaer.
-www.dr.dk/kontant</desc>
-    <episode-num system="xmltv_ns">2025.7.0</episode-num>
-  </programme>
-  <programme start="20260516105000 +0000" stop="20260516112000 +0000" channel="dr1.dk">
-    <title>Fede forhold (2:6) Det rammer helt inde i hjertekulen</title>
-    <desc>I Rønnede er 35-årige Jacob fra Rønnede vågnet med vejrtrækningsproblemer, hvilket læge Pia Norup mistænker skyldes hans vægt og generelle sundhed. Hos Ditte og Kasper har et gammelt traume hos Ditte kilet sig ned mellem dem. Ernæringsekspert Suzy Wengel er på besøg hos alle par for at introducere en livsstilsomlægning med mindre ultraforarbejdet mad, men især Jacob fra Nykøbing Falster er mistroisk over for de nye tiltag.</desc>
-    <episode-num system="xmltv_ns">6.1.0</episode-num>
-  </programme>
-  <programme start="20260516112000 +0000" stop="20260516115000 +0000" channel="dr1.dk">
-    <title>Fortidens hemmeligheder III: Sofie Gråbøl</title>
-    <desc>Efter et liv med utallige store roller er skuespiller Sofie Gråbøl hovedperson i sin egen slægts fortælling. Hendes rejse ind i fortiden vækker ukendte familiehistorier til live - og opfylder et inderligt ønske efter morens død.</desc>
-    <episode-num system="xmltv_ns">2.1.0</episode-num>
-  </programme>
-  <programme start="20260516115000 +0000" stop="20260516124500 +0000" channel="dr1.dk">
-    <title>Den danske kvinde (6:6)</title>
-    <desc>Islandsk komediedramaserie fra 2025.
-(The Danish Woman)
-Ditte opdager, at hendes naboer ikke er værdige til at modtage al hendes kærlighed. Hun skrider til drastisk handling imod sin svenske fjende, men alt synes at gå galt for hende. Selv hendes mission for den danske efterretningstjeneste viser sig at forråde hende kerneværdier. Og snart må hun kæmpe for sit liv mod bevæbnede mænd.
-Medvirkende: Trine Dyrholm, Jens Albinus m.fl.
-Instruktion: Benedikt Erlingsson.</desc>
-    <episode-num system="xmltv_ns">0.5.0</episode-num>
-  </programme>
-  <programme start="20260516124500 +0000" stop="20260516134500 +0000" channel="dr1.dk">
-    <title>Pokalfinale: FC Nordsjælland - HB Køge Women (k), direkte</title>
-    <desc>Så skal vi have kåret en pokalmester, når Capelli Sport Stadion i Køge lægger kunstgræs til årets pokalfinale mellem HB Køge og FC Nordsjælland. Skal HB Køge på sin vanlige hjemmebane gå hele vejen for første gang nogensinde, eller skal det lykkes FC Nordsjælland at løfte trofæet for fjerde gang på bare seks år?
-Kommentatorer: Mathias Jacobsen og Arnela Muminovic.</desc>
-  </programme>
-  <programme start="20260516134500 +0000" stop="20260516151500 +0000" channel="dr1.dk">
-    <title>Pokalfinale: FC Nordsjælland - HB Køge Women (k), direkte</title>
-    <desc>Så skal vi have kåret en pokalmester, når Capelli Sport Stadion i Køge lægger kunstgræs til årets pokalfinale mellem HB Køge og FC Nordsjælland. Skal HB Køge på sin vanlige hjemmebane gå hele vejen for første gang nogensinde, eller skal det lykkes FC Nordsjælland at løfte trofæet for fjerde gang på bare seks år?
-Kommentatorer: Mathias Jacobsen og Arnela Muminovic.</desc>
-  </programme>
-  <programme start="20260516151500 +0000" stop="20260516161000 +0000" channel="dr1.dk">
-    <title>Stolthed og fordom (1:6)</title>
-    <desc>Britisk romantisk drama-miniserie fra 1995.
-(Pride and Prejudice)
-Mrs. Bennets mål i livet er at få sine fem døtre gift. Da de rige ungkarle Darcy og Bingley flytter til egnen, øjner hun fluks en chance for at få afsat et par af døtrene. Den ældste, Jane, bliver straks betaget af den rare Bingley. Det er derimod ikke just kærlighed ved første blik, da den næstældste datter, Elizabeth, møder den flotte, men tilknappede og tilsyneladende arrogante Darcy.
-Medvirkende: Jennifer Ehle, Colin Firth, Susannah Harker m.fl.</desc>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-  </programme>
-  <programme start="20260516161000 +0000" stop="20260516163000 +0000" channel="dr1.dk">
-    <title>DRs bedste - kort fortalt: Tab og vind</title>
-    <desc>Programmer hvor vi quizzer samler familien og har næsten altid været der og så skal vi tæt på virkeligheden. Her får du DRs bedste, kort fortalt.</desc>
-  </programme>
-  <programme start="20260516163000 +0000" stop="20260516165000 +0000" channel="dr1.dk">
-    <title>TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260516165000 +0000" stop="20260516170000 +0000" channel="dr1.dk">
-    <title>Før søndagen: Det dufter lysegrønt af græs</title>
-    <desc>"Det dufter lysegrønt af græs" - Katrine Muff og Mathias Hammer introducerer og synger ugens salme.
-I "Før søndagen" synger Muff, Hammer og DRs kor fra den store danske sang- og salmeskat, der er opbygget gennem århundreder.</desc>
-    <episode-num system="xmltv_ns">0.26.0</episode-num>
-  </programme>
-  <programme start="20260516170000 +0000" stop="20260516173000 +0000" channel="dr1.dk">
-    <title>Jens og Isak på tynd is (5:5)</title>
-    <desc>Eventyret hos inuitterne går mod sin afslutning, når drengene drager til iskanten for at opleve hvaljagt. Både Jens og Isak får dybets kræfter at føle.</desc>
-    <episode-num system="xmltv_ns">0.4.0</episode-num>
-  </programme>
-  <programme start="20260516173000 +0000" stop="20260516180000 +0000" channel="dr1.dk">
-    <title>Ro på! (6:6) Sprænger kæmpe ballon!</title>
-    <desc>Det er finale i Ro På! Deltagerne skal pynte op til fest helt uden at larme, for hver lyd kan udløse stød fra Maria, der holder skarpt øje. Til sidst skal to deltagere ud i en sidste og endelig duel om titlen som årets vinder, men som altid er tingene ikke, som de ser ud i Ro På. Alle de tidligere deltagere får nemlig mulighed for at påvirke finalen og straffe finalisterne. Hvem holder roen og vinder Ro På?</desc>
-    <episode-num system="xmltv_ns">1.5.0</episode-num>
-  </programme>
-  <programme start="20260516180000 +0000" stop="20260516190000 +0000" channel="dr1.dk">
-    <title>Hotel Romantik (5:8) Man bliver aldrig for gammel til poolparty</title>
-    <desc>På Hotel Romantik er der i den grad amoriner i luften, og et af parrene springer allerede nu ud i at flytte sammen for at se, om kærligheden kan bære. Buller har fået et godt øje til Iben, mens Palle erkender, at han skal til at kigge indad efter en tragisk ulykke.</desc>
-    <episode-num system="xmltv_ns">1.4.0</episode-num>
-  </programme>
-  <programme start="20260516190000 +0000" stop="20260516224000 +0000" channel="dr1.dk">
-    <title>Eurovision Song Contest 2026 - Finale</title>
-    <desc>Søren Torpegaard Lund og Danmark er blandt finalisterne i Eurovision Song Contest, og på forhånd fremhævet som en af årets største vinderfavoritter af både eksperter, fans og bookmakere. Nu skal vinderen af Eurovision Song Contest 2026 kåres i jubilæumsåret, hvor verdens største musikkonkurrence fylder 70 år. Finalen sendes direkte fra Wien i Østrig, hvor 25 lande mødes i kampen om titlen og trofæet. 20 lande har kvalificeret sig gennem semifinalerne tidligere på ugen, mens Frankrig, Storbritannien, Tyskland og Italien samt værtslandet Østrig er forhåndskvalificerede. Årets finale tegner til at blive både stærk med flere oplagte bud på en vinder udover Danmark - og med potentiale for både overraskelser og nervepirrende drama, når vinderen skal findes foran et globalt publikum på op mod 170 millioner seere.
-Dansk kommentator: Ole Tøpholm.</desc>
-    <episode-num system="xmltv_ns">2025.2.0</episode-num>
-  </programme>
-  <programme start="20260516224000 +0000" stop="20260517001000 +0000" channel="dr1.dk">
+  <programme start="20260516231000 +0000" stop="20260517004000 +0000" channel="dr1.dk">
     <title>Mord i Wales III (4)</title>
     <desc>Walisisk krimiserie fra 2016.
 (Hinterland/Y gwyll)
 Den dømte morder Catrin John findes død. Catrin var tidligere beboer på det barske børnehjem i Devil's Bridge, og Tom Mathias får mistanke om, at hendes bortgang har forbindelse til ekspolitimanden Iwan Thomas' mystiske død. Prosser, Toms chef, giver ham strenge ordrer på at droppe sagen, men det bremser på ingen måde den stædige politimand.</desc>
     <episode-num system="xmltv_ns">2.3.0</episode-num>
   </programme>
-  <programme start="20260517001000 +0000" stop="20260517015000 +0000" channel="dr1.dk">
+  <programme start="20260517004000 +0000" stop="20260517022500 +0000" channel="dr1.dk">
     <title>Hercule Poirot: Stumt vidne</title>
     <desc>Krimiserie med David Suchet som Agatha Christies berømte detektiv. 
 (Agatha Christie's Poirot)
 Kun foxterrieren Bob ved, hvem gerningsmanden er, da Emily Arundel bliver myrdet. Og hvordan får Poirot Bob til at afsløre sandheden?</desc>
     <episode-num system="xmltv_ns">5.3.0</episode-num>
   </programme>
-  <programme start="20260517015000 +0000" stop="20260517023500 +0000" channel="dr1.dk">
+  <programme start="20260517022500 +0000" stop="20260517030500 +0000" channel="dr1.dk">
     <title>På vildspor med Monsen, Monsen og Mattis (7:7)</title>
     <desc>Der er hvide vidder så langt øjet rækker. Efter to uger på farten fortsætter de tre outdoor-venner jagten på godt fiskevand og bedre vejr. Og særligt én af dem sætter alt ind på at vinde fiskekonkurrencen.</desc>
     <episode-num system="xmltv_ns">0.6.0</episode-num>
-  </programme>
-  <programme start="20260517023500 +0000" stop="20260517030000 +0000" channel="dr1.dk">
-    <title>Udsendelsesophør</title>
-    <desc>.</desc>
   </programme>
   <programme start="20260517043000 +0000" stop="20260517050000 +0000" channel="dr1.dk">
     <title>Min allerførste date II (5:7)</title>
@@ -217,7 +45,9 @@ Kento er begejstret over, at Rebecca har sagt ja til at tage til Cosplay-bal med
   </programme>
   <programme start="20260517060000 +0000" stop="20260517061500 +0000" channel="dr1.dk">
     <title>TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+    <desc>Sangen "Bangaranga" var ikke spået de store chancer ved Eurovision - men bulgarske Dara sikrede alligevel sit lands første sejr i sangkonkurrencen.
+
+TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
   </programme>
   <programme start="20260517061500 +0000" stop="20260517070500 +0000" channel="dr1.dk">
     <title>I dinosaurernes fodspor (5:6)</title>
@@ -264,7 +94,7 @@ ZK forsøger at berolige sin far, men det er svært, da en fortid i et kriminelt
   </programme>
   <programme start="20260517105500 +0000" stop="20260517112500 +0000" channel="dr1.dk">
     <title>Ro på! (6:6) Sprænger kæmpe ballon!</title>
-    <desc>Det er finale i Ro På! Deltagerne skal pynte op til fest helt uden at larme, for hver lyd kan udløse stød fra Maria, der holder skarpt øje. Til sidst skal to deltagere ud i en sidste og endelig duel om titlen som årets vinder, men som altid er tingene ikke, som de ser ud i Ro På. Alle de tidligere deltagere får nemlig mulighed for at påvirke finalen og straffe finalisterne. Hvem holder roen og vinder Ro På?</desc>
+    <desc>Det er finale i Ro på! Deltagerne skal pynte op til fest helt uden at larme, for hver lyd kan udløse stød fra Maria, der holder skarpt øje. Til sidst skal to deltagere ud i en sidste og endelig duel om titlen som årets vinder, men som altid er tingene ikke, som de ser ud i Ro på!. Alle de tidligere deltagere får nemlig mulighed for at påvirke finalen og straffe finalisterne. Hvem holder roen og vinder Ro på!?</desc>
     <episode-num system="xmltv_ns">1.5.0</episode-num>
   </programme>
   <programme start="20260517112500 +0000" stop="20260517122000 +0000" channel="dr1.dk">
@@ -1273,5 +1103,164 @@ Poirot: David Suchet.
 Hastings: Hugh Fraser.
 Japp: Philip Jackson.
 Instruktion: Brian Farnham.</desc>
+  </programme>
+  <programme start="20260523011500 +0000" stop="20260523025500 +0000" channel="dr1.dk">
+    <title>Mordet i Venedig</title>
+    <desc>Amerikansk krimi fra 2023.
+(A Haunting in Venice)
+Mesterdetektiven Hercule Poirot hviler de små grå celler i selvvalgt eksil i Venedig. Modstræbende lader han sig overtale til at overvære en seance i et forfaldent palæ. Desværre bliver en af gæsterne myrdet, og snart kastes den erfarne opdager ind i en dyster verden af skygger og hemmeligheder.
+Medvirkende: Kenneth Branagh, Michelle Yeoh, Jamie Dornan m.fl.
+Instruktion: Kenneth Branagh.</desc>
+  </programme>
+  <programme start="20260523025000 +0000" stop="20260523032500 +0000" channel="dr1.dk">
+    <title>Udsendelsesophør</title>
+    <desc>.</desc>
+  </programme>
+  <programme start="20260523042500 +0000" stop="20260523060000 +0000" channel="dr1.dk">
+    <title>En plads i manegen</title>
+    <desc>Katja Schumann, den verdensberømte cirkusartist og hestetræner, kæmper med at oversætte sin gamle verden til en ny tid. Kan hun give sin livsform videre uden at miste sig selv? Filmen skildrer en rejse mellem tradition, tvivl og tillid.</desc>
+  </programme>
+  <programme start="20260523060000 +0000" stop="20260523061500 +0000" channel="dr1.dk">
+    <title>TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260523061500 +0000" stop="20260523071000 +0000" channel="dr1.dk">
+    <title>Stolthed og fordom (1:6)</title>
+    <desc>Britisk romantisk drama-miniserie fra 1995.
+(Pride and Prejudice)
+Mrs. Bennets mål i livet er at få sine fem døtre gift. Da de rige ungkarle Darcy og Bingley flytter til egnen, øjner hun fluks en chance for at få afsat et par af døtrene. Den ældste, Jane, bliver straks betaget af den rare Bingley. Det er derimod ikke just kærlighed ved første blik, da den næstældste datter, Elizabeth, møder den flotte, men tilknappede og tilsyneladende arrogante Darcy.
+Medvirkende: Jennifer Ehle, Colin Firth, Susannah Harker m.fl.</desc>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+  </programme>
+  <programme start="20260523071000 +0000" stop="20260523081000 +0000" channel="dr1.dk">
+    <title>Stolthed og fordom (2:6)</title>
+    <desc>Britisk romantisk drama-miniserie fra 1995.
+(Pride and Prejudice)
+Mr. Bennets fætter, mr. Collins, melder sin ankomst til huset, som han står til at arve, når mr. Bennet dør. Mr. Bennet håber, at mr. Collins vil fri til en af hans døtre. Og han forventer også, at Jane snart bliver forlovet med Bingley.
+Medvirkende: Jennifer Ehle, Colin Firth, Susannah Harker m.fl.</desc>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+  </programme>
+  <programme start="20260523081000 +0000" stop="20260523091000 +0000" channel="dr1.dk">
+    <title>Hammerslag 2023 - Drømmen om Italien</title>
+    <desc>Hvem har ikke prøvet at være på ferie et sted, der var så dejligt, at man straks begyndte at drømme om at købe en feriebolig i området? Derfor inviterer vært, Sofie Østergaard, en tur til Norditalien, hvor der I denne specialudgave af Hammerslag skal gættes priser på tre helt spektakulære ejendomme. Eksperterne Mira Lie Nielsen og Christian Torp dyster mod Kristine Virén og Lars lyng, når der skal gættes pris på et gammelt kloster i Piemonte. Bagefter går turen til et gammelt landsted, der emmer af Italiensk charme. Og afgørende bliver det, når prisen skal gættes på liebhavervilla i Ligurien med en storslået udsigt over middelhavet.</desc>
+    <episode-num system="xmltv_ns">2022.14.0</episode-num>
+  </programme>
+  <programme start="20260523092000 +0000" stop="20260523100000 +0000" channel="dr1.dk">
+    <title>Tingbjerg eksperimentet (1:2) De udvalgte</title>
+    <desc>"Vi skal integreres i Tingbjerg. Det bliver fedt", siger Thomas og Maja. En håndfuld ressourcestærke børnefamilier udvælges til et kontroversielt boligeksperiment i Tingbjerg. De drømmer om at forandre bydelen. Men de gamle beboere vil ikke "reddes" af de nye tilflyttere. Dansk dokumentarserie fra 2026.</desc>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+  </programme>
+  <programme start="20260523100000 +0000" stop="20260523101500 +0000" channel="dr1.dk">
+    <title>TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260523101500 +0000" stop="20260523104500 +0000" channel="dr1.dk">
+    <title>Da jeg var ung - Har du været sådan en rebel?</title>
+    <desc>Var dit ungdomsoprør en demonstration i gaden - eller en næsepiercing? Bob Dylans sange lærte unge at stå ved sig selv, mens South Park gav unge et nyt og anderledes blik på en verden i opløsning.
+Kendte danskere mødes på tværs af generationer og genbesøger de øjeblikke, hvor de sagde fra, fandt deres stemme eller turde gå imod strømmen - om det var en kamp mod systemet eller bare forventningerne til, hvem de skulle være.
+Jan Elhøj og Helin Erdem tager tilbage til blokken, hvor de voksede op. Her opdager de, at deres ungdomsoprør minder mere om hinanden, end de havde forestillet sig.</desc>
+    <episode-num system="xmltv_ns">0.3.0</episode-num>
+  </programme>
+  <programme start="20260523105000 +0000" stop="20260523112000 +0000" channel="dr1.dk">
+    <title>Fede forhold (3:6) Mændene sidder her af tvang!</title>
+    <desc>For alle tre par er den nye livsomlægning i fuld gang. Der bliver spist bedre, motioneret mere og talt sammen på nye måder, og det kan ses på vægten. Men der er stadig meget at arbejde med hos alle par, og for første gang nogensinde møder deltagerne hinanden til en fællessession hos terapeut Frej Prahl, og det er noget, som især mændene ikke har set frem til.</desc>
+    <episode-num system="xmltv_ns">6.2.0</episode-num>
+  </programme>
+  <programme start="20260523112000 +0000" stop="20260523115000 +0000" channel="dr1.dk">
+    <title>Fortidens hemmeligheder III: Anders Fogh</title>
+    <desc>Tidligere statsminister og generalsekretær for NATO Anders Fogh Rasmussen får vendt op og ned på alt, hvad han troede, han vidste om sin familie, når han præsenteres for sine forfædre. Fortællingerne spænder fra jyske bønder til texanske eventyrere - og forbindelser til en kendt danmarkshistorisk mordsag. Og så får han måske afklaret, hvor hans punktlighed stammer fra.</desc>
+    <episode-num system="xmltv_ns">2.2.0</episode-num>
+  </programme>
+  <programme start="20260523115000 +0000" stop="20260523125000 +0000" channel="dr1.dk">
+    <title>Vilde vidunderlige Danmark - Det åbne land (3:5)</title>
+    <desc>Det kræver ofte både kamp og kreativitet at overleve i det åbne land. Alligevel er vores marker, enge, heder og overdrev fyldt med liv. Sommerfuglen ensianblåfugl narrer myrerne til at opfostre dens unger, og de brunstige kronhjorte kæmper gevir mod gevir om retten til at parre sig med flest, alt imens stærenes smukke dans fylder himlen og skaber sort sol over landet. 
+Fortæller: Lars Mikkelsen.</desc>
+    <episode-num system="xmltv_ns">0.2.0</episode-num>
+  </programme>
+  <programme start="20260523125000 +0000" stop="20260523133500 +0000" channel="dr1.dk">
+    <title>På rejse med Griff - Australien (5:6) Fra Darwin til Alice Springs</title>
+    <desc>Britisk dokumentarserie fra 2020.
+(Griff's Great Australian Rail Trip)
+I Darwin møder Griff nyhedsredaktøren Matt, der kan alle de gode historier. Derefter stiger han ombord på det ikoniske tog Ghan, og drager fra de fugtige troper sydpå mod Alice Springs. I Katherine stiger han til vejrs for at få en unik udsigt over Nitmiluk National Park. I Alice Springs venter et par overraskelser og et par overlevelsestips fra en ældre aboriginer, inden Griff rider ind i solnedgangen på en kamel.</desc>
+    <episode-num system="xmltv_ns">0.4.0</episode-num>
+  </programme>
+  <programme start="20260523133500 +0000" stop="20260523140500 +0000" channel="dr1.dk">
+    <title>Bomberydderne - Midtbyen lukkes</title>
+    <desc>En syrebombe i Viborg. En luftbombe driver i land i Odense. Og et enkelt opkald er nok til at lukke en hel midtby ned.
+Bomberydderne rykker ud, når ingen andre kan - og hvert sekund tæller.
+Midt i presset kæmper aspiranten Hanne for at bestå den benhårde uddannelse og bevise, at hun hører til i en af landets mest krævende enheder.</desc>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+  </programme>
+  <programme start="20260523140500 +0000" stop="20260523150500 +0000" channel="dr1.dk">
+    <title>PETs livvagter (4:6) Et omstridt statsbesøg</title>
+    <desc>Livvagten Anders er med til at beskytte den egyptiske præsident på et statsbesøg i Danmark. Præsidenten er kontroversiel og bliver mødt af demonstrationer og en stærk mediedækning. På grundkurset er aspiranterne nået til helvedesnatten, og her bruger instruktørerne alle midler for at presse aspiranterne til det yderste.</desc>
+    <episode-num system="xmltv_ns">0.3.0</episode-num>
+  </programme>
+  <programme start="20260523150500 +0000" stop="20260523160000 +0000" channel="dr1.dk">
+    <title>Stolthed og fordom (3:6)</title>
+    <desc>Britisk romantisk drama-miniserie fra 1995.
+(Pride and Prejudice)
+Ungkarlene Darcy og Bingley rejser ganske uventet tilbage til London. Det gør ikke Elizabeth Bennet mildere stemt over for den flotte, men tilknappede Darcy. Hendes søster Jane er sønderknust over nyheden om, at Bingley er rejst, og Elizabeth opfatter miseren som Darcys skyld.
+Medvirkende: Jennifer Ehle, Colin Firth, Susannah Harker m.fl.</desc>
+    <episode-num system="xmltv_ns">0.2.0</episode-num>
+  </programme>
+  <programme start="20260523160000 +0000" stop="20260523163000 +0000" channel="dr1.dk">
+    <title>Søren Vesters Have - Biodiversitet og slotshaver</title>
+    <desc>Søren snakker meget og tit om biodiversitet i sin have, og nu undersøger han, hvordan det rent faktisk står til med insekt-, dyre- og blomsterlivet i Thise.
+Men han stopper ikke der, for biodiversitet er også noget, der er fokus på i Danmarks største slotshave - barokhaven på Fredensborg Slot.
+En tilgroet plet i slotshaven giver anledning til, at Søren besøger en ganske særlig person på slottet.</desc>
+    <episode-num system="xmltv_ns">2024.10.0</episode-num>
+  </programme>
+  <programme start="20260523163000 +0000" stop="20260523165000 +0000" channel="dr1.dk">
+    <title>TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260523165000 +0000" stop="20260523170000 +0000" channel="dr1.dk">
+    <title>Før søndagen: Verden er i farver</title>
+    <desc>"Verden er i farver" - Katrine Muff og Mathias Hammer introducerer ugens sang og DR Juniorkoret synger.
+I "Før søndagen" synger Muff, Hammer og DRs kor fra den store danske sang- og salmeskat, der er opbygget gennem århundreder.</desc>
+    <episode-num system="xmltv_ns">0.28.0</episode-num>
+  </programme>
+  <programme start="20260523170500 +0000" stop="20260523180000 +0000" channel="dr1.dk">
+    <title>Mit liv som kaktus</title>
+    <desc>Amerikansk naturdokumentar fra 2023.
+(Cactus Hotel)
+I Sonora-ørkenen i Arizona står en gigantisk kaktus. Den er næsten 15 meter høj og lige så gammel som metusalem. Den majestætiske skyskraber tilbyder mad, vand, ly og beskyttelse mod den varme ørkenvind for områdets vilde dyr. Hver gæst er unik og har udviklet fantastiske overlevelsesstrategier. Og der er altid fuldt booket i det kæmpestore eksklusive ørkenhotel.</desc>
+  </programme>
+  <programme start="20260523180000 +0000" stop="20260523190000 +0000" channel="dr1.dk">
+    <title>Hotel Romantik (6:8) Højt at flyve</title>
+    <desc>Palle venter spændt på, at Henriette og Stephen kommer hjem fra hytteturen for at se, om han stadig har en chance hos Henriette. Kan en romance mellem Iben og Kurt få luft under vingerne efter, at de har vundet en spændende date? Tom bliver endnu engang kastet på dybt vand, da han skal på date og lære tantramassage.</desc>
+    <episode-num system="xmltv_ns">1.5.0</episode-num>
+  </programme>
+  <programme start="20260523190000 +0000" stop="20260523195500 +0000" channel="dr1.dk">
+    <title>The Forsytes (5:6)</title>
+    <desc>Britisk dramaserie fra 2025.
+En guldmine rammes af en katastrofe, hvilket fører til ruin for nogle af Forsyte-firmaets kunder. Irenes håb om at bygge et liv i Paris knuses, da Soames fortæller, at James har problemer med hjertet. Jolyon skaffer Louisa et lille hus - og afviser Frances' krav om, at han afbryder forbindelsen med hende.</desc>
+    <episode-num system="xmltv_ns">0.4.0</episode-num>
+  </programme>
+  <programme start="20260523195500 +0000" stop="20260523212000 +0000" channel="dr1.dk">
+    <title>Vera: Luftkasteller</title>
+    <desc>Engelsk krimiserie fra 2013.
+(Vera: Castles in the Air)
+Kriminalinspektør Vera Stanhope må efterforske en ny drabssag, da den unge fysioterapeut Lizzie Faulkner skydes ned i et luksussommerhus på landet. En voldsdømt krybskytte havner øverst på listen over mistænkte, men var det overhovedet Lizzie Faulkner, morderen var ude efter?</desc>
+    <episode-num system="xmltv_ns">2.1.0</episode-num>
+  </programme>
+  <programme start="20260523212000 +0000" stop="20260523231500 +0000" channel="dr1.dk">
+    <title>The A-Team</title>
+    <desc>Amerikansk actionfilm fra 2010.
+Fire benhårde, bindegale elitesoldater bliver hængt op på en forbrydelse, de ikke har begået. Heldigvis er den kradsbørstige kvartet ikke sådan at løbe om hjørner med, og snart går jagten på den skyldige ind. Det kommer ikke til at gå stille af sig.
+Medvirkende: Liam Neeson, Bradley Cooper, Jessica Biel m.fl.
+Instruktion: Joe Carnahan.</desc>
+  </programme>
+  <programme start="20260523231500 +0000" stop="20260524005500 +0000" channel="dr1.dk">
+    <title>Hercule Poirot: Mord i ørkenen</title>
+    <desc>Engelsk krimi fra 2000.
+(Agatha Christie's Poirot: Murder in Mesopotamia)
+Mesterdetektiven Poirot opsøger sin gamle ven Hastings, der opholder sig ved en stor arkæologisk udgravning i Iraks ørken. Den støvede ørkenlejr lever ikke ligefrem op til Poirots ideer om komfort, men den lille opdager får andet at tænke på, da først en arabisk arbejder og siden arkæologen Leidners kone findes myrdet. Nu er det Poirots tur til at grave.
+Poirot: David Suchet.
+Hastings: Hugh Fraser.
+Leidner: Ron Berglas.
+Instruktion: Tom Clegg.</desc>
+    <episode-num system="xmltv_ns">7.0.0</episode-num>
   </programme>
 </tv>
