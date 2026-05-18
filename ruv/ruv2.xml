@@ -3,28 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260517100000 +0000" stop="20260517105000 +0000" channel="ruv2.is">
-    <title>Ísalönd - með enskum þul</title>
-    <sub-title>(6 af 6)</sub-title>
-    <desc>Heimildarþáttaröð þar sem David Attenborough kannar náttúru og dýralíf á köldustu svæðum jarðar.</desc>
-  </programme>
-  <programme start="20260517120000 +0000" stop="20260517122000 +0000" channel="ruv2.is">
-    <title>Aukafréttatími (með táknmálstúlkun)</title>
-    <desc>
-
-
-
-Aukafréttatími vegna niðurstöðu sveitarstjórnarkosninga.</desc>
-  </programme>
-  <programme start="20260517190000 +0000" stop="20260517192000 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
-  <programme start="20260517203500 +0000" stop="20260517212500 +0000" channel="ruv2.is">
-    <title>Asía - með enskum þul</title>
-    <sub-title>(4 af 7)</sub-title>
-    <desc>Heimildarþáttaröð þar sem David Attenborough kannar náttúru og dýralíf í Asíu, stærstu heimsálfu jarðar.</desc>
-  </programme>
   <programme start="20260518190000 +0000" stop="20260518192700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
@@ -73,6 +51,10 @@ Aukafréttatími vegna niðurstöðu sveitarstjórnarkosninga.</desc>
     <desc>Þættir um óteljandi ævintýri Strumpanna og Kjartans galdrakarls sem fara hér á kostum í Strumpabæ.</desc>
   </programme>
   <programme start="20260523190000 +0000" stop="20260523192000 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260524190000 +0000" stop="20260524192000 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
