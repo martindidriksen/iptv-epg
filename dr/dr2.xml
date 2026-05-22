@@ -3,147 +3,6 @@
   <channel id="dr2.dk">
     <display-name>DR2</display-name>
   </channel>
-  <programme start="20260520233000 +0000" stop="20260521002500 +0000" channel="dr2.dk">
-    <title>Celine Dion - Fra Eurovision til verdensstjerne</title>
-    <desc>Fransk dokumentar fra 2024
-(Céline Dion - A Star is Born)
-Vi tror, vi kender hele historien om den canadiske superstjerne Céline Dion: barndommen i Québec, ægteskabet med manageren og livspartneren René Angélil og de glitrende år i Las Vegas. Men nedenunder bjerget af guld- og platinplader gemmer der sig et næsten glemt kapitel i hendes liv: Eurovision Song Contest 1988. Hvordan kunne Céline i slutningen af 80'erne ende med at repræsentere Schweiz - og ovenikøbet vinde konkurrencen med sangen 'Ne partez pas sans moi'?</desc>
-  </programme>
-  <programme start="20260521002500 +0000" stop="20260521020500 +0000" channel="dr2.dk">
-    <title>Leaving Neverland (2:2)</title>
-    <desc>Britisk dokumentar fra 2019.
-(Leaving Neverland)
-Påstande om, at Michael Jackson skulle have misbrugt børn seksuelt, dukkede første gang op i 1993. Men mange fandt det svært at tro, at den legesyge, børneglade sanger kunne være skyldig i noget så grumt. James Safechuck var ti år gammel, da han blev ven med Michael Jackson. Wade Robson var syv. Her fortæller de nu voksne mænd om overgrebene. 
-Læs mere om, hvorfor DR viser Leaving Neverland igen: www.dr.dk/etik-og-rettelser/transparens/derfor-viser-dr-leaving-neverland-2-surviving-michael-jackson</desc>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-  </programme>
-  <programme start="20260521020500 +0000" stop="20260521023000 +0000" channel="dr2.dk">
-    <title>Deadline: Mørklægning og mistillid</title>
-    <desc>Droner som måske, måske ikke var der. Politifolk som siger, de efterforsker voldssager, men ikke gør det, og en udredning af krigen i Afghanistan, som politikerne ikke vil citeres i.
-Det er tre sager fra de seneste uger, som har efterladt mange med et indtryk af, at politikere og myndigheder ikke altid tør være helt ærlige over for danskerne.
-Imens vokser mistilliden til det politiske system i Danmark, og det er netop en reaktion på mørklægning og hemmelighedskræmmeri. Det mener i hvert fald Politikens chefredaktør Christian Jensen, der i dag debatterer med Socialdemokratiets Christian Rabjerg Madsen. 
-Vært: Christian Bennike. </desc>
-    <episode-num system="xmltv_ns">2025.74.0</episode-num>
-  </programme>
-  <programme start="20260521023000 +0000" stop="20260521030000 +0000" channel="dr2.dk">
-    <title>Deadline: Nogen eller noget?</title>
-    <desc>I formiddag ville Troels Lund Poulsen have en VLAK-regering. Over middag dræbte Lars Løkke Rasmussen tilsyneladende ideen. Nu raser det store blame game om 'nogen i stedet for noget', alt imens Danmark har stået uden regering i 55 dage i en tid fuld af international usikkerhed. Hvor længe kan det blive ved, spørger Trine Maria Ilsøe i dagens udgave af Deadline.</desc>
-    <episode-num system="xmltv_ns">2025.73.0</episode-num>
-  </programme>
-  <programme start="20260521030000 +0000" stop="20260521033000 +0000" channel="dr2.dk">
-    <title>Deadline: Styrkeprøven i Beijing</title>
-    <desc>Der skulle forhandles om bøf, bønner og Boing, da den kinesiske præsident og Donald Trump mødtes til topmøde i sidste uge. Udadtil fremstår resultaterne en anelse ukonkrete. Men mødet var til gengæld et udstillingsvindue for magtforholdet mellem de to stormagter - og på den anden side af ruden kunne Taiwan nervøst følge med.
-Viste topmødet et ændret styrkeforhold mellem klodens to største rivaler? Og kan Taiwan stole på, at Trump vil forsvare dem mod Kina?
-Vært: Trine Maria Ilsøe.</desc>
-    <episode-num system="xmltv_ns">2025.72.0</episode-num>
-  </programme>
-  <programme start="20260521033000 +0000" stop="20260521040000 +0000" channel="dr2.dk">
-    <title>Krigens døgn: Kampen om Moskva og Krim</title>
-    <desc>I denne uge rykkede krigen for alvor hjem til Putin. Moskva blev angrebet fra luften i omfattende angreb. Samtidig lægger ukrainerne pres på halvøen Krim, hvor deres håb om militær succes måske ikke længere er urealistisk. Er de ukrainske angreb nok til at vende krigslykken?
-Vært: Steffen Kretz .</desc>
-    <episode-num system="xmltv_ns">4.14.0</episode-num>
-  </programme>
-  <programme start="20260521040000 +0000" stop="20260521043000 +0000" channel="dr2.dk">
-    <title>Sladderhistorie - Dyneløft på borgen</title>
-    <desc>Var Stauning en større gris end Jens Otto Krag? Hvordan lykkedes det Lars Barfoed at vælge mellem konen og elskerinden? Og hvad er der med Lone Dybkjær, Poul Nyrup Rasmussen og Luciano Pavarotti?</desc>
-    <episode-num system="xmltv_ns">0.3.0</episode-num>
-  </programme>
-  <programme start="20260521043000 +0000" stop="20260521060000 +0000" channel="dr2.dk">
-    <title>Gamle Danmark (5)</title>
-    <desc>Dansk dokumentarserie fra 1984. 1953-60. Med H.C. Hansen som statsminister styrer samfundet mod større velfærd. Men regeringen bliver sat på hård prøve, da overenskomstforhandlingerne bryder sammen i 1956. Med kommunistlederen Aksel Larsen i spidsen proklamerer oprørske arbejdere "situationens generalstab" og udløser den første generalstrejke efter krigen.
-Forfatter og fortæller: Paul Hammerich.</desc>
-    <episode-num system="xmltv_ns">0.4.0</episode-num>
-  </programme>
-  <programme start="20260521060000 +0000" stop="20260521060500 +0000" channel="dr2.dk">
-    <title>Radioavisen</title>
-    <desc>Bliv opdateret på de seneste nyheder fra ind- og udland.</desc>
-  </programme>
-  <programme start="20260521060500 +0000" stop="20260521063000 +0000" channel="dr2.dk">
-    <title>Morgenandagten</title>
-    <desc>Morgenandagten fra Vor Frue Kirke, Københavns Domkirke.</desc>
-    <episode-num system="xmltv_ns">2025.115.0</episode-num>
-  </programme>
-  <programme start="20260521063000 +0000" stop="20260521100000 +0000" channel="dr2.dk">
-    <title>Seneste nyt fra TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260521100000 +0000" stop="20260521151500 +0000" channel="dr2.dk">
-    <title>Seneste nyt fra TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260521151500 +0000" stop="20260521160500 +0000" channel="dr2.dk">
-    <title>24 timer vi aldrig glemmer - Brdr. Olsen 2000</title>
-    <desc>Der findes døgn, der gør så stort et indtryk, at de for evigt sidder fast i hukommelsen. Den dag hvor Brødrene Olsen sang 'Smuk som et stjerneskud' til tops i det Internationale Melodi Grand Prix er en af dem.
-Da Brødrene Olsen i 2000 stillede op i det danske Melodi Grand Prix, var der næppe nogen som troede, at de to modne herrer ville blive stjerner i hele Europa med deres sang om kærlighed. Brødrene var store popidoler i begyndelsen af 70´erne, men siden var det gået ned ad bakke med den musikalske anerkendelse. I 24 Timer vi aldrig glemmer, fortæller Jørgen Olsens døtre, Hilda og Keld Heick, og DRs daværende Grand Prix delegationsleder om deres frygt der blev til håb og til sidst forløstes i et brag af en sejr til Brødrene Olsen ved det store tv-show i Stockholm, den dag i år 2000 hvor Brødrene Olsen var bedst i Europa.
-Tilrettelæggelse: Kerstin Freiesleben.
-Sendt første gang 13.12.09</desc>
-    <episode-num system="xmltv_ns">0.7.0</episode-num>
-  </programme>
-  <programme start="20260521160500 +0000" stop="20260521165500 +0000" channel="dr2.dk">
-    <title>Husker du - poppens udlandseventyr</title>
-    <desc>I 1990'erne bliver dansk pop for alvor en eksportvare. Den velproducerede sukkerpop og dancemusikkens hjerneklæbende, sorgløse omkvæd giver dansk musik sit hidtil største internationale gennembrud. Der kommer penge i poppen, og instrumenterne bliver usynlige, da dancebølgen slår hul på verden. I dette program kan du høre om succesfesten, og ikke mindst hvilke tømmermænd den gav de implicerede. 
-I 13 programmer fortæller vi om musikken, der satte ungdomskulturen på ny kurs og udfordrede danskerne. Husker du... tager afsæt i markante begivenheder, som skabte musikken og beretter om det Danmark, hvor de nye toner fik stor betydning. 
-Sendt første gang 20.04.08</desc>
-    <episode-num system="xmltv_ns">0.8.0</episode-num>
-  </programme>
-  <programme start="20260521165500 +0000" stop="20260521171000 +0000" channel="dr2.dk">
-    <title>Troldspejlet: Bæver med budskab</title>
-    <desc>Tegnefilm sælges ofte som hyggelig, harmløs familieunderholdning, men de har ofte ret politiske budskaber. I denne episode af Troldspejlet afslører Jakob Stegelmann de mere eller mindre skjulte budskaber i Pixars nye film Mission: Bæver - og flere andre storfilm.</desc>
-    <episode-num system="xmltv_ns">0.2.0</episode-num>
-  </programme>
-  <programme start="20260521171000 +0000" stop="20260521180000 +0000" channel="dr2.dk">
-    <title>Dronninger, der ændrede verden (5:6) Eleonora af Aquitaine</title>
-    <desc>Britisk dokumentarserie fra 2023.
-(The Queens That Changed the World)
-I 1137 arver teenageren Eleonora sin far hertugen af Aquitaines titel og rigdom. Samme år gifter hun sig med den franske kong Ludvig 7., som hun ti år senere følger på korstog til Det Hellige Land. De bliver skilt i 1152, og hun gifter sig med Henry Plantagenet, der bliver Englands konge. Men da hun støtter sønnernes oprør mod deres far, bliver hun fængslet i 10 år, indtil hendes søn Richard 1. Løvehjerte bliver konge.</desc>
-    <episode-num system="xmltv_ns">0.4.0</episode-num>
-  </programme>
-  <programme start="20260521180000 +0000" stop="20260521190000 +0000" channel="dr2.dk">
-    <title>Jagten på mig selv (1:2)</title>
-    <desc>Instruktøren Per Wennick dykker ned i sin noget dunkle familiehistorie for at forstå, hvorfor han endte på børnehjemmet Godthåb. Her var tiden hård, og fyldt med vold og overgreb. Men der var også nogen der gjorde en stor forskel: Per opsøger køkkenassistenten Marie, der så Per og hjalp ham, selvom det betød at hun måtte trodse den strenge plejemor. Undervejs dukker erindringen om et mystisk CIA-betalt forskningsforsøg op.</desc>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-  </programme>
-  <programme start="20260521190000 +0000" stop="20260521195500 +0000" channel="dr2.dk">
-    <title>Denzel Washington - Rollemodel for en generation</title>
-    <desc>Fransk dokumentar fra 2023.
-(Denzel Washington - An American Model)
-Han er blevet kåret som bedste skuespiller i det 21. århundrede af New York Times. Den dobbelte Oscar-vinder Denzel Washington har i 40 år spillet et utal af forskellige roller og vundet mere anerkendelse end nogen anden sort skuespiller. I film efter film har han givet sorte deres retmæssige plads i historien. En ubestridt film-prins, hvis skæbne er formet af USA's historie.</desc>
-  </programme>
-  <programme start="20260521200000 +0000" stop="20260521201500 +0000" channel="dr2.dk">
-    <title>TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260521201500 +0000" stop="20260521204500 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
-    <episode-num system="xmltv_ns">2025.75.0</episode-num>
-  </programme>
-  <programme start="20260521204500 +0000" stop="20260521211500 +0000" channel="dr2.dk">
-    <title>Trumps USA</title>
-    <desc>I "Trumps USA" stiller vi skarpt på de afgørende udviklinger, personopgør og dagsordener, der udspiller sig i amerikansk politik.</desc>
-    <episode-num system="xmltv_ns">2025.13.0</episode-num>
-  </programme>
-  <programme start="20260521211500 +0000" stop="20260521215500 +0000" channel="dr2.dk">
-    <title>Flykatastrofen ved Hirtshals (1:3)</title>
-    <desc>Norsk dokumentarserie fra 2023.
-(Partnair)
-Det er den værste flykatastrofe i Danmark. Den 8. september 1989 bliver 55 nordmænd dræbt i et flystyrt ombord på Partnair Flight 394. Nu, 32 år efter katastrofen, fortæller ofrenes familier for første gang om deres oplevelse af tragedien, og redningsarbejderne beskriver det syn, der mødte dem. Overså efterforskerne vigtige fakta?</desc>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-  </programme>
-  <programme start="20260521215500 +0000" stop="20260521224000 +0000" channel="dr2.dk">
-    <title>Hells Angels bag rygmærket (1:7)</title>
-    <desc>Amerikansk dokumentarserie fra 2024.
-(Secrets of Hells Angels)
-Mord, stoffer og broderskab. Denne serie dykker ned i hemmelighederne bag den mest berygtede og frygtede motorcykelklub i verden - Hells Angels. Vidner, tidligere præsidenter for Hells Angels og undercoveragenter, der har risikeret deres liv for at infiltrere klubben, udtaler sig for første gang om de kriminelle aktiviteter.</desc>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-  </programme>
-  <programme start="20260521224000 +0000" stop="20260521232500 +0000" channel="dr2.dk">
-    <title>Hells Angels bag rygmærket (2:7)</title>
-    <desc>Amerikansk dokumentarserie fra 2024.
-(Secrets of Hells Angels)
-I 1977 bliver en kvinde og hendes to døtre myrdet i Oregon. En detektiv finder ud af, at Hells Angels er involveret, og begiver sig ud på en 18 år lang mission for at bringe morderne for retten. Her fortæller familiemedlemmer og øjenvidner deres historier for første gang.</desc>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-  </programme>
   <programme start="20260521232500 +0000" stop="20260522002000 +0000" channel="dr2.dk">
     <title>Mao - Kinas røde tyran (1:3)</title>
     <desc>Tysk dokumentarserie fra 2025.
@@ -166,8 +25,8 @@ Emirates Stadium, London, maj 2007. Kampen mellem Arsenal og Chelsea ender uafgj
     <episode-num system="xmltv_ns">1.3.0</episode-num>
   </programme>
   <programme start="20260522020000 +0000" stop="20260522023000 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <title>Deadline: Bag lukkede døre i D.C.</title>
+    <desc>De har delt guldmønter ud, lovet grønlandske børn chokoladekage og indvier i dag et nyt kæmpe-konsulat i hjertet af Nuuk. Amerikanerne har haft travlt i Grønland den her uge. Samtidig får vi nu for første gang indblik i, hvad der er foregået bag lukkede døre til de højtprofilerede diplomatiske forhandlinger i arbejdsgruppen i Washington. Så hvad er amerikanernes plan? Det undersøger Sandra Brovall i dagens udgave af Deadline.</desc>
     <episode-num system="xmltv_ns">2025.75.0</episode-num>
   </programme>
   <programme start="20260522023000 +0000" stop="20260522030000 +0000" channel="dr2.dk">
@@ -182,6 +41,13 @@ Vært: Christian Bennike. </desc>
     <title>Deadline: Nogen eller noget?</title>
     <desc>I formiddag ville Troels Lund Poulsen have en VLAK-regering. Over middag dræbte Lars Løkke Rasmussen tilsyneladende ideen. Nu raser det store blame game om 'nogen i stedet for noget', alt imens Danmark har stået uden regering i 55 dage i en tid fuld af international usikkerhed. Hvor længe kan det blive ved, spørger Trine Maria Ilsøe i dagens udgave af Deadline.</desc>
     <episode-num system="xmltv_ns">2025.73.0</episode-num>
+  </programme>
+  <programme start="20260522033000 +0000" stop="20260522040000 +0000" channel="dr2.dk">
+    <title>Deadline: Styrkeprøven i Beijing</title>
+    <desc>Der skulle forhandles om bøf, bønner og Boing, da den kinesiske præsident og Donald Trump mødtes til topmøde i sidste uge. Udadtil fremstår resultaterne en anelse ukonkrete. Men mødet var til gengæld et udstillingsvindue for magtforholdet mellem de to stormagter - og på den anden side af ruden kunne Taiwan nervøst følge med.
+Viste topmødet et ændret styrkeforhold mellem klodens to største rivaler? Og kan Taiwan stole på, at Trump vil forsvare dem mod Kina?
+Vært: Trine Maria Ilsøe.</desc>
+    <episode-num system="xmltv_ns">2025.72.0</episode-num>
   </programme>
   <programme start="20260522040000 +0000" stop="20260522042000 +0000" channel="dr2.dk">
     <title>Guldkorn 1970'erne: 1979</title>
@@ -276,7 +142,7 @@ Instruktion: John Wells.</desc>
     <desc>Trumps trusler mod Grønland og Putins krig mod Ukraine har gjort Norden mere usikker: Hvilke alliancer skal vi satse på i fremtiden? NATO, EU eller bare Norden? DR samler med NRK, SVT og YLE topministre og andre stemmer for at give Nordens svar.</desc>
     <episode-num system="xmltv_ns">2025.39.0</episode-num>
   </programme>
-  <programme start="20260522214500 +0000" stop="20260522232500 +0000" channel="dr2.dk">
+  <programme start="20260522214500 +0000" stop="20260522232000 +0000" channel="dr2.dk">
     <title>Panserdiligencen</title>
     <desc>Amerikansk western fra 1967.
 (The War Wagon)
@@ -284,34 +150,34 @@ De gamle venner Taw Jackson og Lomax hyres til at dræbe hinanden, men i stedet 
 Medvirkende: John Wayne, Kirk Douglas, Howard Keel m.fl.
 Instruktion: Burt Kennedy.</desc>
   </programme>
-  <programme start="20260522232500 +0000" stop="20260523002000 +0000" channel="dr2.dk">
+  <programme start="20260522232500 +0000" stop="20260523001500 +0000" channel="dr2.dk">
     <title>Quentin Tarantino - Mit liv, mine film</title>
     <desc>Fransk dokumentar fra 2025.
 (Making Tarantino)
 "Alle mine film er personlige. Smerteligt personlige." Den amerikanske mesterinstruktør Quentin Tarantino er en af verdens mest indflydelsesrige og banebrydende filmskabere. Hans ni dristige film er uforglemmelige, og publikum elsker dem. Tilsammen udgør de et enestående værk, formet af den verden, han voksede op i og er inspireret af - fra Torrance i Californien til hjertet af Los Angeles.</desc>
   </programme>
-  <programme start="20260523002000 +0000" stop="20260523011500 +0000" channel="dr2.dk">
+  <programme start="20260523002000 +0000" stop="20260523011000 +0000" channel="dr2.dk">
     <title>Leaving Neverland 2: Surviving Michael Jackson</title>
     <desc>Britisk dokumentar fra 2025.
 (Leaving Neverland 2: Surviving Michael Jackson)
 De har kæmpet i ti år for at få deres sag prøvet i retten. I 2019 stod Wade Robson og James Safechuck frem og anklagede popikonet Michael Jackson for seksuelt misbrug. Nu fortsætter historien om de to mænds juridiske kamp. Vi hører om følgerne, deres anklager har haft for dem, kommer med til retsmøder og får indblik i den modstand, som de har oplevet fra både Jacksons efterladte og hans fans. 
 Læs mere om, hvorfor DR viser dokumentaren her: www.dr.dk/etik-og-rettelser/transparens/derfor-viser-dr-leaving-neverland-2-surviving-michael-jackson</desc>
   </programme>
-  <programme start="20260523011500 +0000" stop="20260523020000 +0000" channel="dr2.dk">
+  <programme start="20260523011500 +0000" stop="20260523015500 +0000" channel="dr2.dk">
     <title>Historiens største krigsskibe (1:3) Bismarck, Tirpitz og Yamato</title>
     <desc>Britisk dokumentarserie fra 2019.
 (World's Greatest Warships)
 De har ændret moderne krigsførelse. Krigsskibe er det ultimative symbol på en nations militære magt. Fartøjer med massive kanoner, torpedofly og bemandet af tusinder af besætningsmedlemmer. Her fortælles historien om de slagskibe, der spillede en afgørende rolle i søslagene under 2. verdenskrig. Hitlers frygtindgydende Bismarck og Tirpitz, USAs ikoniske Iowa-klasse fartøjer og japanernes Yamato, det største slagskib, der nogensinde er blevet bygget.</desc>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
   </programme>
-  <programme start="20260523020000 +0000" stop="20260523025000 +0000" channel="dr2.dk">
+  <programme start="20260523020000 +0000" stop="20260523024000 +0000" channel="dr2.dk">
     <title>Kvinder i frontlinjen (1:3)</title>
     <desc>Britisk dokumentarserie fra 2024.
 (WW2 Women On The Frontline)
 De var i konstant livsfare. Under 2. Verdenskrig levede mange tusind europæere og amerikanere et dobbeltliv. En af disse var den afro-amerikanske sanger og danser, Josephine Baker. Da Hitler invaderede Polen, hvervede det franske efterretningsvæsen hende som hemmelig agent. Men hun var ikke den eneste bemærkelsesværdige kvindelige spion. Her dykker vi ned i de utrolige historier, om dem, der fandt modet til at kæmpe bag fjendens linjer.</desc>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
   </programme>
-  <programme start="20260523025000 +0000" stop="20260523034000 +0000" channel="dr2.dk">
+  <programme start="20260523025000 +0000" stop="20260523033000 +0000" channel="dr2.dk">
     <title>Sådan taber man en verdenskrig (4:5) Sejrens helte</title>
     <desc>Fransk dokumentarserie fra 2023.
 (How to Lose a War)
@@ -707,8 +573,8 @@ Instruktion: Hal Ashby.</desc>
     <episode-num system="xmltv_ns">1.2.0</episode-num>
   </programme>
   <programme start="20260526023000 +0000" stop="20260526030000 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <title>Deadline: Bag lukkede døre i D.C.</title>
+    <desc>De har delt guldmønter ud, lovet grønlandske børn chokoladekage og indvier i dag et nyt kæmpe-konsulat i hjertet af Nuuk. Amerikanerne har haft travlt i Grønland den her uge. Samtidig får vi nu for første gang indblik i, hvad der er foregået bag lukkede døre til de højtprofilerede diplomatiske forhandlinger i arbejdsgruppen i Washington. Så hvad er amerikanernes plan? Det undersøger Sandra Brovall i dagens udgave af Deadline.</desc>
     <episode-num system="xmltv_ns">2025.75.0</episode-num>
   </programme>
   <programme start="20260526030000 +0000" stop="20260526033000 +0000" channel="dr2.dk">
@@ -856,13 +722,14 @@ Sendt første gang 12.06.11</desc>
     <episode-num system="xmltv_ns">2025.76.0</episode-num>
   </programme>
   <programme start="20260527023000 +0000" stop="20260527030000 +0000" channel="dr2.dk">
-    <title>Trumps USA</title>
-    <desc>I "Trumps USA" stiller vi skarpt på de afgørende udviklinger, personopgør og dagsordener, der udspiller sig i amerikansk politik.</desc>
+    <title>Trumps USA: Rubio vs Vance</title>
+    <desc>Er det vicepræsidenten eller udenrigsministeren der er Trumps favorit? Hvad gør Rubio og Vance for at fremme egne ambitioner om at blive USA's næste præsident? Og mens der strides i Washington, så har Trump været i Kina. Men vandt Trump så tvekampen med præsident Xi?
+Vært: Johannes Langkilde.</desc>
     <episode-num system="xmltv_ns">2025.13.0</episode-num>
   </programme>
   <programme start="20260527030000 +0000" stop="20260527033000 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <title>Deadline: Bag lukkede døre i D.C.</title>
+    <desc>De har delt guldmønter ud, lovet grønlandske børn chokoladekage og indvier i dag et nyt kæmpe-konsulat i hjertet af Nuuk. Amerikanerne har haft travlt i Grønland den her uge. Samtidig får vi nu for første gang indblik i, hvad der er foregået bag lukkede døre til de højtprofilerede diplomatiske forhandlinger i arbejdsgruppen i Washington. Så hvad er amerikanernes plan? Det undersøger Sandra Brovall i dagens udgave af Deadline.</desc>
     <episode-num system="xmltv_ns">2025.75.0</episode-num>
   </programme>
   <programme start="20260527033000 +0000" stop="20260527040000 +0000" channel="dr2.dk">
@@ -972,5 +839,152 @@ Hvorfor er vi så fascinerede af Adolf Hitler og nazismen? I en tid præget af f
 (Ancient Engineering) 
 Cheops-pyramiden i Giza er det ældste af verdens syv vidundere. Det tog kun 20 år at bygge den, og i over 3.000 år var den verdens højeste menneskeskabte bygningsværk. Den består af over to millioner stenblokke og er én verdens mest fænomenale strukturer fra det gamle Egypten. Denne bemærkelsesværdige pyramide afspejler menneskets opfindsomhed, og er et mesterværk skabt af oldtidens ingeniørkunst.</desc>
     <episode-num system="xmltv_ns">0.2.0</episode-num>
+  </programme>
+  <programme start="20260528002500 +0000" stop="20260528011500 +0000" channel="dr2.dk">
+    <title>Hells Angels bag rygmærket (1:7)</title>
+    <desc>Amerikansk dokumentarserie fra 2024.
+(Secrets of Hells Angels)
+Mord, stoffer og broderskab. Denne serie dykker ned i hemmelighederne bag den mest berygtede og frygtede motorcykelklub i verden - Hells Angels. Vidner, tidligere præsidenter for Hells Angels og undercoveragenter, der har risikeret deres liv for at infiltrere klubben, udtaler sig for første gang om de kriminelle aktiviteter.</desc>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+  </programme>
+  <programme start="20260528011500 +0000" stop="20260528020000 +0000" channel="dr2.dk">
+    <title>Hells Angels bag rygmærket (2:7)</title>
+    <desc>Amerikansk dokumentarserie fra 2024.
+(Secrets of Hells Angels)
+I 1977 bliver en kvinde og hendes to døtre myrdet i Oregon. En detektiv finder ud af, at Hells Angels er involveret, og begiver sig ud på en 18 år lang mission for at bringe morderne for retten. Her fortæller familiemedlemmer og øjenvidner deres historier for første gang.</desc>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+  </programme>
+  <programme start="20260528020000 +0000" stop="20260528023000 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <episode-num system="xmltv_ns">2025.77.0</episode-num>
+  </programme>
+  <programme start="20260528023000 +0000" stop="20260528030000 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <episode-num system="xmltv_ns">2025.76.0</episode-num>
+  </programme>
+  <programme start="20260528030000 +0000" stop="20260528033000 +0000" channel="dr2.dk">
+    <title>Krigens døgn</title>
+    <desc>Forstå krigen mellem Ukraine og Rusland helt ned i detaljen. Med udgangspunkt i den seneste uges begivenheder zoomer vi sammen med Danmarks førende eksperter ind på krigens afgørende elementer.</desc>
+    <episode-num system="xmltv_ns">4.15.0</episode-num>
+  </programme>
+  <programme start="20260528033000 +0000" stop="20260528040000 +0000" channel="dr2.dk">
+    <title>Deadline: Bag lukkede døre i D.C.</title>
+    <desc>De har delt guldmønter ud, lovet grønlandske børn chokoladekage og indvier i dag et nyt kæmpe-konsulat i hjertet af Nuuk. Amerikanerne har haft travlt i Grønland den her uge. Samtidig får vi nu for første gang indblik i, hvad der er foregået bag lukkede døre til de højtprofilerede diplomatiske forhandlinger i arbejdsgruppen i Washington. Så hvad er amerikanernes plan? Det undersøger Sandra Brovall i dagens udgave af Deadline.</desc>
+    <episode-num system="xmltv_ns">2025.75.0</episode-num>
+  </programme>
+  <programme start="20260528040000 +0000" stop="20260528043000 +0000" channel="dr2.dk">
+    <title>Sladderhistorie - For perfekt til at være sandt</title>
+    <desc>Prins Joachim og Alexandra Manley var det perfekte par, indtil de ikke var det længere. Hvor galt gik det, da facaden krakelerede for sangduoen Nina og Frederik? Hvordan startede rygter og sladder om Susse Wolds seksualitet, og hvordan kunne hun tage dem med et skuldertræk?</desc>
+    <episode-num system="xmltv_ns">0.4.0</episode-num>
+  </programme>
+  <programme start="20260528043000 +0000" stop="20260528044000 +0000" channel="dr2.dk">
+    <title>Tænkepauser: Natur</title>
+    <desc>Mennesket er ikke naturens bedste ven - men muligvis den eneste. Separationen mellem natur og menneske er nået til et punkt, hvor vi enten må begære skilsmisse, fordi det er blevet for besværligt, eller indstille os på fredelig sameksistens og biodiversitet. Men det sidste er svært, for det går ud over vores egne behov. Hvad sker der, hvis vi giver stemmer til dyrene og lader dem reagere på vores trang til at kontrollere naturen?
+En film af Anders Morgenthaler efter en bog af Rasmus Ejrnæs</desc>
+    <episode-num system="xmltv_ns">0.5.0</episode-num>
+  </programme>
+  <programme start="20260528043500 +0000" stop="20260528060000 +0000" channel="dr2.dk">
+    <title>Gamle Danmark (6)</title>
+    <desc>Dansk dokumentarserie fra 1984. 1956-62. Takket være bedre sociale og sundhedsmæssige vilkår er gruppen af ældre danskere tredoblet i løbet af de sidste 60 år. Folkepensionen bliver indført, men samfundet betragter de ældre som et besværligt element. Mørklægningens store årgange er blevet teenagere med idoler som Otto Brandenburg og Vivi Bak. De unge bliver for første gang objekter for forbrugerreklamen. Samtidig er skolereformer undervejs.
+Fortæller og forfatter: Paul Hammerich.</desc>
+    <episode-num system="xmltv_ns">0.5.0</episode-num>
+  </programme>
+  <programme start="20260528060000 +0000" stop="20260528060500 +0000" channel="dr2.dk">
+    <title>Radioavisen</title>
+    <desc>Bliv opdateret på de seneste nyheder fra ind- og udland.</desc>
+  </programme>
+  <programme start="20260528060500 +0000" stop="20260528063000 +0000" channel="dr2.dk">
+    <title>Morgenandagten</title>
+    <desc>Morgenandagten fra Vor Frue Kirke, Københavns Domkirke.</desc>
+    <episode-num system="xmltv_ns">2025.120.0</episode-num>
+  </programme>
+  <programme start="20260528063000 +0000" stop="20260528100000 +0000" channel="dr2.dk">
+    <title>Seneste nyt fra TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260528100000 +0000" stop="20260528151500 +0000" channel="dr2.dk">
+    <title>Seneste nyt fra TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260528151500 +0000" stop="20260528160500 +0000" channel="dr2.dk">
+    <title>Husker du - poppens udlandseventyr</title>
+    <desc>I 1990'erne bliver dansk pop for alvor en eksportvare. Den velproducerede sukkerpop og dancemusikkens hjerneklæbende, sorgløse omkvæd giver dansk musik sit hidtil største internationale gennembrud. Der kommer penge i poppen, og instrumenterne bliver usynlige, da dancebølgen slår hul på verden. I dette program kan du høre om succesfesten, og ikke mindst hvilke tømmermænd den gav de implicerede. 
+I 13 programmer fortæller vi om musikken, der satte ungdomskulturen på ny kurs og udfordrede danskerne. Husker du... tager afsæt i markante begivenheder, som skabte musikken og beretter om det Danmark, hvor de nye toner fik stor betydning. 
+Sendt første gang 20.04.08</desc>
+    <episode-num system="xmltv_ns">0.8.0</episode-num>
+  </programme>
+  <programme start="20260528160500 +0000" stop="20260528165500 +0000" channel="dr2.dk">
+    <title>24 timer vi aldrig glemmer: Mordet på Olof Palme</title>
+    <desc>Om aftenen fredag den 28. februar 1986 går den svenske statsminister Olof Palme i biografen med sin kone Lisbet. Da filmen er færdig vil de spadsere hjem til deres lejlighed i Gamla Stan, men så langt når de ikke. På hjørnet af Sveavägen og Tunnelgatan bliver Olof Palme skudt i brystet, og dør kort efter. Nyheden spreder sig til Danmark i løbet af kort tid, og chokerer de fleste. I 24 Timer vi aldrig glemmer fortæller bl.a. Uffe Ellemann-Jensen, Mogens Lykketoft, Paul Gazan og Per Larsen om deres oplevelser på dagen.
+Tilrettelæggelse: Kerstin Freiesleben.
+Sendt første gang 31.01.2010</desc>
+    <episode-num system="xmltv_ns">1.1.0</episode-num>
+  </programme>
+  <programme start="20260528165500 +0000" stop="20260528171000 +0000" channel="dr2.dk">
+    <title>Troldspejlet: Pokémon for voksne</title>
+    <desc>Da Pokemon blev lanceret for 30 år siden, blev der slået alarm - men det lykkedes heldigvis ikke de voksne at få det forbudt. I dag er det Jakob Stegelmanns påstand, at Pokémon i høj grad er for voksne.</desc>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+  </programme>
+  <programme start="20260528171000 +0000" stop="20260528180000 +0000" channel="dr2.dk">
+    <title>Dronninger, der ændrede verden (6:6) Boudica</title>
+    <desc>Britisk dokumentarserie fra 2023.
+(The Queens That Changed the World)
+I år 60 e.Kr. fører Boudica de keltiske stammer mod Camulodunum, den romerske by, der i dag hedder Colchester. I over tyve år har stammerne lidt under det romerske tyranni. Romerne har dræbt hendes mand og fået hendes døtre voldtaget af slaver. Boudica formår at forene de stridende stammer ved at fokusere på en fælles fjende. Camulodunum bliver jævnet med jorden, inden hæren sætter kurs mod London og St. Albans.</desc>
+    <episode-num system="xmltv_ns">0.5.0</episode-num>
+  </programme>
+  <programme start="20260528180000 +0000" stop="20260528190000 +0000" channel="dr2.dk">
+    <title>Jagten på mig selv (2:2)</title>
+    <desc>Som barn og ung var Per Wennick udpeget til at deltage i videnskabelige undersøgelser som en del af et forskningsprojekt. Forskere fulgte ham langt op i voksenalderen med et hemmeligt meldesystem. Hvem gav tilladelse til at Per skulle deltage - og hvor er resultaterne fra forskningen nu? Hvad står der i forskningsjournalen om Pers barndom? Og hvis de har vidst, hvad Per var udsat for på børnehjemmet, hvorfor gjorde ingen så noget ved det?</desc>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+  </programme>
+  <programme start="20260528190000 +0000" stop="20260528200000 +0000" channel="dr2.dk">
+    <title>Glenn Close - Et feministisk forbillede</title>
+    <desc>Fransk dokumentar fra 2024.
+(Glenn Close - A Feminist Force)
+Hun har været nomineret til en Oscar otte gange - uden at modtage en statuette. Den amerikanske skuespiller Glenn Close dominerer stadig på det hvide lærred efter over 50 år i branchen. Hun har en imponerende evne til at mestre forskellige roller og udtrykke følelser som i filmene 'Verden ifølge Garp' og 'Farligt begær'. Her følger vi hendes liv fra barndom til Broadway og som talskvinde for psykisk sygdom og kvinders rettigheder.</desc>
+  </programme>
+  <programme start="20260528200000 +0000" stop="20260528201500 +0000" channel="dr2.dk">
+    <title>TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260528201500 +0000" stop="20260528204500 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <episode-num system="xmltv_ns">2025.78.0</episode-num>
+  </programme>
+  <programme start="20260528204500 +0000" stop="20260528211500 +0000" channel="dr2.dk">
+    <title>Trumps USA</title>
+    <desc>I "Trumps USA" stiller vi skarpt på de afgørende udviklinger, personopgør og dagsordener, der udspiller sig i amerikansk politik.</desc>
+    <episode-num system="xmltv_ns">2025.14.0</episode-num>
+  </programme>
+  <programme start="20260528211500 +0000" stop="20260528220000 +0000" channel="dr2.dk">
+    <title>Flykatastrofen ved Hirtshals (2:3)</title>
+    <desc>Norsk dokumentarserie fra 2023.
+(Partnair)
+Hvad var årsagen til at Partnair Flight 394 styrtede ned? Var det en terrorbombe? Og hvorfor indrømmer det norske forsvar ikke, at et F-16 jagerfly passerede tæt på flyet kort før det styrtede ned?</desc>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+  </programme>
+  <programme start="20260528220000 +0000" stop="20260528224500 +0000" channel="dr2.dk">
+    <title>Hells Angels bag rygmærket (3:7)</title>
+    <desc>Amerikansk dokumentarserie fra 2024.
+(Secrets of Hells Angels)
+Kickbokseren Charles "Peewee" Goldsmiths har altid drømt om at slutte sig til Hells Angels. Og med hans imponerende fremtoning er han en eftertragtet rekrut. Efter at have overlevet to rockerkrige med rivaliserende bander, opnår han at blive præsident for Hells Angels. Men hans drøm tager en grim drejning. Da han bliver arresteret af politiet, vender englene sig mod ham og hans familie og tvinger ham ud af klubben.</desc>
+    <episode-num system="xmltv_ns">0.2.0</episode-num>
+  </programme>
+  <programme start="20260528224500 +0000" stop="20260528233000 +0000" channel="dr2.dk">
+    <title>Hells Angels bag rygmærket (4:7)</title>
+    <desc>Amerikansk dokumentarserie fra 2024.
+(Secrets of Hells Angels)
+Narkohandleren Pat Matter stiger i graderne og bliver præsident for Hells Angels i Minnesota. Han bygger et narkoimperium op, men da en blodig rockerkrig bryder ud med en rivaliserende bande, mister han alt. Han skal nu vælge mellem at være loyal over for klubben eller sin familie.</desc>
+    <episode-num system="xmltv_ns">0.3.0</episode-num>
+  </programme>
+  <programme start="20260528233000 +0000" stop="20260529002500 +0000" channel="dr2.dk">
+    <title>Mao - Kinas røde tyran (2:3)</title>
+    <desc>Tysk dokumentarserie fra 2025.
+(Mao - His Life and Legacy)
+Folkerepublikken Kina udråbes af Mao Zedong den 1. oktober 1949. Efter proklamationen går han straks i gang med at omdanne landet til en socialistisk stat. Koreakrigen udfordrer hans styre og kræver hans fulde opmærksomhed, mens han samtidig igangsætter en omfattende industrialisering. Med 'Det Store Spring Fremad' forsøger han at accelerere udviklingen, men politikken får katastrofale følger og udløser en af historiens største sultkatastrofer med over 30 millioner døde.</desc>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
   </programme>
 </tv>
