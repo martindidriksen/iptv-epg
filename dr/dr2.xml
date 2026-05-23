@@ -3,181 +3,34 @@
   <channel id="dr2.dk">
     <display-name>DR2</display-name>
   </channel>
-  <programme start="20260521232500 +0000" stop="20260522002000 +0000" channel="dr2.dk">
-    <title>Mao - Kinas røde tyran (1:3)</title>
-    <desc>Tysk dokumentarserie fra 2025.
-(Mao - His Life and Legacy)
-Den unge revolutionære Mao Zedong oplever et Kina i knæ. Efter kejserrigets fald er landet splittet og underlagt krigsherrer samt vestlige imperialistiske magter. Mao drømmer om et forenet Kina og et kommunistisk samfund, der kan føre landet tilbage til dets tidligere storhed. Han og hans kommunistiske bevægelse bliver del af en lang og blodig borgerkrig, som først ender, da Mao i 1949 står ved Beijings porte.</desc>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-  </programme>
-  <programme start="20260522002000 +0000" stop="20260522011500 +0000" channel="dr2.dk">
-    <title>Kulten, der dræbte 74 (4:4)</title>
-    <desc>Fransk dokumentarserie fra 2022.
-(Inside the Order of the Solar Temple)
-Tog musikeren Michel Tabachnik aktivt del i massakren i Soltemplets Orden? Opmuntrede han med sine skrifter og foredrag medlemmerne til at begå selvmord? Disse spørgsmål udgør grundstenen i retssagen mod Tabachnik. I dag, næsten tredive år efter "overgangen til Sirius", er mange spørgsmål stadig ubesvarede. Vil brikkerne i soltemplets gåde endelig falde på plads?</desc>
-    <episode-num system="xmltv_ns">0.3.0</episode-num>
-  </programme>
-  <programme start="20260522011500 +0000" stop="20260522020000 +0000" channel="dr2.dk">
-    <title>Historien om Premier League II (4:4) Thaksin Shinawatra i Manchester</title>
-    <desc>Britisk sportsserie fra 2023.
-(Fever Pitch! The Rise of the Premier League)
-Emirates Stadium, London, maj 2007. Kampen mellem Arsenal og Chelsea ender uafgjort, og Manchester United genvinder Premier League-mesterskabet. Chelseas ejer Roman Abramovich er utilfreds med andenpladsen. Han fyrer José Mourinho som træner og ansætter i stedet Avram Grant. Samme år blander endnu en milliardær sig i engelsk fodbold - den tidligere thailandske premierminister Thaksin Shinawatra.</desc>
-    <episode-num system="xmltv_ns">1.3.0</episode-num>
-  </programme>
-  <programme start="20260522020000 +0000" stop="20260522023000 +0000" channel="dr2.dk">
-    <title>Deadline: Bag lukkede døre i D.C.</title>
-    <desc>De har delt guldmønter ud, lovet grønlandske børn chokoladekage og indvier i dag et nyt kæmpe-konsulat i hjertet af Nuuk. Amerikanerne har haft travlt i Grønland den her uge. Samtidig får vi nu for første gang indblik i, hvad der er foregået bag lukkede døre til de højtprofilerede diplomatiske forhandlinger i arbejdsgruppen i Washington. Så hvad er amerikanernes plan? Det undersøger Sandra Brovall i dagens udgave af Deadline.</desc>
-    <episode-num system="xmltv_ns">2025.75.0</episode-num>
-  </programme>
-  <programme start="20260522023000 +0000" stop="20260522030000 +0000" channel="dr2.dk">
-    <title>Deadline: Mørklægning og mistillid</title>
-    <desc>Droner som måske, måske ikke var der. Politifolk som siger, de efterforsker voldssager, men ikke gør det, og en udredning af krigen i Afghanistan, som politikerne ikke vil citeres i.
-Det er tre sager fra de seneste uger, som har efterladt mange med et indtryk af, at politikere og myndigheder ikke altid tør være helt ærlige over for danskerne.
-Imens vokser mistilliden til det politiske system i Danmark, og det er netop en reaktion på mørklægning og hemmelighedskræmmeri. Det mener i hvert fald Politikens chefredaktør Christian Jensen, der i dag debatterer med Socialdemokratiets Christian Rabjerg Madsen. 
-Vært: Christian Bennike. </desc>
-    <episode-num system="xmltv_ns">2025.74.0</episode-num>
-  </programme>
-  <programme start="20260522030000 +0000" stop="20260522033000 +0000" channel="dr2.dk">
-    <title>Deadline: Nogen eller noget?</title>
-    <desc>I formiddag ville Troels Lund Poulsen have en VLAK-regering. Over middag dræbte Lars Løkke Rasmussen tilsyneladende ideen. Nu raser det store blame game om 'nogen i stedet for noget', alt imens Danmark har stået uden regering i 55 dage i en tid fuld af international usikkerhed. Hvor længe kan det blive ved, spørger Trine Maria Ilsøe i dagens udgave af Deadline.</desc>
-    <episode-num system="xmltv_ns">2025.73.0</episode-num>
-  </programme>
-  <programme start="20260522033000 +0000" stop="20260522040000 +0000" channel="dr2.dk">
-    <title>Deadline: Styrkeprøven i Beijing</title>
-    <desc>Der skulle forhandles om bøf, bønner og Boing, da den kinesiske præsident og Donald Trump mødtes til topmøde i sidste uge. Udadtil fremstår resultaterne en anelse ukonkrete. Men mødet var til gengæld et udstillingsvindue for magtforholdet mellem de to stormagter - og på den anden side af ruden kunne Taiwan nervøst følge med.
-Viste topmødet et ændret styrkeforhold mellem klodens to største rivaler? Og kan Taiwan stole på, at Trump vil forsvare dem mod Kina?
-Vært: Trine Maria Ilsøe.</desc>
-    <episode-num system="xmltv_ns">2025.72.0</episode-num>
-  </programme>
-  <programme start="20260522040000 +0000" stop="20260522042000 +0000" channel="dr2.dk">
-    <title>Guldkorn 1970'erne: 1979</title>
-    <desc>DRs arkiver er en guldgrube af gamle TV-klip. De store historier har vi set igen og igen. Men hvad var det der prægede den helt almindelige danskes hverdag i 1979? 
-Tvindskolerne vinder frem som et alternativt fællesskab for de unge, samtidig brokker de ældre sig over de omfattende saneringsprojekter i København, og det internationale børneår sætter fornyet fokus på børneopdragelsen og skaber livlig debat mellem børn og forældre.</desc>
-    <episode-num system="xmltv_ns">1.9.0</episode-num>
-  </programme>
-  <programme start="20260522042000 +0000" stop="20260522050000 +0000" channel="dr2.dk">
-    <title>Kvissen (2:16)</title>
-    <desc>Dansk quizprogram fra 1993. Gorm og Finn Zieglers kvartet byder på klip og musik fra årstal mellem 1930 og 1990. Blandt personerne, man kan få et gensyn med, er tennisspiller Kurt Nielsen, brandmand Max Blicher Hansen, dronning Ingrid samt entertainerne Pallesen &amp; Pilmark.</desc>
-    <episode-num system="xmltv_ns">1.1.0</episode-num>
-  </programme>
-  <programme start="20260522050000 +0000" stop="20260522053000 +0000" channel="dr2.dk">
-    <title>D.A.S.K. (3:6)</title>
-    <desc>Dansk komedieserie fra 1981. Adrian Tofts mest intime privatliv bliver udsat for en række alvorlige anslag.
-Medvirkende: Ulf Pilgaard, Jørn Faurschou, Inger Hovman, Karin Wedel m.fl.
-Instruktion: Per Wiking.</desc>
-    <episode-num system="xmltv_ns">0.2.0</episode-num>
-  </programme>
-  <programme start="20260522053000 +0000" stop="20260522060000 +0000" channel="dr2.dk">
-    <title>D.A.S.K. (4:6)</title>
-    <desc>Dansk komedieserie fra 1981. Adrian Toft søger på flere måder at tilgodese både sin fysiske og kunstneriske udvikling.
-Medvirkende: Ulf Pilgaard, Jørn Faurschou, Inger Hovman, Karin Wedel m.fl.
-Instruktion: Per Wiking.</desc>
-    <episode-num system="xmltv_ns">0.3.0</episode-num>
-  </programme>
-  <programme start="20260522060000 +0000" stop="20260522060500 +0000" channel="dr2.dk">
-    <title>Radioavisen</title>
-    <desc>Bliv opdateret på de seneste nyheder fra ind- og udland.</desc>
-  </programme>
-  <programme start="20260522060500 +0000" stop="20260522063000 +0000" channel="dr2.dk">
-    <title>Morgenandagten</title>
-    <desc>Morgenandagten fra Vor Frue Kirke, Københavns Domkirke.</desc>
-    <episode-num system="xmltv_ns">2025.116.0</episode-num>
-  </programme>
-  <programme start="20260522063000 +0000" stop="20260522100000 +0000" channel="dr2.dk">
-    <title>Seneste nyt fra TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260522100000 +0000" stop="20260522151500 +0000" channel="dr2.dk">
-    <title>Seneste nyt fra TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260522151500 +0000" stop="20260522160500 +0000" channel="dr2.dk">
-    <title>Johnny Reimar - et portræt</title>
-    <desc>Dansk portrætprogram fra 1990. Johnny Reimar har mange titler på cv'et - partysanger, musiker, manager, festarrangør samt pladeselskabs- og tv-direktør. I en samtale med Jørgen de Mylius fortæller den alsidige entertainer og driftige forretningsmand om sin karriere. Fra gennembruddet med pigtrådsmusikken i The Clifters over festsange som 'Du burde købe dig en tyrolerhat' og til børneuniverset med smølfesange. Desuden bidrager venner og kolleger til at tegne portrættet - heriblandt Birthe Kjær og Jørgen Olsen.</desc>
-  </programme>
-  <programme start="20260522160500 +0000" stop="20260522162500 +0000" channel="dr2.dk">
-    <title>D.A.S.K. (5:6)</title>
-    <desc>Dansk komedieserie fra 1981. Adrian Toft fostrer en god og samfundsnyttig tanke, som dog viser sig at komme på tværs af et vigtigt interview. 
-Medvirkende: Ulf Pilgaard, Jørn Faurschou, Inger Hovman, Karin Wedel m.fl.
-Instruktion: Per Wiking.</desc>
-    <episode-num system="xmltv_ns">0.4.0</episode-num>
-  </programme>
-  <programme start="20260522162500 +0000" stop="20260522165000 +0000" channel="dr2.dk">
-    <title>D.A.S.K. (6:6)</title>
-    <desc>Dansk komedieserie fra 1981. Adrian Toft møder en genial komponist og et mindst lige så højt begavet drengebarn.
-Medvirkende: Ulf Pilgaard, Jørn Faurschou, Inger Hovman, Karin Wedel m.fl.
-Instruktion: Per Wiking.</desc>
-    <episode-num system="xmltv_ns">0.5.0</episode-num>
-  </programme>
-  <programme start="20260522165000 +0000" stop="20260522172500 +0000" channel="dr2.dk">
-    <title>Huset på Christianshavn (20)</title>
-    <desc>Dansk komedieserie fra 1972. Der blæser nye spirituelle vinde på Christianshavn. Karla har gået på aftenkursus og forstår sig nu på astrologi og horoskoper. Fru Olsen kaster sig over blokfløjtespil og serverer kun grøntsager for sin husbond. For han har slet ikke en kødædende natur ifølge stjernerne.
-Medvirkende: Helle Virkner, Poul Reichhardt, Bodil Udsen, Arthur Jensen, Lis Løwert, Paul Hagen, Ove Sprogøe, Kirsten Walther, Willy Rathnov, Finn Storgaard, Kirsten Hansen-Møller m.fl.
-Manuskript: Johannes Møllehave.</desc>
-    <episode-num system="xmltv_ns">0.19.0</episode-num>
-  </programme>
-  <programme start="20260522172500 +0000" stop="20260522180000 +0000" channel="dr2.dk">
-    <title>Kvissen (3:16)</title>
-    <desc>Dansk quizprogram fra 1993. Gæt med sammen med de to deltagere i studiet, når Gorm viser klip med anlægningen af S-togene i Hovedstadsområdet, den amerikanske præsident George Bush og jazzlegenden Louis Armstrong, som besøger København.</desc>
-    <episode-num system="xmltv_ns">1.2.0</episode-num>
-  </programme>
-  <programme start="20260522180000 +0000" stop="20260522194000 +0000" channel="dr2.dk">
-    <title>The Company Men</title>
-    <desc>Amerikansk drama fra 2010.
-Sød familie, stort hus, Porsche i garagen. Bobby Walker har alt, han kunne ønske sig - indtil den dag, han mister sit velbetalte arbejde. Det samme gør en række af Bobbys kolleger, og nu må de alle forsøge at komme videre i tilværelsen uden det job, der ikke alene gav dem smør på brødet, men også var en stor del af deres identitet.
-Medvirkende: Ben Affleck, Tommy Lee Jones, Chris Cooper, Kevin Costner m.fl.
-Instruktion: John Wells.</desc>
-  </programme>
-  <programme start="20260522194000 +0000" stop="20260522200000 +0000" channel="dr2.dk">
-    <title>Troldspejlet: Science fiction bliver fact</title>
-    <desc>Er succesfilmen "Project Hail Mary" et tegn på, at science fiction-film er blevet så realistiske, at man kan tage fantasierne alvorligt? I denne episode af Troldspejlet undersøger Jakob Stegelmann, om science fiction-film er ved at blive science... fact?</desc>
-    <episode-num system="xmltv_ns">0.3.0</episode-num>
-  </programme>
-  <programme start="20260522200000 +0000" stop="20260522201500 +0000" channel="dr2.dk">
-    <title>TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260522201500 +0000" stop="20260522214500 +0000" channel="dr2.dk">
-    <title>Debatten: Nordens svar på en urolig verden</title>
-    <desc>Trumps trusler mod Grønland og Putins krig mod Ukraine har gjort Norden mere usikker: Hvilke alliancer skal vi satse på i fremtiden? NATO, EU eller bare Norden? DR samler med NRK, SVT og YLE topministre og andre stemmer for at give Nordens svar.</desc>
-    <episode-num system="xmltv_ns">2025.39.0</episode-num>
-  </programme>
-  <programme start="20260522214500 +0000" stop="20260522232000 +0000" channel="dr2.dk">
-    <title>Panserdiligencen</title>
-    <desc>Amerikansk western fra 1967.
-(The War Wagon)
-De gamle venner Taw Jackson og Lomax hyres til at dræbe hinanden, men i stedet slår de sig sammen for at udmanøvrere den skurkagtige guldmineejer Pierce. De to venner planlægger at røve Pierces guldtransport - og det er ikke nogen simpel opgave. Guldet transporteres nemlig i en skarpt bevogtet pansret diligence.
-Medvirkende: John Wayne, Kirk Douglas, Howard Keel m.fl.
-Instruktion: Burt Kennedy.</desc>
-  </programme>
-  <programme start="20260522232500 +0000" stop="20260523001500 +0000" channel="dr2.dk">
+  <programme start="20260522232500 +0000" stop="20260523002000 +0000" channel="dr2.dk">
     <title>Quentin Tarantino - Mit liv, mine film</title>
     <desc>Fransk dokumentar fra 2025.
 (Making Tarantino)
 "Alle mine film er personlige. Smerteligt personlige." Den amerikanske mesterinstruktør Quentin Tarantino er en af verdens mest indflydelsesrige og banebrydende filmskabere. Hans ni dristige film er uforglemmelige, og publikum elsker dem. Tilsammen udgør de et enestående værk, formet af den verden, han voksede op i og er inspireret af - fra Torrance i Californien til hjertet af Los Angeles.</desc>
   </programme>
-  <programme start="20260523002000 +0000" stop="20260523011000 +0000" channel="dr2.dk">
+  <programme start="20260523002000 +0000" stop="20260523011500 +0000" channel="dr2.dk">
     <title>Leaving Neverland 2: Surviving Michael Jackson</title>
     <desc>Britisk dokumentar fra 2025.
 (Leaving Neverland 2: Surviving Michael Jackson)
 De har kæmpet i ti år for at få deres sag prøvet i retten. I 2019 stod Wade Robson og James Safechuck frem og anklagede popikonet Michael Jackson for seksuelt misbrug. Nu fortsætter historien om de to mænds juridiske kamp. Vi hører om følgerne, deres anklager har haft for dem, kommer med til retsmøder og får indblik i den modstand, som de har oplevet fra både Jacksons efterladte og hans fans. 
 Læs mere om, hvorfor DR viser dokumentaren her: www.dr.dk/etik-og-rettelser/transparens/derfor-viser-dr-leaving-neverland-2-surviving-michael-jackson</desc>
   </programme>
-  <programme start="20260523011500 +0000" stop="20260523015500 +0000" channel="dr2.dk">
+  <programme start="20260523011500 +0000" stop="20260523020000 +0000" channel="dr2.dk">
     <title>Historiens største krigsskibe (1:3) Bismarck, Tirpitz og Yamato</title>
     <desc>Britisk dokumentarserie fra 2019.
 (World's Greatest Warships)
 De har ændret moderne krigsførelse. Krigsskibe er det ultimative symbol på en nations militære magt. Fartøjer med massive kanoner, torpedofly og bemandet af tusinder af besætningsmedlemmer. Her fortælles historien om de slagskibe, der spillede en afgørende rolle i søslagene under 2. verdenskrig. Hitlers frygtindgydende Bismarck og Tirpitz, USAs ikoniske Iowa-klasse fartøjer og japanernes Yamato, det største slagskib, der nogensinde er blevet bygget.</desc>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
   </programme>
-  <programme start="20260523020000 +0000" stop="20260523024000 +0000" channel="dr2.dk">
+  <programme start="20260523020000 +0000" stop="20260523025000 +0000" channel="dr2.dk">
     <title>Kvinder i frontlinjen (1:3)</title>
     <desc>Britisk dokumentarserie fra 2024.
 (WW2 Women On The Frontline)
 De var i konstant livsfare. Under 2. Verdenskrig levede mange tusind europæere og amerikanere et dobbeltliv. En af disse var den afro-amerikanske sanger og danser, Josephine Baker. Da Hitler invaderede Polen, hvervede det franske efterretningsvæsen hende som hemmelig agent. Men hun var ikke den eneste bemærkelsesværdige kvindelige spion. Her dykker vi ned i de utrolige historier, om dem, der fandt modet til at kæmpe bag fjendens linjer.</desc>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
   </programme>
-  <programme start="20260523025000 +0000" stop="20260523033000 +0000" channel="dr2.dk">
+  <programme start="20260523025000 +0000" stop="20260523034500 +0000" channel="dr2.dk">
     <title>Sådan taber man en verdenskrig (4:5) Sejrens helte</title>
     <desc>Fransk dokumentarserie fra 2023.
 (How to Lose a War)
@@ -235,13 +88,13 @@ Medvirkende: Karl Stegger, Jesper Langberg, Birgitte Price, Otto Brandenburg, Lo
 Instruktion: Henning Carlsen.</desc>
   </programme>
   <programme start="20260523153500 +0000" stop="20260523164500 +0000" channel="dr2.dk">
-    <title>Champions League fodbold (k): Finale</title>
+    <title>Champions League fodbold: FC Barcelona-OL Lyonnes (k), finale, direkte</title>
     <desc>Årets Champions League-finale I kvindefodbold står mellem to af Europas helt store rivaler i kvindefodbolden. Det bør blive en fodboldoplevelse af fineste karat, når FC Barcelona møder OL Lyonnes. De franske kvinder har gennem næsten to årtier været dominerende i kvindefodbolden og går efter at vinde titlen for 9. gang. I de senere år har FC Barcelona også for alvor markeret sig i kvindefodbolden, og hvis det bliver til spansk sejr, vil det være fjerde gang, Champions League-trofæet skal til Barcelona. Kampen spilles på Ullevaal Stadion i Oslo.
 Kommentatorer: Henrik Liniger og Arnela Muminovic.</desc>
     <episode-num system="xmltv_ns">2025.2.0</episode-num>
   </programme>
   <programme start="20260523164500 +0000" stop="20260523182500 +0000" channel="dr2.dk">
-    <title>Champions League fodbold (k): Finale</title>
+    <title>Champions League fodbold: FC Barcelona-OL Lyonnes (k), finale, direkte</title>
     <desc>Årets Champions League-finale I kvindefodbold står mellem to af Europas helt store rivaler i kvindefodbolden. Det bør blive en fodboldoplevelse af fineste karat, når FC Barcelona møder OL Lyonnes. De franske kvinder har gennem næsten to årtier været dominerende i kvindefodbolden og går efter at vinde titlen for 9. gang. I de senere år har FC Barcelona også for alvor markeret sig i kvindefodbolden, og hvis det bliver til spansk sejr, vil det være fjerde gang, Champions League-trofæet skal til Barcelona. Kampen spilles på Ullevaal Stadion i Oslo.
 Kommentatorer: Henrik Liniger og Arnela Muminovic.</desc>
     <episode-num system="xmltv_ns">2025.2.0</episode-num>
@@ -262,8 +115,9 @@ Optaget i DR Koncerthuset november 2025.</desc>
     <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
   </programme>
   <programme start="20260523201500 +0000" stop="20260523204500 +0000" channel="dr2.dk">
-    <title>Kommissionen</title>
-    <desc>.</desc>
+    <title>Kommissionen - Klimaministeriets talmagi, Eurovision og AI-fremtid</title>
+    <desc>I sæsonens sidste program stiller vi skarpt på et meget apolitisk Eurovision, et klimamål nået på en brændende klode, en ny digter med tvivlsom tøjsmag og en fremtid, hvor robotterne både kan selv og vil selv.
+Hold: Simon Talbot, Cecilie Bau og Adnan Al-Adhami</desc>
     <episode-num system="xmltv_ns">0.5.0</episode-num>
   </programme>
   <programme start="20260523204500 +0000" stop="20260523232500 +0000" channel="dr2.dk">
@@ -307,11 +161,6 @@ Emirates Stadium, London, maj 2007. Kampen mellem Arsenal og Chelsea ender uafgj
 (Amazing Railway Adventures with Nick Knowles)
 Fra den livlige industriby Napoli til Sicilien og den aktive vulkan Etna. Denne gang er tv-vært Nick Knowles i Italien, hvis jernbanenet strækker sig over 24.000 kilometer. Undervejs krydser han for første gang havet med tog, lærer at lave stærk limoncello og besøger et palads, der er omdannet til luksushotel.</desc>
     <episode-num system="xmltv_ns">1.1.0</episode-num>
-  </programme>
-  <programme start="20260524033000 +0000" stop="20260524040000 +0000" channel="dr2.dk">
-    <title>Sladderhistorie - For perfekt til at være sandt</title>
-    <desc>Prins Joachim og Alexandra Manley var det perfekte par, indtil de ikke var det længere. Hvor galt gik det, da facaden krakelerede for sangduoen Nina og Frederik? Hvordan startede rygter og sladder om Susse Wolds seksualitet, og hvordan kunne hun tage dem med et skuldertræk?</desc>
-    <episode-num system="xmltv_ns">0.4.0</episode-num>
   </programme>
   <programme start="20260524040000 +0000" stop="20260524044500 +0000" channel="dr2.dk">
     <title>Manden i hullet (6:7) Clairvoyance, pølser og dansepiger</title>
@@ -358,28 +207,28 @@ Mr. Chance har levet en beskyttet tilværelse som gartner i en stor have, uden k
 Medvirkende: Peter Sellers, Shirley MacLaine, Melvyn Douglas.
 Instruktion: Hal Ashby.</desc>
   </programme>
-  <programme start="20260524150500 +0000" stop="20260524155500 +0000" channel="dr2.dk">
+  <programme start="20260524150500 +0000" stop="20260524160000 +0000" channel="dr2.dk">
     <title>Roger Moore - Mere end Bond (2:2)</title>
     <desc>Britisk portrætserie fra 2024.
 (From Roger Moore with Love)
 Han er kendt som Bond - James Bond. Men også som selvglad engelsk playboy i kultkrimiserien 'De uheldige helte' - og meget andet. Mød Roger Moore, og følg hans rejse fra genert arbejderklassedreng til karismatisk filmstjerne i denne dokumentar, der byder på masser af hidtil usete hjemmevideoer og interviews med stjerner som Joan Collins, Christopher Walken og Pierce Brosnan samt Moores tre voksne børn.</desc>
     <episode-num system="xmltv_ns">0.1.0</episode-num>
   </programme>
-  <programme start="20260524160000 +0000" stop="20260524170000 +0000" channel="dr2.dk">
+  <programme start="20260524155500 +0000" stop="20260524165500 +0000" channel="dr2.dk">
     <title>Husker du... 1975</title>
     <desc>Året er 1975.
 Det var kvindernes år. Det havde FN bestemt, men i virkeligheden havde kvindeoprøret været i gang længe. Mød Karen Jespersen, der var en af de mest aktive kvindesagsforkæmpere. 1975 var også året, da der blev fred i Asien. Amerikanerne forlod Vietnam og med dem flere hundredetusinde vietnamesiske flygtninge. Mød en af dem, der kom til Danmark i 1975. Et dansk rederi kom i øvrigt til at spille en helt særlig rolle i forbindelse med afslutningen på Vietnam-krigen. Hør om en af de største redningsaktioner til søs. Det var også i 1975 rockgruppen Queen toppede hitlisterne med "Bohemian Rhapsody" og en musikvideo, der var langt forud for sin tid. I Danmark havde vi vores helt egen stjerne. Gustav Winckler brød i 1975 igennem med "Gem et lille smil til det bliver gråvejr".
 Sendt første gang 23.03.05</desc>
     <episode-num system="xmltv_ns">1.5.0</episode-num>
   </programme>
-  <programme start="20260524170000 +0000" stop="20260524175000 +0000" channel="dr2.dk">
+  <programme start="20260524165500 +0000" stop="20260524174500 +0000" channel="dr2.dk">
     <title>24 timer vi aldrig glemmer: Mordet på Olof Palme</title>
     <desc>Om aftenen fredag den 28. februar 1986 går den svenske statsminister Olof Palme i biografen med sin kone Lisbet. Da filmen er færdig vil de spadsere hjem til deres lejlighed i Gamla Stan, men så langt når de ikke. På hjørnet af Sveavägen og Tunnelgatan bliver Olof Palme skudt i brystet, og dør kort efter. Nyheden spreder sig til Danmark i løbet af kort tid, og chokerer de fleste. I 24 Timer vi aldrig glemmer fortæller bl.a. Uffe Ellemann-Jensen, Mogens Lykketoft, Paul Gazan og Per Larsen om deres oplevelser på dagen.
 Tilrettelæggelse: Kerstin Freiesleben.
 Sendt første gang 31.01.2010</desc>
     <episode-num system="xmltv_ns">1.1.0</episode-num>
   </programme>
-  <programme start="20260524175000 +0000" stop="20260524180000 +0000" channel="dr2.dk">
+  <programme start="20260524174500 +0000" stop="20260524180000 +0000" channel="dr2.dk">
     <title>Vores sange med DR Pigekoret: Danmark, nu blunder den lyse nat</title>
     <desc>DR Pigekoret synger Danmark nu blunder den lyse nat og Vuggende, bølgende eng.
 Dirigent: Charlotte Rowan.
@@ -391,7 +240,7 @@ Optaget i Koncerthuset i maj 2025.</desc>
     <desc>Kan aftenens deltagere finde fejl i de klassiske værker? Kan de genkende musik spillet bagfra? Og hvor gode er de til at spille musik på gamle slagtøjsinstrumenter? Frederik Cilius og Mathias Hammer er holdkaptajnerne, der styrer aftenens to hold gennem udfordringerne. Med sig har de Katrine Gislinge, Klaus Tönshoff, Isabella Hübener og Peter Ettrup Larsen. DR SymfoniOrkestret og dirigent Henrik Schaefer står for musikken, mens værten, Phillip Faber, forsøger at holde styr på løjerne.</desc>
     <episode-num system="xmltv_ns">1.3.0</episode-num>
   </programme>
-  <programme start="20260524190000 +0000" stop="20260524195000 +0000" channel="dr2.dk">
+  <programme start="20260524190000 +0000" stop="20260524194500 +0000" channel="dr2.dk">
     <title>Judi Dench - På sporet af Shakespeare</title>
     <desc>Britisk dokumentar fra 2025.
 (Judi Dench - Shakespeare, My Family and Me)
@@ -422,13 +271,13 @@ Sød familie, stort hus, Porsche i garagen. Bobby Walker har alt, han kunne øns
 Medvirkende: Ben Affleck, Tommy Lee Jones, Chris Cooper, Kevin Costner m.fl.
 Instruktion: John Wells.</desc>
   </programme>
-  <programme start="20260524233000 +0000" stop="20260525000100 +0000" channel="dr2.dk">
+  <programme start="20260524233000 +0000" stop="20260525000000 +0000" channel="dr2.dk">
     <title>Moderne Klassikere: Neneh Cherry - Buffalo Stance</title>
     <desc>Smart, legesyg og med masser af attitude fra gaden. Sangen "Buffalo Stance" ramte 1988 som en bombe og gjorde sangerinden Neneh Cherry til popstjerne - mens hun var højgravid. I Moderne Klassikere fortæller sangerinden om en anderledes popsang. Og vidste du, at første version hed "Looking Good Diving With the Wild Bunch"? Mød også den legendariske producer Bomb the Bass, stylisten Judy Blame og andre som satte deres præg på "Buffalo Stance".
 Sendt første gang 14.02.12</desc>
     <episode-num system="xmltv_ns">1.4.0</episode-num>
   </programme>
-  <programme start="20260525000100 +0000" stop="20260525003000 +0000" channel="dr2.dk">
+  <programme start="20260525000000 +0000" stop="20260525003000 +0000" channel="dr2.dk">
     <title>Sladderhistorie - Tabloide metoder</title>
     <desc>Var det paparazzifotografer der dræbte Lady Diana? Havde revystjernen Ingeborg BB et seksuelt forhold til sin Sanktbernhardshund? Var ugebladene i 1970'erne lidt for lumre og er dårlig omtale bedre end ingen omtale? I denne særudgave af Sladderhistorie, sætter vi fokus på dem, der har sat sladderen i system gennem tiderne</desc>
     <episode-num system="xmltv_ns">0.5.0</episode-num>
@@ -446,18 +295,12 @@ Odds malerier skal ind på museet, men der er stor uenighed om udvalget. Odd fyl
 (Cow)
 De sørger for, at vi får kød på bordet, mælk i kaffen og tøj på kroppen. Kom helt tæt på én af de milliarder af malkekøer, der hvert år fødes, lever og dør i fangenskab for vores skyld. En fortælling om dyr, men også om menneskers forhold til dem, og hvordan vi alle er forbundet.</desc>
   </programme>
-  <programme start="20260525030000 +0000" stop="20260525034500 +0000" channel="dr2.dk">
+  <programme start="20260525030000 +0000" stop="20260525035000 +0000" channel="dr2.dk">
     <title>Dronninger, der ændrede verden (4:6) Hatshepsut</title>
     <desc>Britisk dokumentarserie fra 2023.
 (The Queens That Changed the World)
 I århundreder har en af Egyptens mest magtfulde og succesrige herskere Hatshepsut været kendt som en konge snarere end en dronning. Hun regerer i 1400-tallet f.Kr. og kræver at bliver afbilledet som mand, komplet med skæg - og bliver begravet i Kongernes Dal. Som farao bygger hun bl.a. Deir al-Bahri-templet, etablerer vigtige handelsruter på tværs af regionen og bringer rigdom og kunst til Egypten.</desc>
     <episode-num system="xmltv_ns">0.3.0</episode-num>
-  </programme>
-  <programme start="20260525034500 +0000" stop="20260525035500 +0000" channel="dr2.dk">
-    <title>Tænkepauser: Tyngdekraft</title>
-    <desc>"Ved jorden at blive, det tjener os bedst," siger de rodfaste. Men faktisk har vi ikke noget valg. For tyngdekraften forhindrer kaffekopper, tennisbolde og børnebørn i at svæve ud i tomrummet mellem stjerner og planeter. Men kan vi udfordre tyngdekraften?
-En film af Iris Schmidt - efter en bog af Sofie Marie Koksbang.</desc>
-    <episode-num system="xmltv_ns">0.11.0</episode-num>
   </programme>
   <programme start="20260525040000 +0000" stop="20260525050000 +0000" channel="dr2.dk">
     <title>Husker du... 1974</title>
@@ -548,13 +391,13 @@ John McClanes voksne søn er havnet i et russisk fængsel, så farmand sætter k
 Medvirkende: Bruce Willis, Jai Courtney, Sebastian Koch m.fl.
 Instruktion: John Moore.</desc>
   </programme>
-  <programme start="20260525214500 +0000" stop="20260525223500 +0000" channel="dr2.dk">
+  <programme start="20260525214500 +0000" stop="20260525224000 +0000" channel="dr2.dk">
     <title>Denzel Washington - Rollemodel for en generation</title>
     <desc>Fransk dokumentar fra 2023.
 (Denzel Washington - An American Model)
 Han er blevet kåret som bedste skuespiller i det 21. århundrede af New York Times. Den dobbelte Oscar-vinder Denzel Washington har i 40 år spillet et utal af forskellige roller og vundet mere anerkendelse end nogen anden sort skuespiller. I film efter film har han givet sorte deres retmæssige plads i historien. En ubestridt film-prins, hvis skæbne er formet af USA's historie.</desc>
   </programme>
-  <programme start="20260525223500 +0000" stop="20260526004000 +0000" channel="dr2.dk">
+  <programme start="20260525224000 +0000" stop="20260526004500 +0000" channel="dr2.dk">
     <title>Velkommen, Mr. Chance</title>
     <desc>Amerikansk komedie fra 1979.
 (Being There)
@@ -562,33 +405,28 @@ Mr. Chance har levet en beskyttet tilværelse som gartner i en stor have, uden k
 Medvirkende: Peter Sellers, Shirley MacLaine, Melvyn Douglas.
 Instruktion: Hal Ashby.</desc>
   </programme>
-  <programme start="20260526004000 +0000" stop="20260526013000 +0000" channel="dr2.dk">
+  <programme start="20260526004500 +0000" stop="20260526013500 +0000" channel="dr2.dk">
     <title>Manden i hullet (7:7) Baller af sten</title>
     <desc>Det lakker vist mod det sidste spadestik, men inden da skal Rasmus Bruun som Herkules igennem en række prøvelser, der indebærer mødet med Ole, en 20 kilo tung blodpytonslange - og Poul Nesgaard.</desc>
     <episode-num system="xmltv_ns">0.6.0</episode-num>
   </programme>
-  <programme start="20260526013000 +0000" stop="20260526023000 +0000" channel="dr2.dk">
+  <programme start="20260526013500 +0000" stop="20260526023500 +0000" channel="dr2.dk">
     <title>Den klassiske musikquiz (3:8)</title>
     <desc>Kan man gætte et stykke musik efter bare en enkelt tone? Hvor svært er det at genkende stykker spillet bagfra? Og kan man spille kendte værker på udtjente slagtøjsinstrumenter? Frederik Cilius og Mathias Hammer er holdkaptajnerne, der styrer aftenens to hold gennem udfordringerne. Med sig har de Sara Rosendal, Nikolaj Koppel, Else Torp og Peter Ettrup Larsen. DR SymfoniOrkestret og dirigent Henrik Schaefer står for musikken, mens Phillip Faber er den veloplagte vært, der forsøger at holde styr på løjerne.</desc>
     <episode-num system="xmltv_ns">1.2.0</episode-num>
   </programme>
-  <programme start="20260526023000 +0000" stop="20260526030000 +0000" channel="dr2.dk">
+  <programme start="20260526023500 +0000" stop="20260526030000 +0000" channel="dr2.dk">
     <title>Deadline: Bag lukkede døre i D.C.</title>
     <desc>De har delt guldmønter ud, lovet grønlandske børn chokoladekage og indvier i dag et nyt kæmpe-konsulat i hjertet af Nuuk. Amerikanerne har haft travlt i Grønland den her uge. Samtidig får vi nu for første gang indblik i, hvad der er foregået bag lukkede døre til de højtprofilerede diplomatiske forhandlinger i arbejdsgruppen i Washington. Så hvad er amerikanernes plan? Det undersøger Sandra Brovall i dagens udgave af Deadline.</desc>
     <episode-num system="xmltv_ns">2025.75.0</episode-num>
   </programme>
-  <programme start="20260526030000 +0000" stop="20260526033000 +0000" channel="dr2.dk">
+  <programme start="20260526030000 +0000" stop="20260526033500 +0000" channel="dr2.dk">
     <title>Deadline: Mørklægning og mistillid</title>
     <desc>Droner som måske, måske ikke var der. Politifolk som siger, de efterforsker voldssager, men ikke gør det, og en udredning af krigen i Afghanistan, som politikerne ikke vil citeres i.
 Det er tre sager fra de seneste uger, som har efterladt mange med et indtryk af, at politikere og myndigheder ikke altid tør være helt ærlige over for danskerne.
 Imens vokser mistilliden til det politiske system i Danmark, og det er netop en reaktion på mørklægning og hemmelighedskræmmeri. Det mener i hvert fald Politikens chefredaktør Christian Jensen, der i dag debatterer med Socialdemokratiets Christian Rabjerg Madsen. 
 Vært: Christian Bennike. </desc>
     <episode-num system="xmltv_ns">2025.74.0</episode-num>
-  </programme>
-  <programme start="20260526033000 +0000" stop="20260526040000 +0000" channel="dr2.dk">
-    <title>Deadline: Nogen eller noget?</title>
-    <desc>I formiddag ville Troels Lund Poulsen have en VLAK-regering. Over middag dræbte Lars Løkke Rasmussen tilsyneladende ideen. Nu raser det store blame game om 'nogen i stedet for noget', alt imens Danmark har stået uden regering i 55 dage i en tid fuld af international usikkerhed. Hvor længe kan det blive ved, spørger Trine Maria Ilsøe i dagens udgave af Deadline.</desc>
-    <episode-num system="xmltv_ns">2025.73.0</episode-num>
   </programme>
   <programme start="20260526040000 +0000" stop="20260526043000 +0000" channel="dr2.dk">
     <title>1000 års tro: Danernes store religionsskifte</title>
@@ -731,14 +569,6 @@ Vært: Johannes Langkilde.</desc>
     <title>Deadline: Bag lukkede døre i D.C.</title>
     <desc>De har delt guldmønter ud, lovet grønlandske børn chokoladekage og indvier i dag et nyt kæmpe-konsulat i hjertet af Nuuk. Amerikanerne har haft travlt i Grønland den her uge. Samtidig får vi nu for første gang indblik i, hvad der er foregået bag lukkede døre til de højtprofilerede diplomatiske forhandlinger i arbejdsgruppen i Washington. Så hvad er amerikanernes plan? Det undersøger Sandra Brovall i dagens udgave af Deadline.</desc>
     <episode-num system="xmltv_ns">2025.75.0</episode-num>
-  </programme>
-  <programme start="20260527033000 +0000" stop="20260527040000 +0000" channel="dr2.dk">
-    <title>Deadline: Mørklægning og mistillid</title>
-    <desc>Droner som måske, måske ikke var der. Politifolk som siger, de efterforsker voldssager, men ikke gør det, og en udredning af krigen i Afghanistan, som politikerne ikke vil citeres i.
-Det er tre sager fra de seneste uger, som har efterladt mange med et indtryk af, at politikere og myndigheder ikke altid tør være helt ærlige over for danskerne.
-Imens vokser mistilliden til det politiske system i Danmark, og det er netop en reaktion på mørklægning og hemmelighedskræmmeri. Det mener i hvert fald Politikens chefredaktør Christian Jensen, der i dag debatterer med Socialdemokratiets Christian Rabjerg Madsen. 
-Vært: Christian Bennike. </desc>
-    <episode-num system="xmltv_ns">2025.74.0</episode-num>
   </programme>
   <programme start="20260527040000 +0000" stop="20260527045000 +0000" channel="dr2.dk">
     <title>Johnny Reimar - et portræt</title>
@@ -986,5 +816,141 @@ Narkohandleren Pat Matter stiger i graderne og bliver præsident for Hells Angel
 (Mao - His Life and Legacy)
 Folkerepublikken Kina udråbes af Mao Zedong den 1. oktober 1949. Efter proklamationen går han straks i gang med at omdanne landet til en socialistisk stat. Koreakrigen udfordrer hans styre og kræver hans fulde opmærksomhed, mens han samtidig igangsætter en omfattende industrialisering. Med 'Det Store Spring Fremad' forsøger han at accelerere udviklingen, men politikken får katastrofale følger og udløser en af historiens største sultkatastrofer med over 30 millioner døde.</desc>
     <episode-num system="xmltv_ns">0.1.0</episode-num>
+  </programme>
+  <programme start="20260529002500 +0000" stop="20260529014500 +0000" channel="dr2.dk">
+    <title>Sangerinden, som blev skudt</title>
+    <desc>Britisk dokumentar fra 2022.
+(My Name Is Happy)
+"Lige siden jeg var otte-ni år, har jeg drømt om at blive sanger." Som 19-årig når kurdiske Mutlu Kaya finalen i den tyriske version af 'Talent'. Få dage senere bliver hun skudt i hovedet af en stalker. Mod alle odds overlever Mutlu, men med livsændrende skader. Her følger vi hende, mens hun kæmper for at genvinde sit helbred, sin sangstemme og mod kvindevold i Tyrkiet.  (Dokumania)</desc>
+  </programme>
+  <programme start="20260529014500 +0000" stop="20260529020000 +0000" channel="dr2.dk">
+    <title>På skuldrene af Bohr (4:6)</title>
+    <desc>På et universitet i Danmark arbejder et hold forskere på at lave en helt ny type supercomputer, der bygger på noget helt uforståeligt: At dens allermindste dele både er der, og ikke er der på samme tid. Dansk videnskabsserie fra 2022 om kvantefysikkens uforklarligheder, som tager udgangspunkt i de ideer og tanker den danske fysiker Niels Bohr havde for 100 år siden, og som blev fundamentet til kvantemekanikken. En teori om de allermindste ting i universet.</desc>
+    <episode-num system="xmltv_ns">0.3.0</episode-num>
+  </programme>
+  <programme start="20260529020000 +0000" stop="20260529023000 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <episode-num system="xmltv_ns">2025.78.0</episode-num>
+  </programme>
+  <programme start="20260529023000 +0000" stop="20260529030000 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <episode-num system="xmltv_ns">2025.77.0</episode-num>
+  </programme>
+  <programme start="20260529030000 +0000" stop="20260529033000 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <episode-num system="xmltv_ns">2025.76.0</episode-num>
+  </programme>
+  <programme start="20260529033000 +0000" stop="20260529040000 +0000" channel="dr2.dk">
+    <title>Trumps USA</title>
+    <desc>I "Trumps USA" stiller vi skarpt på de afgørende udviklinger, personopgør og dagsordener, der udspiller sig i amerikansk politik.</desc>
+    <episode-num system="xmltv_ns">2025.14.0</episode-num>
+  </programme>
+  <programme start="20260529040000 +0000" stop="20260529043100 +0000" channel="dr2.dk">
+    <title>De uartige kalkmalerier (1:5)</title>
+    <desc>Det første afsnit i denne nye serie handler om sex og hor. Det er overraskende for mange at sex og hor overhovedet er noget der optræder i kalkmalerierne. Peter Kær opdager, at det bl.a. skyldes at det var kirkeværgerne - helt almindelige bønder - som bestilte malerierne. Bønderne havde fingeren på pulsen og vidste udmærket at religionen alene ikke lokkede folk i kirke. Men det er kun en del af svaret. I dette program viser historikeren Torben Svendrup kalkmalerier af en kvinde hvis safter tappes af Satan, en mand der onanerer, en bøddel der får rejsning og en djævel der fiser af glæde.</desc>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+  </programme>
+  <programme start="20260529043000 +0000" stop="20260529050500 +0000" channel="dr2.dk">
+    <title>Kvissen (3:16)</title>
+    <desc>Dansk quizprogram fra 1993. Gæt med sammen med de to deltagere i studiet, når Gorm viser klip med anlægningen af S-togene i Hovedstadsområdet, den amerikanske præsident George Bush og jazzlegenden Louis Armstrong, som besøger København.</desc>
+    <episode-num system="xmltv_ns">1.2.0</episode-num>
+  </programme>
+  <programme start="20260529050500 +0000" stop="20260529053500 +0000" channel="dr2.dk">
+    <title>D.A.S.K. (5:6)</title>
+    <desc>Dansk komedieserie fra 1981. Adrian Toft fostrer en god og samfundsnyttig tanke, som dog viser sig at komme på tværs af et vigtigt interview. 
+Medvirkende: Ulf Pilgaard, Jørn Faurschou, Inger Hovman, Karin Wedel m.fl.
+Instruktion: Per Wiking.</desc>
+    <episode-num system="xmltv_ns">0.4.0</episode-num>
+  </programme>
+  <programme start="20260529053500 +0000" stop="20260529060000 +0000" channel="dr2.dk">
+    <title>D.A.S.K. (6:6)</title>
+    <desc>Dansk komedieserie fra 1981. Adrian Toft møder en genial komponist og et mindst lige så højt begavet drengebarn.
+Medvirkende: Ulf Pilgaard, Jørn Faurschou, Inger Hovman, Karin Wedel m.fl.
+Instruktion: Per Wiking.</desc>
+    <episode-num system="xmltv_ns">0.5.0</episode-num>
+  </programme>
+  <programme start="20260529060000 +0000" stop="20260529060500 +0000" channel="dr2.dk">
+    <title>Radioavisen</title>
+    <desc>Bliv opdateret på de seneste nyheder fra ind- og udland.</desc>
+  </programme>
+  <programme start="20260529060500 +0000" stop="20260529063000 +0000" channel="dr2.dk">
+    <title>Morgenandagten</title>
+    <desc>Morgenandagten fra Vor Frue Kirke, Københavns Domkirke.</desc>
+  </programme>
+  <programme start="20260529063000 +0000" stop="20260529100000 +0000" channel="dr2.dk">
+    <title>Seneste nyt fra TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260529100000 +0000" stop="20260529151500 +0000" channel="dr2.dk">
+    <title>Seneste nyt fra TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260529151500 +0000" stop="20260529155500 +0000" channel="dr2.dk">
+    <title>Store Danskere - A.P. Møller</title>
+    <desc>Dansk dokumentar fra 2003
+Stifteren af Danmarks suverænt største foretagende, hvem var han? Arnold Peter Møller ledede med stor succes sit firma op gennem det meste af det 20. århundrede med de udfordringer og dilemmaer specielt de to Verdenskrige satte ham i. 
+Sendt første gang 26.10.03</desc>
+    <episode-num system="xmltv_ns">2002.2.0</episode-num>
+  </programme>
+  <programme start="20260529155500 +0000" stop="20260529162000 +0000" channel="dr2.dk">
+    <title>Landet rundt - Convoy</title>
+    <desc>Dansk reportage fra 1980. Der er en helt særlig kultur blandt de danske lastbilchauffører, som er medlemmer af klubben Convoy - heftigt inspireret af filmen af samme navn, amerikansk trucker-jargon og lastvognsromantik. Walkie-talkien er rygraden i fællesskabet, hvor politiet, der er den store fjende, bliver kaldt "smokey". Landevejslivet er præget af sammenhold, fuskerier og en vis selvtægtsmentalitet. Reglerne om køre- og hviletid bliver opfattet som urealistiske, og almindelige bilister bliver presset godt og grundigt på "betonstien".</desc>
+    <episode-num system="xmltv_ns">1979.0.0</episode-num>
+  </programme>
+  <programme start="20260529162000 +0000" stop="20260529165000 +0000" channel="dr2.dk">
+    <title>Man ta'r en barstol</title>
+    <desc>Dansk underholdningsprogram fra 1975. Man ta'r en barstol, et glas whisky, en båndoptager og en stegt and - og så får man The Lisbet Dahl Show. Skuespillerinden med det store komiske talent tager sig kærligt af både den flirtende chef, rødstrømpen og den forsmåede husmor, når hun indtager en meget høj barstol i et underholdende show med humor, sang og sketches. Når de satiriske indslag kræver mandlig deltagelse, assisteres hun på bedste vis af Preben Kaas og Benny Hansen.</desc>
+  </programme>
+  <programme start="20260529165000 +0000" stop="20260529172500 +0000" channel="dr2.dk">
+    <title>Huset på Christianshavn (21)</title>
+    <desc>Dansk komedieserie fra 1972. En gruppe slumstormere indtager nabohuset med sang og høj musik. Det er faktisk Larsen, som har inviteret de unge hippier. De gamle beboere samler sig hos Olsens og afventer politiets reaktion.
+Medvirkende: Helle Virkner, Poul Reichhardt, Bodil Udsen, Arthur Jensen, Lis Løwert, Paul Hagen, Ove Sprogøe, Kirsten Walther, Willy Rathnov, Finn Storgaard, Kirsten Hansen-Møller, Sanne Salomonsen m.fl.
+Manuskript: Paul Hammerich.</desc>
+    <episode-num system="xmltv_ns">0.20.0</episode-num>
+  </programme>
+  <programme start="20260529172500 +0000" stop="20260529180000 +0000" channel="dr2.dk">
+    <title>Kvissen (4:16)</title>
+    <desc>Dansk quizprogram fra 1993. Blandt de spændende klip med historiske begivenheder mellem 1930 og 1990 er Socialdemokratiets 75-års jubilæum, Marilyn Monroes begravelse, Anisette i tv-udgaven af Dødens triumf og statsminister Kampmanns besøg i Indien.</desc>
+    <episode-num system="xmltv_ns">1.3.0</episode-num>
+  </programme>
+  <programme start="20260529180000 +0000" stop="20260529194500 +0000" channel="dr2.dk">
+    <title>The Menu</title>
+    <desc>Amerikansk thrillerkomedie fra 2022.
+Det unge madøre Tyler og hans date Margot sejler ud til en privat ø, hvor de skal spise på en yderst eksklusiv restaurant. Her har den gådefulde kok Slowik tilberedt en overdådig og vanvittig dyr menu. Men i løbet af det opulente måltid får de forkælede overklassegæster også serveret nogle gedigne, chokerende overraskelser.
+Medvirkende: Anya Taylor-Joy, Nicholas Hoult, Ralph Fiennes m.fl.
+Instruktion: Mark Mylod.</desc>
+  </programme>
+  <programme start="20260529194500 +0000" stop="20260529200000 +0000" channel="dr2.dk">
+    <title>Troldspejlet: En amerikansk k-pop succes</title>
+    <desc>Med KPop Demon Hunters sensationelle popularitet er koreansk popkultur for alvor blevet udbredt. Jakob Stegelmann deler begejstringen og giver forklaringen på, hvordan amerikanske kræfter er en stor del af hemmeligheden bag succesen.</desc>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+  </programme>
+  <programme start="20260529200000 +0000" stop="20260529201500 +0000" channel="dr2.dk">
+    <title>TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260529201500 +0000" stop="20260529222000 +0000" channel="dr2.dk">
+    <title>De nådesløse</title>
+    <desc>Amerikansk western fra 1992.
+(Unforgiven)
+William Munny har trukket sig tilbage som revolvermand, da nogle prostituerede udlover en dusør til dem, der vil dræbe de cowboys, som har skamferet én af deres veninder. Den håndfaste sherif Little Bill bryder sig ikke om dusørjægere i sin by. Men Munny beslutter sig med to venner for at indkassere dusøren. Og så tegner alt til et blodigt opgør mellem loven og retfærdigheden.
+Medvirkende: Clint Eastwood, Gene Hackman, Morgan Freeman, Richard Harris m.fl.
+Instruktion: Clint Eastwood.</desc>
+  </programme>
+  <programme start="20260529222000 +0000" stop="20260529235500 +0000" channel="dr2.dk">
+    <title>Django</title>
+    <desc>Italiensk western fra 1966.
+Django kommer trækkende med en ligkiste efter sig. Han har noget at hævne, og han er hurtig på aftrækkeren. Da han dukker op, bliver fejden mellem major Jacksons lejesvende og general Rodriquez' banditter for alvor blodig, men hvad har han egentlig i kisten?
+Medvirkende: Franco Nero, José Bódalo, Loredana Nusciak m.fl.
+Instruktion: Sergio Corbucci.</desc>
+  </programme>
+  <programme start="20260529235500 +0000" stop="20260530005000 +0000" channel="dr2.dk">
+    <title>Denzel Washington - Rollemodel for en generation</title>
+    <desc>Fransk dokumentar fra 2023.
+(Denzel Washington - An American Model)
+Han er blevet kåret som bedste skuespiller i det 21. århundrede af New York Times. Den dobbelte Oscar-vinder Denzel Washington har i 40 år spillet et utal af forskellige roller og vundet mere anerkendelse end nogen anden sort skuespiller. I film efter film har han givet sorte deres retmæssige plads i historien. En ubestridt film-prins, hvis skæbne er formet af USA's historie.</desc>
   </programme>
 </tv>
