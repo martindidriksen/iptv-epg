@@ -3,26 +3,6 @@
   <channel id="kvf.fo">
     <display-name>KVF</display-name>
   </channel>
-  <programme start="20260523180000 " stop="20260523182500 " channel="kvf.fo">
-    <title>Úr savninum: Gimmi</title>
-    <sub-title>- føroyskur dokumentarur frá januar 2022</sub-title>
-    <desc>Fyri 6 árum síðani brunnu húsini hjá Gimma Hansen í Rituvík niður í grund. Við eitt fór lívsverkið, hann sjálvur hevði smíðað sær, upp í royk. Men einki er so ringt, at tað ikki er gott fyri okkurt. 93 ára gamli maðurin av Slættanesi er nú fluttur inn í kjallaran hjá soninum á Signabø, har hann tekur bussin hvønn fyrrapart til Havnar. Í býarlívinum hevur Gimmi Hansen fingið nýtt lív og nýggjar vinir. Vit fylgdu honum ein summardag. Finnur Koba hevur klipt og lagt til rættis. Jónfinn Stenberg hevur filmað og klipt.</desc>
-  </programme>
-  <programme start="20260523182500 " stop="20260523190500 " channel="kvf.fo">
-    <title>Fjarskotin kærleiki</title>
-    <sub-title>-  donsk røð frá 2026 (13:13)</sub-title>
-    <desc>Samuel er undir trýsti, nú tað endaliga valið skal takast. Samstundis gleða hinir menninir seg til at brúka seinastu náttina saman við kvinnunum. Men heldur kærleikin, tá kvinnurnar fara heim, ella fara krákurnar enn einaferð at sita einsamallar eftir? Partur: 13 Framl. ár: 2026 Framl. fyri TV2: TV 2 DANMARK</desc>
-  </programme>
-  <programme start="20260523190500 " stop="20260523211500 " channel="kvf.fo">
-    <title>Pot-au-feu: Vegurin til hjartað</title>
-    <sub-title>- franskur romatiskur dramafilmur frá 2023</sub-title>
-    <desc>Hin dugnaligi kokkurin Eugénie (Juliette Binoche) hevur arbeitt hjá tí kenda stjørnukokkinum Dodin (Benoît Magimel) í meira enn 20 ár. Saman skapa tey heilt framúrskarandi rættir, sum undra heimsins mest kendu kokkar. Sum tíðin er liðin, er virðingin teirra millum ment til eitt romantiskt samband. Men Eugénie er glað fyri sítt frælsi og hevur ongantíð ynskt at giftast við Dodin. Tí avger hann at gera nakað, hann ongantíð hevur gjørt áður: at gera mat til hana. Viðvirkandi: Eugénie: Juliette Binoche, Dodin Bouffant: Benoît Magimel og Rabaz: Emmanuel Salinger. Framleiðsluár: 2023 Aldursmark: 7</desc>
-  </programme>
-  <programme start="20260523211500 " stop="20260524070000 " channel="kvf.fo">
-    <title>Marlowe</title>
-    <sub-title>- am. krimifilmur frá 2022</sub-title>
-    <desc>Los Angeles 1938. Her verður privatdetektivurin Philip Marlowe (Liam Neeson) leigaður av arvinginum Clare Cavendish (Diane Kruger) til at finna hennara horvna elskaða Nico Peterson (François Arnaud). Hann arbeiðir í filmsvinnuni, og Marlowe finnur út av, at hann er yvirkoyrdur av einum bili uttan fyri ein náttklubba. Marlowe er skeptiskur um hesa frágreiðingina og kemur skjótt á sporið av einum máli um korruptión og svik. Viðvirkandi: Philip Marlowe: Liam Neeson, Clare Cavendish: Diane Kruger og Dorothy Quincannon: Jessica Lange. Framleiðsluár: 2022 Aldursmark: 15</desc>
-  </programme>
   <programme start="20260524070000 " stop="20260524072500 " channel="kvf.fo">
     <title>MORSA 2:12</title>
     <sub-title>- føroysk barnarøð</sub-title>
@@ -310,7 +290,27 @@
     <title>Dagur og vika</title>
     <sub-title>- við teksti</sub-title>
   </programme>
-  <programme start="20260529224500 " stop="20260529234500 " channel="kvf.fo">
+  <programme start="20260529224500 " stop="20260530180000 " channel="kvf.fo">
     <title>Veðrið</title>
+  </programme>
+  <programme start="20260530180000 " stop="20260530183500 " channel="kvf.fo">
+    <title>Úr savninum: Sofía og djórini</title>
+    <sub-title>- føroysk sending</sub-title>
+    <desc>- Skal eg doyggja, skal tað vera á føroyskari jørð. Sofía Thorsvig-Kajsdóttir rýmdi heim aftur til Føroya, tá korona brast á. Hon hevur nú funnið friðin í Elduvík, har hon hevur bygt ein djóragarð við hønum, dunnum, gásum og kalkunum. Djóragarðurin er á trøðni, sum familjan eigur longur inni í dalinum - einar 100 metrar frá bygdini. Hvønn morgun, hvønn seinnapart og hvørt kvøld vitjar Sofía djórini. Oftast hevur hon báðar hundarnar við sær. Djórini fylgja Sofíu trúføst, tá hon gongur longur oman eftir trøðni at geva teimum. Lagt til rættis: Finnur Koba.</desc>
+  </programme>
+  <programme start="20260530183500 " stop="20260530191500 " channel="kvf.fo">
+    <title>Hvar skulu vit búgva?</title>
+    <sub-title>- donsk sendirøð (4:6)</sub-title>
+    <desc>Nathalie og Jesper droyma um at finna eitt hús á Sælandi, har tey kunnu fáa meira pláss til allar teirra mongu hobbyir, og har tað er vøkur náttúra og friður rundan um tey. Mads og Line hava selt sína íbúð í Esbjerg og droyma nú um at flyta til Odense. Tey vilja flyta inn í eitt barnavinarligt øki, har tey kunnu fáa ein garð til August, sum er tvey ára gamal. Vertir: Sara Lygum, Christian Borregaard, Camilla Rubæk og Dilsad Sahin Framleiðsluár: 2025</desc>
+  </programme>
+  <programme start="20260530191500 " stop="20260530205500 " channel="kvf.fo">
+    <title>Booksmart</title>
+    <sub-title>- am. komedia frá 2019</sub-title>
+    <desc>Klistriheilarnir Amy og Molly (Beanie Feldstein, Kaitlyn Dever) eru bestu vinkonur í high school, har tær hava havt fokus á bøkur og próvtøl. Á gáttini til endapróvtøkuna, gongur tað upp fyri teimum, at tær hava púra gloymt at hava tað stuttligt í high school. Nú seta tær sær fyri at kompensera aftur fyri fýra ár av keðsemi - í eina nátt! Upprunaheiti: Booksmart Framl.ár: 2019 Aldursmark: 7</desc>
+  </programme>
+  <programme start="20260530205500 " stop="20260530215500 " channel="kvf.fo">
+    <title>Radical</title>
+    <sub-title>- meksikanskur spenningsfilmur frá 2023</sub-title>
+    <desc>Í einum fátæksligum meksikanskum býi, sum er merktur av harðskapi og korruptión, roynir tann idealistiski lærarin Sergio (Eugenio Derbez) at gera mun fyri børnini. Tá vanligir undirvísingarhættir ikki rigga, mennir hann ein nýggjan, radikalan og spennandi hátt at undirvísa. Ein hjartanemandi søga um vón, dirvi og broyting. Viðvirkandi: Sergio: Eugenio Derbez, Chucho: Daniel Haddad og Paloma: Jennifer Trejo. Framleiðsluár: 2023 Aldursmark: 11</desc>
   </programme>
 </tv>
