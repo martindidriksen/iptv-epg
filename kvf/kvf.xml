@@ -3,48 +3,6 @@
   <channel id="kvf.fo">
     <display-name>KVF</display-name>
   </channel>
-  <programme start="20260526170000 " stop="20260526173000 " channel="kvf.fo">
-    <title>Vinus og Vimús 7:10</title>
-    <sub-title>- ferðaklemm, før.barnasending frá 2024</sub-title>
-    <desc>7.partur 3.umfar: Vinus og Vimús hava gjørt sær ein spælibuss. Ferðaseðilin er eitt klemm. Men tá ið bussurin bakkar á hillina, dettur bókin á gólv. Tað er ein góð bók um eina moldvørpu. Og tá ið sangurin um hjólini á bussinum er liðugur, klívur Vinurin út aftur gjøgnum vindeygað, hesa ferð hevur hann fleiri stuttlig ljóðføri við. Vimús kemur aftur við fleiri ferðsluskeltum. Men tá Vinus skal koyra bussin avstað, vil bussurin ikki koyra! Hesa ferð fer Vinus heilt vist at tekna ein buss. Smáteknifilmarnir eru eisini við. Og so er bert eftir at siga: Góðan morgun dag gott kvøld góða nátt ? og farvæl! At brúka til bussspælið: Stórt pappstykki. Litir. Lítil pappstykkir til skeltið og hjólini á bussinum.</desc>
-  </programme>
-  <programme start="20260526173000 " stop="20260526180000 " channel="kvf.fo">
-    <title>Alt um djór</title>
-    <sub-title>- barnarøð frá BBC við føroyskari talu</sub-title>
-  </programme>
-  <programme start="20260526180000 " stop="20260526182500 " channel="kvf.fo">
-    <title>Dagur og vika</title>
-  </programme>
-  <programme start="20260526182500 " stop="20260526183000 " channel="kvf.fo">
-    <title>Veðrið</title>
-  </programme>
-  <programme start="20260526183000 " stop="20260526190000 " channel="kvf.fo">
-    <title>Úr savninum: Gimmi</title>
-    <sub-title>- føroyskur dokumentarur frá januar 2022</sub-title>
-    <desc>Fyri 6 árum síðani brunnu húsini hjá Gimma Hansen í Rituvík niður í grund. Við eitt fór lívsverkið, hann sjálvur hevði smíðað sær, upp í royk. Men einki er so ringt, at tað ikki er gott fyri okkurt. 93 ára gamli maðurin av Slættanesi er nú fluttur inn í kjallaran hjá soninum á Signabø, har hann tekur bussin hvønn fyrrapart til Havnar. Í býarlívinum hevur Gimmi Hansen fingið nýtt lív og nýggjar vinir. Vit fylgdu honum ein summardag. Finnur Koba hevur klipt og lagt til rættis. Jónfinn Stenberg hevur filmað og klipt.</desc>
-  </programme>
-  <programme start="20260526190000 " stop="20260526200000 " channel="kvf.fo">
-    <title>Mín autisma innanífrá</title>
-    <sub-title>- sending um autismu frá 2023 (1:2)</sub-title>
-    <desc>Ein nonverbalur autistur fær hjálp til at seta orð á ein týdningarmiklan boðskap. Chris vitjar einasta almenna skúlan í landinum, sum einans er fyri gentur við autismu. Upprunaheiti: Min autisme indefra Framleiðsluár: 2023</desc>
-  </programme>
-  <programme start="20260526200000 " stop="20260526202500 " channel="kvf.fo">
-    <title>Toppstjórarnir 1:3</title>
-    <sub-title>- raktur av tollhamarinum hjá Trump</sub-title>
-    <desc>Stjórin hjá Grundfos, Poul Due Jensen, roynir at sameina seg við uttanríkisráðharran, tá Donald Trump kunnger nýggjar tollsatsir. Hjá Logitrans í Ribe stríðist Gitte Kirkegaard við at rokna út, hvussu nýggju tollsatsirnir fara at ávirka. Sesong: 3</desc>
-  </programme>
-  <programme start="20260526202500 " stop="20260526205500 " channel="kvf.fo">
-    <title>Horvnir pápar</title>
-    <sub-title>- donsk dokumentarrøð (5:5)</sub-title>
-    <desc>Maria hevur ongantíð hitt pápa sín. Allar pílar peika á ein lokalan spanióla, sum mamma hennara fall fyri undir eini charterferiu á Mallorka. Við bert fáum sporum fær hon nú hjálp frá Michèle í leitanini eftir horvna pápa sínum. Sesong: 3 Partur: 5 Framleiðsluár: 2026 Framleitt fyri: TV 2 DANMARK</desc>
-  </programme>
-  <programme start="20260526205500 " stop="20260526212000 " channel="kvf.fo">
-    <title>Dagur og vika</title>
-    <sub-title>- við teksti</sub-title>
-  </programme>
-  <programme start="20260526212000 " stop="20260527170000 " channel="kvf.fo">
-    <title>Veðrið</title>
-  </programme>
   <programme start="20260527170000 " stop="20260527173000 " channel="kvf.fo">
     <title>Alt um djór</title>
     <sub-title>- barnarøð frá BBC við føroyskari talu</sub-title>
@@ -279,7 +237,44 @@
     <title>Dagur og vika við 3-2</title>
     <sub-title>- við teksti</sub-title>
   </programme>
-  <programme start="20260601220000 " stop="20260601230000 " channel="kvf.fo">
+  <programme start="20260601220000 " stop="20260602170000 " channel="kvf.fo">
+    <title>Veðrið</title>
+  </programme>
+  <programme start="20260602170000 " stop="20260602173000 " channel="kvf.fo">
+    <title>Vinus og Vimús 8:10</title>
+    <sub-title>- skattaveiða og fløskuspæl, før.barnasending frá 2024</sub-title>
+    <desc>8.partur 3.umfar: Vimús teknar eitt skattakort, sum Vinus skal brúka. Hann finnur ymsar skattir. Eitt nú dettur ein bók niður av hillini. Og ein góð bók er ein dýrgripur. Hesa ferð er bókin um ein vilstan vin. Ein annar dýrgripur kann vera ein góður sangur um sjórænarar í Føroyum. Vinus og Vinurin spæla báðir upp á serlig ljóðføri, og syngja duga teir eisini. Sum í hinum pørtunum eru smáteknifilmarnir við. Og Vinus má eisini tekna alt, sum er farið fram. Bæði skattakort og dýrgripir. Og siga: Góðan morgun dag gott kvøld góða nátt ? og farvæl! At brúka til skattaveiðu og fløskuspæl: Skattakort. Pappír. Blýant. Dýrgripir.</desc>
+  </programme>
+  <programme start="20260602173000 " stop="20260602180000 " channel="kvf.fo">
+    <title>Alt um djór</title>
+    <sub-title>- barnarøð frá BBC við føroyskari talu</sub-title>
+  </programme>
+  <programme start="20260602180000 " stop="20260602182500 " channel="kvf.fo">
+    <title>Dagur og vika</title>
+  </programme>
+  <programme start="20260602182500 " stop="20260602183000 " channel="kvf.fo">
+    <title>Veðrið</title>
+  </programme>
+  <programme start="20260602183000 " stop="20260602190500 " channel="kvf.fo">
+    <title>Úr savninum: Sofía og djórini</title>
+    <sub-title>- føroysk sending</sub-title>
+    <desc>- Skal eg doyggja, skal tað vera á føroyskari jørð. Sofía Thorsvig-Kajsdóttir rýmdi heim aftur til Føroya, tá korona brast á. Hon hevur nú funnið friðin í Elduvík, har hon hevur bygt ein djóragarð við hønum, dunnum, gásum og kalkunum. Djóragarðurin er á trøðni, sum familjan eigur longur inni í dalinum - einar 100 metrar frá bygdini. Hvønn morgun, hvønn seinnapart og hvørt kvøld vitjar Sofía djórini. Oftast hevur hon báðar hundarnar við sær. Djórini fylgja Sofíu trúføst, tá hon gongur longur oman eftir trøðni at geva teimum. Lagt til rættis: Finnur Koba.</desc>
+  </programme>
+  <programme start="20260602190500 " stop="20260602200500 " channel="kvf.fo">
+    <title>Mín autisma innanífrá</title>
+    <sub-title>- sending um autismu frá 2023 (2:2)</sub-title>
+    <desc>Chris hjálpir Anton at seta orð á, hví broytingar kunnu kennast sum ein vanlukka. Hann hittir eisini ein ungan rappara, sum er sera viðkvæmur fyri larmi. Upprunaheiti: Min autisme indefra Framleiðsluár: 2023</desc>
+  </programme>
+  <programme start="20260602200500 " stop="20260602212500 " channel="kvf.fo">
+    <title>Vit sóu atombumburnar</title>
+    <sub-title>- bretskur dokumentarur frá 2024</sub-title>
+    <desc>Avgerðin hjá USA at tveita atombumbur yvir tveir japanskar býir ? Hiroshima 6. august 1945 og Nagasaki tríggjar dagar seinni ? var ein av týdningarmestu og mest oyðileggjandi hendingunum í heimssøguni. Hesin serstaki filmurin savnar frásagnir frá nøkrum av teimum seinastu "Hibakusha" ? tey, ið yvirlivdu atombumburnar ? áðrenn røddir teirra hvørva fyri altíð. Upprunaheiti: Atomic People Framleiðsluár: 2024 Aldursmark: 15</desc>
+  </programme>
+  <programme start="20260602212500 " stop="20260602215000 " channel="kvf.fo">
+    <title>Dagur og vika</title>
+    <sub-title>- við teksti</sub-title>
+  </programme>
+  <programme start="20260602215000 " stop="20260602225000 " channel="kvf.fo">
     <title>Veðrið</title>
   </programme>
 </tv>

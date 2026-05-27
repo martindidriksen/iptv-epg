@@ -3,14 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260526190000 +0000" stop="20260526192700 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
-  <programme start="20260526201500 +0000" stop="20260526220500 +0000" channel="ruv2.is">
-    <title>Gríman 2026 (með táknmálstúlkun)</title>
-    <desc>Bein útsending frá afhendingu Grímunnar, íslensku sviðslistaverðlaunanna. Stjórn útsendingar: Ragnar Eyþórsson.</desc>
-  </programme>
   <programme start="20260527190000 +0000" stop="20260527192700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
@@ -42,6 +34,10 @@
     <desc>Heimildarþáttaröð þar sem David Attenborough kannar náttúru og dýralíf í Asíu, stærstu heimsálfu jarðar.</desc>
   </programme>
   <programme start="20260601190000 +0000" stop="20260601192700 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260602190000 +0000" stop="20260602192700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
