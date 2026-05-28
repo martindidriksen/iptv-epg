@@ -3,10 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260527190000 +0000" stop="20260527192700 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20260528190000 +0000" stop="20260528192700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
@@ -15,7 +11,7 @@
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
-  <programme start="20260529194500 +0000" stop="20260529201000 +0000" channel="ruv2.is">
+  <programme start="20260529194500 +0000" stop="20260529201500 +0000" channel="ruv2.is">
     <title>20 Something (with English subtitles)</title>
     <sub-title>(6 af 6)</sub-title>
     <desc>An Icelandic comedy series by Arnór Björnsson, Óli Gunnar Gunnarsson and Vigdís Hafliðadóttir. Three young adults navigate the challenges of their twenties: university life, the job market, ghosts of past relationships and faded childhood dreams. The series features six original songs by the band FLOTT. Starring: Arnór Björnsson, Óli Gunnar Gunnarsson and Vigdís Hafliðadóttir. Director: Kristófer Dignus. Production: Kontent.</desc>
@@ -38,6 +34,10 @@
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
   <programme start="20260602190000 +0000" stop="20260602192700 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260603190000 +0000" stop="20260603192700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
