@@ -3,15 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260531190000 +0000" stop="20260531192000 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
-  <programme start="20260531194600 +0000" stop="20260531203700 +0000" channel="ruv2.is">
-    <title>Asía - með enskum þul</title>
-    <sub-title>(5 af 7)</sub-title>
-    <desc>Heimildarþáttaröð þar sem David Attenborough kannar náttúru og dýralíf í Asíu, stærstu heimsálfu jarðar.</desc>
-  </programme>
   <programme start="20260601190000 +0000" stop="20260601192700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
@@ -35,5 +26,14 @@
   <programme start="20260606190000 +0000" stop="20260606192000 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260607190000 +0000" stop="20260607192000 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260607194500 +0000" stop="20260607203400 +0000" channel="ruv2.is">
+    <title>Asía - með enskum þul</title>
+    <sub-title>(6 af 7)</sub-title>
+    <desc>Heimildarþáttaröð þar sem David Attenborough kannar náttúru og dýralíf í Asíu, stærstu heimsálfu jarðar.</desc>
   </programme>
 </tv>
