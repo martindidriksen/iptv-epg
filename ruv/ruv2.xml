@@ -3,10 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260602190000 +0000" stop="20260602192700 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20260603190000 +0000" stop="20260603192700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
@@ -33,6 +29,26 @@
     <desc>Heimildarþáttaröð þar sem David Attenborough kannar náttúru og dýralíf í Asíu, stærstu heimsálfu jarðar.</desc>
   </programme>
   <programme start="20260608190000 +0000" stop="20260608192700 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260609182000 +0000" stop="20260609184000 +0000" channel="ruv2.is">
+    <title>Stofan</title>
+    <desc>Umfjallanir um leiki í undankeppni HM kvenna í fótbolta.
+
+Upphitun fyrir leik Íslands og Spánar í undankeppni HM kvenna í fótbolta.</desc>
+  </programme>
+  <programme start="20260609185000 +0000" stop="20260609205500 +0000" channel="ruv2.is">
+    <title>Ísland - Spánn</title>
+    <desc>Leikir í undankeppni HM kvenna í fótbolta.
+
+Leikur Íslands og Spánar í undankeppni HM kvenna í fótbolta.</desc>
+  </programme>
+  <programme start="20260609205500 +0000" stop="20260609211500 +0000" channel="ruv2.is">
+    <title>Stofan</title>
+    <desc>Umfjallanir um leiki í undankeppni HM kvenna í fótbolta.</desc>
+  </programme>
+  <programme start="20260609212000 +0000" stop="20260609214500 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
