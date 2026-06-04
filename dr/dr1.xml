@@ -3,120 +3,6 @@
   <channel id="dr1.dk">
     <display-name>DR1</display-name>
   </channel>
-  <programme start="20260602234500 +0000" stop="20260603003500 +0000" channel="dr1.dk">
-    <title>Vidnebeskytteren (6:6)</title>
-    <desc>Britisk thrillerserie fra 2024.
-(Protection)
-Liz er stadig mere isoleret. Men hun har intet at tabe, og hun er parat til at gå langt for at finde frem til sandheden. Kan hun optrevle sammensværgelsen, inden de korrupte kræfter stopper hende?</desc>
-    <episode-num system="xmltv_ns">0.5.0</episode-num>
-  </programme>
-  <programme start="20260603003500 +0000" stop="20260603012000 +0000" channel="dr1.dk">
-    <title>Antikkrejlerne XXVI (2:25)</title>
-    <desc>Antikvitetseksperter konkurrerer mod hinanden om at købe antikviteter og sælge dem på auktion.</desc>
-    <episode-num system="xmltv_ns">25.1.0</episode-num>
-  </programme>
-  <programme start="20260603012000 +0000" stop="20260603020000 +0000" channel="dr1.dk">
-    <title>Hvor ingen skulle tro, at nogen kunne bo XXIII (3:6)</title>
-    <desc>Norsk dokumentarserie fra 2024.
-(Der ingen skulle tru at nokon kunne bu)
-Kirsti Furnes bor alene og uden en vej. Det går fint. Om vinteren bliver hun isoleret af fjord-is. Også det går godt. Men da tovbanen ryger, så er det alvor.</desc>
-    <episode-num system="xmltv_ns">2024.2.0</episode-num>
-  </programme>
-  <programme start="20260603041000 +0000" stop="20260603050000 +0000" channel="dr1.dk">
-    <title>Hvor ingen skulle tro, at nogen kunne bo XXIV (8:8)</title>
-    <desc>Norsk dokumentarserie fra 2025.
-(Der ingen skulle tru at nokon kunne bu)
-Line og Tor-Evert Grøndal bor på 52 kvadratmeter sammen med to børn. Alene i en skov, langt fra børnepasning. Det er hårdt. Men en dag sker der noget magisk.</desc>
-    <episode-num system="xmltv_ns">2025.7.0</episode-num>
-  </programme>
-  <programme start="20260603050000 +0000" stop="20260603075000 +0000" channel="dr1.dk">
-    <title>TVA: Danmark skal have et nyt ministerhold</title>
-    <desc>Klokken 10 præsenteres den nye regering ved Amalienborg, og senere på dagen overdrages ministerierne til de nye ministre. Inden det nye ministerhold præsenteres på Amalienborg, forventes det, at de mødes i Statsministeriet.
-
-TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260603080000 +0000" stop="20260603095000 +0000" channel="dr1.dk">
-    <title>TVA: Det nye ministerhold præsenteres</title>
-    <desc>Den nye regering præsenteres ved Amalienborg, og senere på dagen overdrages ministerierne til de nye ministre.
-
-TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260603100000 +0000" stop="20260603140000 +0000" channel="dr1.dk">
-    <title>TVA: Overdragelse af ministerier</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260603140000 +0000" stop="20260603160000 +0000" channel="dr1.dk">
-    <title>TVA: Danmark har fået en ny regering, et nyt ministerhold og en ny politik</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260603160000 +0000" stop="20260603163000 +0000" channel="dr1.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
-    <episode-num system="xmltv_ns">2025.81.0</episode-num>
-  </programme>
-  <programme start="20260603163000 +0000" stop="20260603165000 +0000" channel="dr1.dk">
-    <title>TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260603165000 +0000" stop="20260603170000 +0000" channel="dr1.dk">
-    <title>Vores Vejr</title>
-    <desc>DR's vejrudsendelse, der i løbet af ugen gør dig klogere på vejret, der var, og hvad der venter os.</desc>
-  </programme>
-  <programme start="20260603170000 +0000" stop="20260603180000 +0000" channel="dr1.dk">
-    <title>Aftenshowet</title>
-    <desc>DR1s journalistiske talkshow direkte fra Rådhuspladsen i København.</desc>
-    <episode-num system="xmltv_ns">2025.81.0</episode-num>
-  </programme>
-  <programme start="20260603180000 +0000" stop="20260603183000 +0000" channel="dr1.dk">
-    <title>Fede forhold (5:6) Jeg er en forelsket mand</title>
-    <desc>Parrenes forløb er ved at lakke mod enden, men der er stadig problemer hos Ninja med søvnen. Derfor får hun hjælp fra en søvnekspert, så hun kan sove mere end sine vanlige 2-3 timer. Kristine kæmper med sit selvbillede og får gode råd af vanecoach Suzy Wengel, og så får Ditte og Kasper hjælp hos sexolog Julie Houe.</desc>
-    <episode-num system="xmltv_ns">6.4.0</episode-num>
-  </programme>
-  <programme start="20260603183000 +0000" stop="20260603190000 +0000" channel="dr1.dk">
-    <title>Bomberydderne - Dynamit på loftet</title>
-    <desc>Bomberydderne rydder op i fortidens farlige efterladenskaber. Mikkel tager på granatsafari i Sønderjylland, mens Hanne har fået en håndgranat på krogen. Et besøg på et museum viser sig at udgøre en mulig trussel. Og den erfarne bomberydder Erik står pludselig over for 7,5 kg ustabil dynamit.</desc>
-    <episode-num system="xmltv_ns">0.2.0</episode-num>
-  </programme>
-  <programme start="20260603190000 +0000" stop="20260603192500 +0000" channel="dr1.dk">
-    <title>TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260603192500 +0000" stop="20260603200500 +0000" channel="dr1.dk">
-    <title>Folkedomstolen: "Jeg elsker dyr - de smager så godt"</title>
-    <desc>En vegansk far anklager en populær pædagog for bevidst at give hans søn kødpølse - og snart eksploderer en lokal konflikt i et landsdækkende opgør om værdier, normer og forældreangst.
-Var det omsorg for et ked-af-det barn - eller et ideologisk overgreb?
-Juryen må afgøre, hvem der egentlig krydsede grænsen.</desc>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-  </programme>
-  <programme start="20260603200500 +0000" stop="20260603213500 +0000" channel="dr1.dk">
-    <title>Beck: I stormens øje</title>
-    <desc>Svensk krimi fra 2009.
-(Beck - I stormens öga)
-En eftersøgt miljøaktivist findes skudt og brændt. Den svenske sikkerhedstjeneste får mistanke om, at Gunvald Larsson, kriminalkommissær Martin Becks højre hånd, er indblandet i sagen. Og mens Gunvald går på jagt efter morderen, bliver Becks loyalitet over for sin kollega stillet på en hård prøve, da han får ordre på at anholde Gunvald.
-Martin Beck: Peter Haber.
-Gunvald Larsson: Mikael Persbrandt.
-Oskar Bergman: Måns Nathanaelson.
-Instruktion: Harald Hamrell.</desc>
-    <episode-num system="xmltv_ns">3.0.0</episode-num>
-  </programme>
-  <programme start="20260603213500 +0000" stop="20260603221600 +0000" channel="dr1.dk">
-    <title>Alene i vildmarken USA XII (9:10)</title>
-    <desc>Amerikansk overlevelseseksperiment fra 2025.
-(Alone XII)
-En række uheld får deltagernes chancer for succes til at smuldre. Mens én deltager står med et ødelagt shelter, må en anden finde en måde at undgå at sulte ihjel, efter at have mistet kræfterne til at spænde sin bue.</desc>
-    <episode-num system="xmltv_ns">11.8.0</episode-num>
-  </programme>
-  <programme start="20260603221600 +0000" stop="20260603222000 +0000" channel="dr1.dk">
-    <title>OBS</title>
-    <desc>.</desc>
-  </programme>
-  <programme start="20260603222000 +0000" stop="20260603230500 +0000" channel="dr1.dk">
-    <title>Indefra med Anders Agger - Gaden i Grenaa (2:4) Jeg savner ikke døden</title>
-    <desc>I Fredensgade i Grenaa bliver der drukket dåsevis af øl. Hver dag. Men for flere af beboerne har der været et liv før gaden. Med nære relationer, 8-16 og nyttehave. 
-Anders Agger og Torben besøger den gård, Torben ejede, før livet tog en drejning.
-Og den lokale præst kommer forbi for at tale med mændene om livet, døden og hvordan alkohol ofte viser sig at være stærkere end kærligheden.</desc>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-  </programme>
   <programme start="20260603230500 +0000" stop="20260604010000 +0000" channel="dr1.dk">
     <title>Anna</title>
     <desc>Fransk-amerikansk actionthriller fra 2019.
@@ -124,16 +10,12 @@ Den smukke russiske gadesælger Anna bliver headhuntet af et førende parisisk m
 Medvirkende: Sasha Luss, Luke Evans, Cillian Murphy, Helen Mirren m.fl.
 Instruktion: Luc Besson.</desc>
   </programme>
-  <programme start="20260604014500 +0000" stop="20260604014500 +0000" channel="dr1.dk">
+  <programme start="20260604010000 +0000" stop="20260604014500 +0000" channel="dr1.dk">
     <title>Hvor ingen skulle tro, at nogen kunne bo XXIII (4:6)</title>
     <desc>Norsk dokumentarserie fra 2024.
 (Der ingen skulle tru at nokon kunne bu)
 Agnes Klevmark og Lage Dokken mangler noget i bylivet. Da de får mulighed for at købe et faldefærdigt husmandssted, tager de chancen. Selv om stedet er temmelig skummelt.</desc>
     <episode-num system="xmltv_ns">2024.3.0</episode-num>
-  </programme>
-  <programme start="20260604023000 +0000" stop="20260604020500 +0000" channel="dr1.dk">
-    <title>Udsendelsesophør</title>
-    <desc>.</desc>
   </programme>
   <programme start="20260604042000 +0000" stop="20260604050000 +0000" channel="dr1.dk">
     <title>Fiskerne (1:8)</title>
@@ -143,7 +25,9 @@ Fiskerlivet er benhårdt. De, som lykkes, tjener store penge, men det kræver b�
   </programme>
   <programme start="20260604050000 +0000" stop="20260604051500 +0000" channel="dr1.dk">
     <title>TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+    <desc>Alle EU-landene har givet grønt lys til, at de første egentlige forhandlinger om medlemskab til Ukraine kan begynde. 
+
+TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
   </programme>
   <programme start="20260604051500 +0000" stop="20260604063000 +0000" channel="dr1.dk">
     <title>Seneste nyt fra TVA</title>
@@ -156,7 +40,10 @@ Fiskerlivet er benhårdt. De, som lykkes, tjener store penge, men det kræver b�
   </programme>
   <programme start="20260604070000 +0000" stop="20260604075500 +0000" channel="dr1.dk">
     <title>Aftenshowet</title>
-    <desc>DR1s journalistiske talkshow direkte fra Rådhuspladsen i København.</desc>
+    <desc>I dag fik Danmark en ny regering og dermed et nyt ministerhold. Nogle rykkede op, andre er væk - og flere overraskelser har allerede sat gang i spekulationerne. Men hvad fortæller de nye ansigter egentlig om den nye regering? Hvordan er det at være en af dem, der nu kan kalde sig en del af ministerholdet? Og hvad siger danskerne til det hold, der nu er sat?
+Aftenens værter: Nola Grace Gaardmand og Kristian Ring-Hansen Hol.
+
+DR1s journalistiske talkshow direkte fra Rådhuspladsen i København.</desc>
     <episode-num system="xmltv_ns">2025.81.0</episode-num>
   </programme>
   <programme start="20260604075500 +0000" stop="20260604082500 +0000" channel="dr1.dk">
@@ -268,32 +155,31 @@ Toptræneren Marc Stott blev fældet i det, der i 2020 blev den største skandal
     <title>TVA</title>
     <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
   </programme>
-  <programme start="20260604192500 +0000" stop="20260604200500 +0000" channel="dr1.dk">
-    <title>På sporet af det uforglemmelige måltid - Rasmus Bruun</title>
-    <desc>Rasmus Bruun og en salat af 100 urter.
-Skuespilleren Rasmus Bruun husker stadig smagen af en salat, han fik serveret på en italiensk Michelin-restaurant - en salat med 100 forskellige urter og grøntsager. Den komplekse smag vækker noget dybt i ham: minderne om barndommens somre hos farmor og farfar i Thy. Sammen med madanmelder Lærke Kløvedal drager han nu ud for at genskabe det uforglemmelige måltid. Men kan man overhovedet rekonstruere en smag, der er mere erindring end opskrift? Rejsen fører dem til Fyn og Ærø, hvor de møder passionerede råvareproducenter og madkyndige, der hjælper med at finde vejen tilbage - både til de rette urter og til fortiden. Undervejs må Rasmus erkende, at noget er forandret - i landskabet og i ham selv.</desc>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
+  <programme start="20260604192500 +0000" stop="20260604201500 +0000" channel="dr1.dk">
+    <title>Debatten</title>
+    <desc>Danmarks stærkeste stemmer diskuterer tidens sværeste beslutninger. Hver torsdag direkte fra DR Byen. Vært: Clement Kjersgaard.</desc>
+    <episode-num system="xmltv_ns">2025.38.0</episode-num>
   </programme>
-  <programme start="20260604200500 +0000" stop="20260604205500 +0000" channel="dr1.dk">
+  <programme start="20260604201500 +0000" stop="20260604201500 +0000" channel="dr1.dk">
     <title>Gone (1:6)</title>
     <desc>Britisk krimidramaserie fra 2026.
 Skoleinspektør Michael Pollys kone, musiklæreren Sarah, forsvinder fra parrets hjem. Dagen efter melder Michael Sarah savnet. Kriminalassistent Annie Cassidy sættes på sagen. Hun undrer sig over, hvor kontrolleret og uanfægtet Michael synes at være. Snart tager sagen en dyster drejning,</desc>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
   </programme>
-  <programme start="20260604205500 +0000" stop="20260604214000 +0000" channel="dr1.dk">
+  <programme start="20260604210000 +0000" stop="20260604215000 +0000" channel="dr1.dk">
     <title>Gone (2:6)</title>
     <desc>Britisk krimidramaserie fra 2026.
 Efter det grusomme fund synes Annie, at Michael opfører sig mærkeligt. Tilsyneladende uanfægtet holder han fast i sine skoleforpligtelser. Men Annie er også vidne til et sjældent sårbart øjeblik fra Michaels side.</desc>
     <episode-num system="xmltv_ns">0.1.0</episode-num>
   </programme>
-  <programme start="20260604214000 +0000" stop="20260604222500 +0000" channel="dr1.dk">
+  <programme start="20260604215000 +0000" stop="20260604223500 +0000" channel="dr1.dk">
     <title>Alene i vildmarken USA XII (10:10)</title>
     <desc>Amerikansk overlevelseseksperiment fra 2025.
 (Alone XII)
 De sidste tilbageværende deltagere nærmer sig målstregen. Hvem løber afsted med de 500.000 dollars og titlen som den første vinder i et ørkenklima?</desc>
     <episode-num system="xmltv_ns">11.9.0</episode-num>
   </programme>
-  <programme start="20260604222500 +0000" stop="20260604235500 +0000" channel="dr1.dk">
+  <programme start="20260604223500 +0000" stop="20260605000500 +0000" channel="dr1.dk">
     <title>Jagtsæson</title>
     <desc>Dansk spillefilm fra 2019.
 Evas eks-mand, Steen, kom hurtigt videre efter skilsmissen, da han erstattede Eva med den unge og sexede Bella, som nu også er blevet tæt med Evas barndomsveninde Marlene. Da Marlene fortæller, at hun måske er forelsket i en anden mand, arrangerer Eva og Bella mod alle odds en wellness-weekend for at dække over Marlenes affære. Men turen udvikler sig hurtigt til en konkurrence mellem Eva og Bella, og alt går galt under en fasanjagt, på grund af Evas kamp om at være Marlenes bedste veninde. Kan de 3 kvinder nå at blive gode venner igen inden Steen og Evas søn Olivers fødselsdag?
@@ -302,24 +188,24 @@ Manuskript: Lars Mering og Claudia Boderke.
 Instruktion: Tilde Harkamp.
 Produktion: Nordisk Film i samarbejde med bl.a. Det Danske Filminstitut og DR.</desc>
   </programme>
-  <programme start="20260604235500 +0000" stop="20260605013000 +0000" channel="dr1.dk">
+  <programme start="20260605000500 +0000" stop="20260605014500 +0000" channel="dr1.dk">
     <title>Hercule Poirot: Kortene på bordet</title>
     <desc>Engelsk krimi fra 2005.
 (Agatha Christie's Poirot: Cards on the Table)
 Den flamboyante rigmand Shaitana inviterer en række gæster til middag og kortspil i sit overdådige hjem. Shaitana er fascineret af mord, men han bliver selv slået ihjel, mens hans gæster spiller bridge. Heldigvis er der ikke færre end tre detektiver blandt gæsterne - deriblandt mesteren over dem alle, Hercule Poirot.</desc>
     <episode-num system="xmltv_ns">9.2.0</episode-num>
   </programme>
-  <programme start="20260605013000 +0000" stop="20260605020000 +0000" channel="dr1.dk">
+  <programme start="20260605014500 +0000" stop="20260605021500 +0000" channel="dr1.dk">
     <title>Vild med Dance - lyden af 90'erne 4:6 - Koncepterne kommer!</title>
     <desc>Me &amp; My åbner døren. Aqua sparker den ind og erobrer verden med deres klokkeklare koncept, hvor look og musik går op i en højere enhed. Opskriften på succes er fundet, og bands som Daze, Hit'n'Hide, Tiggy og Cartoons brager gennem den internationale lydmur med et mix af vilde kostumer, monsterhits og tonsvis af bas og godt humør.</desc>
     <episode-num system="xmltv_ns">0.3.0</episode-num>
   </programme>
-  <programme start="20260605020000 +0000" stop="20260605024500 +0000" channel="dr1.dk">
+  <programme start="20260605021500 +0000" stop="20260605025500 +0000" channel="dr1.dk">
     <title>Antikkrejlerne XXVI (3:25)</title>
     <desc>Antikvitetseksperter konkurrerer mod hinanden om at købe antikviteter og sælge dem på auktion.</desc>
     <episode-num system="xmltv_ns">25.2.0</episode-num>
   </programme>
-  <programme start="20260605024500 +0000" stop="20260605031000 +0000" channel="dr1.dk">
+  <programme start="20260605025500 +0000" stop="20260605032000 +0000" channel="dr1.dk">
     <title>Udsendelsesophør</title>
     <desc>.</desc>
   </programme>
@@ -341,19 +227,15 @@ Den flamboyante rigmand Shaitana inviterer en række gæster til middag og korts
     <title>TVA</title>
     <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
   </programme>
-  <programme start="20260605051500 +0000" stop="20260605063500 +0000" channel="dr1.dk">
+  <programme start="20260605051500 +0000" stop="20260605064500 +0000" channel="dr1.dk">
     <title>Seneste nyt fra TVA</title>
     <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
   </programme>
   <programme start="20260605064500 +0000" stop="20260605095955 +0000" channel="dr1.dk">
-    <title>Seneste nyt fra grundlovstalerne</title>
+    <title>TVA med seneste nyt fra grundlovstalerne</title>
     <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
   </programme>
-  <programme start="20260605095955 +0000" stop="20260605101500 +0000" channel="dr1.dk">
-    <title>TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260605130100 +0000" stop="20260605140000 +0000" channel="dr1.dk">
+  <programme start="20260605130000 +0000" stop="20260605140000 +0000" channel="dr1.dk">
     <title>Hercule Poirot: Dommen er afsagt</title>
     <desc>Engelsk krimi fra 2008.
 (Agatha Christie's Poirot: Mrs McGinty's Dead)
@@ -371,19 +253,13 @@ Instruktion: Ashley Pearce.</desc>
 Uden vand har livet ingen chance i ørkenen. I det sydlige Kenya udspiller sig et bemærkelsesværdigt samspil mellem det mindste og største dyr. Elefanter og termitter. I tusinder af år har deres makkerskab transformeret nogle af de tørreste regioner i Afrika. Sammen skaber de vandhuller. Det er en historie om intriger, gensidig afhængighed og kampen for at overleve og opfostre deres familier, før deres verden igen bliver til sand.</desc>
   </programme>
   <programme start="20260605150000 +0000" stop="20260605150500 +0000" channel="dr1.dk">
-    <title>Seneste nyt fra grundlovstalerne</title>
+    <title>TVA med seneste nyt fra grundlovstalerne</title>
     <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
   </programme>
-  <programme start="20260605150500 +0000" stop="20260605160000 +0000" channel="dr1.dk">
-    <title>Jordemoderen VII (6:10)</title>
-    <desc>Engelsk dramaserie fra 2018.
-(Call the Midwife)
-Londons East End i starten af 1960'erne. Med tilknytning til et nonnekloster hjælper en gruppe jordemødre, sygeplejersker og nonner den fattige bydels gravide kvinder.</desc>
-    <episode-num system="xmltv_ns">6.5.0</episode-num>
-  </programme>
   <programme start="20260605160000 +0000" stop="20260605163000 +0000" channel="dr1.dk">
-    <title>Krigens døgn</title>
-    <desc>Forstå krigen mellem Ukraine og Rusland helt ned i detaljen. Med udgangspunkt i den seneste uges begivenheder zoomer vi sammen med Danmarks førende eksperter ind på krigens afgørende elementer.</desc>
+    <title>Krigens døgn: Er Nato klar?</title>
+    <desc>En russisk drone har ramt en beboelsesejendom i Rumænien. Dermed stilles der spørgsmål ved om Nato overhovedet er i stand til at forsvare sig godt nok mod eventuelle russiske angreb? Samtidig har Sverige doneret en mængde nye kampfly til Ukraine. Kan det blive en afgørende fordel? Og hvordan skal de fungere sammen med de dansk-doneret f-16-fly?
+Vært: Mads Korsager.</desc>
     <episode-num system="xmltv_ns">4.16.0</episode-num>
   </programme>
   <programme start="20260605163000 +0000" stop="20260605165000 +0000" channel="dr1.dk">
@@ -911,11 +787,11 @@ Instruktion: James Kent.</desc>
     <episode-num system="xmltv_ns">10.1.0</episode-num>
   </programme>
   <programme start="20260608142000 +0000" stop="20260608151500 +0000" channel="dr1.dk">
-    <title>Jordemoderen VII (7:10)</title>
+    <title>Jordemoderen VII (6:10)</title>
     <desc>Engelsk dramaserie fra 2018.
 (Call the Midwife)
 Londons East End i starten af 1960'erne. Med tilknytning til et nonnekloster hjælper en gruppe jordemødre, sygeplejersker og nonner den fattige bydels gravide kvinder.</desc>
-    <episode-num system="xmltv_ns">6.6.0</episode-num>
+    <episode-num system="xmltv_ns">6.5.0</episode-num>
   </programme>
   <programme start="20260608151500 +0000" stop="20260608153000 +0000" channel="dr1.dk">
     <title>TVA</title>
@@ -974,6 +850,16 @@ Billeder lyver aldrig. Eller gør de? Det er spørgsmålet for den unge efterfor
 (Harald og Sonja)
 Kong Olav må for første gang spørge en splittet regering om råd. Store dele af den norske befolkning ønsker, at Harald og Sonja gifter sig. Regeringen gør, hvad den kan for at undgå at svare kongen. Harald føler, at han bryder loven. Sonja ønsker at følge sit hjerte, men ved, at det kan skabe ubalance i samfundet. Kong Olav må træffe et svært valg.</desc>
     <episode-num system="xmltv_ns">0.3.0</episode-num>
+  </programme>
+  <programme start="20260608221000 +0000" stop="20260608224000 +0000" channel="dr1.dk">
+    <title>Welcome to Wrexham (1:18)</title>
+    <desc>De to Hollywood-stjerner Ryan Reynolds og Rob McElhenney køber den gamle walisiske fodboldklub Wrexham, som spiller i den femtebedste engelske fodboldrække. Målet er at forvandle klubben til en ægte succeshistorie. Men de to kendisejere har ingen erfaring med fodbold og har heller aldrig arbejdet sammen før.</desc>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+  </programme>
+  <programme start="20260608224000 +0000" stop="20260608230500 +0000" channel="dr1.dk">
+    <title>Welcome to Wrexham (2:18)</title>
+    <desc>Fodboldklubben Wrexham kæmper for at kvalificere sig til slutspillet, mens deres nye ejere i raketfart forsøger at lære alle aspekter af en sportsgren og en branche, de intet kender til.</desc>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
   </programme>
   <programme start="20260608230500 +0000" stop="20260608235000 +0000" channel="dr1.dk">
     <title>Stella Blómkvist II: Mordet på Nationalhistorisk Museum (1:2)</title>
@@ -1091,11 +977,11 @@ Instruktion: Dan Reed.</desc>
     <episode-num system="xmltv_ns">10.2.0</episode-num>
   </programme>
   <programme start="20260609142000 +0000" stop="20260609151500 +0000" channel="dr1.dk">
-    <title>Jordemoderen VII (8:10)</title>
+    <title>Jordemoderen VII (7:10)</title>
     <desc>Engelsk dramaserie fra 2018.
 (Call the Midwife)
 Londons East End i starten af 1960'erne. Med tilknytning til et nonnekloster hjælper en gruppe jordemødre, sygeplejersker og nonner den fattige bydels gravide kvinder.</desc>
-    <episode-num system="xmltv_ns">6.7.0</episode-num>
+    <episode-num system="xmltv_ns">6.6.0</episode-num>
   </programme>
   <programme start="20260609151500 +0000" stop="20260609153000 +0000" channel="dr1.dk">
     <title>TVA</title>
@@ -1147,6 +1033,11 @@ Wisting og hans team besigtiger et gerningssted sammen med seriemorderen Tom Ker
     <desc>Norsk krimiserie fra 2021.
 Wisting forsøger at samle sit hold efter tragedien, som har ramt dem. I sin jagt på seriemorderen Tom Kerrs mystiske medhjælper tvinges han til at samarbejde med efterforskeren Stiller fra det nationale kriminalpoliti.</desc>
   </programme>
+  <programme start="20260609224000 +0000" stop="20260609230500 +0000" channel="dr1.dk">
+    <title>Welcome to Wrexham (3:18)</title>
+    <desc>Der er kun få uger til sæsonstart. Rob McElhenney og Ryan Reynolds forsøger at overbevise både spillere og chefer om at satse på Wrexham.</desc>
+    <episode-num system="xmltv_ns">0.2.0</episode-num>
+  </programme>
   <programme start="20260609230500 +0000" stop="20260609235000 +0000" channel="dr1.dk">
     <title>Stella Blómkvist II: Mordet på Nationalhistorisk Museum (2:2)</title>
     <desc>Islandsk krimiserie fra 2021.
@@ -1157,5 +1048,195 @@ Politiet sætter hindringer i vejen for Stellas efterforskning. Og Mossadagenter
     <desc>Britisk thrillerserie fra 2019.
 Billeder lyver aldrig. Eller gør de? Det er spørgsmålet for den unge efterforsker Rachel Carey, der kastes ud i en gådefuld sag. Soldaten Shaun Emery bliver beskyldt for en forbrydelse, som han nægter at have begået. Men overvågningsbilleder fra gerningsstedet peger entydigt på, at han er den skyldige. Hvad er sandheden?</desc>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
+  </programme>
+  <programme start="20260610004500 +0000" stop="20260610022000 +0000" channel="dr1.dk">
+    <title>Hercule Poirot: Katten i dueslaget</title>
+    <desc>Engelsk krimi fra 2008.
+(Agatha Christie's Poirot: Cat Among The Pigeons)
+Spionage, revolution og kostbare juveler. Det er nogle af ingredienserne i Hercule Poirots seneste sag. Nogen er begyndt at myrde lærerne på en lille engelsk skole. Poirot forsøger at opklare sagen, der har tråde tilbage til en blodig revolution i det arabiske land Ramat.
+Poirot: David Suchet.
+Miss Bulstrode: Harriet Walter.
+Ann Shapland: Natasha Little.
+Instruktion: James Kent.</desc>
+    <episode-num system="xmltv_ns">10.1.0</episode-num>
+  </programme>
+  <programme start="20260610022000 +0000" stop="20260610030500 +0000" channel="dr1.dk">
+    <title>Antikkrejlerne XXVI (5:25)</title>
+    <desc>Antikvitetseksperter konkurrerer mod hinanden om at købe antikviteter og sælge dem på auktion.</desc>
+    <episode-num system="xmltv_ns">25.4.0</episode-num>
+  </programme>
+  <programme start="20260610030500 +0000" stop="20260610034000 +0000" channel="dr1.dk">
+    <title>Udsendelsesophør</title>
+    <desc>.</desc>
+  </programme>
+  <programme start="20260610042000 +0000" stop="20260610050000 +0000" channel="dr1.dk">
+    <title>Fiskerne (4:8)</title>
+    <desc>Norsk dokumentarserie fra 2022.
+En intens makrelsæson nærmer sig sin afslutning, og Geir og Jarand slider for at nå deres mål. Efter flere uger hjemmefra vokser savnet efter kærester og børn.</desc>
+    <episode-num system="xmltv_ns">0.3.0</episode-num>
+  </programme>
+  <programme start="20260610050000 +0000" stop="20260610051500 +0000" channel="dr1.dk">
+    <title>TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260610051500 +0000" stop="20260610063000 +0000" channel="dr1.dk">
+    <title>Seneste nyt fra TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260610063000 +0000" stop="20260610070000 +0000" channel="dr1.dk">
+    <title>Jorden kalder: Vejle mod vandet</title>
+    <desc>De seneste år har Vejle midtby været ramt af gentagne oversvømmelser. Og fremtiden ser ikke mindre våd ud. Byen er nemlig en af de 51 kommuner i Danmark, som vurderes at have områder i fare for oversvømmelser. Men i Vejle vil man ikke have en høj mur ud mod fjorden. I april gik man derfor i gang med at bygge modellen til en unik, ny klimaløsning i Vejle Fjord. Jorden kalder følger byggeriet for at finde ud af, hvordan vores byer beskytter sig bedst mod vandet.</desc>
+    <episode-num system="xmltv_ns">1.9.0</episode-num>
+  </programme>
+  <programme start="20260610070000 +0000" stop="20260610080000 +0000" channel="dr1.dk">
+    <title>Mysteriet om menopausen</title>
+    <desc>Da instruktør Louise Unmack Kjeldsen rammes af søvnløshed, hjernetåge og depression, opdager hun, at hendes krise deles af millioner af kvinder verden over. Hun rejser ud for at forstå de hormonelle forandringer i overgangsalderen, der påvirker kvinders mentale sundhed, arbejdsliv og identitet - og for at finde ud af, hvorfor vi stadig ved så lidt om den dramatiske livsfase, som en stor del af befolkningen gennemlever. Dansk dokumentar fra 2026.</desc>
+  </programme>
+  <programme start="20260610080000 +0000" stop="20260610083000 +0000" channel="dr1.dk">
+    <title>Husdrømme på Sicilien (8:8)</title>
+    <desc>Svensk livsstilsserie. 
+(Husdrömmar på Sicilien)
+Julen nærmer sig, og huset skal være klart. Konservatoren Massimo restaurerer væggene, mens familien tager til Palermo for at gøre fund til indretningen.</desc>
+    <episode-num system="xmltv_ns">0.7.0</episode-num>
+  </programme>
+  <programme start="20260610083000 +0000" stop="20260610091500 +0000" channel="dr1.dk">
+    <title>Dyrlægerne i Yorkshire XIII (12:12)</title>
+    <desc>Britisk dokumentarserie fra 2021.
+(The Yorkshire Vet)
+Julian har klinikken i Wetherby, og gør klar til at åbne endnu en klinik nær Sutton Bank: Thirsk Veterinary Centre. Peter skynder sig ind til klinikken i Kirbymoorside, hvor et får skal læmme, men har problemer. På dyrehospitalet i Huddersfield ankommer katten Poppy, der har brækket benet. Men operationen er risikofyldt. Og en søndag morgen, hvor ingen af dem er på vagt, mødes seks Yorkshire-dyrlæger og nogle hunde til en usædvanlig udflugt.</desc>
+    <episode-num system="xmltv_ns">12.11.0</episode-num>
+  </programme>
+  <programme start="20260610091500 +0000" stop="20260610100000 +0000" channel="dr1.dk">
+    <title>Antikkrejlerne XXVI (6:25)</title>
+    <desc>Antikvitetseksperter konkurrerer mod hinanden om at købe antikviteter og sælge dem på auktion.</desc>
+    <episode-num system="xmltv_ns">25.5.0</episode-num>
+  </programme>
+  <programme start="20260610100000 +0000" stop="20260610101500 +0000" channel="dr1.dk">
+    <title>TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260610101500 +0000" stop="20260610104500 +0000" channel="dr1.dk">
+    <title>Frank &amp; Kastaniegaarden - Julemirakel og Pay back</title>
+    <desc>Så blev det endelig jul på Kastaniegaarden og den gås, som har terroriseret alle, skal slagtes og plukkes. Den gamle Singer symaskine skal repareres, og får en fremtrædende plads i jule værkstedet. Til Franks store overraskelse sker der et julemirakel: Koen Anna nedkommer med en velskabt julekalv.</desc>
+    <episode-num system="xmltv_ns">2021.17.0</episode-num>
+  </programme>
+  <programme start="20260610104500 +0000" stop="20260610113000 +0000" channel="dr1.dk">
+    <title>Nak &amp; Æd - en pigrokke i Florida (5:10)</title>
+    <desc>Sæson 5 (2014).
+Jørgen og Nikolai er draget til Florida i USA. Her skal de prøve kræfter med en af havets mere ubeskrevne delikatesser - pigrokken. Men stærk strøm kan gøre fiskeriet vanskeligt. Så vil det mon lykkes Jørgen og Nikolaj at sætte tænderne i en pigrokke, eller skal Nikolaj kaste sine kulinariske evner på alternativet, som denne gang er en amerikansk pungrotte.
+Sendt første gnag 02.03.2015</desc>
+    <episode-num system="xmltv_ns">4.4.0</episode-num>
+  </programme>
+  <programme start="20260610113000 +0000" stop="20260610121500 +0000" channel="dr1.dk">
+    <title>Hammerslag 2018 (10)</title>
+    <desc>Der er dømt idyl for alle pengene, når Hammerslag i aften tager på øhop i det Sydfynske øhav. For første gang i Hammerslags historie besøger vi den lillebitte ø Birkholm, der ligger lige midt i det Sydfynske øhav. Her venter der mæglerne en noget speciel opgave, for hvad koster det mon at eje 13% af øens areal? 
+Hold Øst og Vest skal også gætte prisen på et lille sommerhus med en usædvanlig god udsigt på Thurø, og så skal mæglerne selvfølgelig til Langeland, hvor man også godt kan være med på blændende badevand, udsøgt udsigt og gode priser.</desc>
+    <episode-num system="xmltv_ns">2017.9.0</episode-num>
+  </programme>
+  <programme start="20260610121500 +0000" stop="20260610124500 +0000" channel="dr1.dk">
+    <title>Kender Du Typen? 2024 - Med havarti og højt til loftet</title>
+    <desc>Hvem er det, der spiser flødehavarti og varm leverpostej hver lørdag? Og som hverken kan betale en regning eller lave mad, men til gengæld har et helt andet særligt talent? Det skal livsstilseksperterne Anne Glad Wagner og Jacob Holst Mouritzen regne ud, når Kender Du Typen? besøger en hovedperson, der bor i hjertet af Vejle i en luksuriøs lejlighed med skyhøje lofter og paneler.
+Vært: Tobias Hansen</desc>
+    <episode-num system="xmltv_ns">2023.0.0</episode-num>
+  </programme>
+  <programme start="20260610124500 +0000" stop="20260610141500 +0000" channel="dr1.dk">
+    <title>Hercule Poirot: Stævnemøde med døden</title>
+    <desc>Engelsk krimi fra 2008.
+(Agatha Christie's Poirot: Appointment With Death)
+Den excentriske arkæolog Lord Boynton leder efter Johannes Døberens hoved i Syrien. Den lige så excentriske detektiv Hercule Poirot følger gravearbejdet med stor interesse, men snart må den lille opdager selv i arbejdstøjet. Lord Boyntons hustru bliver nemlig myrdet, og hun var en bestemt dame med mange fjender, så der er ikke ligefrem mangel på mistænkte.
+Poirot: David Suchet.
+Lord Boynton: Tim Curry.
+Dr. Gerard: John Hannah.
+Instruktion: Ashley Pearce.</desc>
+    <episode-num system="xmltv_ns">10.3.0</episode-num>
+  </programme>
+  <programme start="20260610141500 +0000" stop="20260610151000 +0000" channel="dr1.dk">
+    <title>Jordemoderen VII (8:10)</title>
+    <desc>Engelsk dramaserie fra 2018.
+(Call the Midwife)
+Londons East End i starten af 1960'erne. Med tilknytning til et nonnekloster hjælper en gruppe jordemødre, sygeplejersker og nonner den fattige bydels gravide kvinder.</desc>
+    <episode-num system="xmltv_ns">6.7.0</episode-num>
+  </programme>
+  <programme start="20260610151500 +0000" stop="20260610153000 +0000" channel="dr1.dk">
+    <title>TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260610153000 +0000" stop="20260610160000 +0000" channel="dr1.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+  </programme>
+  <programme start="20260610160000 +0000" stop="20260610163000 +0000" channel="dr1.dk">
+    <title>Krigens døgn</title>
+    <desc>Forstå krigen mellem Ukraine og Rusland helt ned i detaljen. Med udgangspunkt i den seneste uges begivenheder zoomer vi sammen med Danmarks førende eksperter ind på krigens afgørende elementer.</desc>
+  </programme>
+  <programme start="20260610163000 +0000" stop="20260610165000 +0000" channel="dr1.dk">
+    <title>TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260610165000 +0000" stop="20260610170000 +0000" channel="dr1.dk">
+    <title>Vores Vejr</title>
+    <desc>DR's vejrudsendelse, der i løbet af ugen gør dig klogere på vejret, der var, og hvad der venter os.</desc>
+  </programme>
+  <programme start="20260610170000 +0000" stop="20260610180000 +0000" channel="dr1.dk">
+    <title>Aftenshowet</title>
+    <desc>DR1s journalistiske talkshow direkte fra Rådhuspladsen i København.</desc>
+  </programme>
+  <programme start="20260610180000 +0000" stop="20260610183000 +0000" channel="dr1.dk">
+    <title>Fede forhold (6:6) Vi er ikke kommet sovende til det</title>
+    <desc>De tre par er nået til vejs ende og det skal fejres! Alle par har været gennem en mindre makeover, som slår benene væk under både Suzy, Frej og ikke mindst deres partnere. Men for at nå dertil, har parrene sluttet forløbet hos læge Pia Norup, hvor det viser sig, om parrene er lykkedes med at tabe sig og forbedre deres generelle sundhed.</desc>
+    <episode-num system="xmltv_ns">6.5.0</episode-num>
+  </programme>
+  <programme start="20260610183000 +0000" stop="20260610190000 +0000" channel="dr1.dk">
+    <title>Bomberydderne - Satans mor</title>
+    <desc>Mens politiet jagter en gerningsmand i Silkeborg, sendes bomberydderen Christopher ud til en adresse med mistanke om fremstilling af det farlige sprængstof "Satans mor". Samtidig må Jens og Hanne begge iføre sig bombedragten efter fund af eksplosiv kemi. I Kjellerup må EOD også i arbejdstøjet, da en tidligere dømt muligvis kommer til at tale over sig.</desc>
+    <episode-num system="xmltv_ns">0.3.0</episode-num>
+  </programme>
+  <programme start="20260610190000 +0000" stop="20260610192500 +0000" channel="dr1.dk">
+    <title>TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260610192500 +0000" stop="20260610200000 +0000" channel="dr1.dk">
+    <title>Krigsplan Europa (1:2) - Østfronten</title>
+    <desc>Er vi tæt på krig med Rusland? 
+I et hemmeligt kontrolrum et sted i det østlige Europa forbereder den danske generalmajor Brian Nissen sig på en mulig storkrig. Samtidig beslutter en gruppe undersøgende journalister sig for at kaste lys over Putins planer. Et dokument, der beskriver kommende russiske militæroperationer rettet mod Europa, sætter jagten i gang.</desc>
+  </programme>
+  <programme start="20260610200500 +0000" stop="20260610204500 +0000" channel="dr1.dk">
+    <title>Folkedomstolen: "Du kunne bare ha' brugt kondom"</title>
+    <desc>I sin autofiktive roman Fædreland skriver en forfatter, at hans eks gjorde ham til far mod hans vilje - og bruger både hende og deres søn i fortællingen. Hun siger, han udstiller dem for at fremme sin karriere. Han siger, at ufrivilligt faderskab er en overset uretfærdighed, og at han blot fortæller sin sandhed.
+Nu skal juryen afgøre: Er han et offer for et system uden valg - eller gør han sin egen familie til brikker i sit eget spil?</desc>
+    <episode-num system="xmltv_ns">0.2.0</episode-num>
+  </programme>
+  <programme start="20260610204500 +0000" stop="20260610221500 +0000" channel="dr1.dk">
+    <title>Beck: Levende begravet</title>
+    <desc>Svensk krimi fra 2009.
+(Beck - Levande begravd)
+En trækiste findes nedgravet i en sandkasse på en legeplads. I kisten ligger der en kendt anklager - død efter at være blevet levende begravet. Sporene fører Beck til en rockerbande, hvis leder netop er blevet løsladt fra fængslet. Men da også rockerbossen findes myrdet, må Beck erkende, at sagen er mere uhyggelig end først antaget - der er en sadistisk seriemorder på spil i Stockholm.
+Martin Beck: Peter Haber.
+Gunvald Larsson: Mikael Persbrandt.
+Oskar Bergman: Måns Nathanaelson.
+Instruktion: Harald Hamrell.</desc>
+  </programme>
+  <programme start="20260610221500 +0000" stop="20260610224000 +0000" channel="dr1.dk">
+    <title>Welcome to Wrexham (4:18)</title>
+    <desc>Det er tid til Wrexhams første hjemmekamp i sæsonen og i en ny æra - uanset om Rob McElhenney og Ryan Reynolds er klar eller ej.</desc>
+    <episode-num system="xmltv_ns">0.3.0</episode-num>
+  </programme>
+  <programme start="20260610224000 +0000" stop="20260610224500 +0000" channel="dr1.dk">
+    <title>OBS</title>
+    <desc>.</desc>
+  </programme>
+  <programme start="20260610224500 +0000" stop="20260610233000 +0000" channel="dr1.dk">
+    <title>Indefra med Anders Agger - Gaden i Grenaa (3:4) Det svære valg</title>
+    <desc>Der er folketingsvalg i Danmark. Mens resten af landet diskuterer velfærd og fremtid, vågner beboerne i Fredensgade hver dag op til valg, der rækker langt ud over stemmeboksen.
+Anders Agger følger Torben, når han sætter sit kryds. Andre har for længst mistet overblikket over både kalenderen og systemet.
+I Fredensgade ved de godt, at de koster samfundet mange penge. Men de ved også, hvad det koster at blive glemt.</desc>
+    <episode-num system="xmltv_ns">0.2.0</episode-num>
+  </programme>
+  <programme start="20260610233000 +0000" stop="20260611011500 +0000" channel="dr1.dk">
+    <title>The Bank Job</title>
+    <desc>Britisk thriller fra 2008.
+Bilforhandleren Terry har pengeproblemer. Så han er ikke sen til at sige ja, da en gammel flamme dukker op med et forslag, der kan gøre ham rig i en ruf. Terry skal grave sig ind i en bank og tømme en stribe bokse for en formue i kontanter og juveler. En tilsyneladende simpel plan, som dog ikke er helt så ligetil, som Terry tror.
+Medvirkende: Jason Statham, Saffron Burrows, Stephen Campbell Moore m.fl.
+Instruktion: Roger Donaldson.</desc>
   </programme>
 </tv>
