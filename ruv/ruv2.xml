@@ -3,10 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260604190000 +0000" stop="20260604192700 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20260605190000 +0000" stop="20260605192700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
@@ -55,6 +51,26 @@ Leikur Íslands og Spánar í undankeppni HM kvenna í fótbolta.</desc>
 Leikur Aftureldingar og Stjörnunnar í 8-liða úrslitum Mjólkurbikars karla í fótbolta.</desc>
   </programme>
   <programme start="20260610214000 +0000" stop="20260610220700 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260611180000 +0000" stop="20260611185000 +0000" channel="ruv2.is">
+    <title>Stofan</title>
+    <desc>Umfjallanir um leiki á HM karla í fótbolta.
+
+Upphitun fyrir leik Mexíkó og Suður-Afríku á HM karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260611185000 +0000" stop="20260611210500 +0000" channel="ruv2.is">
+    <title>Mexíkó - Suður-Afríka</title>
+    <desc>Leikir á HM karla í fótbolta.
+
+Leikur Mexíkó og Suður-Afríku á HM karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260611210500 +0000" stop="20260611214000 +0000" channel="ruv2.is">
+    <title>HM kvöld</title>
+    <desc>Samantekt frá leikjum dagsins á HM karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260611214000 +0000" stop="20260611221500 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>

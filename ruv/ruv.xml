@@ -3,152 +3,23 @@
   <channel id="ruv.is">
     <display-name>RÚV 1</display-name>
   </channel>
-  <programme start="20260604125000 +0000" stop="20260604131700 +0000" channel="ruv.is">
+  <programme start="20260605125500 +0000" stop="20260605132100 +0000" channel="ruv.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.
 
-Sterk staða hagkerfisins</desc>
+Mengun eftir malbikunartanka á Höfða</desc>
   </programme>
-  <programme start="20260604132000 +0000" stop="20260604132900 +0000" channel="ruv.is">
-    <title>Heimaleikfimi</title>
-    <desc>Góð ráð og æfingar sem tilvalið er að gera heima. Íris Rut Garðarsdóttir sjúkraþjálfari hefur umsjón með leikfiminni.
-
-Einfaldar æfingar sitjandi á stól. Æfti í 20 sekúndur með 10 sekúndna hvíld á milli æfinga.</desc>
-  </programme>
-  <programme start="20260604133000 +0000" stop="20260604134900 +0000" channel="ruv.is">
-    <title>Kastljós</title>
-    <desc>Lifandi og fjölbreyttur þáttur um fréttir, menningu og dægurmál. Helstu fréttir dagsins eru krufðar og ljósi varpað á litríkt mannlíf um land allt. Umsjón: Sigríður Halldórsdóttir, Bergsteinn Sigurðsson, Guðrún Sóley Gestsdóttir og Urður Örlygsdóttir.
-
-Áslaug Arna Sigurbjörnsdóttir sagði af sér þingmennsku á Alþingi í morgun. Hún var gestur Kastljóss.
-
-
-
-Við fjöllum líka um fataframleiðslu í nútímanum og veltum fyrir okkur hvers vegna við getum ennþá gengið í fötum sem framleidd voru fyrir mörgum áratugum síðan. Mun einhver erfa fötin sem við kaupum okkur í dag?</desc>
-  </programme>
-  <programme start="20260604135200 +0000" stop="20260604150800 +0000" channel="ruv.is">
-    <title>Útsvar 2018</title>
-    <desc>Spurningakeppni sveitarfélaga frá 2018. Þátttakendur að þessu sinni eru lið frá þeim sveitarfélögum sem komust í úrslit árin á undan eða hafa oftast komist nálægt því. Umsjónarmenn eru Guðrún Dís Emilsdóttir og Sólmundur Hólm. Spurningahöfundur og dómari er Jón Svanur Jóhannsson. Stjórn útsendingar: Helgi Jóhannesson.
-
-Lið Garðabæjar: Þorbjörg Þorvaldsdóttir, Jóel Ísak Jóelsson, Vilhjálmur Bjarnason.
-
-Lið  Ísafjarðarbæjar: Greipur Gíslason, Tinna Ólafsdóttir, Gylfi Ólafsson.</desc>
-  </programme>
-  <programme start="20260604150800 +0000" stop="20260604153600 +0000" channel="ruv.is">
-    <title>Tölvuhakk - frítt spil?</title>
-    <desc>Sænskir heimildarþættir frá 2021. Stór hluti daglegs lífs okkar er stafrænn - en hversu örugg er staða okkar í stafrænum heimi? Í þáttunum taka þrautreyndir tölvuhakkarar sig til og brjótast inn í tölvur hjá einstaklingum og fyrirtækjum, bara til að sýna okkur hinum hversu sáraeinfalt það er að komast yfir gögn - og líf - fólks með því að hakka tilveru þeirra.</desc>
-  </programme>
-  <programme start="20260604153800 +0000" stop="20260604163000 +0000" channel="ruv.is">
-    <title>Lögin hans Bubba</title>
-    <sub-title>(2 af 3)</sub-title>
-    <desc>Nýir heimildarþættir um Bubba Morthens þar sem farið er yfir 15 vinsælustu lögin hans að mati þjóðarinnar. Rætt er við Bubba auk fjölda samferðamanna hans þar sem lögin og hans helstu tímabil á löngum ferli eru rifjuð upp. Sýnt er áður óséð myndefni og upptökur. Umsjón: Gunnlaugur Jónsson. Leikstjórn: Þór Freysson.</desc>
-  </programme>
-  <programme start="20260604163300 +0000" stop="20260604173100 +0000" channel="ruv.is">
-    <title>Draumahúsið</title>
-    <sub-title>(6 af 10)</sub-title>
-    <desc>Sænskir þættir þar sem fylgst er með fólki gera upp draumahúsnæðið sitt.</desc>
-  </programme>
-  <programme start="20260604173200 +0000" stop="20260604182000 +0000" channel="ruv.is">
-    <title>KrakkaRÚV</title>
-  </programme>
-  <programme start="20260604173200 +0000" stop="20260604174000 +0000" channel="ruv.is">
-    <title>Sögur snjómannsins 4</title>
-    <desc>Huggulegir þættir þar sem snjómaðurinn les úr sínum uppáhaldsbókum fyrir litlu mýsnar í bókabúðinni.</desc>
-  </programme>
-  <programme start="20260604174000 +0000" stop="20260604174300 +0000" channel="ruv.is">
-    <title>Eldhugar</title>
-    <desc>Stuttir þættir þar sem við kynnumst merkiskonum mannkynssögunnar. Sumar eru frægar, aðrar eru óþekktar en allar eru þær töffarar og eldhugar.</desc>
-  </programme>
-  <programme start="20260604174300 +0000" stop="20260604174600 +0000" channel="ruv.is">
-    <title>Ofurdýr í náttúrunni</title>
-    <desc>Ofurkraftar náttúrunnar lifna við! Sprenghlægileg og fróðleg þáttaröð fyrir krakka sem sýnir undur dýranna og hvers vegna við ættum að vernda heiminn þeirra.</desc>
-  </programme>
-  <programme start="20260604174600 +0000" stop="20260604181200 +0000" channel="ruv.is">
-    <title>Einu sinni var... Lífið</title>
-    <sub-title>(18 af 26)</sub-title>
-    <desc>Þessar þáttaraðir eru áhorfendum að góðu kunnar, enda eru þættirnir bæði afar fræðandi og skemmtilegir. Að þessu sinni fræðumst við um mannslíkamann.</desc>
-  </programme>
-  <programme start="20260604181200 +0000" stop="20260604181900 +0000" channel="ruv.is">
-    <title>Litlir uppfinningamenn I</title>
-    <desc>Í tilraunastofunni hjá Lísu gerist ýmislegt áhugavert. Ungir krakkar koma í heimsókn og hanna sínar eigin uppfinningar með henni og gera trylltar tilraunir.</desc>
-  </programme>
-  <programme start="20260604182000 +0000" stop="20260604182500 +0000" channel="ruv.is">
-    <title>Krakkafréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir settar fram á einfaldan og aðgengilegan hátt.
-
-Umsjón og handrit: Ari Páll Karlsson og Embla Bachmann. Ritstjórn: Ari Páll Karlsson.</desc>
-  </programme>
-  <programme start="20260604182500 +0000" stop="20260604185300 +0000" channel="ruv.is">
-    <title>Hvernig endast fötin?</title>
-    <desc>Finnskur fréttaskýringaþáttur þar sem ending og gæði fatnaðar í fjöldaframleiðslu samtímans eru skoðuð. Umsjón: Louise Bergman.</desc>
-  </programme>
-  <programme start="20260604190000 +0000" stop="20260604192700 +0000" channel="ruv.is">
-    <title>Fréttir</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
-  <programme start="20260604193000 +0000" stop="20260604193500 +0000" channel="ruv.is">
-    <title>Íþróttir</title>
-    <desc>Íþróttafréttir.</desc>
-  </programme>
-  <programme start="20260604193500 +0000" stop="20260604194000 +0000" channel="ruv.is">
-    <title>Veður</title>
-    <desc>Veðurfréttir.</desc>
-  </programme>
-  <programme start="20260604194500 +0000" stop="20260604201000 +0000" channel="ruv.is">
-    <title>Kastljós</title>
-    <desc>Lifandi og fjölbreyttur þáttur um fréttir, menningu og dægurmál. Helstu fréttir dagsins eru krufðar og ljósi varpað á litríkt mannlíf um land allt. Umsjón: Sigríður Halldórsdóttir, Bergsteinn Sigurðsson, Guðrún Sóley Gestsdóttir og Urður Örlygsdóttir.</desc>
-  </programme>
-  <programme start="20260604201500 +0000" stop="20260604204000 +0000" channel="ruv.is">
-    <title>Miðstöðin</title>
-    <desc>Siggi Gunnars stýrir lifandi þætti um dægurmenningu með áherslu á tónlist, sjónvarp og kvikmyndir. Helstu straumar og stefnur, innlit til áhugaverðs fólks og skemmtilegir gestir í myndveri. Umsjón: Sigurður Þorri Gunnarsson. Stjórn upptöku: Ragnar Eyþórsson.
-
-Í þættinum að þessu sinni ætlum að kynna okkur fyrirbærið lagahöfundabúðir. Hvað er það?
-
-
-
-Svo eru það hlaðvörpin sem hafa kannski aldrei verið vinsælli. Hvað gerir gott hlaðvarp og hvað eigum við að hlusta á? Sérfræðingar þáttarins, þeir Árni Helgason og Oddur Ævar Gunnarsson, ætla að svara því á eftir.
-
-
-
-Í lok þáttar er það svo frumflutningur á nýju lagi með Ásgeiri Trausta, lagið heitir Skýjaborg, en hann er að skipta aftur yfir í íslenskuna.</desc>
-  </programme>
-  <programme start="20260604204000 +0000" stop="20260604210800 +0000" channel="ruv.is">
-    <title>Innlit til innanhússhönnuða</title>
-    <desc>Sænskir þættir þar sem litið er heim til þekktra hönnuða í Svíþjóð. Arkitektar, listafólk, steinsmiðir og húsgagnahönnuðir sýna hvernig þau skapa sér einstök og áhugaverð heimili.</desc>
-  </programme>
-  <programme start="20260604211000 +0000" stop="20260604215700 +0000" channel="ruv.is">
-    <title>Kjarnakona</title>
-    <sub-title>(1 af 8)</sub-title>
-    <desc>Ný bresk dramaþáttaröð byggð á samnefndri skáldsögu eftir Barböru Taylor Bradford. Emma Hart starfar sem húshjálp í Yorkshire í byrjun 20. aldar. Með mikilli seiglu vinnur hún sig upp úr fátækt og byggir upp alþjóðlegt viðskiptastórveldi. Aðalhlutverk: Jessica Reynolds, Emmett J. Scanlan og Lydia Leonard. Þættirnir eru ekki við hæfi barna yngri en 12 ára.</desc>
-  </programme>
-  <programme start="20260604220000 +0000" stop="20260604224000 +0000" channel="ruv.is">
-    <title>Lögregluvaktin</title>
-    <sub-title>(19 af 22)</sub-title>
-    <desc>Leikin þáttaröð um líf og störf lögreglumanna í Chicago. Aðalhlutverk: Jason Beghe, Jesse Lee Soffer og Tracy Spiridakos. Þættirnir eru ekki við hæfi barna yngri en 12 ára.</desc>
-  </programme>
-  <programme start="20260604224000 +0000" stop="20260604232400 +0000" channel="ruv.is">
-    <title>Joan</title>
-    <sub-title>(2 af 6)</sub-title>
-    <desc>Breskir spennuþættir um örvæntingafulla móður sem lifir áhættusömu lífi sem skartgripaþjófur á sama tíma og hún reynir að ná dóttur sinni aftur frá félagsþjónustunni og byggja örugga framtíð fyrir þær báðar. Aðalhlutverk: Sophie Turner, Frank Dillane og Mia Millichamp-Long. Þættirnir eru ekki við hæfi barna yngri en 12 ára.</desc>
-  </programme>
-  <programme start="20260604232500 +0000" stop="20260605001600 +0000" channel="ruv.is">
-    <title>Lífshlaup í tíu myndum II</title>
-    <desc>Heimildarþáttaröð frá BBC þar sem ljósmyndir eru notaðar til að fara yfir lífshlaup þekktra einstaklinga.</desc>
-  </programme>
-  <programme start="20260605125500 +0000" stop="20260605132200 +0000" channel="ruv.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
-  <programme start="20260605132000 +0000" stop="20260605133000 +0000" channel="ruv.is">
+  <programme start="20260605132100 +0000" stop="20260605133200 +0000" channel="ruv.is">
     <title>Heimaleikfimi</title>
     <desc>Góð ráð og æfingar sem tilvalið er að gera heima. Íris Rut Garðarsdóttir sjúkraþjálfari hefur umsjón með leikfiminni.
 
 Standandi æfingar. Æft í 20 sekúndur með 10 sekúndna hvíld á milli æfinga.</desc>
   </programme>
-  <programme start="20260605133000 +0000" stop="20260605134700 +0000" channel="ruv.is">
+  <programme start="20260605133200 +0000" stop="20260605135700 +0000" channel="ruv.is">
     <title>Kastljós</title>
     <desc>Lifandi og fjölbreyttur þáttur um fréttir, menningu og dægurmál. Helstu fréttir dagsins eru krufðar og ljósi varpað á litríkt mannlíf um land allt. Umsjón: Sigríður Halldórsdóttir, Bergsteinn Sigurðsson, Guðrún Sóley Gestsdóttir og Urður Örlygsdóttir.</desc>
   </programme>
-  <programme start="20260605135000 +0000" stop="20260605150900 +0000" channel="ruv.is">
+  <programme start="20260605135700 +0000" stop="20260605151600 +0000" channel="ruv.is">
     <title>Útsvar 2018</title>
     <desc>Spurningakeppni sveitarfélaga frá 2018. Þátttakendur að þessu sinni eru lið frá þeim sveitarfélögum sem komust í úrslit árin á undan eða hafa oftast komist nálægt því. Umsjónarmenn eru Guðrún Dís Emilsdóttir og Sólmundur Hólm. Spurningahöfundur og dómari er Jón Svanur Jóhannsson. Stjórn útsendingar: Helgi Jóhannesson.
 
@@ -156,7 +27,7 @@ Lið Reykjanesbæjar: Valgerður Björk Pálsdóttir, Grétar Þór Sigurðsson,
 
 Lið Hálendisins: Elísabet Margeirsdóttir, Einar Skúlason, Lára Ómarsdóttir.</desc>
   </programme>
-  <programme start="20260605151000 +0000" stop="20260605153100 +0000" channel="ruv.is">
+  <programme start="20260605151700 +0000" stop="20260605153800 +0000" channel="ruv.is">
     <title>Spaugstofan 2009-2010</title>
     <desc>Gamanþættir frá 2009-2010 þar sem leikararnir Karl Ágúst Úlfsson, Pálmi Gestsson, Sigurður Sigurjónsson og Örn Árnason bregða á leik, sprellfjörugir að vanda. Stjórn upptöku: Björn Emilsson.</desc>
   </programme>
@@ -986,5 +857,125 @@ Fjallað er um Spán, Frakkland, Argentínu og Portúgal.</desc>
     <title>Ray rannsakar málið I</title>
     <sub-title>(3 af 4)</sub-title>
     <desc>Breskir spennuþættir um rannsóknarlögreglukonuna Rachitu Ray sem fær stöðuhækkun og er færð yfir í morðrannsóknir. Ekki finnst öllum að stöðuhækkunin hafi verið tímabær en Rachita er staðráðin í að sanna að hún sé tilbúin að taka að sér flókin mál. Aðalhlutverk: Parminder Nagra, Steve Oram og Gemma Whelan. Þættirnir eru ekki við hæfi barna yngri en 12 ára.</desc>
+  </programme>
+  <programme start="20260611130000 +0000" stop="20260611132700 +0000" channel="ruv.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260611133000 +0000" stop="20260611133900 +0000" channel="ruv.is">
+    <title>Heimaleikfimi</title>
+    <desc>Góð ráð og æfingar sem tilvalið er að gera heima. Íris Rut Garðarsdóttir sjúkraþjálfari hefur umsjón með leikfiminni.
+
+Áhersla æfinganna eru kvið- og bakæfingar sem eru gerðar sitjandi.</desc>
+  </programme>
+  <programme start="20260611134000 +0000" stop="20260611145200 +0000" channel="ruv.is">
+    <title>Útsvar 2018</title>
+    <desc>Spurningakeppni sveitarfélaga frá 2018. Þátttakendur að þessu sinni eru lið frá þeim sveitarfélögum sem komust í úrslit árin á undan eða hafa oftast komist nálægt því. Umsjónarmenn eru Guðrún Dís Emilsdóttir og Sólmundur Hólm. Spurningahöfundur og dómari er Jón Svanur Jóhannsson. Stjórn útsendingar: Helgi Jóhannesson.
+
+Lið Fljótsdalshéraðs: Björg Björnsdóttir, Hrólfur Eyjólfsson, Þorsteinn Bergsson.
+
+Lið Íslendinganýlendna: Teitur Björn Einarsson. Ingibjörg Guðmundsdóttir, Runólfur Ágústsson.</desc>
+  </programme>
+  <programme start="20260611145500 +0000" stop="20260611151500 +0000" channel="ruv.is">
+    <title>Hnappheldan</title>
+    <desc>Þorir þú að ræða allt við maka þinn? Í þessum norsku þáttum spyrja hugrökk pör hvort annað óvæntra spurninga.</desc>
+  </programme>
+  <programme start="20260611151500 +0000" stop="20260611160500 +0000" channel="ruv.is">
+    <title>Lögin hans Bubba</title>
+    <sub-title>(3 af 3)</sub-title>
+    <desc>Nýir heimildarþættir um Bubba Morthens þar sem farið er yfir 15 vinsælustu lögin hans að mati þjóðarinnar. Rætt er við Bubba auk fjölda samferðamanna hans þar sem lögin og hans helstu tímabil á löngum ferli eru rifjuð upp. Sýnt er áður óséð myndefni og upptökur. Umsjón: Gunnlaugur Jónsson. Leikstjórn: Þór Freysson.</desc>
+  </programme>
+  <programme start="20260611161000 +0000" stop="20260611170800 +0000" channel="ruv.is">
+    <title>Draumahúsið</title>
+    <sub-title>(7 af 10)</sub-title>
+    <desc>Sænskir þættir þar sem fylgst er með fólki gera upp draumahúsnæðið sitt.</desc>
+  </programme>
+  <programme start="20260611171000 +0000" stop="20260611174300 +0000" channel="ruv.is">
+    <title>KrakkaRÚV</title>
+  </programme>
+  <programme start="20260611171100 +0000" stop="20260611171400 +0000" channel="ruv.is">
+    <title>Ofurdýr í náttúrunni</title>
+    <desc>Ofurkraftar náttúrunnar lifna við! Sprenghlægileg og fróðleg þáttaröð fyrir krakka sem sýnir undur dýranna og hvers vegna við ættum að vernda heiminn þeirra.</desc>
+  </programme>
+  <programme start="20260611171400 +0000" stop="20260611171700 +0000" channel="ruv.is">
+    <title>Eldhugar</title>
+    <desc>Stuttir þættir þar sem við kynnumst merkiskonum mannkynssögunnar. Sumar eru frægar, aðrar eru óþekktar en allar eru þær töffarar og eldhugar.</desc>
+  </programme>
+  <programme start="20260611171800 +0000" stop="20260611174300 +0000" channel="ruv.is">
+    <title>Einu sinni var... Lífið</title>
+    <sub-title>(19 af 26)</sub-title>
+    <desc>Þessar þáttaraðir eru áhorfendum að góðu kunnar, enda eru þættirnir bæði afar fræðandi og skemmtilegir. Að þessu sinni fræðumst við um mannslíkamann.</desc>
+  </programme>
+  <programme start="20260611174500 +0000" stop="20260611175000 +0000" channel="ruv.is">
+    <title>Krakkafréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir settar fram á einfaldan og aðgengilegan hátt.
+
+Umsjón og handrit: Ari Páll Karlsson og Embla Bachmann. Ritstjórn: Ari Páll Karlsson.</desc>
+  </programme>
+  <programme start="20260611175000 +0000" stop="20260611175500 +0000" channel="ruv.is">
+    <title>Sumarlandabrot</title>
+    <desc>Stutt umfjöllun Sumarlandans sem var á flakki sumarið 2023 og hitti landann fyrir í sínu náttúrulega umhverfi, uppi á fjöllum, úti í garði, inni í skógi og allt um kring.</desc>
+  </programme>
+  <programme start="20260611180000 +0000" stop="20260611185000 +0000" channel="ruv.is">
+    <title>Stofan</title>
+    <desc>Umfjallanir um leiki á HM karla í fótbolta.
+
+Upphitun fyrir leik Mexíkó og Suður-Afríku á HM karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260611190000 +0000" stop="20260611192700 +0000" channel="ruv.is">
+    <title>Fréttir</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260611193000 +0000" stop="20260611193500 +0000" channel="ruv.is">
+    <title>Íþróttir</title>
+    <desc>Íþróttafréttir.</desc>
+  </programme>
+  <programme start="20260611193500 +0000" stop="20260611194000 +0000" channel="ruv.is">
+    <title>Veður</title>
+    <desc>Veðurfréttir.</desc>
+  </programme>
+  <programme start="20260611194500 +0000" stop="20260611200200 +0000" channel="ruv.is">
+    <title>Kastljós</title>
+    <desc>Lifandi og fjölbreyttur þáttur um fréttir, menningu og dægurmál. Helstu fréttir dagsins eru krufðar og ljósi varpað á litríkt mannlíf um land allt. Umsjón: Sigríður Halldórsdóttir, Bergsteinn Sigurðsson, Guðrún Sóley Gestsdóttir og Urður Örlygsdóttir.</desc>
+  </programme>
+  <programme start="20260611200500 +0000" stop="20260611203000 +0000" channel="ruv.is">
+    <title>Miðstöðin</title>
+    <desc>Siggi Gunnars stýrir lifandi þætti um dægurmenningu með áherslu á tónlist, sjónvarp og kvikmyndir. Helstu straumar og stefnur, innlit til áhugaverðs fólks og skemmtilegir gestir í myndveri. Umsjón: Sigurður Þorri Gunnarsson. Stjórn upptöku: Ragnar Eyþórsson.</desc>
+  </programme>
+  <programme start="20260611203500 +0000" stop="20260611205800 +0000" channel="ruv.is">
+    <title>Poppstjörnur á skjánum</title>
+    <desc>Heimildarþættir sem fjalla um tónlistarmyndbönd nokkurra af stærstu poppstjörnum heims. Rætt er við leikstjóra, danshöfunda, gagnrýnendur og listafólkið sjálft.</desc>
+  </programme>
+  <programme start="20260611210000 +0000" stop="20260611214600 +0000" channel="ruv.is">
+    <title>Kjarnakona</title>
+    <sub-title>(2 af 8)</sub-title>
+    <desc>Ný bresk dramaþáttaröð byggð á samnefndri skáldsögu eftir Barböru Taylor Bradford. Emma Hart starfar sem húshjálp í Yorkshire í byrjun 20. aldar. Með mikilli seiglu vinnur hún sig upp úr fátækt og byggir upp alþjóðlegt viðskiptastórveldi. Aðalhlutverk: Jessica Reynolds, Emmett J. Scanlan og Lydia Leonard. Þættirnir eru ekki við hæfi barna yngri en 12 ára.</desc>
+  </programme>
+  <programme start="20260611215000 +0000" stop="20260611222500 +0000" channel="ruv.is">
+    <title>HM kvöld</title>
+    <desc>Samantekt frá leikjum dagsins á HM karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260611223000 +0000" stop="20260611231000 +0000" channel="ruv.is">
+    <title>Lögregluvaktin</title>
+    <sub-title>(20 af 22)</sub-title>
+    <desc>Leikin þáttaröð um líf og störf lögreglumanna í Chicago. Aðalhlutverk: Jason Beghe, Jesse Lee Soffer og Tracy Spiridakos. Þættirnir eru ekki við hæfi barna yngri en 12 ára.</desc>
+  </programme>
+  <programme start="20260611231000 +0000" stop="20260611235500 +0000" channel="ruv.is">
+    <title>Joan</title>
+    <sub-title>(3 af 6)</sub-title>
+    <desc>Breskir spennuþættir um örvæntingafulla móður sem lifir áhættusömu lífi sem skartgripaþjófur á sama tíma og hún reynir að ná dóttur sinni aftur frá félagsþjónustunni og byggja örugga framtíð fyrir þær báðar. Aðalhlutverk: Sophie Turner, Frank Dillane og Mia Millichamp-Long. Þættirnir eru ekki við hæfi barna yngri en 12 ára.</desc>
+  </programme>
+  <programme start="20260612000000 +0000" stop="20260612012900 +0000" channel="ruv.is">
+    <title>Spæjarinn í Chelsea II</title>
+    <sub-title>(1 af 4)</sub-title>
+    <desc>Breskur spennumyndaflokkur um rannsóknarlögreglumanninn Max Arnold sem býr í gömlum húsbáti en starfar í einu efnaðasta hverfi Lundúna. Þó ekki skorti auðæfin í Chelsea er þar engu að síður nóg um morð og önnur myrkraverk. Aðalhlutverk: Adrian Scarborough, Peter Bankolé og Lucy Phelps. Myndirnar eru ekki við hæfi barna yngri en 12 ára.
+
+Þegar rán og morð er framið á opnun listasýningar í fínu listagalleríi kynnast rannsóknarlögreglumaðurinn Max Arnold og teymið hans nýrri hlið á listaheiminum í Chelsea.</desc>
+  </programme>
+  <programme start="20260612014500 +0000" stop="20260612041000 +0000" channel="ruv.is">
+    <title>Suður-Kórea - Tékkland</title>
+    <desc>Leikir á HM karla í fótbolta.
+
+Leikur Suður-Kóreu og Tékklands á HM karla í fótbolta.</desc>
   </programme>
 </tv>
