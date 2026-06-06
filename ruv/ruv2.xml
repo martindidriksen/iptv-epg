@@ -3,10 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260605190000 +0000" stop="20260605192700 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20260606190000 +0000" stop="20260606192000 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
@@ -71,6 +67,26 @@ Leikur Mexíkó og Suður-Afríku á HM karla í fótbolta.</desc>
     <desc>Samantekt frá leikjum dagsins á HM karla í fótbolta.</desc>
   </programme>
   <programme start="20260611214000 +0000" stop="20260611221500 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260612181500 +0000" stop="20260612185000 +0000" channel="ruv2.is">
+    <title>Stofan</title>
+    <desc>Umfjallanir um leiki á HM karla í fótbolta.
+
+Upphitun fyrir leik Kanada og Bosníu á HM karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260612185000 +0000" stop="20260612210500 +0000" channel="ruv2.is">
+    <title>Kanada-Bosnía</title>
+    <desc>Leikir á HM karla í fótbolta.
+
+Leikur Kanada og Bosníu á HM karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260612210500 +0000" stop="20260612214000 +0000" channel="ruv2.is">
+    <title>HM kvöld</title>
+    <desc>Samantekt frá leikjum dagsins á HM karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260612214000 +0000" stop="20260612220700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
