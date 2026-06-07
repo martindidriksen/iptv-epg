@@ -3,10 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260606190000 +0000" stop="20260606192000 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20260607190000 +0000" stop="20260607192000 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
@@ -87,6 +83,32 @@ Leikur Kanada og Bosníu á HM karla í fótbolta.</desc>
     <desc>Samantekt frá leikjum dagsins á HM karla í fótbolta.</desc>
   </programme>
   <programme start="20260612214000 +0000" stop="20260612220700 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260613183000 +0000" stop="20260613185000 +0000" channel="ruv2.is">
+    <title>Stofan</title>
+    <desc>Umfjallanir um leiki á HM karla í fótbolta.
+
+Upphitun fyrir leik Katar og Sviss á HM karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260613185000 +0000" stop="20260613210500 +0000" channel="ruv2.is">
+    <title>Katar - Sviss</title>
+    <desc>Leikir á HM karla í fótbolta.
+
+Leikur Katar og Sviss á HM karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260613210500 +0000" stop="20260613215000 +0000" channel="ruv2.is">
+    <title>HM kvöld</title>
+    <desc>Samantekt frá leikjum dagsins á HM karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260613215000 +0000" stop="20260614001000 +0000" channel="ruv2.is">
+    <title>Brasilía - Marokkó</title>
+    <desc>Leikir á HM karla í fótbolta.
+
+Leikur Brasilíu og Marokkó á HM karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260614001000 +0000" stop="20260614003000 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
