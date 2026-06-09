@@ -3,188 +3,46 @@
   <channel id="dr2.dk">
     <display-name>DR2</display-name>
   </channel>
-  <programme start="20260607232500 +0000" stop="20260608000500 +0000" channel="dr2.dk">
-    <title>Reklamer til Tiden (5:8)</title>
-    <desc>Dansk dokumentarserie fra 2003. Gennem gamle reklamefilm kigger vi på danskernes fritid. Nyd de kække cykelpiger og raske fodbolddrenge. Tag med familien Danmark på telttur, camping og charter. Og oplev nye fritidsaktiviteter som bowling, trampolin og computerspil. Reklamefilmene viser, hvordan Danmark bliver et fritidssamfund på få årtier.
-Vært: Liv Thomsen.</desc>
-    <episode-num system="xmltv_ns">0.4.0</episode-num>
-  </programme>
-  <programme start="20260608000500 +0000" stop="20260608004500 +0000" channel="dr2.dk">
-    <title>Reklamer til Tiden (6:8)</title>
-    <desc>Dansk dokumentarserie fra 2003. Reklamerne lover os evig skønhed, ungdom og sundhed. Der er altid plads til én til, der bruger netop denne her tandpasta, shampoo eller sæbe. Og vi kommer til at strutte af selvtillid og succes og "bliver et helt nyt menneske". Oplev kampen mod sæbelus og usynligt snavs. På hundrede år er vi og vores hjem blevet betydeligt renere, og det skyldes bl.a. et væld af rengørings- og hygiejnereklamer. 
-Vært: Liv Thomsen.</desc>
-    <episode-num system="xmltv_ns">0.5.0</episode-num>
-  </programme>
-  <programme start="20260608004500 +0000" stop="20260608014500 +0000" channel="dr2.dk">
-    <title>Jagten på mig selv (2:2)</title>
-    <desc>Som barn og ung var Per Wennick udpeget til at deltage i videnskabelige undersøgelser som en del af et forskningsprojekt. Forskere fulgte ham langt op i voksenalderen med et hemmeligt meldesystem. Hvem gav tilladelse til at Per skulle deltage - og hvor er resultaterne fra forskningen nu? Hvad står der i forskningsjournalen om Pers barndom? Og hvis de har vidst, hvad Per var udsat for på børnehjemmet, hvorfor gjorde ingen så noget ved det?</desc>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-  </programme>
-  <programme start="20260608014500 +0000" stop="20260608025000 +0000" channel="dr2.dk">
+  <programme start="20260608230500 +0000" stop="20260609001000 +0000" channel="dr2.dk">
     <title>Renæssancens blodige skønhed (1:3)</title>
     <desc>BBC-dokumentarserie fra 2024.
 (Renaissance - The Blood and the Beauty)
 Firenze i 1400-tallet var kendt for bankvirksomhed, handel og dygtige kunstnere. Her kæmper tre af historiens største - Michelangelo, Leonardo da Vinci og Rafael for at slå igennem og opnå støtte hos indflydelsesrige familier og magtfulde mæcener. Men det er en farlig tid præget af religiøse omvæltninger, magtkampe og politisk forræderi - hvor deres kunstværker enten kan sikre dem større gunst eller bringe dem i fare.</desc>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
   </programme>
-  <programme start="20260608025000 +0000" stop="20260608033500 +0000" channel="dr2.dk">
-    <title>Dronninger, der ændrede verden (6:6) Boudica</title>
-    <desc>Britisk dokumentarserie fra 2023.
-(The Queens That Changed the World)
-I år 60 e.Kr. fører Boudica de keltiske stammer mod Camulodunum, den romerske by, der i dag hedder Colchester. I over tyve år har stammerne lidt under det romerske tyranni. Romerne har dræbt hendes mand og fået hendes døtre voldtaget af slaver. Boudica formår at forene de stridende stammer ved at fokusere på en fælles fjende. Camulodunum bliver jævnet med jorden, inden hæren sætter kurs mod London og St. Albans.</desc>
-    <episode-num system="xmltv_ns">0.5.0</episode-num>
-  </programme>
-  <programme start="20260608033500 +0000" stop="20260608040000 +0000" channel="dr2.dk">
-    <title>Alt forladt - Mønsted Kalkgruber</title>
-    <desc>Langt inde i den lukkede del af Mønsted Kalkgruber findes der graffiti, som er over 100 år gammel. Det skal de to Urban Explorers Jan Elhøj og Morten Kirckhoff have et billede af. Et andet sted i Danmark finder de en gammel seismograf, gemt og glemt, men som faktisk har været med til at bestemme, at jorden har en fast kerne.
-Tilrettelæggelse: Morten Steenstrup
-Sendt første gang 11.02.13</desc>
-    <episode-num system="xmltv_ns">0.4.0</episode-num>
-  </programme>
-  <programme start="20260608040000 +0000" stop="20260608050000 +0000" channel="dr2.dk">
-    <title>Husker du... 1976</title>
-    <desc>Året er 1976.
-De alternative uddannelser, boformer og livsanskuelser kommer i centrum. Både Christiania og RUC i Roskilde er på nippet til at blive lukket af politikerne. 
-"I kan ikke slå os ihjel" synger christianitterne, og redder med nød og næppe fristaden. Tvind har til gengæld vind i sejlene, men ikke alle er vilde med Tvinds arbejdsiver. Ungdomsarbejdsløsheden raser, men når alt bliver for trist, så kan man gå i Forum i København til 6-dagesløb. Her er der stemning og fest. En af sangene, som der skråles med på, er Vesterbro Ungdomsgårds "Kattejammerrock", som bliver en landeplage.
-Sendt første gang 06.04.05</desc>
-    <episode-num system="xmltv_ns">1.6.0</episode-num>
-  </programme>
-  <programme start="20260608050000 +0000" stop="20260608055000 +0000" channel="dr2.dk">
-    <title>24 timer vi aldrig glemmer: Da terroren ramte Danmark i 1985</title>
-    <desc>Den 22. juli 1985 blev Danmark ramt af det første terrorangreb i nyere tid. 27 mennesker blev såret og en mand brændte ihjel, da to bomber sprang foran det amerikanske luftfartsselskab North West Orient og den jødiske synagoge midt i København. Nu fortæller tidligere overrabiner Bent Melchior og andre vidner helt tæt på bomberne, hvad der skete den dag, Danmark mistede sin uskyld i forhold til den internationale terror. 
-Tilrettelæggelse: Frits Bredal.
-Sendt første gang 14.02.2010</desc>
-    <episode-num system="xmltv_ns">1.2.0</episode-num>
-  </programme>
-  <programme start="20260608055000 +0000" stop="20260608060000 +0000" channel="dr2.dk">
-    <title>På skuldrene af H. C. Ørsted - Kan mennesket skabe som en Gud?</title>
-    <desc>For 15 år siden opdagede to russiske fysikere et nyt vidunder-materiale. Et stof der er 200 gange stærkere end stål, hårdt som diamant, og stadig kan bøjes. Det er blevet begyndelsen på en ny æra, hvor mennesket selv kan designe sine materialer helt ned i mindste skala. Hermed brydes de regler, der ellers altid har været i den virkelig verden.
-Dansk videnskabsserie fra 2020 med de største fysikere i verden.</desc>
-    <episode-num system="xmltv_ns">0.4.0</episode-num>
-  </programme>
-  <programme start="20260608060000 +0000" stop="20260608060500 +0000" channel="dr2.dk">
-    <title>Radioavisen</title>
-    <desc>Bliv opdateret på de seneste nyheder fra ind- og udland.</desc>
-  </programme>
-  <programme start="20260608060500 +0000" stop="20260608063000 +0000" channel="dr2.dk">
-    <title>Morgenandagten</title>
-    <desc>Morgenandagten fra Vor Frue Kirke, Københavns Domkirke.</desc>
-    <episode-num system="xmltv_ns">2025.129.0</episode-num>
-  </programme>
-  <programme start="20260608063000 +0000" stop="20260608100000 +0000" channel="dr2.dk">
-    <title>Seneste nyt fra TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260608100000 +0000" stop="20260608151500 +0000" channel="dr2.dk">
-    <title>Seneste nyt fra TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260608151500 +0000" stop="20260608155500 +0000" channel="dr2.dk">
-    <title>Reklamer til Tiden (7:8)</title>
-    <desc>Dansk dokumentarserie fra 2003. Der er sket en revolution. I år 1900 er telegrammet og telefonen omgærdet af ærefrygt og forundring. Ved årtusindeskiftet benytter ethvert barn sig hele tiden af sms og e-mail. Oplev udviklingen, som den er skildret i et væld af reklamefilm. Se reklamer for de første radio- og tv-apparater, se hvordan aviserne sælger sig selv op igennem tiderne, og hvordan de kulørte blade afslører mere og mere.
-Vært: Liv Thomsen.</desc>
-    <episode-num system="xmltv_ns">0.6.0</episode-num>
-  </programme>
-  <programme start="20260608155500 +0000" stop="20260608163500 +0000" channel="dr2.dk">
-    <title>Reklamer til tiden (8:8)</title>
-    <desc>Dansk dokumentarserie fra 2003. Hvordan har reklamerne ændret sig? I begyndelsen af 1900-tallet er filmene simple og ofte komiske forsøg på at sælge øl, cykler og bøger. Fra 20'erne udvikler filmene sig og bliver til små, underholdende fortællinger. Kendte skuespillere optræder i filmene, og populære fiktive figurer dukker op, f.eks. Vitalius Sørensen, der reklamerer for OTA Solgryn. Ironi sælger - senere kommer DSB-Harry og Polle fra Snave til.
-Vært: Liv Thomsen.</desc>
-    <episode-num system="xmltv_ns">0.7.0</episode-num>
-  </programme>
-  <programme start="20260608163500 +0000" stop="20260608170500 +0000" channel="dr2.dk">
-    <title>Danske katastrofer - Valby Gasværk springer i luften</title>
-    <desc>Lørdag den 26. september 1964, går det galt på Valby Gasværk i København. En simpel reparation, en række små fejltagelser og en enkelt gnist, er nok til at starte en eksplosion uden sidestykke i Danmark. Gasværkets to enorme beholdere går op i flammer og trykbølgen rammer huse i op til 5 kilometer væk. 
-Via øjenvidneberetninger fra to overlevende og en Falck-redder, fortæller historikeren Rasmus Dahlberg om en katastrofe, der fik betydning for tusindvis af mennesker. 
-Sendt første gang 08.11.2017</desc>
-    <episode-num system="xmltv_ns">0.3.0</episode-num>
-  </programme>
-  <programme start="20260608171000 +0000" stop="20260608180000 +0000" channel="dr2.dk">
-    <title>Fortidens fantastiske ingeniørkunst (5:10) Notre Dames hemmeligheder</title>
-    <desc>Britisk dokumentarserie fra 2021.
-(Ancient Engineering) 
-I middelalderen opstod en ny form for ingeniørkunst i Europa. Målet var at bruge banebrydende byggemetoder til at skabe et glimt af himlen - på jorden. Guds hus, kirken, skulle være smuk, spektakulær og frygtindgydende. Det tog århundreder at bygge nogle af Europas største gotiske katedraler. De var svimlende høje med enorme glasmosaikvinduer, der tilsyneladende svævede i luften. Og den mest ikoniske er Notre Dame i Paris.</desc>
-    <episode-num system="xmltv_ns">0.4.0</episode-num>
-  </programme>
-  <programme start="20260608180000 +0000" stop="20260608200000 +0000" channel="dr2.dk">
-    <title>Filmperler: Den røde ø</title>
-    <desc>Fransk drama fra 2023.
-(L'île rouge)
-På Madagaskar i starten af 70'erne oplever den 10-årige Thomas den franske kolonialismes sidste krampetrækninger. Han bor med sin familie på en militærbase og inspireres til at kaste et nysgerrigt blik på sine omgivelser. Gradvist får han brudt igennem overfladen på det umiddelbart bekymringsfrie liv som udlandsfranskmand, og hans øjne åbnes for en anden virkelighed.
-Medvirkende: Nadia Tereszkiewicz, Quim Gutiérrez, Charlie Vauselle m.fl.
-Instruktion: Robin Campillo.</desc>
-  </programme>
-  <programme start="20260608200000 +0000" stop="20260608201500 +0000" channel="dr2.dk">
-    <title>TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260608201500 +0000" stop="20260608204500 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
-    <episode-num system="xmltv_ns">2025.83.0</episode-num>
-  </programme>
-  <programme start="20260608204500 +0000" stop="20260608214000 +0000" channel="dr2.dk">
-    <title>Tom Cruise - For evigt ung</title>
-    <desc>Fransk dokumentar fra 2023.
-(Tom Cruise - An Eternal Youth)
-Han er svær at sætte i bås. Skuespilleren Tom Cruise er kendt for sit store talent, charmerende smil og ungdommelige maskulinitet. Han blev et amerikansk ikon efter sit gennembrud i filmen 'Top Gun'. Men selvom den berømte stjerne i lang tid har været en af Hollywoods bedst betalte skuespillere, så er han også en forpint sjæl, hvis privatliv og medlemskab af Scientology til stadighed vækker opsigt i medierne.</desc>
-  </programme>
-  <programme start="20260608214000 +0000" stop="20260608220500 +0000" channel="dr2.dk">
-    <title>Gift som aldrig før (1:6) En fejring af livet</title>
-    <desc>Aske og Barbara fejrer livet ved at lægge deres bryllupsdrømme i designeren Henrik
-Vibskovs hænder. Apolonia Sokol mærker ansvaret som ceremonimester, da hun
-hører brudeparret Ben og Chris' historie. Hvad nu, hvis hun skuffer? Louise Alenius
-tror ikke på Gud, men opsøger et kirkebryllup for at afdække, hvad kirkens gamle
-ritualer egentlig kan.</desc>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-  </programme>
-  <programme start="20260608221000 +0000" stop="20260608223500 +0000" channel="dr2.dk">
-    <title>Gift som aldrig før (2:6) Når kærligheden møder muren</title>
-    <desc>Stine og Jacob er vilde med billedkunstneren Noah Umur Kanber og kan næsten
-ikke få armene ned over at skulle lægge deres vielse i hendes hænder. Men samtidig
-rammer Noah muren ved sit første besøg i Nikolaj Kunsthal - for hvordan fejrer man
-kærligheden for andre, når man selv føler sig alene og uelsket?</desc>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-  </programme>
-  <programme start="20260608224000 +0000" stop="20260608230500 +0000" channel="dr2.dk">
-    <title>Kunstnerkolonien i Skagen (2:6)</title>
-    <desc>I Skagen er de seks billedkunstnere ved at finde sig tilrette i kunstnerkolonien. Men især Kirsten Justesen har store udfordringer med sit nye atelier, som roder. Erik A. Frandsen drømmer om at lave P.S. Krøyers gamle atelier om til et camera obscura, mens Cathrine Raben Davidsen lader sig inspirere af farverigt tang indsamlet på Grenen.</desc>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-  </programme>
-  <programme start="20260608231000 +0000" stop="20260609000500 +0000" channel="dr2.dk">
-    <title>Renæssancens blodige skønhed (1:3)</title>
-    <desc>BBC-dokumentarserie fra 2024.
-(Renaissance - The Blood and the Beauty)
-Firenze i 1400-tallet var kendt for bankvirksomhed, handel og dygtige kunstnere. Her kæmper tre af historiens største - Michelangelo, Leonardo da Vinci og Rafael for at slå igennem og opnå støtte hos indflydelsesrige familier og magtfulde mæcener. Men det er en farlig tid præget af religiøse omvæltninger, magtkampe og politisk forræderi - hvor deres kunstværker enten kan sikre dem større gunst eller bringe dem i fare.</desc>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-  </programme>
-  <programme start="20260609001000 +0000" stop="20260609005500 +0000" channel="dr2.dk">
+  <programme start="20260609001000 +0000" stop="20260609010000 +0000" channel="dr2.dk">
     <title>Mary Cassatts kvinder</title>
     <desc>Britisk dokumentar fra 2023.
 (Mary Cassatt - Painting the Modern Woman)
 Hun var en ukuelig, frygtløs og krævende kunstner. Den amerikanske maler Mary Stevenson Cassatt blev født i 1844 i Pittsburgh. Hun vidste, hun ville være kunstner - og drog som 21-årig afsted mod Paris for at finde et mere uafhængigt kunstnerisk miljø. Her fortælles historien om den glemte impressionist, der revolutionerede kunsten med sine tryk, pasteller og oliemalerier. Og som udfordrer vores forestillinger om køn, kvinder, og hvad de kan.</desc>
   </programme>
-  <programme start="20260609010000 +0000" stop="20260609015500 +0000" channel="dr2.dk">
+  <programme start="20260609010000 +0000" stop="20260609020000 +0000" channel="dr2.dk">
     <title>Den klassiske musikquiz (5:8)</title>
     <desc>Kan aftenens deltagere genkende operaer ud fra bare tre ledetråde? Kan de bestemme et stykke musik uden at kende rytmen? Og hvor mange toner skal de bruge for at gætte et klassisk værk? Frederik Cilius og Mathias Hammer er holdkaptajnerne, der styrer aftenens to hold gennem udfordringerne. Med sig har de Susanne Elmark, Jacob la Cour, Andrea Pellegrini og Søren Schauser. DR SymfoniOrkestret og dirigent Henrik Schaefer står for musikken, mens Phillip Faber er den oplagte vært, der forsøger at holde styr på løjerne.</desc>
     <episode-num system="xmltv_ns">1.4.0</episode-num>
   </programme>
-  <programme start="20260609020000 +0000" stop="20260609022500 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+  <programme start="20260609020000 +0000" stop="20260609023000 +0000" channel="dr2.dk">
+    <title>Deadline: Trumps afmagt i Mellemøsten</title>
+    <desc>Mens Iran og Israel igen bombarderer hinanden, står den amerikanske præsident på sidelinjen - afmægtig og frustreret. For en ny eskalation knuser udsigten til, at regionens olie igen kan flyde frit. Og mens verdensøkonomien vakler, ånder en ny evighedskrig Donald Trump i nakken. Dagens vært er Issa Mahmoud Jeppesen.</desc>
     <episode-num system="xmltv_ns">2025.83.0</episode-num>
   </programme>
-  <programme start="20260609023000 +0000" stop="20260609025000 +0000" channel="dr2.dk">
+  <programme start="20260609023000 +0000" stop="20260609030000 +0000" channel="dr2.dk">
     <title>Deadline: Farvel til landbruget?</title>
     <desc>I årevis har hun kæmpet for naturens plads i et af verdens mest opdyrkede lande. Nu er Maria Reumert Gjerding udnævnt til ny miljømister og skal fastsatte reglerne for det landbrug, hun i årevis har kæmpet med i forhandlingslokalet. 
 I Deadline spørger Issa Mahmoud Jeppesen ministeren, om vi skal vinke farvel til landbruget, som vi kender det i dag?</desc>
     <episode-num system="xmltv_ns">2025.82.0</episode-num>
   </programme>
-  <programme start="20260609030000 +0000" stop="20260609032000 +0000" channel="dr2.dk">
+  <programme start="20260609030000 +0000" stop="20260609033000 +0000" channel="dr2.dk">
     <title>Deadline: Hvor lander regeringens regning?</title>
     <desc>Danmark har fået en ny regering, og den lover gaver til alle. Men hvem skal betale?
 En af de allerdyreste ideer fra regeringsgrundlaget er, at der ikke længere skal være moms på frugt og grønt. Men vil det overhovedet få priserne til at falde?
 Christian Bennike spørger den nye skatte- og vækstminister, Jakob Engel-Schmidt, som har været med til at forhandle regeringsgrundlaget for Moderaterne. </desc>
     <episode-num system="xmltv_ns">2025.81.0</episode-num>
+  </programme>
+  <programme start="20260609033000 +0000" stop="20260609040000 +0000" channel="dr2.dk">
+    <title>Deadline: Regeringens gaveregn</title>
+    <desc>En ny firkløverregering er kørt i stilling, og gaveregnen vælter ned over danskerne med alt fra gratis tandpleje og togrejser til skattelettelser for milliarder af kroner. Men kan regeringen få pengene til at passe? Og hvordan undgår firkløveret at visne i intern uenighed? Det undersøger Issa Mahmoud Jeppesen i dagens udgave af Deadline.</desc>
+    <episode-num system="xmltv_ns">2025.80.0</episode-num>
   </programme>
   <programme start="20260609040000 +0000" stop="20260609043000 +0000" channel="dr2.dk">
     <title>1000 års tro: Kongens kamp mod kirken</title>
@@ -313,8 +171,8 @@ Sendt første gang 25.10.2017</desc>
     <episode-num system="xmltv_ns">2025.84.0</episode-num>
   </programme>
   <programme start="20260610023000 +0000" stop="20260610030000 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <title>Deadline: Trumps afmagt i Mellemøsten</title>
+    <desc>Mens Iran og Israel igen bombarderer hinanden, står den amerikanske præsident på sidelinjen - afmægtig og frustreret. For en ny eskalation knuser udsigten til, at regionens olie igen kan flyde frit. Og mens verdensøkonomien vakler, ånder en ny evighedskrig Donald Trump i nakken. Dagens vært er Issa Mahmoud Jeppesen.</desc>
     <episode-num system="xmltv_ns">2025.83.0</episode-num>
   </programme>
   <programme start="20260610030000 +0000" stop="20260610033000 +0000" channel="dr2.dk">
@@ -322,13 +180,6 @@ Sendt første gang 25.10.2017</desc>
     <desc>I årevis har hun kæmpet for naturens plads i et af verdens mest opdyrkede lande. Nu er Maria Reumert Gjerding udnævnt til ny miljømister og skal fastsatte reglerne for det landbrug, hun i årevis har kæmpet med i forhandlingslokalet. 
 I Deadline spørger Issa Mahmoud Jeppesen ministeren, om vi skal vinke farvel til landbruget, som vi kender det i dag?</desc>
     <episode-num system="xmltv_ns">2025.82.0</episode-num>
-  </programme>
-  <programme start="20260610033000 +0000" stop="20260610040000 +0000" channel="dr2.dk">
-    <title>Deadline: Hvor lander regeringens regning?</title>
-    <desc>Danmark har fået en ny regering, og den lover gaver til alle. Men hvem skal betale?
-En af de allerdyreste ideer fra regeringsgrundlaget er, at der ikke længere skal være moms på frugt og grønt. Men vil det overhovedet få priserne til at falde?
-Christian Bennike spørger den nye skatte- og vækstminister, Jakob Engel-Schmidt, som har været med til at forhandle regeringsgrundlaget for Moderaterne. </desc>
-    <episode-num system="xmltv_ns">2025.81.0</episode-num>
   </programme>
   <programme start="20260610040000 +0000" stop="20260610050000 +0000" channel="dr2.dk">
     <title>Jagten på mig selv (2:2)</title>
@@ -459,8 +310,8 @@ Hells Angels sidder tungt på narkohandlen. Politiet vil stoppe dem, og derfor r
     <episode-num system="xmltv_ns">2025.84.0</episode-num>
   </programme>
   <programme start="20260611030000 +0000" stop="20260611033000 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <title>Deadline: Trumps afmagt i Mellemøsten</title>
+    <desc>Mens Iran og Israel igen bombarderer hinanden, står den amerikanske præsident på sidelinjen - afmægtig og frustreret. For en ny eskalation knuser udsigten til, at regionens olie igen kan flyde frit. Og mens verdensøkonomien vakler, ånder en ny evighedskrig Donald Trump i nakken. Dagens vært er Issa Mahmoud Jeppesen.</desc>
     <episode-num system="xmltv_ns">2025.83.0</episode-num>
   </programme>
   <programme start="20260611033000 +0000" stop="20260611040000 +0000" channel="dr2.dk">
@@ -606,8 +457,9 @@ James Brown var en central stemme i borgerrettighedsbevægelsen i USA. Han ændr
     <episode-num system="xmltv_ns">2025.84.0</episode-num>
   </programme>
   <programme start="20260612033000 +0000" stop="20260612040000 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <title>Deadline: Trumps afmagt i Mellemøsten</title>
+    <desc>Mens Iran og Israel igen bombarderer hinanden, står den amerikanske præsident på sidelinjen - afmægtig og frustreret. For en ny eskalation knuser udsigten til, at regionens olie igen kan flyde frit. Og mens verdensøkonomien vakler, ånder en ny evighedskrig Donald Trump i nakken. Dagens vært er Issa Mahmoud Jeppesen.</desc>
+    <episode-num system="xmltv_ns">2025.83.0</episode-num>
   </programme>
   <programme start="20260612040000 +0000" stop="20260612043100 +0000" channel="dr2.dk">
     <title>De uartige kalkmalerier (3:5)</title>
@@ -795,11 +647,13 @@ Instruktion: Martin Campbell.</desc>
   </programme>
   <programme start="20260613153000 +0000" stop="20260613163500 +0000" channel="dr2.dk">
     <title>Champions League håndbold: Semifinale: Aalborg - Barca (m), direkte</title>
-    <desc>Hvordan klarer de danske klubber sig i Europa?</desc>
+    <desc>Den store festweekend i Köln står for døren, når årets Champions League-vinder skal findes. Aalborg har to gange tidligere spillet sig helt frem til finalen, men det kræver en præstation af de helt store, hvis det skal gentage sig - deres modstander i årets semifinale er nemlig mægtige Barcelona.
+Kommentatorer: Frederik Lindved og Lars Krogh.</desc>
   </programme>
   <programme start="20260613163500 +0000" stop="20260613174500 +0000" channel="dr2.dk">
     <title>Champions League håndbold: Semifinale: Aalborg - Barca (m), direkte</title>
-    <desc>Hvordan klarer de danske klubber sig i Europa?</desc>
+    <desc>Den store festweekend i Köln står for døren, når årets Champions League-vinder skal findes. Aalborg har to gange tidligere spillet sig helt frem til finalen, men det kræver en præstation af de helt store, hvis det skal gentage sig - deres modstander i årets semifinale er nemlig mægtige Barcelona.
+Kommentatorer: Frederik Lindved og Lars Krogh.</desc>
   </programme>
   <programme start="20260613174500 +0000" stop="20260613180000 +0000" channel="dr2.dk">
     <title>Troldspejlet: Overflod af Star Wars</title>
@@ -1004,5 +858,138 @@ London, 1986. Flere homoseksuelle mænd er smittet med hiv end nogensinde, og an
     <desc>Dansk dokumentarserie fra 2003. Der er sket en revolution. I år 1900 er telegrammet og telefonen omgærdet af ærefrygt og forundring. Ved årtusindeskiftet benytter ethvert barn sig hele tiden af sms og e-mail. Oplev udviklingen, som den er skildret i et væld af reklamefilm. Se reklamer for de første radio- og tv-apparater, se hvordan aviserne sælger sig selv op igennem tiderne, og hvordan de kulørte blade afslører mere og mere.
 Vært: Liv Thomsen.</desc>
     <episode-num system="xmltv_ns">0.6.0</episode-num>
+  </programme>
+  <programme start="20260615001500 +0000" stop="20260615005500 +0000" channel="dr2.dk">
+    <title>Reklamer til tiden (8:8)</title>
+    <desc>Dansk dokumentarserie fra 2003. Hvordan har reklamerne ændret sig? I begyndelsen af 1900-tallet er filmene simple og ofte komiske forsøg på at sælge øl, cykler og bøger. Fra 20'erne udvikler filmene sig og bliver til små, underholdende fortællinger. Kendte skuespillere optræder i filmene, og populære fiktive figurer dukker op, f.eks. Vitalius Sørensen, der reklamerer for OTA Solgryn. Ironi sælger - senere kommer DSB-Harry og Polle fra Snave til.
+Vært: Liv Thomsen.</desc>
+    <episode-num system="xmltv_ns">0.7.0</episode-num>
+  </programme>
+  <programme start="20260615005500 +0000" stop="20260615023000 +0000" channel="dr2.dk">
+    <title>Nelly &amp; Nadine - forbudt kærlighed i KZ-lejren</title>
+    <desc>Svensk dokumentarfilm fra 2022.
+(Nelly &amp; Nadine)
+Juleaften 1944 i koncentrationslejren Ravensbrück forelsker to kvinder sig i hinanden. En forbudt kærlighed mellem den mystiske Nadine Hwang og operasangerinden Nelly Mousset-Vos. Efter befrielsen genforenes de og tilbringer resten af deres liv sammen. I mange år er deres forhold hemmeligt, selv for den nærmeste familie. Men nu har Nellys barnebarn, Sylvie, besluttet at afdække deres bemærkelsesværdige kærlighedshistorie.</desc>
+  </programme>
+  <programme start="20260615023000 +0000" stop="20260615033000 +0000" channel="dr2.dk">
+    <title>Renæssancens blodige skønhed (2:3)</title>
+    <desc>BBC-dokumentarserie fra 2024.
+(Renaissance - The Blood and the Beauty)
+Hvis Michelangelo vil gå over i historien som den største, er han nødt til at overstråle Leonardo. Derfor påtager han sig en enorm udfordring, der kan blive knald eller fald: skabelsen af den fem meter høje skulptur David. Samtidig dukker en ny rival op - den unge, talentfulde kunstner Rafael Santi, der truer med at overskygge dem begge. Nu må de ikke kun kæmpe mod hinanden, men også mod ham - og om Firenzes mæcener og velhavere.</desc>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+  </programme>
+  <programme start="20260615033000 +0000" stop="20260615040000 +0000" channel="dr2.dk">
+    <title>Danske katastrofer - Branden på Haderslev Dam</title>
+    <desc>Onsdag den 8. juli 1959 går en sommerturbåd, fuld af glade gæster, i stå på Haderslev Dam i Sønderjylland. I et forsøg på at få båden i gang, går det galt. Hele båden antændes og de panikslagne passagerer, må enten kaste sig i vandet eller dø i flammerne. 55 mennesker omkommer. Mange bliver på båden og brænder op - fordi de ikke kunne svømme. 
+Med øjenvidneberetninger fra en ung redningsmand og en overlevende, fortæller historikeren Rasmus Dahlberg om en af de mest uhyggelige katastrofer i Danmark. En dybt tragisk ulykke, der stadig præger de implicerede. 
+Sendt første gang 01.11.2017</desc>
+    <episode-num system="xmltv_ns">0.2.0</episode-num>
+  </programme>
+  <programme start="20260615040000 +0000" stop="20260615050000 +0000" channel="dr2.dk">
+    <title>Husker du... 1977</title>
+    <desc>Året er 1977.
+Bombemanden fra Gladsaxe spreder rædsel i Hovedstadsområdet i 1977. Gennem flere måneder placerer han bomber i telefonbokse, busser og indkøbscentre i Storkøbenhavn. Typograferne i det Berlingske Hus nedlægger arbejdet. Strejken udvikler sig til en af Danmarkshistoriens hårdeste arbejdskonflikter og i 141 dage udkommer hverken BT eller Berlingske Tidende. I Spanien går borgerne til det første frie valg i 41 år og i Sydafrika bliver borgerrettighedsforkæmperen Steve Biko dræbt i fængslet. En ung ukendt amerikansk skuespiller - John Travolta - introducerer en ny dansedille - discodansen. Filmen Saturday Night Fever har verdenspremiere i 1977 og i løbet af få måneder danser hele verden discodans. Og så er 1977 året, hvor verden må sige farvel til The King of Rock'n Roll. Elvis Presley dør af et hjertetilfælde den 16. august 1977.
+Sendt første gang 13.04.05</desc>
+  </programme>
+  <programme start="20260615050000 +0000" stop="20260615055000 +0000" channel="dr2.dk">
+    <title>24 timer vi aldrig glemmer: Da Anker endte i Saddams sofahjørne</title>
+    <desc>I november 1990 er 32 danskere fanget i Saddam Husseins kløer. Krigen mod Irak er på vej, men danskerne må ikke forlade det stadig mere kaotiske land. Da tiden er ved at løbe ud, rejser Danmarks tidligere statsminister Anker Jørgensen til Irak for at forhandle med Saddam - på egen hånd og mod den danske regerings vilje. Hans mål er at få danskerne hjem. Men hvor mange kan han få ud? Og hvem må blive? I 24 timer vi aldrig glemmer får du historien om det største danske gidseldrama i vor tid - time for time.
+Tilrettelæggelse: Janus Køster-Rasmussen.
+Sendt første gang 07.02.2010</desc>
+    <episode-num system="xmltv_ns">1.3.0</episode-num>
+  </programme>
+  <programme start="20260615060000 +0000" stop="20260615060500 +0000" channel="dr2.dk">
+    <title>Radioavisen</title>
+    <desc>Bliv opdateret på de seneste nyheder fra ind- og udland.</desc>
+  </programme>
+  <programme start="20260615060500 +0000" stop="20260615063000 +0000" channel="dr2.dk">
+    <title>Morgenandagten</title>
+    <desc>Morgenandagten fra Vor Frue Kirke, Københavns Domkirke.</desc>
+  </programme>
+  <programme start="20260615063000 +0000" stop="20260615100000 +0000" channel="dr2.dk">
+    <title>Seneste nyt fra TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260615100000 +0000" stop="20260615151500 +0000" channel="dr2.dk">
+    <title>Seneste nyt fra TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260615151500 +0000" stop="20260615155500 +0000" channel="dr2.dk">
+    <title>Digtere, Divaer og Dogmebrødre (1:8)</title>
+    <desc>Dansk dokumentarserie fra 2001. I starten af det 20. århundrede hersker der en stemning af jubeloptimisme. Automobiler, telefoner og flyvemaskiner bliver hyldet af kunstnere og intellektuelle. Og Asta Nielsen chokerer med sin vovede dans i filmen 'Afgrunden'. Imens bliver arbejderklassens elendige forhold skildret af Martin Andersen Nexø. Kvinder har stadig ikke valgret eller kunstnerisk respekt, og da 1. verdenskrig bryder ud, drukner enhver optimisme.
+Tilrettelæggelse: Liv Thomsen.</desc>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+  </programme>
+  <programme start="20260615155500 +0000" stop="20260615163500 +0000" channel="dr2.dk">
+    <title>Digtere, Divaer og Dogmebrødre (2:8)</title>
+    <desc>Dansk dokumentarserie fra 2001. Efter 1. verdenskrig, hvor millioner af mennesker har mistet livet, er der en stemning af både katastrofe og løssluppenhed. Det gælder om at leve, så i de brølende 20'ere er der fuld fart på livet og kunsten. Malerne Harald Giersing og Vilhelm Lundstrøm skildrer verden på en helt ny måde. På byens mange forlystelsessteder kan man opleve Liva Weel og Josephine Baker. Festen ender dog, og depression og krise melder sig.
+Tilrettelæggelse: Liv Thomsen.</desc>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+  </programme>
+  <programme start="20260615163500 +0000" stop="20260615170500 +0000" channel="dr2.dk">
+    <title>Danske katastrofer - Togkatastrofen i Sorø</title>
+    <desc>Mandag den 25. april 1988 afsporer et Intercitytog med 250 passagerer kort før Sorø station. For høj fart er skyld i en ulykke, der på tragisk vis udvikler sig til en katastrofe. Da den 400 ton tunge vognstamme ryger af sporerne, skrælles hele siden af en af togvognene. En stor kampesten ligger i grøften, lige præcis dér hvor vognen vælter. Passagererne er prisgivet. 8 mennesker omkommer. Over 70 bliver kvæstet.
+Med øjenvidneberetninger fra en Falck-redder og en overlevende, fortæller historikeren Rasmus Dahlberg om den største togkatastrofe i nyere tid. En ulykke, der har betydning for alle togpassagerer i dag.  
+Sendt første gang 15.11.2017</desc>
+    <episode-num system="xmltv_ns">0.4.0</episode-num>
+  </programme>
+  <programme start="20260615170500 +0000" stop="20260615180000 +0000" channel="dr2.dk">
+    <title>Fortidens fantastiske ingeniørkunst (6:10) Angkor Vats hemmeligheder</title>
+    <desc>Britisk dokumentarserie fra 2021.
+(Ancient Engineering)
+Dybt inde i den cambodjanske jungle ligger et tempel, der overskygger alle andre. Angkor Vat er et 900 år gammelt tempelkompleks, som blev bygget på kun 30 år. Ruinerne i Angkor dækker et 1000 kvadratkilometer stort område, og templets endeløse gange og strukturer afslører et ekstremt præcist stenhuggerarbejde. Et sandt mesterværk af håndværk, skulpturel udsmykning og ingeniørkunst.</desc>
+    <episode-num system="xmltv_ns">0.5.0</episode-num>
+  </programme>
+  <programme start="20260615180000 +0000" stop="20260615195500 +0000" channel="dr2.dk">
+    <title>Filmperler: Et svært år</title>
+    <desc>Fransk komediedrama fra 2023.
+(Une année difficile)
+Albert og Bruno står i gæld til op over begge ører. En dag møder de nogle unge klimaaktivister, der inviterer dem med til et møde. Lokket af løftet om gratis øl og chips tager de med. Uden den store overbevisning og med skjulte motiver bliver Albert og Bruno en del af bevægelsen. Og det bliver ikke mindre kompliceret af, at de ender med at finde venner og et uventet fællesskab blandt aktivisterne.
+Medvirkende: Pio Marmaï, Jonathan Cohen, Noémie Merlant m.fl.
+Instruktion: Olivier Nakache og Éric Toledano.</desc>
+  </programme>
+  <programme start="20260615200000 +0000" stop="20260615201500 +0000" channel="dr2.dk">
+    <title>TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260615201500 +0000" stop="20260615204500 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+  </programme>
+  <programme start="20260615204500 +0000" stop="20260615214000 +0000" channel="dr2.dk">
+    <title>Javier Bardem - Metamorfose</title>
+    <desc>Fransk dokumentar fra 2023. 
+(Javier Bardem's Metamorphosis) 
+Engleansigt, mærkeligt hår eller et hærget fjæs - Javier Bardem er manden med de tusind ansigter. Kendt for sine ekstreme forvandlinger og modige kunstneriske valg har den spanske skuespiller opbygget et imponerende filmkatalog. Denne dokumentar giver et fascinerende indblik i Bardems unikke karriere, hans kreative proces og aktivistiske engagement - samt et kig på de ar, der har formet både manden og skuespilleren.</desc>
+  </programme>
+  <programme start="20260615214000 +0000" stop="20260615221000 +0000" channel="dr2.dk">
+    <title>Gift som aldrig før (3:6) Kærlighedseliksir</title>
+    <desc>Henrik Vibskov er ved at gøre sig klar til at stå i spidsen for den store ceremoni i
+Designmuseets have - men tvivlen vokser: Kan han løfte rollen som
+ceremonimester? Apolonia Sokol besøger en gammel ven i de franske vinmarker for
+at finde kærlighedens sande nektar - en kærlighedseliksir.</desc>
+    <episode-num system="xmltv_ns">0.2.0</episode-num>
+  </programme>
+  <programme start="20260615221000 +0000" stop="20260615224000 +0000" channel="dr2.dk">
+    <title>Gift som aldrig før (4:6) Hvad får kærlighed til at holde?</title>
+    <desc>Glenn Bech besøger plejehjemmet Slottet for at undersøge, hvad livslang kærlighed
+består af. Lasse og Kristine gør sig klar til endelig at blive gift, mens deres
+ceremonimester Louise Alenius forbereder den store ceremoni i Cisternernes mørke.
+Hun vil synge ordene i ritualet, men er nervøs for, om stemmerne kan holde til
+kulden og fugten. Noah Umur Kanber tager til sin hjemby Aarhus for at konfrontere
+fortidens dæmoner og komme videre med sit ritual.</desc>
+    <episode-num system="xmltv_ns">0.3.0</episode-num>
+  </programme>
+  <programme start="20260615224000 +0000" stop="20260615231000 +0000" channel="dr2.dk">
+    <title>Kunstnerkolonien i Skagen (3:6)</title>
+    <desc>De seks kunstnere er i fuld gang med deres nye værker i kunstnerkolonien i Skagen. Erik A. Frandsen står op midt om natten for at studere det unikke lys ved solopgang. Frederik Næblerød venter utålmodigt på flere lærreder, da han allerede er løbet tør og derfor må tænke ud af boksen. Alle kunstnerne besøger Skagens museum, hvor særlig Cathrine R. Davidsen søger inspiration i Anna Anchers dystre værker.</desc>
+    <episode-num system="xmltv_ns">0.2.0</episode-num>
+  </programme>
+  <programme start="20260615231000 +0000" stop="20260616001000 +0000" channel="dr2.dk">
+    <title>Renæssancens blodige skønhed (2:3)</title>
+    <desc>BBC-dokumentarserie fra 2024.
+(Renaissance - The Blood and the Beauty)
+Hvis Michelangelo vil gå over i historien som den største, er han nødt til at overstråle Leonardo. Derfor påtager han sig en enorm udfordring, der kan blive knald eller fald: skabelsen af den fem meter høje skulptur David. Samtidig dukker en ny rival op - den unge, talentfulde kunstner Rafael Santi, der truer med at overskygge dem begge. Nu må de ikke kun kæmpe mod hinanden, men også mod ham - og om Firenzes mæcener og velhavere.</desc>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
   </programme>
 </tv>

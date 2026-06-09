@@ -3,10 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260608190000 +0000" stop="20260608192700 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20260609182000 +0000" stop="20260609184000 +0000" channel="ruv2.is">
     <title>Stofan</title>
     <desc>Umfjallanir um leiki í undankeppni HM kvenna í fótbolta.
@@ -133,5 +129,36 @@ Leikur Hollands og Japan á HM karla í fótbolta.</desc>
     <title>Asía - með enskum þul</title>
     <sub-title>(7 af 7)</sub-title>
     <desc>Heimildarþáttaröð þar sem David Attenborough kannar náttúru og dýralíf í Asíu, stærstu heimsálfu jarðar.</desc>
+  </programme>
+  <programme start="20260615173000 +0000" stop="20260615182800 +0000" channel="ruv2.is">
+    <title>Jörðin - með enskum þul</title>
+    <sub-title>(1 af 8)</sub-title>
+    <desc>Þriðja þáttaröð þessara stórbrotnu náttúrulífsþátta með David Attenborough um Jörðina, náttúru hennar og dýralíf á öllum árstíðum.</desc>
+  </programme>
+  <programme start="20260615183000 +0000" stop="20260615185000 +0000" channel="ruv2.is">
+    <title>Stofan</title>
+    <desc>Umfjallanir um leiki á HM karla í fótbolta.
+
+Upphitun fyrir leik Belgíu og Egyptalands á HM karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260615185000 +0000" stop="20260615210500 +0000" channel="ruv2.is">
+    <title>Belgía - Egyptaland</title>
+    <desc>Leikir á HM karla í fótbolta.
+
+Leikur Belgíu og Egyptalands á HM karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260615210500 +0000" stop="20260615215000 +0000" channel="ruv2.is">
+    <title>HM kvöld</title>
+    <desc>Samantekt frá leikjum dagsins á HM karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260615215000 +0000" stop="20260616001000 +0000" channel="ruv2.is">
+    <title>Sádí-Arabía - Úrúgvæ</title>
+    <desc>Leikir á HM karla í fótbolta.
+
+Leikur Sádí-Arabíu og Úrúgvæ á HM karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260616001000 +0000" stop="20260616003700 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
 </tv>
