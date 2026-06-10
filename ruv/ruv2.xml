@@ -3,26 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260609182000 +0000" stop="20260609184000 +0000" channel="ruv2.is">
-    <title>Stofan</title>
-    <desc>Umfjallanir um leiki í undankeppni HM kvenna í fótbolta.
-
-Upphitun fyrir leik Íslands og Spánar í undankeppni HM kvenna í fótbolta.</desc>
-  </programme>
-  <programme start="20260609185000 +0000" stop="20260609205500 +0000" channel="ruv2.is">
-    <title>Ísland - Spánn</title>
-    <desc>Leikir í undankeppni HM kvenna í fótbolta.
-
-Leikur Íslands og Spánar í undankeppni HM kvenna í fótbolta.</desc>
-  </programme>
-  <programme start="20260609205500 +0000" stop="20260609211500 +0000" channel="ruv2.is">
-    <title>Stofan</title>
-    <desc>Umfjallanir um leiki í undankeppni HM kvenna í fótbolta.</desc>
-  </programme>
-  <programme start="20260609212000 +0000" stop="20260609214500 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20260610192000 +0000" stop="20260610214000 +0000" channel="ruv2.is">
     <title>Afturelding - Stjarnan</title>
     <desc>Keppnir í bikarkeppni karla í fótbolta.
@@ -152,12 +132,38 @@ Leikur Belgíu og Egyptalands á HM karla í fótbolta.</desc>
     <desc>Samantekt frá leikjum dagsins á HM karla í fótbolta.</desc>
   </programme>
   <programme start="20260615215000 +0000" stop="20260616001000 +0000" channel="ruv2.is">
-    <title>Sádí-Arabía - Úrúgvæ</title>
+    <title>Sádi-Arabía - Úrúgvæ</title>
     <desc>Leikir á HM karla í fótbolta.
 
-Leikur Sádí-Arabíu og Úrúgvæ á HM karla í fótbolta.</desc>
+Leikur Sádi-Arabíu og Úrúgvæ á HM karla í fótbolta.</desc>
   </programme>
   <programme start="20260616001000 +0000" stop="20260616003700 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260616183000 +0000" stop="20260616185000 +0000" channel="ruv2.is">
+    <title>Stofan</title>
+    <desc>Umfjallanir um leiki á HM karla í fótbolta.
+
+Upphitun fyrir leik Frakklands og Senegal á HM karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260616185000 +0000" stop="20260616210500 +0000" channel="ruv2.is">
+    <title>Frakkland - Senegal</title>
+    <desc>Leikir á HM karla í fótbolta.
+
+Leikur Frakklands og Senegal á HM karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260616210500 +0000" stop="20260616215000 +0000" channel="ruv2.is">
+    <title>HM kvöld</title>
+    <desc>Samantekt frá leikjum dagsins á HM karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260616215000 +0000" stop="20260617001000 +0000" channel="ruv2.is">
+    <title>Írak - Noregur</title>
+    <desc>Leikir á HM karla í fótbolta.
+
+Leikur Íraks og Noregs á HM karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260617001000 +0000" stop="20260617003700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
