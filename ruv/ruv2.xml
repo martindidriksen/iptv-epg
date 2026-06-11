@@ -3,16 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260610192000 +0000" stop="20260610214000 +0000" channel="ruv2.is">
-    <title>Afturelding - Stjarnan</title>
-    <desc>Keppnir í bikarkeppni karla í fótbolta.
-
-Leikur Aftureldingar og Stjörnunnar í 8-liða úrslitum Mjólkurbikars karla í fótbolta.</desc>
-  </programme>
-  <programme start="20260610214000 +0000" stop="20260610220700 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20260611180000 +0000" stop="20260611185000 +0000" channel="ruv2.is">
     <title>Stofan</title>
     <desc>Umfjallanir um leiki á HM karla í fótbolta.
@@ -166,5 +156,57 @@ Leikur Íraks og Noregs á HM karla í fótbolta.</desc>
   <programme start="20260617001000 +0000" stop="20260617003700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260617111000 +0000" stop="20260617114500 +0000" channel="ruv2.is">
+    <title>Hátíðarstund á Austurvelli (með táknmálstúlkun)</title>
+    <desc>Bein útsending frá hátíðarstund á Austurvelli á þjóðhátíðardegi Íslendinga.</desc>
+  </programme>
+  <programme start="20260617125500 +0000" stop="20260617150000 +0000" channel="ruv2.is">
+    <title>FHL - Fram</title>
+    <desc>Beinar útsendingar frá bikarkeppni kvenna í fótbolta.
+
+Leikur FHL og Fram í 8-liða úrslitum Mjólkurbikars kvenna í fótbolta.</desc>
+  </programme>
+  <programme start="20260617163000 +0000" stop="20260617165000 +0000" channel="ruv2.is">
+    <title>Stofan</title>
+    <desc>Umfjallanir um leiki á HM karla í fótbolta.
+
+Upphitun fyrir leik Portúgal og Kongó á HM karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260617165000 +0000" stop="20260617190500 +0000" channel="ruv2.is">
+    <title>Portúgal - Kongó</title>
+    <desc>Leikir á HM karla í fótbolta.
+
+Leikur Portúgal og Kongó á HM karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260617190500 +0000" stop="20260617191500 +0000" channel="ruv2.is">
+    <title>Stofan</title>
+    <desc>Umfjallanir um leiki á HM karla í fótbolta.
+
+Uppgjör á leik Portúgal og Kongó á HM karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260617193000 +0000" stop="20260617195000 +0000" channel="ruv2.is">
+    <title>Stofan</title>
+    <desc>Umfjallanir um leiki á HM karla í fótbolta.
+
+Upphitun fyrir leik Englands og Króatíu á HM karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260617195000 +0000" stop="20260617220500 +0000" channel="ruv2.is">
+    <title>England - Króatía</title>
+    <desc>Leikir á HM karla í fótbolta.
+
+Leikur Englands og Króatíu á HM karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260617220500 +0000" stop="20260617225000 +0000" channel="ruv2.is">
+    <title>HM kvöld</title>
+    <desc>Samantekt frá leikjum dagsins á HM karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260617225000 +0000" stop="20260617231000 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260617231000 +0000" stop="20260617232500 +0000" channel="ruv2.is">
+    <title>Ávarp forseta á 17. júní - með táknmálstúlkun</title>
+    <desc>Halla Tómasdóttir forseti flytur ávarp.</desc>
   </programme>
 </tv>
