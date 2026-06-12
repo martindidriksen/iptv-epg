@@ -3,186 +3,28 @@
   <channel id="dr2.dk">
     <display-name>DR2</display-name>
   </channel>
-  <programme start="20260610234500 +0000" stop="20260611003000 +0000" channel="dr2.dk">
-    <title>Hells Angels bag rygmærket (5:7)</title>
-    <desc>Amerikansk dokumentarserie fra 2024.
-(Secrets of Hells Angels)
-Agenten Jay Dobyns går undercover for at infiltrere Hells Angels. Men langsomt bliver han suget dybere og dybere ind i broderskabet. Derfor hentes den kvindelig agent, Jenna Maguire, ind for at holde ham på ret køl. Vil han trække stikket, før det er for sent? For første gang fortæller Jenna Maguire sin side af historien.</desc>
-    <episode-num system="xmltv_ns">0.4.0</episode-num>
-  </programme>
-  <programme start="20260611003000 +0000" stop="20260611011500 +0000" channel="dr2.dk">
-    <title>Hells Angels bag rygmærket (6:7)</title>
-    <desc>Amerikansk dokumentarserie fra 2024.
-(Secrets of Hells Angels)
-Hells Angels sidder tungt på narkohandlen. Politiet vil stoppe dem, og derfor rekrutterer de udsmideren Anthony Tait. Han er den første civile informant, der infiltrerer klubben. Efter nogle år stiger han i graderne og ender med at sende flere af sine berygtede rockerbrødre i fængsel - også præsidenten Sonny Barger. Tait modtager stadig dødstrusler den dag i dag.</desc>
-    <episode-num system="xmltv_ns">0.5.0</episode-num>
-  </programme>
-  <programme start="20260611011500 +0000" stop="20260611015500 +0000" channel="dr2.dk">
-    <title>James Brown - Soulmusikkens gudfar (1:4)</title>
-    <desc>Amerikansk dokumentarserie fra 2024.
-(James Brown: Say it Out Loud)
-"Jeg blev født død. Jeg måtte selv skabe mit liv." Den afroamerikanske sanger James Brown kom til verden i 1933 i South Carolina, USA. Hans opvækst var præget af fattigdom, vold og traumer - og han røg i fængsel som 15-årig. Men i 1950'erne fik han en pladekontrakt på det lille pladeselskab King Records. Langsomt kæmpede han sig op fra bunden, nedbrød racemæssige barrierer og blev superstjerne.</desc>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-  </programme>
-  <programme start="20260611015500 +0000" stop="20260611023000 +0000" channel="dr2.dk">
-    <title>Deadline: Slap kurs?</title>
-    <desc>Det er en af de allervanskeligste poster i dansk politik. Socialdemokratiet har fået en ny udlændingeordfører, og han lander midt i en veritabel storm af kritik fra oppositionen. For er den nye regering i gang med at slække på udlændingepolitikken? Christian Bennike spørger udlændingeordføreren selv, Thomas Skriver Jensen.</desc>
-    <episode-num system="xmltv_ns">2025.85.0</episode-num>
-  </programme>
-  <programme start="20260611023000 +0000" stop="20260611030000 +0000" channel="dr2.dk">
-    <title>Deadline: Virker samtykkeloven?</title>
-    <desc>For fem år siden blev samtykkeloven vedtaget med et klart mål: Flere voldtægter skulle føre til domfældelser.
-Siden er antallet af anmeldelser steget. Men antallet af dømte er ikke fulgt med. Til gengæld er der dukket en ny type gerningsmænd op: Den ellers velfungerende teenagedreng. 
-Er det udtryk for, at unge mænd er havnet på usikker juridisk grund? Eller er den kulturændring, som mange håbede på, ikke nået ud til de unge, der skal lære et nyt sprog for grænser og samtykke? Vært: Sandra Brovall</desc>
-    <episode-num system="xmltv_ns">2025.84.0</episode-num>
-  </programme>
-  <programme start="20260611030000 +0000" stop="20260611033000 +0000" channel="dr2.dk">
-    <title>Deadline: Trumps afmagt i Mellemøsten</title>
-    <desc>Mens Iran og Israel igen bombarderer hinanden, står den amerikanske præsident på sidelinjen - afmægtig og frustreret. For en ny eskalation knuser udsigten til, at regionens olie igen kan flyde frit. Og mens verdensøkonomien vakler, ånder en ny evighedskrig Donald Trump i nakken. Dagens vært er Issa Mahmoud Jeppesen.</desc>
-    <episode-num system="xmltv_ns">2025.83.0</episode-num>
-  </programme>
-  <programme start="20260611033000 +0000" stop="20260611040000 +0000" channel="dr2.dk">
-    <title>Deadline: Farvel til landbruget?</title>
-    <desc>I årevis har hun kæmpet for naturens plads i et af verdens mest opdyrkede lande. Nu er Maria Reumert Gjerding udnævnt til ny miljømister og skal fastsatte reglerne for det landbrug, hun i årevis har kæmpet med i forhandlingslokalet. 
-I Deadline spørger Issa Mahmoud Jeppesen ministeren, om vi skal vinke farvel til landbruget, som vi kender det i dag?</desc>
-    <episode-num system="xmltv_ns">2025.82.0</episode-num>
-  </programme>
-  <programme start="20260611040000 +0000" stop="20260611052000 +0000" channel="dr2.dk">
-    <title>Gamle Danmark (8)</title>
-    <desc>Dansk dokumentarserie fra 1984. 1959-66. Velstanden får finkulturelle udtryk - Louisiana, Sonningprisen, Det Danske Akademi og Kulturministeriet. Den brede befolkning ser med skepsis på kulturelle krumspring for skattemillioner, og rindalismen fødes. Bogen klarer sig flot gennem markedsføring af billigbøger og bogklubber, men dagspressen skranter.
-Forfatter og fortæller: Paul Hammerich.</desc>
-    <episode-num system="xmltv_ns">0.7.0</episode-num>
-  </programme>
-  <programme start="20260611052000 +0000" stop="20260611055000 +0000" channel="dr2.dk">
-    <title>Atombomberne over Danmark (1:6)</title>
-    <desc>En hemmelig polsk angrebsplan fra den kolde krig afslører, at Danmark skulle erobres på kun seks dage. Med brug af atomvåben. Men hvordan skulle planen udføres, og hvad ville der ske med danskerne, hvis planen blev til virkelighed? 
-I dette afsnit undersøger Morten Brink og Trine Laier, hvad planen går ud på, og hvor Trines far lavede sit hemmelige arbejde.</desc>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-  </programme>
-  <programme start="20260611055000 +0000" stop="20260611060000 +0000" channel="dr2.dk">
-    <title>På skuldrene af H. C. Ørsted - Kan man se, hvordan mennesket virker?</title>
-    <desc>Gennem 30 år har en gruppe forskere prøvet at gøre det muligt at se de allerinderste ting i mennesket. Med en ny type supermikroskop håber de, at vi kan få kontrollen over alt fra bakterier og virus til de proteiner, som styrer hele vores krop.
-Dansk videnskabsserie fra 2020 med de største fysikere i verden.</desc>
-    <episode-num system="xmltv_ns">0.5.0</episode-num>
-  </programme>
-  <programme start="20260611060000 +0000" stop="20260611060500 +0000" channel="dr2.dk">
-    <title>Radioavisen</title>
-    <desc>Bliv opdateret på de seneste nyheder fra ind- og udland.</desc>
-  </programme>
-  <programme start="20260611060500 +0000" stop="20260611063000 +0000" channel="dr2.dk">
-    <title>Morgenandagten</title>
-    <desc>Morgenandagten fra Vor Frue Kirke, Københavns Domkirke.</desc>
-  </programme>
-  <programme start="20260611063000 +0000" stop="20260611100000 +0000" channel="dr2.dk">
-    <title>Seneste nyt fra TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260611100000 +0000" stop="20260611141103 +0000" channel="dr2.dk">
-    <title>Seneste nyt fra TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260611141103 +0000" stop="20260611150500 +0000" channel="dr2.dk">
-    <title>Da Vincis mesterlige malerier</title>
-    <desc>Tysk dokumentar fra 2022.
-(Decoding Da Vinci)
-Kunstner, opfinder og videnskabsmand. 500 år efter hans død fascinerer den berømte italienske renæssancemaler Leonardo da Vincis malerier os stadig. Der er kun 15 lærreder tilbage, hvoraf nogle er ufærdige. For at forstå dem og hans tekniske og kunstneriske dygtighed, dykker vi ned i videnskaben bag da Vincis mesterværker. Hvad gjorde ham så umådelig berømt? Og hvordan forklarer man den særplads, hans værker indtager i kunsthistorien?</desc>
-  </programme>
-  <programme start="20260611150500 +0000" stop="20260611155500 +0000" channel="dr2.dk">
-    <title>24 timer vi aldrig glemmer: Da terroren ramte Danmark i 1985</title>
-    <desc>Den 22. juli 1985 blev Danmark ramt af det første terrorangreb i nyere tid. 27 mennesker blev såret og en mand brændte ihjel, da to bomber sprang foran det amerikanske luftfartsselskab North West Orient og den jødiske synagoge midt i København. Nu fortæller tidligere overrabiner Bent Melchior og andre vidner helt tæt på bomberne, hvad der skete den dag, Danmark mistede sin uskyld i forhold til den internationale terror. 
-Tilrettelæggelse: Frits Bredal.
-Sendt første gang 14.02.2010</desc>
-    <episode-num system="xmltv_ns">1.2.0</episode-num>
-  </programme>
-  <programme start="20260611155500 +0000" stop="20260611164500 +0000" channel="dr2.dk">
-    <title>24 timer vi aldrig glemmer: Da Anker endte i Saddams sofahjørne</title>
-    <desc>I november 1990 er 32 danskere fanget i Saddam Husseins kløer. Krigen mod Irak er på vej, men danskerne må ikke forlade det stadig mere kaotiske land. Da tiden er ved at løbe ud, rejser Danmarks tidligere statsminister Anker Jørgensen til Irak for at forhandle med Saddam - på egen hånd og mod den danske regerings vilje. Hans mål er at få danskerne hjem. Men hvor mange kan han få ud? Og hvem må blive? I 24 timer vi aldrig glemmer får du historien om det største danske gidseldrama i vor tid - time for time.
-Tilrettelæggelse: Janus Køster-Rasmussen.
-Sendt første gang 07.02.2010</desc>
-    <episode-num system="xmltv_ns">1.3.0</episode-num>
-  </programme>
-  <programme start="20260611164500 +0000" stop="20260611165500 +0000" channel="dr2.dk">
-    <title>På skuldrene af H. C. Ørsted - Hvor meget vejer et kilo egentligt?</title>
-    <desc>En historie om vægten af ting for hvor meget vejer et kilo guld egentligt? Indtil for et år siden blev et kilo hele tiden lettere, men så fandt en tysk fysiker en metode, som giver et helt nøjagtigt kilo. Men hvordan vejer man overhovedet et kilo nøjagtigt? Og hvad kan det bruges til?
-Dansk videnskabsserie fra 2020 med de største fysikere i verden.</desc>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-  </programme>
-  <programme start="20260611165500 +0000" stop="20260611180000 +0000" channel="dr2.dk">
-    <title>Den store dannelsesrejse (2:3)</title>
-    <desc>BBC-dokumentarserie fra 2024.
-(Rob &amp; Rylan's Grand Tour)
-Rob og Rylan ankommer til renæssancebyen Firenze. Her besøger de den majestætiske domkirke Duomo, smager klassisk kallun og oplever den voldelige historiske fodbold Calcio Storico. De ser et censureret nøgenportræt af Artemisia Gentileschi blive afsløret - og poserer selv nøgne for en lokal kunstner. Rejsen kulminerer på verdens måske største kunstmuseum Uffizi-galleriet, hvor Rylan fordyber sig i Botticellis ikoniske 'Venus' fødsel'.</desc>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-  </programme>
-  <programme start="20260611180000 +0000" stop="20260611190000 +0000" channel="dr2.dk">
-    <title>Renæssancens blodige skønhed (2:3)</title>
-    <desc>BBC-dokumentarserie fra 2024.
-(Renaissance - The Blood and the Beauty)
-Hvis Michelangelo vil gå over i historien som den største, er han nødt til at overstråle Leonardo. Derfor påtager han sig en enorm udfordring, der kan blive knald eller fald: skabelsen af den fem meter høje skulptur David. Samtidig dukker en ny rival op - den unge, talentfulde kunstner Rafael Santi, der truer med at overskygge dem begge. Nu må de ikke kun kæmpe mod hinanden, men også mod ham - og om Firenzes mæcener og velhavere.</desc>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-  </programme>
-  <programme start="20260611190000 +0000" stop="20260611200000 +0000" channel="dr2.dk">
-    <title>Javier Bardem - Metamorfose</title>
-    <desc>Fransk dokumentar fra 2023. 
-(Javier Bardem's Metamorphosis) 
-Engleansigt, mærkeligt hår eller et hærget fjæs - Javier Bardem er manden med de tusind ansigter. Kendt for sine ekstreme forvandlinger og modige kunstneriske valg har den spanske skuespiller opbygget et imponerende filmkatalog. Denne dokumentar giver et fascinerende indblik i Bardems unikke karriere, hans kreative proces og aktivistiske engagement - samt et kig på de ar, der har formet både manden og skuespilleren.</desc>
-  </programme>
-  <programme start="20260611200000 +0000" stop="20260611201500 +0000" channel="dr2.dk">
-    <title>TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260611201500 +0000" stop="20260611204500 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
-    <episode-num system="xmltv_ns">2025.86.0</episode-num>
-  </programme>
-  <programme start="20260611204500 +0000" stop="20260611211500 +0000" channel="dr2.dk">
-    <title>Trumps USA</title>
-    <desc>I "Trumps USA" stiller vi skarpt på de afgørende udviklinger, personopgør og dagsordener, der udspiller sig i amerikansk politik.</desc>
-    <episode-num system="xmltv_ns">2025.16.0</episode-num>
-  </programme>
-  <programme start="20260611211500 +0000" stop="20260611221000 +0000" channel="dr2.dk">
-    <title>Knivdrabet på dansepigerne</title>
-    <desc>Britisk dokumentar fra 2025.
-(One Day in Southport)
-I 2024 bliver tre unge piger stukket ihjel ved et Taylor Swift-dansearrangement i Southport. Politiet undlader i første omgang at identificere gerningsmanden, hvilket får misinformation til at sprede sig på nettet, der angiver ham som muslim og illegal migrant. Hændelsen får højreradikale grupper til at gå på gaden i protest, hvor de forsøger at brænde den lokale moské ned. På få dage breder optøjerne sig til 27 britiske byer. Hvad er de dybereliggende årsager bag de voldsomme optøjer?</desc>
-  </programme>
-  <programme start="20260611221000 +0000" stop="20260611225500 +0000" channel="dr2.dk">
-    <title>Hells Angels bag rygmærket (7:7)</title>
-    <desc>Amerikansk dokumentarserie fra 2024.
-(Secrets of Hells Angels)
-Ted Soke idoliserer Hells Angels i Cleveland. Han drikker i deres klubhus, kører side om side med dem og tilbyder at udføre deres beskidte arbejde. Samtidig oplærer han sin søn Donny til at blive seriemorder, ligesom ham selv. Her fortæller Donny, hvordan de skød et rivaliserende bandemedlem, stak en ung husmor ihjel og myrdede et ældre ægtepar.</desc>
-    <episode-num system="xmltv_ns">0.6.0</episode-num>
-  </programme>
-  <programme start="20260611225500 +0000" stop="20260611235000 +0000" channel="dr2.dk">
-    <title>Aids: De uhørte bånd (2:3)</title>
-    <desc>BBC-dokumentarserie fra 2023.
-(AIDS: The Unheard Tapes)
-London, 1986. Flere homoseksuelle mænd er smittet med hiv end nogensinde, og antallet, der modtager en aids-diagnose, stiger. Storbritanniens første specialiserede aids-afdeling åbnes af prinsesse Diana, og viser offentligheden, at man ikke kan blive smittet ved berøring. Masseprotester bryder ud mod en ny lov, der forbyder promovering af homoseksualitet, mens antallet af aids-relaterede dødsfald stiger. Og der er stadig ingen kur mod den dødelige virus.</desc>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-  </programme>
-  <programme start="20260611235500 +0000" stop="20260612004500 +0000" channel="dr2.dk">
+  <programme start="20260611235000 +0000" stop="20260612004000 +0000" channel="dr2.dk">
     <title>Assad-dynastiet (2:3)</title>
     <desc>BBC-dokumentarserie fra 2018.
 (A Dangerous Dynasty: House of Assad)
 Bashar al-Assad er nu Syriens præsident, og hans hustru Asma er landets førstedame, men problemerne hober sig op. Asmas svigerfamilie vil holde hende ude af offentligheden, USA kalder Syrien en del af "Ondskabens akse", og Bashar presses af sin familie til at ignorere FN's resolutioner. Snart står parret også midt i en mordsag, da en politisk fjende bliver dræbt.</desc>
     <episode-num system="xmltv_ns">0.1.0</episode-num>
   </programme>
-  <programme start="20260612004500 +0000" stop="20260612012500 +0000" channel="dr2.dk">
+  <programme start="20260612004000 +0000" stop="20260612012500 +0000" channel="dr2.dk">
     <title>James Brown - Soulmusikkens gudfar (2:4)</title>
     <desc>Amerikansk dokumentarserie fra 2024.
 (James Brown: Say it Out Loud)
 James Brown var en central stemme i borgerrettighedsbevægelsen i USA. Han ændrede musikverdenen ved at opfinde funk og udgav en række populære numre som 'Papa's Got a Brand New Bag', der toppede hitlisterne. Nummeret 'Say It Loud' cementerede den magtfulde musiker som talerør for den sorte befolkning og ændrede deres selvopfattelse og de hvides syn på de sorte.</desc>
     <episode-num system="xmltv_ns">0.1.0</episode-num>
   </programme>
-  <programme start="20260612013000 +0000" stop="20260612020000 +0000" channel="dr2.dk">
+  <programme start="20260612012500 +0000" stop="20260612015500 +0000" channel="dr2.dk">
     <title>Sladderhistorie: Sexchikane</title>
     <desc>Blev Erik Klipping slået ihjel, fordi han havde forgrebet sig på sin rådgivers kone? Og hvorfor skød Danmarks første kvindelige historiker sin egen læge på åben gade? Danmarkshistorien er fuld af grænseoverskridende mænd - men også af kvinder der sagde fra.</desc>
     <episode-num system="xmltv_ns">1.1.0</episode-num>
   </programme>
-  <programme start="20260612020000 +0000" stop="20260612023000 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+  <programme start="20260612015500 +0000" stop="20260612023000 +0000" channel="dr2.dk">
+    <title>Deadline: Fodbold for de få?</title>
+    <desc>Profit, politik og perverst høje billetpriser - det er nogle af overskrifterne på den VM-slutrunde, der nu går i gang. International fodbold er blevet så stor, dyr og kommercialiseret en forretning, at de færreste kan følge med. Hvad har fodbold forvandlet sig til, og hvem er den til for? Issa Mahmoud Jeppesen spørger Anders Hagen, der er forfatter til 'Spillet er tabt', fodboldformidler Amalie Bremer og medieforskeren Bo Kampmann Walther.</desc>
     <episode-num system="xmltv_ns">2025.86.0</episode-num>
   </programme>
   <programme start="20260612023000 +0000" stop="20260612030000 +0000" channel="dr2.dk">
@@ -196,6 +38,11 @@ James Brown var en central stemme i borgerrettighedsbevægelsen i USA. Han ændr
 Siden er antallet af anmeldelser steget. Men antallet af dømte er ikke fulgt med. Til gengæld er der dukket en ny type gerningsmænd op: Den ellers velfungerende teenagedreng. 
 Er det udtryk for, at unge mænd er havnet på usikker juridisk grund? Eller er den kulturændring, som mange håbede på, ikke nået ud til de unge, der skal lære et nyt sprog for grænser og samtykke? Vært: Sandra Brovall</desc>
     <episode-num system="xmltv_ns">2025.84.0</episode-num>
+  </programme>
+  <programme start="20260612033000 +0000" stop="20260612040000 +0000" channel="dr2.dk">
+    <title>Deadline: Trumps afmagt i Mellemøsten</title>
+    <desc>Mens Iran og Israel igen bombarderer hinanden, står den amerikanske præsident på sidelinjen - afmægtig og frustreret. For en ny eskalation knuser udsigten til, at regionens olie igen kan flyde frit. Og mens verdensøkonomien vakler, ånder en ny evighedskrig Donald Trump i nakken. Dagens vært er Issa Mahmoud Jeppesen.</desc>
+    <episode-num system="xmltv_ns">2025.83.0</episode-num>
   </programme>
   <programme start="20260612040000 +0000" stop="20260612043100 +0000" channel="dr2.dk">
     <title>De uartige kalkmalerier (3:5)</title>
@@ -229,43 +76,11 @@ En film af Rikke Louise Schjødt efter en bog af Iben Have.</desc>
     <desc>Morgenandagten fra Vor Frue Kirke, Københavns Domkirke.</desc>
     <episode-num system="xmltv_ns">2025.133.0</episode-num>
   </programme>
-  <programme start="20260612063000 +0000" stop="20260612090000 +0000" channel="dr2.dk">
+  <programme start="20260612063000 +0000" stop="20260612100000 +0000" channel="dr2.dk">
     <title>Seneste nyt fra TVA</title>
     <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
   </programme>
-  <programme start="20260612090000 +0000" stop="20260612093000 +0000" channel="dr2.dk">
-    <title>Seneste nyt fra TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260612093000 +0000" stop="20260612100000 +0000" channel="dr2.dk">
-    <title>Seneste nyt fra TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260612100000 +0000" stop="20260612103000 +0000" channel="dr2.dk">
-    <title>Seneste nyt fra TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260612103000 +0000" stop="20260612110000 +0000" channel="dr2.dk">
-    <title>Seneste nyt fra TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260612110000 +0000" stop="20260612120000 +0000" channel="dr2.dk">
-    <title>Seneste nyt fra TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260612120000 +0000" stop="20260612123000 +0000" channel="dr2.dk">
-    <title>Seneste nyt fra TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260612123000 +0000" stop="20260612133000 +0000" channel="dr2.dk">
-    <title>Seneste nyt fra TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260612133000 +0000" stop="20260612140000 +0000" channel="dr2.dk">
-    <title>Seneste nyt fra TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260612140000 +0000" stop="20260612150500 +0000" channel="dr2.dk">
+  <programme start="20260612100000 +0000" stop="20260612150500 +0000" channel="dr2.dk">
     <title>Seneste nyt fra TVA</title>
     <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
   </programme>
@@ -304,59 +119,44 @@ Instruktion: Steven Spielberg.</desc>
     <title>TVA</title>
     <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
   </programme>
-  <programme start="20260612201500 +0000" stop="20260612215500 +0000" channel="dr2.dk">
+  <programme start="20260612201500 +0000" stop="20260612215000 +0000" channel="dr2.dk">
+    <title>Debatten fra Folkemødet</title>
+    <desc>Torsdag aften samler Debatten en række partiledere om retningen for Danmark. Det foregår på hovedscenen i Allinge med vært Clement Kjersgaard.</desc>
+    <episode-num system="xmltv_ns">2025.19.0</episode-num>
+  </programme>
+  <programme start="20260612215000 +0000" stop="20260612233000 +0000" channel="dr2.dk">
     <title>Dirty Harry</title>
     <desc>Amerikansk actionthriller fra 1971.
 Harry Callahan er en nådesløs politimand, der trodser sine overordnede for at stoppe psykopaten Scorpio, der vil fortsætte sine myrderier i San Francisco, indtil borgmesteren betaler ham 100.000 dollars. Borgmesteren er eftergivende, men Harry har en helt anden måde at tackle mordere og psykopater på. "Make my day" er replikken, der gik over i filmhistorien.
 Medvirkende: Clint Eastwood, Andy Robinson, Harry Guardino m.fl.
 Instruktion: Don Siegel.</desc>
   </programme>
-  <programme start="20260612215500 +0000" stop="20260612225000 +0000" channel="dr2.dk">
+  <programme start="20260612233000 +0000" stop="20260613002500 +0000" channel="dr2.dk">
     <title>Tom Cruise - For evigt ung</title>
     <desc>Fransk dokumentar fra 2023.
 (Tom Cruise - An Eternal Youth)
 Han er svær at sætte i bås. Skuespilleren Tom Cruise er kendt for sit store talent, charmerende smil og ungdommelige maskulinitet. Han blev et amerikansk ikon efter sit gennembrud i filmen 'Top Gun'. Men selvom den berømte stjerne i lang tid har været en af Hollywoods bedst betalte skuespillere, så er han også en forpint sjæl, hvis privatliv og medlemskab af Scientology til stadighed vækker opsigt i medierne.</desc>
   </programme>
-  <programme start="20260612225000 +0000" stop="20260612235000 +0000" channel="dr2.dk">
+  <programme start="20260613002500 +0000" stop="20260613012500 +0000" channel="dr2.dk">
     <title>Bevisets byrde (1:4) Dræbte mor og far min lillesøster?</title>
     <desc>Amerikansk dokumentarserie fra 2023.
 (Burden of Proof) 
 I februar 1987 forsvinder den 15-årige Jennifer Pandos fra sit hjem i Williamsburg, Virginia. Hendes forældre finder en note på hendes værelse. De melder hende savnet hos politiet, der mener, at hun er løbet hjemmefra. Men hun dukker ikke op igen. To årtier senere overbeviser politiet hendes bror Stephen om, at deres forældre er ansvarlige for hendes forsvinden.</desc>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
   </programme>
-  <programme start="20260612235000 +0000" stop="20260613005000 +0000" channel="dr2.dk">
+  <programme start="20260613012500 +0000" stop="20260613022500 +0000" channel="dr2.dk">
     <title>Bevisets byrde (2:4) Min fars farlige fortid</title>
     <desc>Amerikansk dokumentarserie fra 2023.
 (Burden of Proof) 
 Stephens mor Margie får tilbudt immunitet til gengæld for at vidne imod sin mand, Stephens far Ron. Under en afhøring i 2009 kommer det frem, at en løgnedetektor slog ud, da hun skulle svare på, hvor Jennifer var. Ved hun mere, end hun vil fortælle? Stephen beslutter sig for at konfrontere sin far, som han ikke har set i årtier. Men nye oplysninger fører pludseligt til, at efterforskningen skifter kurs.</desc>
     <episode-num system="xmltv_ns">0.1.0</episode-num>
   </programme>
-  <programme start="20260613005500 +0000" stop="20260613013500 +0000" channel="dr2.dk">
+  <programme start="20260613023000 +0000" stop="20260613031500 +0000" channel="dr2.dk">
     <title>James Brown - Soulmusikkens gudfar (3:4)</title>
     <desc>Amerikansk dokumentarserie fra 2024.
 (James Brown: Say it Out Loud)
 Han var indbegrebet af sort kapitalisme. James Brown blev et forbillede for, hvordan man kan opnå succes. Mange kunstnere kopierede ham, men i slutningen af 1970'erne ramte nedturen. Han havde svært ved at skrive hits, pladeselskabet skar i hans budget, skattevæsnet var efter ham, ægteskabet skrantede, og han røg ud i et misbrug. Snart befandt han sig på kant med loven.</desc>
     <episode-num system="xmltv_ns">0.2.0</episode-num>
-  </programme>
-  <programme start="20260613013500 +0000" stop="20260613023000 +0000" channel="dr2.dk">
-    <title>Fortidens fantastiske ingeniørkunst (5:10) Notre Dames hemmeligheder</title>
-    <desc>Britisk dokumentarserie fra 2021.
-(Ancient Engineering) 
-I middelalderen opstod en ny form for ingeniørkunst i Europa. Målet var at bruge banebrydende byggemetoder til at skabe et glimt af himlen - på jorden. Guds hus, kirken, skulle være smuk, spektakulær og frygtindgydende. Det tog århundreder at bygge nogle af Europas største gotiske katedraler. De var svimlende høje med enorme glasmosaikvinduer, der tilsyneladende svævede i luften. Og den mest ikoniske er Notre Dame i Paris.</desc>
-    <episode-num system="xmltv_ns">0.4.0</episode-num>
-  </programme>
-  <programme start="20260613023000 +0000" stop="20260613032500 +0000" channel="dr2.dk">
-    <title>Eiffeltårnet</title>
-    <desc>Fransk dokumentar 2023.
-(Eiffel Tower - Building the Impossible)
-Siden 1889 har det raget 300 meter op i den parisiske himmel. Eiffeltårnet er et symbol på fremskridt og nytænkning og et ikon, der tiltrækker 6.000.000 besøgende hvert år. Her følger vi i ingeniøren og arkitekten Gustave Eiffels fodspor for at forstå tankerne bag konstruktionen. Hvordan kunne man rejse tårnet på bare to år? Og hvilke menneskelige og tekniske udfordringer mødte Eiffel og hans folk?</desc>
-  </programme>
-  <programme start="20260613032500 +0000" stop="20260613035500 +0000" channel="dr2.dk">
-    <title>Danske katastrofer - Valby Gasværk springer i luften</title>
-    <desc>Lørdag den 26. september 1964, går det galt på Valby Gasværk i København. En simpel reparation, en række små fejltagelser og en enkelt gnist, er nok til at starte en eksplosion uden sidestykke i Danmark. Gasværkets to enorme beholdere går op i flammer og trykbølgen rammer huse i op til 5 kilometer væk. 
-Via øjenvidneberetninger fra to overlevende og en Falck-redder, fortæller historikeren Rasmus Dahlberg om en katastrofe, der fik betydning for tusindvis af mennesker. 
-Sendt første gang 08.11.2017</desc>
-    <episode-num system="xmltv_ns">0.3.0</episode-num>
   </programme>
   <programme start="20260613040000 +0000" stop="20260613042500 +0000" channel="dr2.dk">
     <title>Sladderhistorie: Fuck Janteloven</title>
@@ -385,27 +185,11 @@ I 1980 er det er næsten umuligt at få en lejlighed og hvis man får en, er den
     <desc>Morgenandagten fra Vor Frue Kirke, Københavns Domkirke.</desc>
     <episode-num system="xmltv_ns">2025.134.0</episode-num>
   </programme>
-  <programme start="20260613063000 +0000" stop="20260613090000 +0000" channel="dr2.dk">
+  <programme start="20260613063000 +0000" stop="20260613100000 +0000" channel="dr2.dk">
     <title>Seneste nyt fra TVA</title>
     <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
   </programme>
-  <programme start="20260613090000 +0000" stop="20260613093000 +0000" channel="dr2.dk">
-    <title>Seneste nyt fra TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260613093000 +0000" stop="20260613100000 +0000" channel="dr2.dk">
-    <title>Seneste nyt fra TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260613100000 +0000" stop="20260613103000 +0000" channel="dr2.dk">
-    <title>Seneste nyt fra TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260613103000 +0000" stop="20260613110000 +0000" channel="dr2.dk">
-    <title>Seneste nyt fra TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260613110000 +0000" stop="20260613120000 +0000" channel="dr2.dk">
+  <programme start="20260613100000 +0000" stop="20260613120000 +0000" channel="dr2.dk">
     <title>Seneste nyt fra TVA</title>
     <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
   </programme>
@@ -449,7 +233,7 @@ Kommentatorer: Frederik Lindved og Lars Krogh.</desc>
     <desc>Amerikansk adventuredrama fra 1984.
 (Indiana Jones and the Temple of Doom)
 Nedstyrtende fly, mørke gange, alskens kryb og udspekulerede dødsfælder er blot nogle af forhindringerne for Indiana Jones, der med en kinesisk knægt og en besværlig natklubsangerinde på slæb skal finde den hellige sten, som kan ophæve templets forbandelse.
-Medvirkende: Harrison Ford, Kate Capshaw, Jonathan Ke Quan, Dan Ackroyd m.fl.
+Medvirkende: Harrison Ford, Kate Capshaw, Ke Huy Quan, Dan Ackroyd m.fl.
 Instruktion: Steven Spielberg.</desc>
   </programme>
   <programme start="20260613200000 +0000" stop="20260613201500 +0000" channel="dr2.dk">
@@ -728,7 +512,7 @@ Dybt inde i den cambodjanske jungle ligger et tempel, der overskygger alle andre
     <title>Filmperler: Et svært år</title>
     <desc>Fransk komediedrama fra 2023.
 (Une année difficile)
-Albert og Bruno står i gæld til op over begge ører. En dag møder de nogle unge klimaaktivister, der inviterer dem med til et møde. Lokket af løftet om gratis øl og chips tager de med. Uden den store overbevisning og med skjulte motiver bliver Albert og Bruno en del af bevægelsen. Og det bliver ikke mindre kompliceret af, at de ender med at finde venner og et uventet fællesskab blandt aktivisterne.
+Albert og Bruno står i gæld til op over begge ører. En dag møder de nogle unge klimaaktivister, der inviterer dem med til et møde. Lokket af løftet om gratis øl og chips tager de med. Uden den store overbevisning og med skjulte motiver bliver Albert og Bruno en del af bevægelsen. Og det bliver ikke mindre kompliceret af, at de ender med at finde venner og et uventet fællesskab blandt aktivisterne...
 Medvirkende: Pio Marmaï, Jonathan Cohen, Noémie Merlant m.fl.
 Instruktion: Olivier Nakache og Éric Toledano.</desc>
   </programme>
@@ -791,8 +575,8 @@ Miniskørt og hot pants. Hvis det kan forarge den ældre generation, er det godt
     <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
   </programme>
   <programme start="20260616023000 +0000" stop="20260616030000 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <title>Deadline: Fodbold for de få?</title>
+    <desc>Profit, politik og perverst høje billetpriser - det er nogle af overskrifterne på den VM-slutrunde, der nu går i gang. International fodbold er blevet så stor, dyr og kommercialiseret en forretning, at de færreste kan følge med. Hvad har fodbold forvandlet sig til, og hvem er den til for? Issa Mahmoud Jeppesen spørger Anders Hagen, der er forfatter til 'Spillet er tabt', fodboldformidler Amalie Bremer og medieforskeren Bo Kampmann Walther.</desc>
     <episode-num system="xmltv_ns">2025.86.0</episode-num>
   </programme>
   <programme start="20260616030000 +0000" stop="20260616033000 +0000" channel="dr2.dk">
@@ -934,8 +718,8 @@ Sendt første gang 15.05.11</desc>
     <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
   </programme>
   <programme start="20260617030000 +0000" stop="20260617033000 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <title>Deadline: Fodbold for de få?</title>
+    <desc>Profit, politik og perverst høje billetpriser - det er nogle af overskrifterne på den VM-slutrunde, der nu går i gang. International fodbold er blevet så stor, dyr og kommercialiseret en forretning, at de færreste kan følge med. Hvad har fodbold forvandlet sig til, og hvem er den til for? Issa Mahmoud Jeppesen spørger Anders Hagen, der er forfatter til 'Spillet er tabt', fodboldformidler Amalie Bremer og medieforskeren Bo Kampmann Walther.</desc>
     <episode-num system="xmltv_ns">2025.86.0</episode-num>
   </programme>
   <programme start="20260617033000 +0000" stop="20260617040000 +0000" channel="dr2.dk">
@@ -1043,5 +827,119 @@ Dybt inde i den cambodjanske jungle ligger et tempel, der overskygger alle andre
 (Secrets of Hells Angels)
 Ted Soke idoliserer Hells Angels i Cleveland. Han drikker i deres klubhus, kører side om side med dem og tilbyder at udføre deres beskidte arbejde. Samtidig oplærer han sin søn Donny til at blive seriemorder, ligesom ham selv. Her fortæller Donny, hvordan de skød et rivaliserende bandemedlem, stak en ung husmor ihjel og myrdede et ældre ægtepar.</desc>
     <episode-num system="xmltv_ns">0.6.0</episode-num>
+  </programme>
+  <programme start="20260618003000 +0000" stop="20260618013000 +0000" channel="dr2.dk">
+    <title>Franco - Den spanske diktator (2:2)</title>
+    <desc>Fransk dokumentarserie fra 2025.
+(Franco: The Last Tyrant)
+Franco blev længe opfattet som en andenrangs-diktator. Han herskede enerådigt over Spanien fra 1936 til 1975 - med drab, manipulation og omskrivning af historien. Men på trods af hans forbrydelser har han stadig tilhængere, der mindes ham ved hans grav. Hvordan lykkedes det ham at holde sig ved magten længere end alle de andre diktatorer?</desc>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+  </programme>
+  <programme start="20260618013000 +0000" stop="20260618020000 +0000" channel="dr2.dk">
+    <title>Danske katastrofer - Valby Gasværk springer i luften</title>
+    <desc>Lørdag den 26. september 1964, går det galt på Valby Gasværk i København. En simpel reparation, en række små fejltagelser og en enkelt gnist, er nok til at starte en eksplosion uden sidestykke i Danmark. Gasværkets to enorme beholdere går op i flammer og trykbølgen rammer huse i op til 5 kilometer væk. 
+Via øjenvidneberetninger fra to overlevende og en Falck-redder, fortæller historikeren Rasmus Dahlberg om en katastrofe, der fik betydning for tusindvis af mennesker. 
+Sendt første gang 08.11.2017</desc>
+    <episode-num system="xmltv_ns">0.3.0</episode-num>
+  </programme>
+  <programme start="20260618020000 +0000" stop="20260618023000 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+  </programme>
+  <programme start="20260618023000 +0000" stop="20260618030000 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+  </programme>
+  <programme start="20260618030000 +0000" stop="20260618033000 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+  </programme>
+  <programme start="20260618033000 +0000" stop="20260618040000 +0000" channel="dr2.dk">
+    <title>Deadline: Fodbold for de få?</title>
+    <desc>Profit, politik og perverst høje billetpriser - det er nogle af overskrifterne på den VM-slutrunde, der nu går i gang. International fodbold er blevet så stor, dyr og kommercialiseret en forretning, at de færreste kan følge med. Hvad har fodbold forvandlet sig til, og hvem er den til for? Issa Mahmoud Jeppesen spørger Anders Hagen, der er forfatter til 'Spillet er tabt', fodboldformidler Amalie Bremer og medieforskeren Bo Kampmann Walther.</desc>
+    <episode-num system="xmltv_ns">2025.86.0</episode-num>
+  </programme>
+  <programme start="20260618040000 +0000" stop="20260618052500 +0000" channel="dr2.dk">
+    <title>Gamle Danmark (9)</title>
+    <desc>Dansk dokumentarserie fra 1984. 1966-71. Kønnenes kamp kulminerer i disse år, og der er meget delte meninger om, hvor borgernes penge skal ligge - i lommen eller i statskassen. Som det første land frigiver Danmark billedpornografien, og en ny industriel spekulation i sex og sanselighed starter. Tre nye partier bliver dannet - Venstresocialisterne, Kristeligt Folkeparti og Fremskridtspartiet.
+Forfatter og fortæller: Paul Hammerich.</desc>
+    <episode-num system="xmltv_ns">0.8.0</episode-num>
+  </programme>
+  <programme start="20260618052500 +0000" stop="20260618055500 +0000" channel="dr2.dk">
+    <title>Atombomberne over Danmark (2:6)</title>
+    <desc>En hemmelig polsk angrebsplan fra den kolde krig afslører, at Danmark skulle erobres på kun seks dage. Med brug af atomvåben. Men hvordan skulle planen udføres, og hvad ville der ske med danskerne, hvis planen blev til virkelighed? 
+I dette afsnit undersøger Morten Brink og Trine Laier, hvordan Danmark kunne forsvare sig mod et angreb, og om vi også kunne bruge atomvåben?</desc>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+  </programme>
+  <programme start="20260618060000 +0000" stop="20260618060500 +0000" channel="dr2.dk">
+    <title>Radioavisen</title>
+    <desc>Bliv opdateret på de seneste nyheder fra ind- og udland.</desc>
+  </programme>
+  <programme start="20260618060500 +0000" stop="20260618063000 +0000" channel="dr2.dk">
+    <title>Morgenandagten</title>
+    <desc>Morgenandagten fra Vor Frue Kirke, Københavns Domkirke.</desc>
+  </programme>
+  <programme start="20260618063000 +0000" stop="20260618100000 +0000" channel="dr2.dk">
+    <title>Seneste nyt fra TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260618100000 +0000" stop="20260618151500 +0000" channel="dr2.dk">
+    <title>Seneste nyt fra TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260618151500 +0000" stop="20260618160500 +0000" channel="dr2.dk">
+    <title>24 timer vi aldrig glemmer: Da Anker endte i Saddams sofahjørne</title>
+    <desc>I november 1990 er 32 danskere fanget i Saddam Husseins kløer. Krigen mod Irak er på vej, men danskerne må ikke forlade det stadig mere kaotiske land. Da tiden er ved at løbe ud, rejser Danmarks tidligere statsminister Anker Jørgensen til Irak for at forhandle med Saddam - på egen hånd og mod den danske regerings vilje. Hans mål er at få danskerne hjem. Men hvor mange kan han få ud? Og hvem må blive? I 24 timer vi aldrig glemmer får du historien om det største danske gidseldrama i vor tid - time for time.
+Tilrettelæggelse: Janus Køster-Rasmussen.
+Sendt første gang 07.02.2010</desc>
+    <episode-num system="xmltv_ns">1.3.0</episode-num>
+  </programme>
+  <programme start="20260618160500 +0000" stop="20260618165500 +0000" channel="dr2.dk">
+    <title>24 timer vi aldrig glemmer - Da Danmark bankede Sovjet</title>
+    <desc>En solbeskinnet grundlovsdag, onsdag den 5. juni 1985, står det danske dynamithold overfor sin hidtil største udfordring i Idrætsparken: Et topmotiveret sovjetisk landshold. Midt under den kolde krig er Sovjetunionens fodboldspillere landets bedste reklame:  De er teknisk overlegne og holder aldrig op med at løbe. Mød bl.a. Klaus Berggreen og Per Frimann i historien om den dag, dansk fodbold ramte den absolutte verdenselite - og blev der. 
+Tilrettelæggelse: Janus Køster-Rasmussen
+Sendt første gang 09.01.11</desc>
+  </programme>
+  <programme start="20260618170000 +0000" stop="20260618180000 +0000" channel="dr2.dk">
+    <title>Den store dannelsesrejse (3:3)</title>
+    <desc>BBC-dokumentarserie fra 2024.
+(Rob &amp; Rylan's Grand Tour)
+Rob og Rylan ankommer til Rom i hestevogn. Her oplever de barokmaleren Caravaggios dramatiske kunst og forsøger at genskabe hans maleri 'David og Goliat'. Rylan klæder sig i 1700-tallets ekstravagante 'macaroni'-mode, mens Rob arrangerer en operaaften med kontratenorer. Rejsen afsluttes ved Caecilia Metellas gravmonument, hvor de reflekterer over, hvad turen har lært dem om kunst, dem selv - og hinanden.</desc>
+    <episode-num system="xmltv_ns">0.2.0</episode-num>
+  </programme>
+  <programme start="20260618180000 +0000" stop="20260618190000 +0000" channel="dr2.dk">
+    <title>Renæssancens blodige skønhed (3:3)</title>
+    <desc>BBC-dokumentarserie fra 2024.
+(Renaissance - The Blood and the Beauty)
+Michelangelo maler en enorm fresko i loftet af det Sixtinske Kapel, Roms vigtigste kirke. En opgave, der presser ham til grænsen for hans evner og forstand. Mens han kæmper, nyder Leonardo kunstnerisk frihed i Milano. Og hans anden store konkurrent, Rafael, arbejder lige ved siden af i pavens private gemakker. Samtidig bliver han fanget midt i reformationens kaos og oplever død og ødelæggelse, der får ham til at tvivle på alt, hvad han har troet på.</desc>
+    <episode-num system="xmltv_ns">0.2.0</episode-num>
+  </programme>
+  <programme start="20260618190000 +0000" stop="20260618195500 +0000" channel="dr2.dk">
+    <title>The Matrix - Filmene, der formede en generation</title>
+    <desc>Fransk dokumentar fra 2023.
+(The Matrix: Generation)
+Filmserien formede og rystede en hel generation. Fra 1999 til 2003 skabte søskendeparret Wachowski Matrix-trilogien. De banebrydende film blev hurtigt et popkulturelt fænomen og forudså en lang række af vor tids største sociale og politiske problemstillinger: teknologiens magt, hacking, køn og identitet, falske nyheder og konspirationsteorier - og de har inspireret generationer i jagten på sandhed, valg og frihed.</desc>
+  </programme>
+  <programme start="20260618200000 +0000" stop="20260618201500 +0000" channel="dr2.dk">
+    <title>TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260618201500 +0000" stop="20260618204500 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+  </programme>
+  <programme start="20260618204500 +0000" stop="20260618211500 +0000" channel="dr2.dk">
+    <title>Trumps USA</title>
+    <desc>I "Trumps USA" stiller vi skarpt på de afgørende udviklinger, personopgør og dagsordener, der udspiller sig i amerikansk politik.</desc>
+  </programme>
+  <programme start="20260618211500 +0000" stop="20260618231000 +0000" channel="dr2.dk">
+    <title>Project Iceman</title>
+    <desc>Danske Anders Hofman har sat sig et vanvittigt mål: Han vil være den første person i verden til at gennemføre en Ironman i Antarktis. Men hvordan klarer man 3,8 km svømning, 180 km cykling og 42,2 km løb i dyb sne og bidende kulde, når man "bare" er konsulent med kontorjob? Efter et liv med udsatte drømme nægter Anders at lade andres begrænsninger definere ham. Han kaster sig ud i det umulige projekt for at bevise, at begrænsninger kun er opfattelser, og at vi kan meget mere.</desc>
+  </programme>
+  <programme start="20260618231000 +0000" stop="20260619000500 +0000" channel="dr2.dk">
+    <title>Javier Bardem - Metamorfose</title>
+    <desc>Fransk dokumentar fra 2023. 
+(Javier Bardem's Metamorphosis) 
+Engleansigt, mærkeligt hår eller et hærget fjæs - Javier Bardem er manden med de tusind ansigter. Kendt for sine ekstreme forvandlinger og modige kunstneriske valg har den spanske skuespiller opbygget et imponerende filmkatalog. Denne dokumentar giver et fascinerende indblik i Bardems unikke karriere, hans kreative proces og aktivistiske engagement - samt et kig på de ar, der har formet både manden og skuespilleren.</desc>
   </programme>
 </tv>

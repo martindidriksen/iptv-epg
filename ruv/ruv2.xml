@@ -3,26 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260611180000 +0000" stop="20260611185000 +0000" channel="ruv2.is">
-    <title>Stofan</title>
-    <desc>Umfjallanir um leiki á HM karla í fótbolta.
-
-Upphitun fyrir leik Mexíkó og Suður-Afríku á HM karla í fótbolta.</desc>
-  </programme>
-  <programme start="20260611185000 +0000" stop="20260611210500 +0000" channel="ruv2.is">
-    <title>Mexíkó - Suður-Afríka</title>
-    <desc>Leikir á HM karla í fótbolta.
-
-Leikur Mexíkó og Suður-Afríku á HM karla í fótbolta.</desc>
-  </programme>
-  <programme start="20260611210500 +0000" stop="20260611214000 +0000" channel="ruv2.is">
-    <title>HM kvöld</title>
-    <desc>Samantekt frá leikjum dagsins á HM karla í fótbolta.</desc>
-  </programme>
-  <programme start="20260611214000 +0000" stop="20260611221500 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20260612181500 +0000" stop="20260612185000 +0000" channel="ruv2.is">
     <title>Stofan</title>
     <desc>Umfjallanir um leiki á HM karla í fótbolta.
@@ -208,5 +188,31 @@ Leikur Englands og Króatíu á HM karla í fótbolta.</desc>
   <programme start="20260617231000 +0000" stop="20260617232500 +0000" channel="ruv2.is">
     <title>Ávarp forseta á 17. júní - með táknmálstúlkun</title>
     <desc>Halla Tómasdóttir forseti flytur ávarp.</desc>
+  </programme>
+  <programme start="20260618183000 +0000" stop="20260618185000 +0000" channel="ruv2.is">
+    <title>Stofan</title>
+    <desc>Umfjallanir um leiki á HM karla í fótbolta.
+
+Upphitun fyrir leik Sviss og Bosníu á HM karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260618185000 +0000" stop="20260618210500 +0000" channel="ruv2.is">
+    <title>Sviss - Bosnía</title>
+    <desc>Leikir á HM karla í fótbolta.
+
+Leikur Sviss og Bosníu á HM karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260618210500 +0000" stop="20260618215000 +0000" channel="ruv2.is">
+    <title>HM kvöld</title>
+    <desc>Samantekt frá leikjum dagsins á HM karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260618215000 +0000" stop="20260619001000 +0000" channel="ruv2.is">
+    <title>Kanada - Katar</title>
+    <desc>Leikir á HM karla í fótbolta.
+
+Leikur Kanada og Katar á HM karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260619001000 +0000" stop="20260619003700 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
 </tv>
