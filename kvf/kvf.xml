@@ -3,46 +3,6 @@
   <channel id="kvf.fo">
     <display-name>KVF</display-name>
   </channel>
-  <programme start="20260612170000 " stop="20260612173000 " channel="kvf.fo">
-    <title>Mumi 6</title>
-    <sub-title>- smáir gestir</sub-title>
-    <desc>Teknirøð til smábørn við føroyskari talu.</desc>
-  </programme>
-  <programme start="20260612173000 " stop="20260612180000 " channel="kvf.fo">
-    <title>MORSA 6:12</title>
-    <sub-title>- føroysk barnarøð</sub-title>
-    <desc>Í nýggju barnarøðini Morsa fer Elisabeth á Bakka at vísa ymiska hárseting. Og vit vísa nýggju bretsku barnarøðina Katie, sum BBC hevur gjørt. Vertur: Jákup Wardum. Upptøka: Bjørg Mohr Andersen. Klipt: Bjørg Mohr Andersen og Sólfríð Maria í Rók. Lagt til rættis: Elin á Rógvi.</desc>
-  </programme>
-  <programme start="20260612180000 " stop="20260612182500 " channel="kvf.fo">
-    <title>Dagur og vika</title>
-  </programme>
-  <programme start="20260612182500 " stop="20260612184000 " channel="kvf.fo">
-    <title>Veðrið</title>
-  </programme>
-  <programme start="20260612184000 " stop="20260612192000 " channel="kvf.fo">
-    <title>Gekkur</title>
-  </programme>
-  <programme start="20260612192000 " stop="20260612195000 " channel="kvf.fo">
-    <title>Danir við hermótið í Ukreina: Nær deyðanum</title>
-    <desc>Tann nú 22 ára gamli danski Chap slapp við lívinum eftir eitt russiskt rakettálop, men varð særdur og liggur nú á einum sjúkrahúsi nær Kyiv. Pápi hansara vitjar hann í Ukraine og vil hava hann heim til Danmarkar, men Chap ætlar sær aftur til hermótið.</desc>
-  </programme>
-  <programme start="20260612195000 " stop="20260612214000 " channel="kvf.fo">
-    <title>Anders Matthesen: SKEMT</title>
-    <sub-title>- danskt  skemt</sub-title>
-    <desc>Anders Matthesen er aftur við meira skemti. Framl.ár:2024</desc>
-  </programme>
-  <programme start="20260612214000 " stop="20260612223000 " channel="kvf.fo">
-    <title>Aldri aftur kebab</title>
-    <sub-title>- svenskur dokumentarur frá 2023</sub-title>
-    <desc>Svensk dokumentarsending frá 2023. Tíðindamaðurin Gurgin sigur upp í svenska útvarpinum, flytir úr íbúðini í ein húsbil saman við hundinum, alt fyri at minka um veðurlagsárinið. Men foreldrini skilja ikki tann nýggja minimalistiska lívsstílin. Hann, sum fyrr hevði kebabmatstovu, roynir at fáa pápa sín at gerast veganari. Mamman droymir um ommubarn, men Gurgin hugsar um at sterilisera seg. Nógvar ósemjur - og øði, men eisini kærleiki og skemt. Svensk dokumentarsending frá 2023 av Hogir Hirori. Broadcast Company	SVT</desc>
-  </programme>
-  <programme start="20260612223000 " stop="20260612225500 " channel="kvf.fo">
-    <title>Dagur og vika</title>
-    <sub-title>- við teksti</sub-title>
-  </programme>
-  <programme start="20260612225500 " stop="20260613144000 " channel="kvf.fo">
-    <title>Veðrið</title>
-  </programme>
   <programme start="20260613144000 " stop="20260613180000 " channel="kvf.fo">
     <title>Kappróður: Eystanstevna í Runavík</title>
   </programme>
@@ -70,11 +30,13 @@
     <desc>Í kjalarvørrinum á ógvisligu morðunum í Åmsele fylgir ein løgreglujagstran, sum neyvan hevur sæð sín líka í svenskari kriminalsøgu. Parið sum er undir illgruna, er í miðlunum. Og løgreglan kemur á eitt spor, sum er mestsum eindømi í eini løgreglukanning. 2. partur av 4. Broadcast Company	SVT</desc>
   </programme>
   <programme start="20260613212500 " stop="20260613215000 " channel="kvf.fo">
-    <title>Úr savninum: Í luftini við Mariannu Winter</title>
-    <desc>Í luftini er sjónvarpsrøð við tónleiki og práti úr Kringvarpshøllini. Í sendingini tosa vit við fløguaktuellar tónleikarar, og tey framføra nøkur løg av nýggjastu útgávuni. Hesa ferð er Marianna Winter gestur. Sendingin er gjørd í samstarvi við Faroe Music Export.</desc>
+    <title>Kriminalarkivið: Åmselemorðini 3:4</title>
+    <sub-title>- svensk røð frá 2022</sub-title>
+    <desc>Politijagstranin heldur fram niður gjøgnum suðursvøríki, og parið, sum er undir illgruna, er um at verða fangað, men tað eydnast kortini at sleppa undan. Tað er eftir øllum at døma ætlanin at fara av landinum. Danska løgreglan stendur annars til reiðar, um tey vísa seg har. Og tað gera tey. 3. partur av 4. Broadcast Company	SVT</desc>
   </programme>
   <programme start="20260613215000 " stop="20260614070000 " channel="kvf.fo">
-    <title>FIFA HM 2026: Brasil - Marokko</title>
+    <title>Úr savninum: Í luftini við Mariannu Winter</title>
+    <desc>Í luftini er sjónvarpsrøð við tónleiki og práti úr Kringvarpshøllini. Í sendingini tosa vit við fløguaktuellar tónleikarar, og tey framføra nøkur løg av nýggjastu útgávuni. Hesa ferð er Marianna Winter gestur. Sendingin er gjørd í samstarvi við Faroe Music Export.</desc>
   </programme>
   <programme start="20260614070000 " stop="20260614072300 " channel="kvf.fo">
     <title>MORSA 5:12</title>
@@ -129,22 +91,14 @@
   <programme start="20260614195000 " stop="20260614215000 " channel="kvf.fo">
     <title>FIFA HM 2026: Holland - Japan</title>
   </programme>
-  <programme start="20260614215000 " stop="20260614221500 " channel="kvf.fo">
-    <title>Kriminalarkivið: Åmselemorðini 3:4</title>
-    <sub-title>- svensk røð frá 2022</sub-title>
-    <desc>Politijagstranin heldur fram niður gjøgnum suðursvøríki, og parið, sum er undir illgruna, er um at verða fangað, men tað eydnast kortini at sleppa undan. Tað er eftir øllum at døma ætlanin at fara av landinum. Danska løgreglan stendur annars til reiðar, um tey vísa seg har. Og tað gera tey. 3. partur av 4. Broadcast Company	SVT</desc>
-  </programme>
-  <programme start="20260614221500 " stop="20260614235000 " channel="kvf.fo">
+  <programme start="20260614215000 " stop="20260614234500 " channel="kvf.fo">
     <title>Kriminalarkivið: Åmselemorðini 4:4</title>
     <sub-title>- svensk røð frá 2022</sub-title>
     <desc>Eftir handtøkuna verða teir báðir, sum eru undir illgruna, førdir til Umeå til avhoyringar. Teir byrja skjótt at skylda upp á hvønn annan, men løgreglan heldur seg vita, hvør er sekur. Og tá rættarmálið fer í gongd, byrjar eisini tað torføra abeiðið hjá Åmsele og íbúgvunum har. 4. partur av 4. Broadcast Company	SVT</desc>
   </programme>
-  <programme start="20260614235000 " stop="20260615004500 " channel="kvf.fo">
+  <programme start="20260614234500 " stop="20260615170000 " channel="kvf.fo">
     <title>Dagur og vika við 3-2</title>
     <sub-title>- við teksti</sub-title>
-  </programme>
-  <programme start="20260615004500 " stop="20260615170000 " channel="kvf.fo">
-    <title>Veðrið</title>
   </programme>
   <programme start="20260615170000 " stop="20260615173000 " channel="kvf.fo">
     <title>MORSA 6:12</title>
@@ -156,29 +110,25 @@
     <sub-title>- vatnlitir og snurritoppar, før.barnasending frá 2024</sub-title>
     <desc>10.partur 3.umfar: Vinus og Vimús læra seg umaftur at siga góðan morgun, góðan dag, gott kvøld, góða nátt og farvæl. Og so hevur Vinus fingið eitt stórt pappír at mála á. Og tá ið bókin dettur av hillini, er tað ein góð bók um bamsur, sum sita á eini hill. Og sangurin, ið Vinus og Vinurin syngja og spæla, er um eina bamsu - eina føðingardagsbamsu. Og so klívur Vinurin út aftur gjøgnum vindeygað. Smáteknifilmarnir eru eisini at síggja. Tá Vimús kemur aftur, er brádliga fult av snurrum á borðinum. Vinus dugir sera væl at fáa tær at snurra. Og so er eftir at siga heilsanina, men so hendir nakað! Hvat var hatta? Vinus og Vimús undrast stórliga. Og so má heilsanin sigast enn eina ferð: Góðan morgun dag gott kvøld góða nátt ? og farvæl! At brúka til snurrispælið: Snurritoppar. Stórt pappír. Vatnlitir. Penslar.</desc>
   </programme>
-  <programme start="20260615180000 " stop="20260615185500 " channel="kvf.fo">
+  <programme start="20260615180000 " stop="20260615184500 " channel="kvf.fo">
     <title>Dagur og vika við 3-2</title>
   </programme>
-  <programme start="20260615185500 " stop="20260615190000 " channel="kvf.fo">
+  <programme start="20260615184500 " stop="20260615185000 " channel="kvf.fo">
     <title>Veðrið</title>
   </programme>
-  <programme start="20260615190000 " stop="20260615205500 " channel="kvf.fo">
+  <programme start="20260615185000 " stop="20260615204500 " channel="kvf.fo">
     <title>FIFA HM 2026: Belgia - Egyptaland</title>
   </programme>
-  <programme start="20260615205500 " stop="20260615215500 " channel="kvf.fo">
+  <programme start="20260615204500 " stop="20260615214500 " channel="kvf.fo">
     <title>Svíkjari</title>
     <sub-title>- danskt undirhald (6:8)</sub-title>
     <desc>Hvør stríðist fyri seg sjálvan, og hvør stríðist fyri  felagsskapin? Tað er tann stóra spurningurin, tá ið leikararnir á slottinum skulu eydnast við dagsins uppgávu. Nýggjar gitingar koma fram, tí hvussu hevur tað í veruleikanum eydnast serliga einum leikara at sleppa fullkomiliga undan illgruna? Spælleiðari: Martin Johannes Larsen. Sesong: 4 Partur: 6 Framleiðsluár: 2026 Framleitt fyri: TV 2 Danmark.</desc>
   </programme>
-  <programme start="20260615215500 " stop="20260615235000 " channel="kvf.fo">
-    <title>FIFA HM 2026: Saudiarabia - Uruguay</title>
-  </programme>
-  <programme start="20260615235000 " stop="20260616001500 " channel="kvf.fo">
-    <title>Dagur og vika</title>
-    <sub-title>- við teksti</sub-title>
-  </programme>
-  <programme start="20260616001500 " stop="20260616170000 " channel="kvf.fo">
+  <programme start="20260615214500 " stop="20260615215000 " channel="kvf.fo">
     <title>Veðrið</title>
+  </programme>
+  <programme start="20260615215000 " stop="20260616170000 " channel="kvf.fo">
+    <title>FIFA HM 2026: Saudiarabia - Uruguay</title>
   </programme>
   <programme start="20260616170000 " stop="20260616173000 " channel="kvf.fo">
     <title>Vinus og Vimús 10:10</title>
@@ -203,34 +153,39 @@
     <sub-title>- donsk dokumentarrøð - nýggjur partur</sub-title>
     <desc>Í triðja og seinasta partinum av dokumentarrøðini "Hvem passer på grisene?" setir TV 2 spurningin: Hvussu eru vit komin her til? Hví hevur djóravælferðin í danskari svínaframleiðslu verið so nógv avbjóðað í so langa tíð hóast almenna kjakið og politiskar semjur? Í nýggja partinum verður lýst, hvussu økið verður regulerað, og hvørjar politiskar semjur verða gjørdar um svínaframleiðsluna, og um hetta í veruleikanum førir til batar fyri djóravælferðina. Samstundis verða nýggjar upplýsingar lagdar fram um, hvussu svínini hava tað á sínari seinastu ferð frá svínaframleiðara til sláturhús. Myndirnar frá svínaflutningunum vísa sambært serfrøðingum eisini átaluverd viðurskifti viðvíkjandi djóravælferð. Upprunaheiti: Hvem passer på grisene? Framleiðsluár: 2026</desc>
   </programme>
-  <programme start="20260616212500 " stop="20260616215500 " channel="kvf.fo">
-    <title>Toppstjórarnir 3:3</title>
-    <sub-title>- hvar eru kundarnir</sub-title>
-    <desc>Tað gongur striltið, tá ið Gitte Kirkegaard fer til Belgia at selja sín nýggja robot. Í Ukraina er drónuútgerðin hjá Dan Hermansen horvin á hermótinum, so hann er noyddur at hugsa øðrvísi. Sesong 3.</desc>
+  <programme start="20260616212500 " stop="20260616215000 " channel="kvf.fo">
+    <title>Dagur og vika</title>
+    <sub-title>- við teksti</sub-title>
   </programme>
-  <programme start="20260616215500 " stop="20260617165000 " channel="kvf.fo">
-    <title>FIFA HM 2026: Irak - Noreg</title>
+  <programme start="20260616215000 " stop="20260617170000 " channel="kvf.fo">
+    <title>Veðrið</title>
   </programme>
-  <programme start="20260617165000 " stop="20260617184500 " channel="kvf.fo">
-    <title>FIFA HM 2026: Portugal - Kongo</title>
+  <programme start="20260617170000 " stop="20260617173000 " channel="kvf.fo">
+    <title>Alt um djór</title>
+    <sub-title>- barnarøð frá BBC við føroyskari talu</sub-title>
   </programme>
-  <programme start="20260617184500 " stop="20260617191000 " channel="kvf.fo">
+  <programme start="20260617173000 " stop="20260617180000 " channel="kvf.fo">
+    <title>Snipp snapp</title>
+    <sub-title>- føroysk sending til børn</sub-title>
+    <desc>VIT hava verið í Fuglafjarðar skúla og filmað 11 nýggjar Snipp Snapp-sendingar. Børn, sum ganga í 2. flokki í Fuglafjarðar skúla eru vertir hvørt mikukvøld.</desc>
+  </programme>
+  <programme start="20260617180000 " stop="20260617182500 " channel="kvf.fo">
     <title>Myndlist í Føroyum 2:11</title>
     <sub-title>- føroysk sendirøð frá 2001</sub-title>
     <desc>Landslagslistin tók seg av álvara upp í Føroyum um ár 1900. Tað vóru serliga teir tríggir Niels Kruse, Kristin í Geil og Jógvan Waagstein, sum - í tráð við vaksandi tjóðskaparkensluna - høvdu ans fyri føroyska landslagnum og bygdalagnum. Og tað varð skjótt, at eisini aðrir tóku táttin upp. Sjálvlærdir Landslagsmálarar ferðaðust í 1920- og 30 árunum kring oyggjarnar og málaðu føgur útsýni yvir fjørð og sund, bygdarløg og býlingar. Eisini henda greinin av listini mentist sum árini liðu, tað kendasta umboðið fyri hesar málararnar man vera Sigmund Petersen. Aðrir gingu aðrar leiðir. William Heinesen hevur helst fingið íblástur frá vaksandi áhuganum í grannalondunum fyri sagnum og ævintýrum. Í 1920árunum teknaði William Heinesen nógvar av teimum myndunum av eitt nú trøllum og huldufólkum, sum eru kendar tann dag í dag. Tað var serliga í 1920árunum, at man fyri fyrstu ferð kann tosa um eitt listaumhvørvi í Føroyum. Hóast enn ikki er talan um professionell listafólk, sum liva av listini eina, so vóru hesi árini merkt av einum eldhuga og nýskapan og eini kenslu av at byggja land. Skrivað og lagt til rættis fyri SvF: Bárður Jákupsson. Programmleiðsla: Ivan Niclasen.</desc>
   </programme>
-  <programme start="20260617191000 " stop="20260617195000 " channel="kvf.fo">
+  <programme start="20260617182500 " stop="20260617190000 " channel="kvf.fo">
+    <title>Leyslatin</title>
+    <sub-title>- rættir menn gráta ikki (3:5)</sub-title>
+    <desc>Noah skal aftur í fongsul, men fyrst skulu tær síðstu ølirnar drekkast. Claus hevur fingið óvæntaða vitjan av løgregluni. Henrik skal fyri rættin og fær loksins at vita, um hann verður dømdur ella fríkendur fyri tær mongu ákærurnar. Ella hevur fingið arbeiði á einari matstovu, og familjupápin Adam stríðist. Sesong 2.</desc>
+  </programme>
+  <programme start="20260617190000 " stop="20260617195000 " channel="kvf.fo">
     <title>Ekstremt vanligt</title>
     <sub-title>- Jesus er lívið, donsk sendirøð (4:5)</sub-title>
     <desc>Gud er okkara rúsdrekka! Fráhaldni ? bæði tá ið tað snýr seg um sex og alkohol ? er tað, sum 22 ára gamla timburkvinnan Anna hevur valt í sínum nýggja lívi við Jesusi. Sanne Cigale Benmouyal flytur inn á gestakamarið hjá Onnu og fer við til veitslu í ungdómsfelagsskapinum hjá kirkjuni. Hon tosar við fríkirkjuprestin úr Åbenkirke um fosturtøku og samkyndleika og endar vikuskiftið við lovsangi.</desc>
   </programme>
-  <programme start="20260617195000 " stop="20260617215000 " channel="kvf.fo">
+  <programme start="20260617195000 " stop="20260618155000 " channel="kvf.fo">
     <title>FIFA HM 2026: Ongland - Kroatia</title>
-  </programme>
-  <programme start="20260617215000 " stop="20260618155000 " channel="kvf.fo">
-    <title>Leyslatin</title>
-    <sub-title>- rættir menn gráta ikki (3:5)</sub-title>
-    <desc>Noah skal aftur í fongsul, men fyrst skulu tær síðstu ølirnar drekkast. Claus hevur fingið óvæntaða vitjan av løgregluni. Henrik skal fyri rættin og fær loksins at vita, um hann verður dømdur ella fríkendur fyri tær mongu ákærurnar. Ella hevur fingið arbeiði á einari matstovu, og familjupápin Adam stríðist. Sesong 2.</desc>
   </programme>
   <programme start="20260618155000 " stop="20260618180000 " channel="kvf.fo">
     <title>FIFA HM 2026: Kekkia - Suðurafrika</title>
@@ -253,7 +208,46 @@
     <title>Dagur og vika</title>
     <sub-title>- við teksti</sub-title>
   </programme>
-  <programme start="20260618215000 " stop="20260618225000 " channel="kvf.fo">
+  <programme start="20260618215000 " stop="20260618234500 " channel="kvf.fo">
     <title>Veðrið</title>
+  </programme>
+  <programme start="20260618234500 " stop="20260619001000 " channel="kvf.fo">
+    <title>Dagur og vika</title>
+    <sub-title>- við teksti</sub-title>
+  </programme>
+  <programme start="20260619001000 " stop="20260619170000 " channel="kvf.fo">
+    <title>Veðrið</title>
+  </programme>
+  <programme start="20260619170000 " stop="20260619173000 " channel="kvf.fo">
+    <title>Mumi 7</title>
+    <sub-title>- kuffertið</sub-title>
+    <desc>Teknirøð við føroyskari talu til smábørn.</desc>
+  </programme>
+  <programme start="20260619173000 " stop="20260619180000 " channel="kvf.fo">
+    <title>MORSA 7:12</title>
+    <sub-title>- føroysk barnarøð</sub-title>
+    <desc>Í nýggju barnarøðini Morsa fer Elisabeth á Bakka at vísa ymiska hárseting. Og vit vísa nýggju bretsku barnarøðina Katie, sum BBC hevur gjørt. Vertur: Jákup Wardum. Upptøka: Bjørg Mohr Andersen. Klipt: Bjørg Mohr Andersen og Sólfríð Maria í Rók. Lagt til rættis: Elin á Rógvi.</desc>
+  </programme>
+  <programme start="20260619180000 " stop="20260619182500 " channel="kvf.fo">
+    <title>Dagur og vika</title>
+  </programme>
+  <programme start="20260619182500 " stop="20260619184000 " channel="kvf.fo">
+    <title>Veðrið</title>
+  </programme>
+  <programme start="20260619184000 " stop="20260619192000 " channel="kvf.fo">
+    <title>Gekkur</title>
+  </programme>
+  <programme start="20260619192000 " stop="20260619195500 " channel="kvf.fo">
+    <title>Úr savninum: Nýggjar røddir á tingi</title>
+    <sub-title>- føroyskur dokumentarur</sub-title>
+    <desc>Á løgtingsvalinum í fjør vann høgravongurin á vinstravonginum, og vinstravongurin mátti lata valdið frá sær. Men flokkarnir, sum sótu í samgongu farna valskeið, kundu fegnast um, at teir fingu heilt nýggjar politikarar valdar á ting. Tann 25 ára gamli, Bjarni Kárason Petersen, varð valdur fyri Framsókn, og nýggjur tinglimur fyri Tjóðveldi gjørdist tann 23 ára gamla, Hervør Pálsdóttir. Á javnaðarlistanum streyk tann 28 ára gamla, Ingilín Didriksen Strøm, inn á ting. Toppskorari millum tey ungu gjørdist tó Beinir Johannesen úr Fólkaflokkinum, sum vað valdur við 995 atkvøðum. Lagt til rættis: Uni Arge. Filmað og klipt: Jógvan Eli Dam.</desc>
+  </programme>
+  <programme start="20260619195500 " stop="20260619215000 " channel="kvf.fo">
+    <title>Ad Astra</title>
+    <sub-title>- amr. framtíðar-filmsdrama frá  2019</sub-title>
+    <desc>Fyri tjúgu árum síðani fór Clifford McBride (Tommy Lee Jones) á eina djarva rúmdarferð til Neptun at leita eftir teknum um vitugt lív í alheiminum. Men hann kom ongantíð aftur. Nú ger sonur hansara, rúmdarfarin Roy McBride (Brad Pitt), av at fylgja í fótasporunum hjá pápanum og finna út av, hvat gekk galið tá. Ferð hansara mennist til eina episka odyssé, har hann ikki bara leitar eftir svari upp á gátuna um pápan, men eisini kannar djúpari spurningar um menniskjalyndið og okkara pláss í alheiminum. Framl.ár:2019 Aldursmark:11</desc>
+  </programme>
+  <programme start="20260619215000 " stop="20260619225000 " channel="kvf.fo">
+    <title>FIFA HM 2026: Skotland - Marokko</title>
   </programme>
 </tv>
