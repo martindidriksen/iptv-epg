@@ -3,41 +3,6 @@
   <channel id="kvf.fo">
     <display-name>KVF</display-name>
   </channel>
-  <programme start="20260613144000 " stop="20260613180000 " channel="kvf.fo">
-    <title>Kappróður: Eystanstevna í Runavík</title>
-  </programme>
-  <programme start="20260613180000 " stop="20260613183000 " channel="kvf.fo">
-    <title>Pengar pengar pengar - við Esben Bjerre 1:4</title>
-    <sub-title>- partabrøv</sub-title>
-    <desc>Ert tú partabrævahandlari ella pengaspælari í klædningi? Fleiri og fleiri eru á partabrævamarknaðinum, men er nakar yvirhøvur, ið veruliga skilir tað? Esben leggur 100.000 av sínum pengum í hendurnar á einum dagshandlara og vitjar Børsin í New York.</desc>
-  </programme>
-  <programme start="20260613183000 " stop="20260613185000 " channel="kvf.fo">
-    <title>Løgfrøðingurin 1:3</title>
-    <sub-title>- svensk stuttrøð frá 2022</sub-title>
-    <desc>Viðskiftafólkini eru um alt landið. Tey venda sær til advokatin í trúnaði, tí tey hava trupulleikar, sum tey vilja hava loystar. Men pengarnir, tey gjalda, eru skjótt burturi. Eins og løgfrøðingurin sjálvur. 1.partur av 3. Broadcast Company	SVT</desc>
-  </programme>
-  <programme start="20260613185000 " stop="20260613204500 " channel="kvf.fo">
-    <title>FIFA HM 2026: Katar - Sveis</title>
-  </programme>
-  <programme start="20260613204500 " stop="20260613210500 " channel="kvf.fo">
-    <title>Kriminalarkivið: Åmselemorðini 1:4</title>
-    <sub-title>- svensk røð frá 2022</sub-title>
-    <desc>Tann 3 juli 1988 verða 3 persónar, sum allir hoyra til somu familju, funnir myrdir við kirkjuna í hugnaliga býnum Åmsele í Västerbotten. Morðið tykist í fyrstani púra óskiljandi, men skjótt fær løgreglan illgruna bæði viðvíkjandi motivi og illtonktum, bæði líka løgin og ræðandi. 1. partur av 4. Broadcast Company	SVT</desc>
-  </programme>
-  <programme start="20260613210500 " stop="20260613212500 " channel="kvf.fo">
-    <title>Kriminalarkivið: Åmselemorðini 2:4</title>
-    <sub-title>- svensk røð frá 2022</sub-title>
-    <desc>Í kjalarvørrinum á ógvisligu morðunum í Åmsele fylgir ein løgreglujagstran, sum neyvan hevur sæð sín líka í svenskari kriminalsøgu. Parið sum er undir illgruna, er í miðlunum. Og løgreglan kemur á eitt spor, sum er mestsum eindømi í eini løgreglukanning. 2. partur av 4. Broadcast Company	SVT</desc>
-  </programme>
-  <programme start="20260613212500 " stop="20260613215000 " channel="kvf.fo">
-    <title>Kriminalarkivið: Åmselemorðini 3:4</title>
-    <sub-title>- svensk røð frá 2022</sub-title>
-    <desc>Politijagstranin heldur fram niður gjøgnum suðursvøríki, og parið, sum er undir illgruna, er um at verða fangað, men tað eydnast kortini at sleppa undan. Tað er eftir øllum at døma ætlanin at fara av landinum. Danska løgreglan stendur annars til reiðar, um tey vísa seg har. Og tað gera tey. 3. partur av 4. Broadcast Company	SVT</desc>
-  </programme>
-  <programme start="20260613215000 " stop="20260614070000 " channel="kvf.fo">
-    <title>Úr savninum: Í luftini við Mariannu Winter</title>
-    <desc>Í luftini er sjónvarpsrøð við tónleiki og práti úr Kringvarpshøllini. Í sendingini tosa vit við fløguaktuellar tónleikarar, og tey framføra nøkur løg av nýggjastu útgávuni. Hesa ferð er Marianna Winter gestur. Sendingin er gjørd í samstarvi við Faroe Music Export.</desc>
-  </programme>
   <programme start="20260614070000 " stop="20260614072300 " channel="kvf.fo">
     <title>MORSA 5:12</title>
     <sub-title>- føroysk barnarøð</sub-title>
@@ -247,7 +212,31 @@
     <sub-title>- amr. framtíðar-filmsdrama frá  2019</sub-title>
     <desc>Fyri tjúgu árum síðani fór Clifford McBride (Tommy Lee Jones) á eina djarva rúmdarferð til Neptun at leita eftir teknum um vitugt lív í alheiminum. Men hann kom ongantíð aftur. Nú ger sonur hansara, rúmdarfarin Roy McBride (Brad Pitt), av at fylgja í fótasporunum hjá pápanum og finna út av, hvat gekk galið tá. Ferð hansara mennist til eina episka odyssé, har hann ikki bara leitar eftir svari upp á gátuna um pápan, men eisini kannar djúpari spurningar um menniskjalyndið og okkara pláss í alheiminum. Framl.ár:2019 Aldursmark:11</desc>
   </programme>
-  <programme start="20260619215000 " stop="20260619225000 " channel="kvf.fo">
+  <programme start="20260619215000 " stop="20260620140000 " channel="kvf.fo">
     <title>FIFA HM 2026: Skotland - Marokko</title>
+  </programme>
+  <programme start="20260620140000 " stop="20260620165000 " channel="kvf.fo">
+    <title>Kappróður: Jóansøka í Vági</title>
+  </programme>
+  <programme start="20260620165000 " stop="20260620184500 " channel="kvf.fo">
+    <title>FIFA HM 2026: Holland - Svøríki</title>
+  </programme>
+  <programme start="20260620184500 " stop="20260620191500 " channel="kvf.fo">
+    <title>Pengar pengar pengar - við Esben Bjerre 2:4</title>
+    <sub-title>- hvítvask</sub-title>
+    <desc>Vit hoyra alla tíðina um milliónirnar, sum seyra úr skipanini í stórum hvítvask-gølum. Men hvussu gera bandittarnir? Og tá hvítvasking fyri uml. 2000 mió. dollarar fer fram, hví fáa tú og eg so ikki ein bita av køkuni?</desc>
+  </programme>
+  <programme start="20260620191500 " stop="20260620195000 " channel="kvf.fo">
+    <title>Løgfrøðingurin 2:3</title>
+    <sub-title>- svensk stuttrøð frá 2022</sub-title>
+    <desc>Vilja klientar veruliga lata hús og íbúð til fólk, tey als ikki kenna? 2. partur av 3. Broadcast Company	SVTr fr</desc>
+  </programme>
+  <programme start="20260620195000 " stop="20260620214500 " channel="kvf.fo">
+    <title>FIFA HM 2026: Týskland - Fílabeinsstrondin</title>
+  </programme>
+  <programme start="20260620214500 " stop="20260620224500 " channel="kvf.fo">
+    <title>Lost Girls and Love Hotels</title>
+    <sub-title>- amr. ræðufilmur frá 2020</sub-title>
+    <desc>Margaret (Alexandra Daddario) er ein vónbrotin amerikansk genta, sum býr einsamøll í Tokyo. Hon drekkur illa og brúkar næturnar saman við tilvildarligum monnum á teimum kendu "kærleikshotellunum". Tá hon ein dagin hittir gátuføra og pínda Kazu (Takehiro Hira), gerst hon bergtikin av honum. Men gevur hansara lív sum Yakuza-limur rúm fyri kærleika? Hava tey bæði møguleika fyri eini framtíð saman? Ein filmur eftir svenska leikstjóran William Olsson við Alexandru Daddario (The White Lotus) í høvuðleiklutinum. Framleiðsluár: 2020 Aldursmark:15</desc>
   </programme>
 </tv>
