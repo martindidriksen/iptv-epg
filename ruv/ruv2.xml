@@ -3,37 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260614164500 +0000" stop="20260614191000 +0000" channel="ruv2.is">
-    <title>Þýskaland - Curacao</title>
-    <desc>Leikir á HM karla í fótbolta.
-
-Leikur Þýskalands og Curacao á HM karla í fótbolta.</desc>
-  </programme>
-  <programme start="20260614190400 +0000" stop="20260614192400 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
-  <programme start="20260614192500 +0000" stop="20260614194500 +0000" channel="ruv2.is">
-    <title>Stofan</title>
-    <desc>Umfjallanir um leiki á HM karla í fótbolta.
-
-Upphitun fyrir leik Hollands og Japan á HM karla í fótbolta.</desc>
-  </programme>
-  <programme start="20260614195000 +0000" stop="20260614220500 +0000" channel="ruv2.is">
-    <title>Holland - Japan</title>
-    <desc>Leikir á HM karla í fótbolta.
-
-Leikur Hollands og Japan á HM karla í fótbolta.</desc>
-  </programme>
-  <programme start="20260614221100 +0000" stop="20260614225600 +0000" channel="ruv2.is">
-    <title>HM kvöld</title>
-    <desc>Samantekt frá leikjum dagsins á HM karla í fótbolta.</desc>
-  </programme>
-  <programme start="20260614225700 +0000" stop="20260614234900 +0000" channel="ruv2.is">
-    <title>Asía - með enskum þul</title>
-    <sub-title>(7 af 7)</sub-title>
-    <desc>Heimildarþáttaröð þar sem David Attenborough kannar náttúru og dýralíf í Asíu, stærstu heimsálfu jarðar.</desc>
-  </programme>
   <programme start="20260615173000 +0000" stop="20260615182800 +0000" channel="ruv2.is">
     <title>Jörðin - með enskum þul</title>
     <sub-title>(1 af 8)</sub-title>
@@ -230,6 +199,32 @@ Leikur Þýskalands og Fílabeinsstrandarinnar á HM karla í fótbolta.</desc>
     <desc>Samantekt frá leikjum dagsins á HM karla í fótbolta.</desc>
   </programme>
   <programme start="20260620225000 +0000" stop="20260620231000 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260621183000 +0000" stop="20260621185000 +0000" channel="ruv2.is">
+    <title>Stofan</title>
+    <desc>Umfjallanir um leiki á HM karla í fótbolta.
+
+Upphitun fyrir leik Belgíu og Íran á HM karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260621185000 +0000" stop="20260621210500 +0000" channel="ruv2.is">
+    <title>Belgía - Íran</title>
+    <desc>Leikir á HM karla í fótbolta.
+
+Leikur Belgíu og Íran á HM karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260621210500 +0000" stop="20260621215000 +0000" channel="ruv2.is">
+    <title>HM kvöld</title>
+    <desc>Samantekt frá leikjum dagsins á HM karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260621215000 +0000" stop="20260622001000 +0000" channel="ruv2.is">
+    <title>Úrúgvæ - Grænhöfðaeyjar</title>
+    <desc>Leikir á HM karla í fótbolta.
+
+Leikur Úrúgvæ og Grænhöfðaeyja á HM karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260622001000 +0000" stop="20260622003000 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
