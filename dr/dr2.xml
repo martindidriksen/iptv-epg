@@ -3,171 +3,52 @@
   <channel id="dr2.dk">
     <display-name>DR2</display-name>
   </channel>
-  <programme start="20260614233500 +0000" stop="20260615001500 +0000" channel="dr2.dk">
-    <title>Reklamer til Tiden (7:8)</title>
-    <desc>Dansk dokumentarserie fra 2003. Der er sket en revolution. I år 1900 er telegrammet og telefonen omgærdet af ærefrygt og forundring. Ved årtusindeskiftet benytter ethvert barn sig hele tiden af sms og e-mail. Oplev udviklingen, som den er skildret i et væld af reklamefilm. Se reklamer for de første radio- og tv-apparater, se hvordan aviserne sælger sig selv op igennem tiderne, og hvordan de kulørte blade afslører mere og mere.
-Vært: Liv Thomsen.</desc>
-    <episode-num system="xmltv_ns">0.6.0</episode-num>
-  </programme>
-  <programme start="20260615001500 +0000" stop="20260615005500 +0000" channel="dr2.dk">
-    <title>Reklamer til tiden (8:8)</title>
-    <desc>Dansk dokumentarserie fra 2003. Hvordan har reklamerne ændret sig? I begyndelsen af 1900-tallet er filmene simple og ofte komiske forsøg på at sælge øl, cykler og bøger. Fra 20'erne udvikler filmene sig og bliver til små, underholdende fortællinger. Kendte skuespillere optræder i filmene, og populære fiktive figurer dukker op, f.eks. Vitalius Sørensen, der reklamerer for OTA Solgryn. Ironi sælger - senere kommer DSB-Harry og Polle fra Snave til.
-Vært: Liv Thomsen.</desc>
-    <episode-num system="xmltv_ns">0.7.0</episode-num>
-  </programme>
-  <programme start="20260615005500 +0000" stop="20260615023000 +0000" channel="dr2.dk">
-    <title>Nelly &amp; Nadine - forbudt kærlighed i KZ-lejren</title>
-    <desc>Svensk dokumentarfilm fra 2022.
-(Nelly &amp; Nadine)
-Juleaften 1944 i koncentrationslejren Ravensbrück forelsker to kvinder sig i hinanden. En forbudt kærlighed mellem den mystiske Nadine Hwang og operasangerinden Nelly Mousset-Vos. Efter befrielsen genforenes de og tilbringer resten af deres liv sammen. I mange år er deres forhold hemmeligt, selv for den nærmeste familie. Men nu har Nellys barnebarn, Sylvie, besluttet at afdække deres bemærkelsesværdige kærlighedshistorie.</desc>
-  </programme>
-  <programme start="20260615023000 +0000" stop="20260615033500 +0000" channel="dr2.dk">
+  <programme start="20260615231000 +0000" stop="20260616001000 +0000" channel="dr2.dk">
     <title>Renæssancens blodige skønhed (2:3)</title>
     <desc>BBC-dokumentarserie fra 2024.
 (Renaissance - The Blood and the Beauty)
 Hvis Michelangelo vil gå over i historien som den største, er han nødt til at overstråle Leonardo. Derfor påtager han sig en enorm udfordring, der kan blive knald eller fald: skabelsen af den fem meter høje skulptur David. Samtidig dukker en ny rival op - den unge, talentfulde kunstner Rafael Santi, der truer med at overskygge dem begge. Nu må de ikke kun kæmpe mod hinanden, men også mod ham - og om Firenzes mæcener og velhavere.</desc>
     <episode-num system="xmltv_ns">0.1.0</episode-num>
   </programme>
-  <programme start="20260615040000 +0000" stop="20260615050000 +0000" channel="dr2.dk">
-    <title>Husker du... 1977</title>
-    <desc>Året er 1977.
-Bombemanden fra Gladsaxe spreder rædsel i Hovedstadsområdet i 1977. Gennem flere måneder placerer han bomber i telefonbokse, busser og indkøbscentre i Storkøbenhavn. Typograferne i det Berlingske Hus nedlægger arbejdet. Strejken udvikler sig til en af Danmarkshistoriens hårdeste arbejdskonflikter og i 141 dage udkommer hverken BT eller Berlingske Tidende. I Spanien går borgerne til det første frie valg i 41 år og i Sydafrika bliver borgerrettighedsforkæmperen Steve Biko dræbt i fængslet. En ung ukendt amerikansk skuespiller - John Travolta - introducerer en ny dansedille - discodansen. Filmen Saturday Night Fever har verdenspremiere i 1977 og i løbet af få måneder danser hele verden discodans. Og så er 1977 året, hvor verden må sige farvel til The King of Rock'n Roll. Elvis Presley dør af et hjertetilfælde den 16. august 1977.
-Sendt første gang 13.04.05</desc>
-    <episode-num system="xmltv_ns">1.7.0</episode-num>
-  </programme>
-  <programme start="20260615050000 +0000" stop="20260615060000 +0000" channel="dr2.dk">
-    <title>24 timer vi aldrig glemmer: Da Anker endte i Saddams sofahjørne</title>
-    <desc>I november 1990 er 32 danskere fanget i Saddam Husseins kløer. Krigen mod Irak er på vej, men danskerne må ikke forlade det stadig mere kaotiske land. Da tiden er ved at løbe ud, rejser Danmarks tidligere statsminister Anker Jørgensen til Irak for at forhandle med Saddam - på egen hånd og mod den danske regerings vilje. Hans mål er at få danskerne hjem. Men hvor mange kan han få ud? Og hvem må blive? I 24 timer vi aldrig glemmer får du historien om det største danske gidseldrama i vor tid - time for time.
-Tilrettelæggelse: Janus Køster-Rasmussen.</desc>
-    <episode-num system="xmltv_ns">1.3.0</episode-num>
-  </programme>
-  <programme start="20260615060000 +0000" stop="20260615060500 +0000" channel="dr2.dk">
-    <title>Radioavisen</title>
-    <desc>Bliv opdateret på de seneste nyheder fra ind- og udland.</desc>
-  </programme>
-  <programme start="20260615060500 +0000" stop="20260615063000 +0000" channel="dr2.dk">
-    <title>Morgenandagten</title>
-    <desc>Morgenandagten fra Vor Frue Kirke, Københavns Domkirke.</desc>
-    <episode-num system="xmltv_ns">2025.135.0</episode-num>
-  </programme>
-  <programme start="20260615063000 +0000" stop="20260615100000 +0000" channel="dr2.dk">
-    <title>Seneste nyt fra TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260615100000 +0000" stop="20260615151500 +0000" channel="dr2.dk">
-    <title>Seneste nyt fra TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260615151500 +0000" stop="20260615155500 +0000" channel="dr2.dk">
-    <title>Digtere, Divaer og Dogmebrødre (1:8)</title>
-    <desc>Dansk dokumentarserie fra 2001. I starten af det 20. århundrede hersker der en stemning af jubeloptimisme. Automobiler, telefoner og flyvemaskiner bliver hyldet af kunstnere og intellektuelle. Og Asta Nielsen chokerer med sin vovede dans i filmen 'Afgrunden'. Imens bliver arbejderklassens elendige forhold skildret af Martin Andersen Nexø. Kvinder har stadig ikke valgret eller kunstnerisk respekt, og da 1. verdenskrig bryder ud, drukner enhver optimisme.
-Tilrettelæggelse: Liv Thomsen.</desc>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-  </programme>
-  <programme start="20260615155500 +0000" stop="20260615163500 +0000" channel="dr2.dk">
-    <title>Digtere, Divaer og Dogmebrødre (2:8)</title>
-    <desc>Dansk dokumentarserie fra 2001. Efter 1. verdenskrig, hvor millioner af mennesker har mistet livet, er der en stemning af både katastrofe og løssluppenhed. Det gælder om at leve, så i de brølende 20'ere er der fuld fart på livet og kunsten. Malerne Harald Giersing og Vilhelm Lundstrøm skildrer verden på en helt ny måde. På byens mange forlystelsessteder kan man opleve Liva Weel og Josephine Baker. Festen ender dog, og depression og krise melder sig.
-Tilrettelæggelse: Liv Thomsen.</desc>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-  </programme>
-  <programme start="20260615163500 +0000" stop="20260615170500 +0000" channel="dr2.dk">
-    <title>Danske katastrofer - Togkatastrofen i Sorø</title>
-    <desc>Mandag den 25. april 1988 afsporer et Intercitytog med 250 passagerer kort før Sorø station. For høj fart er skyld i en ulykke, der på tragisk vis udvikler sig til en katastrofe. Da den 400 ton tunge vognstamme ryger af sporerne, skrælles hele siden af en af togvognene. En stor kampesten ligger i grøften, lige præcis dér hvor vognen vælter. Passagererne er prisgivet. 8 mennesker omkommer. Over 70 bliver kvæstet.
-Med øjenvidneberetninger fra en Falck-redder og en overlevende, fortæller historikeren Rasmus Dahlberg om den største togkatastrofe i nyere tid. En ulykke, der har betydning for alle togpassagerer i dag.  
-Sendt første gang 15.11.2017</desc>
-    <episode-num system="xmltv_ns">0.4.0</episode-num>
-  </programme>
-  <programme start="20260615170500 +0000" stop="20260615175500 +0000" channel="dr2.dk">
-    <title>Fortidens fantastiske ingeniørkunst (6:10) Angkor Vats hemmeligheder</title>
-    <desc>Britisk dokumentarserie fra 2021.
-(Ancient Engineering)
-Dybt inde i den cambodjanske jungle ligger et tempel, der overskygger alle andre. Angkor Vat er et 900 år gammelt tempelkompleks, som blev bygget på kun 30 år. Ruinerne i Angkor dækker et 1000 kvadratkilometer stort område, og templets endeløse gange og strukturer afslører et ekstremt præcist stenhuggerarbejde. Et sandt mesterværk af håndværk, skulpturel udsmykning og ingeniørkunst.</desc>
-    <episode-num system="xmltv_ns">0.5.0</episode-num>
-  </programme>
-  <programme start="20260615180000 +0000" stop="20260615195000 +0000" channel="dr2.dk">
-    <title>Filmperler: Et svært år</title>
-    <desc>Fransk komediedrama fra 2023.
-(Une année difficile)
-Albert og Bruno står i gæld til op over begge ører. En dag møder de nogle unge klimaaktivister, der inviterer dem med til et møde. Lokket af løftet om gratis øl og chips tager de med. Uden den store overbevisning og med skjulte motiver bliver Albert og Bruno en del af bevægelsen. Og det bliver ikke mindre kompliceret af, at de ender med at finde venner og et uventet fællesskab blandt aktivisterne...
-Medvirkende: Pio Marmaï, Jonathan Cohen, Noémie Merlant m.fl.
-Instruktion: Olivier Nakache og Éric Toledano.</desc>
-  </programme>
-  <programme start="20260615200000 +0000" stop="20260615200500 +0000" channel="dr2.dk">
-    <title>TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260615201500 +0000" stop="20260615203500 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
-    <episode-num system="xmltv_ns">2025.87.0</episode-num>
-  </programme>
-  <programme start="20260615204500 +0000" stop="20260615213000 +0000" channel="dr2.dk">
-    <title>Javier Bardem - Metamorfose</title>
-    <desc>Fransk dokumentar fra 2023. 
-(Javier Bardem's Metamorphosis) 
-Engleansigt, mærkeligt hår eller et hærget fjæs - Javier Bardem er manden med de tusind ansigter. Kendt for sine ekstreme forvandlinger og modige kunstneriske valg har den spanske skuespiller opbygget et imponerende filmkatalog. Denne dokumentar giver et fascinerende indblik i Bardems unikke karriere, hans kreative proces og aktivistiske engagement - samt et kig på de ar, der har formet både manden og skuespilleren.</desc>
-  </programme>
-  <programme start="20260615214000 +0000" stop="20260615215500 +0000" channel="dr2.dk">
-    <title>Gift som aldrig før (3:6) Kærlighedseliksir</title>
-    <desc>Henrik Vibskov er ved at gøre sig klar til at stå i spidsen for den store ceremoni i
-Designmuseets have - men tvivlen vokser: Kan han løfte rollen som
-ceremonimester? Apolonia Sokol besøger en gammel ven i de franske vinmarker for
-at finde kærlighedens sande nektar - en kærlighedseliksir.</desc>
-    <episode-num system="xmltv_ns">0.2.0</episode-num>
-  </programme>
-  <programme start="20260615221000 +0000" stop="20260615222500 +0000" channel="dr2.dk">
-    <title>Gift som aldrig før (4:6) Hvad får kærlighed til at holde?</title>
-    <desc>Glenn Bech besøger plejehjemmet Slottet for at undersøge, hvad livslang kærlighed
-består af. Lasse og Kristine gør sig klar til endelig at blive gift, mens deres
-ceremonimester Louise Alenius forbereder den store ceremoni i Cisternernes mørke.
-Hun vil synge ordene i ritualet, men er nervøs for, om stemmerne kan holde til
-kulden og fugten. Noah Umur Kanber tager til sin hjemby Aarhus for at konfrontere
-fortidens dæmoner og komme videre med sit ritual.</desc>
-    <episode-num system="xmltv_ns">0.3.0</episode-num>
-  </programme>
-  <programme start="20260615224000 +0000" stop="20260615225500 +0000" channel="dr2.dk">
-    <title>Kunstnerkolonien i Skagen (3:6)</title>
-    <desc>De seks kunstnere er i fuld gang med deres nye værker i kunstnerkolonien i Skagen. Erik A. Frandsen står op midt om natten for at studere det unikke lys ved solopgang. Frederik Næblerød venter utålmodigt på flere lærreder, da han allerede er løbet tør og derfor må tænke ud af boksen. Alle kunstnerne besøger Skagens museum, hvor særlig Cathrine R. Davidsen søger inspiration i Anna Anchers dystre værker.</desc>
-    <episode-num system="xmltv_ns">0.2.0</episode-num>
-  </programme>
-  <programme start="20260615231000 +0000" stop="20260615235500 +0000" channel="dr2.dk">
-    <title>Renæssancens blodige skønhed (2:3)</title>
-    <desc>BBC-dokumentarserie fra 2024.
-(Renaissance - The Blood and the Beauty)
-Hvis Michelangelo vil gå over i historien som den største, er han nødt til at overstråle Leonardo. Derfor påtager han sig en enorm udfordring, der kan blive knald eller fald: skabelsen af den fem meter høje skulptur David. Samtidig dukker en ny rival op - den unge, talentfulde kunstner Rafael Santi, der truer med at overskygge dem begge. Nu må de ikke kun kæmpe mod hinanden, men også mod ham - og om Firenzes mæcener og velhavere.</desc>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-  </programme>
-  <programme start="20260616001000 +0000" stop="20260616012000 +0000" channel="dr2.dk">
+  <programme start="20260616001000 +0000" stop="20260616014000 +0000" channel="dr2.dk">
     <title>Modeikonet Mary Quant</title>
     <desc>Britisk dokumentar fra 2021.
 (Quant)
 Miniskørt og hot pants. Hvis det kan forarge den ældre generation, er det godt. Den britiske modesigner Mary Quant fører an i et opgør med efterkrigstidens konservative mode og bliver et markant stilikon i 1960'erne og 70'erne. Hun indgår et innovativt partnerskab med frisøren Vidal Sassoon og opbygger et globalt modeimperium. Her fortæller bl.a. modellen Kate Moss og designeren Vivienne Westwood om Quants markante indflydelse på modeverdenen.</desc>
   </programme>
-  <programme start="20260616014000 +0000" stop="20260616014000 +0000" channel="dr2.dk">
+  <programme start="20260616014000 +0000" stop="20260616020000 +0000" channel="dr2.dk">
     <title>Min mor maler med stof</title>
     <desc>Billedkunstneren Nulle Øigaard opbygger store billedtæpper i lag på lag af stof, der engang var smukke teaterkostumer. Filminstruktør Lasse Spang Olsen tegner et varmt portræt af sin mor, der har været maler og billedkunstner igennem et halvt århundrede. De seneste år uden sin partner gennem 60 år, tegner og forfatter Ib Spang Olsen.</desc>
   </programme>
-  <programme start="20260616020000 +0000" stop="20260616021000 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+  <programme start="20260616020000 +0000" stop="20260616023000 +0000" channel="dr2.dk">
+    <title>Deadline: En fred vi kan stole på?</title>
+    <desc>Rammerne for fred er på plads, men selvom mere end 100 dages krig på papiret lader til at være slut, kaster aftalen mellem USA og Iran kun et afmålt lettens suk af sig.
+For når Israel ikke er taget med på råd, og iranernes atomprogram fortsat er et udestående, hvor holdbar er freden så? Vært: Issa Mahmoud Jeppesen. </desc>
     <episode-num system="xmltv_ns">2025.87.0</episode-num>
   </programme>
-  <programme start="20260616023000 +0000" stop="20260616023500 +0000" channel="dr2.dk">
+  <programme start="20260616023000 +0000" stop="20260616030000 +0000" channel="dr2.dk">
     <title>Deadline: Fodbold for de få?</title>
     <desc>Profit, politik og perverst høje billetpriser - det er nogle af overskrifterne på den VM-slutrunde, der nu går i gang. International fodbold er blevet så stor, dyr og kommercialiseret en forretning, at de færreste kan følge med. Hvad har fodbold forvandlet sig til, og hvem er den til for? Issa Mahmoud Jeppesen spørger Anders Hagen, der er forfatter til 'Spillet er tabt', fodboldformidler Amalie Bremer og medieforskeren Bo Kampmann Walther.</desc>
     <episode-num system="xmltv_ns">2025.86.0</episode-num>
   </programme>
-  <programme start="20260616030000 +0000" stop="20260616030500 +0000" channel="dr2.dk">
+  <programme start="20260616030000 +0000" stop="20260616033000 +0000" channel="dr2.dk">
     <title>Deadline: Slap kurs?</title>
     <desc>Det er en af de allervanskeligste poster i dansk politik. Socialdemokratiet har fået en ny udlændingeordfører, og han lander midt i en veritabel storm af kritik fra oppositionen. For er den nye regering i gang med at slække på udlændingepolitikken? Christian Bennike spørger udlændingeordføreren selv, Thomas Skriver Jensen.</desc>
     <episode-num system="xmltv_ns">2025.85.0</episode-num>
+  </programme>
+  <programme start="20260616033000 +0000" stop="20260616040000 +0000" channel="dr2.dk">
+    <title>Deadline: Virker samtykkeloven?</title>
+    <desc>For fem år siden blev samtykkeloven vedtaget med et klart mål: Flere voldtægter skulle føre til domfældelser.
+Siden er antallet af anmeldelser steget. Men antallet af dømte er ikke fulgt med. Til gengæld er der dukket en ny type gerningsmænd op: Den ellers velfungerende teenagedreng. 
+Er det udtryk for, at unge mænd er havnet på usikker juridisk grund? Eller er den kulturændring, som mange håbede på, ikke nået ud til de unge, der skal lære et nyt sprog for grænser og samtykke? Vært: Sandra Brovall</desc>
+    <episode-num system="xmltv_ns">2025.84.0</episode-num>
   </programme>
   <programme start="20260616040000 +0000" stop="20260616043000 +0000" channel="dr2.dk">
     <title>1000 års tro: Troen skal styrke riget</title>
     <desc>Historien om kristendommen i Danmark er en dramatisk fortælling om brutale magtkampe, folkeoprør og spirende demokrati fra vikingetiden og frem til i dag. I dette program undersøger værten Cecilie Nielsen, hvorfor Kong Christian d. 6. indførte konfirmationen i 1736? Og hvad det betød for den helt almindelige befolkning?</desc>
     <episode-num system="xmltv_ns">0.3.0</episode-num>
   </programme>
-  <programme start="20260616043000 +0000" stop="20260616051000 +0000" channel="dr2.dk">
+  <programme start="20260616043000 +0000" stop="20260616051500 +0000" channel="dr2.dk">
     <title>Reklamer til tiden (1:8)</title>
     <desc>Dansk dokumentarserie fra 2003. Brystfagre madammer, smækre blondiner og naturlige 70'er-piger. Moden har forandret sig markant i det 20. århundrede. I gamle dage skulle tøj hovedsageligt være praktisk og billigt. I dag er tøj en stor del af vores identitet. Oplev et hav af sjove modereklamer, bl.a. for 'fint tøj fra Brugsen' i 20'erne, for Brylcreme i 50'erne og Wrangler i 70'erne.
 Vært: Liv Thomsen.</desc>
@@ -224,9 +105,9 @@ Maj 1945. Det Tredje Riges territorium ligger i ruiner. Midt i det ubeskrivelige
   </programme>
   <programme start="20260616190000 +0000" stop="20260616195500 +0000" channel="dr2.dk">
     <title>Nazisternes store kunsttyveri (1:2)</title>
-    <desc>Amerikansk dokumentarserie fra 2024.
-(Plunderer: The Life and Times of a Nazi Art Thief)
-Han var Herman Görings personlige kunstsamler. Den berygtede nazikunsthandler Bruno Lohse havde ansvar for at opspore attraktive kunstværker under 2. Verdenskrig. Værker, som nazisterne stjal fra jøder. Efter krigen sad han kortvarigt i fængsel, men genoptog sin karriere som kunsthandler og fortsatte med at handle med plyndret kunst. Historiker Jonathan Petropoulos efterforsker hans liv - og århundredets største kunstskandale.</desc>
+    <desc>Han var Herman Görings personlige kunstsamler. Den berygtede nazikunsthandler Bruno Lohse havde ansvar for at opspore attraktive kunstværker under 2. Verdenskrig. Værker, som nazisterne stjal fra jøder. Efter krigen sad han kortvarigt i fængsel, men genoptog sin karriere som kunsthandler og fortsatte med at handle med plyndret kunst. Historiker Jonathan Petropoulos efterforsker hans liv - og århundredets største kunstskandale.  
+Amerikansk dokumentarserie fra 2024.
+(Plunderer: The Life and Times of a Nazi Art Thief)</desc>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
   </programme>
   <programme start="20260616200000 +0000" stop="20260616201500 +0000" channel="dr2.dk">
@@ -236,6 +117,7 @@ Han var Herman Görings personlige kunstsamler. Den berygtede nazikunsthandler B
   <programme start="20260616201500 +0000" stop="20260616204500 +0000" channel="dr2.dk">
     <title>Deadline</title>
     <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <episode-num system="xmltv_ns">2025.88.0</episode-num>
   </programme>
   <programme start="20260616204500 +0000" stop="20260616211500 +0000" channel="dr2.dk">
     <title>Atombomberne over Danmark (5:6)</title>
@@ -253,6 +135,7 @@ I dette afsnit undersøger Morten Brink og Trine Laier, hvad der skulle ske med 
     <title>Moderne Klassikere: Journey - Don´t Stop Believin</title>
     <desc>Et hit bliver ikke altid et øjeblikkeligt hit. Se historien om "Don´t Stop Believin", som først bliver et verdenshit næsten 30 år efter den udkom. Journeys klassiske sang tager bandet på en fantastisk rejse. Fra at være et glemt og afdanket 80´er band ender de pludselig i tv-serier som Sopranos og Glee. Moderne musikkøbere genopdager sangen, som opnår rekorden af at være den mest downloadede sang i hele det 20. århundrede. Mød bandet Journey og hør også historien om at det var et brev fra en seriemorder, som satte Journeys comeback i gang.
 Sendt første gang 21.02.12</desc>
+    <episode-num system="xmltv_ns">1.5.0</episode-num>
   </programme>
   <programme start="20260616221500 +0000" stop="20260616230500 +0000" channel="dr2.dk">
     <title>24 timer vi aldrig glemmer - Da Danmark bankede Sovjet</title>
@@ -283,22 +166,20 @@ Sendt første gang 15.05.11</desc>
   <programme start="20260617020000 +0000" stop="20260617023000 +0000" channel="dr2.dk">
     <title>Deadline</title>
     <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <episode-num system="xmltv_ns">2025.88.0</episode-num>
   </programme>
   <programme start="20260617023000 +0000" stop="20260617030000 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <title>Deadline: En fred vi kan stole på?</title>
+    <desc>Rammerne for fred er på plads, men selvom mere end 100 dages krig på papiret lader til at være slut, kaster aftalen mellem USA og Iran kun et afmålt lettens suk af sig.
+For når Israel ikke er taget med på råd, og iranernes atomprogram fortsat er et udestående, hvor holdbar er freden så? Vært: Issa Mahmoud Jeppesen. </desc>
+    <episode-num system="xmltv_ns">2025.87.0</episode-num>
   </programme>
   <programme start="20260617030000 +0000" stop="20260617033000 +0000" channel="dr2.dk">
     <title>Deadline: Fodbold for de få?</title>
     <desc>Profit, politik og perverst høje billetpriser - det er nogle af overskrifterne på den VM-slutrunde, der nu går i gang. International fodbold er blevet så stor, dyr og kommercialiseret en forretning, at de færreste kan følge med. Hvad har fodbold forvandlet sig til, og hvem er den til for? Issa Mahmoud Jeppesen spørger Anders Hagen, der er forfatter til 'Spillet er tabt', fodboldformidler Amalie Bremer og medieforskeren Bo Kampmann Walther.</desc>
     <episode-num system="xmltv_ns">2025.86.0</episode-num>
   </programme>
-  <programme start="20260617033000 +0000" stop="20260617040000 +0000" channel="dr2.dk">
-    <title>Deadline: Slap kurs?</title>
-    <desc>Det er en af de allervanskeligste poster i dansk politik. Socialdemokratiet har fået en ny udlændingeordfører, og han lander midt i en veritabel storm af kritik fra oppositionen. For er den nye regering i gang med at slække på udlændingepolitikken? Christian Bennike spørger udlændingeordføreren selv, Thomas Skriver Jensen.</desc>
-    <episode-num system="xmltv_ns">2025.85.0</episode-num>
-  </programme>
-  <programme start="20260617040000 +0000" stop="20260617050000 +0000" channel="dr2.dk">
+  <programme start="20260617040000 +0000" stop="20260617050500 +0000" channel="dr2.dk">
     <title>Den store dannelsesrejse (1:3)</title>
     <desc>BBC-dokumentarserie fra 2024.
 (Rob &amp; Rylan's Grand Tour)
@@ -423,8 +304,10 @@ Sendt første gang 08.11.2017</desc>
     <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
   </programme>
   <programme start="20260618030000 +0000" stop="20260618033000 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <title>Deadline: En fred vi kan stole på?</title>
+    <desc>Rammerne for fred er på plads, men selvom mere end 100 dages krig på papiret lader til at være slut, kaster aftalen mellem USA og Iran kun et afmålt lettens suk af sig.
+For når Israel ikke er taget med på råd, og iranernes atomprogram fortsat er et udestående, hvor holdbar er freden så? Vært: Issa Mahmoud Jeppesen. </desc>
+    <episode-num system="xmltv_ns">2025.87.0</episode-num>
   </programme>
   <programme start="20260618033000 +0000" stop="20260618040000 +0000" channel="dr2.dk">
     <title>Deadline: Fodbold for de få?</title>
@@ -545,8 +428,10 @@ Bashar al-Assad har været præsident i et årti, da protesterne fra Det Arabisk
     <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
   </programme>
   <programme start="20260619033000 +0000" stop="20260619040000 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <title>Deadline: En fred vi kan stole på?</title>
+    <desc>Rammerne for fred er på plads, men selvom mere end 100 dages krig på papiret lader til at være slut, kaster aftalen mellem USA og Iran kun et afmålt lettens suk af sig.
+For når Israel ikke er taget med på råd, og iranernes atomprogram fortsat er et udestående, hvor holdbar er freden så? Vært: Issa Mahmoud Jeppesen. </desc>
+    <episode-num system="xmltv_ns">2025.87.0</episode-num>
   </programme>
   <programme start="20260619040000 +0000" stop="20260619043100 +0000" channel="dr2.dk">
     <title>De uartige kalkmalerier (4:5)</title>
@@ -690,7 +575,7 @@ Miniskørt og hot pants. Hvis det kan forarge den ældre generation, er det godt
   </programme>
   <programme start="20260620120000 +0000" stop="20260620123000 +0000" channel="dr2.dk">
     <title>Tegnsprogsmagasinet Udsyn</title>
-    <desc>Et magasinprogram på tegnsprog, der zoomer ind på døves liv i en hørende verden. Og fortæller om det, der rører sig i tiden, sætter spørgsmål til debat og skildrer det nære og det sære.</desc>
+    <desc>Jan Nyonyintono vil så gerne finde en kæreste. Han har valgt en anderledes metode, for at finde kærligheden. Måske har du set ham. I stedet for at gå på bar eller besøge datingsites, så har han stillet sig på gaden med et skilt. Og her får han opmærksomhed. I marts måned i år, fyldte Knud Søndergaard 90 år. Han havde inviteret familie, venner og gamle kolleger til en hyggelig festmiddag. Og gæsterne stod nærmest i kø for at ønske ham tillykke. Se det i sidste afsnit af 'Alt hvad Knud rører ved bliver til guld'.</desc>
     <episode-num system="xmltv_ns">2025.20.0</episode-num>
   </programme>
   <programme start="20260620123000 +0000" stop="20260620125000 +0000" channel="dr2.dk">
@@ -764,9 +649,9 @@ De forbereder sig på den hellige krig. Amerikanske fundamentalistiske kristne g
   </programme>
   <programme start="20260621020500 +0000" stop="20260621030000 +0000" channel="dr2.dk">
     <title>Nazisternes store kunsttyveri (1:2)</title>
-    <desc>Amerikansk dokumentarserie fra 2024.
-(Plunderer: The Life and Times of a Nazi Art Thief)
-Han var Herman Görings personlige kunstsamler. Den berygtede nazikunsthandler Bruno Lohse havde ansvar for at opspore attraktive kunstværker under 2. Verdenskrig. Værker, som nazisterne stjal fra jøder. Efter krigen sad han kortvarigt i fængsel, men genoptog sin karriere som kunsthandler og fortsatte med at handle med plyndret kunst. Historiker Jonathan Petropoulos efterforsker hans liv - og århundredets største kunstskandale.</desc>
+    <desc>Han var Herman Görings personlige kunstsamler. Den berygtede nazikunsthandler Bruno Lohse havde ansvar for at opspore attraktive kunstværker under 2. Verdenskrig. Værker, som nazisterne stjal fra jøder. Efter krigen sad han kortvarigt i fængsel, men genoptog sin karriere som kunsthandler og fortsatte med at handle med plyndret kunst. Historiker Jonathan Petropoulos efterforsker hans liv - og århundredets største kunstskandale.  
+Amerikansk dokumentarserie fra 2024.
+(Plunderer: The Life and Times of a Nazi Art Thief)</desc>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
   </programme>
   <programme start="20260621030000 +0000" stop="20260621040000 +0000" channel="dr2.dk">
@@ -824,9 +709,9 @@ Instruktion: Len Wiseman.</desc>
   </programme>
   <programme start="20260621150500 +0000" stop="20260621160000 +0000" channel="dr2.dk">
     <title>Nazisternes store kunsttyveri (1:2)</title>
-    <desc>Amerikansk dokumentarserie fra 2024.
-(Plunderer: The Life and Times of a Nazi Art Thief)
-Han var Herman Görings personlige kunstsamler. Den berygtede nazikunsthandler Bruno Lohse havde ansvar for at opspore attraktive kunstværker under 2. Verdenskrig. Værker, som nazisterne stjal fra jøder. Efter krigen sad han kortvarigt i fængsel, men genoptog sin karriere som kunsthandler og fortsatte med at handle med plyndret kunst. Historiker Jonathan Petropoulos efterforsker hans liv - og århundredets største kunstskandale.</desc>
+    <desc>Han var Herman Görings personlige kunstsamler. Den berygtede nazikunsthandler Bruno Lohse havde ansvar for at opspore attraktive kunstværker under 2. Verdenskrig. Værker, som nazisterne stjal fra jøder. Efter krigen sad han kortvarigt i fængsel, men genoptog sin karriere som kunsthandler og fortsatte med at handle med plyndret kunst. Historiker Jonathan Petropoulos efterforsker hans liv - og århundredets største kunstskandale.  
+Amerikansk dokumentarserie fra 2024.
+(Plunderer: The Life and Times of a Nazi Art Thief)</desc>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
   </programme>
   <programme start="20260621160500 +0000" stop="20260621170000 +0000" channel="dr2.dk">
@@ -893,5 +778,152 @@ Sendt første gang 21.02.12</desc>
 USAs præsident er blevet grebet med bukserne nede lige før valget. Hans rådgiver Winifred indkalder spindoktor Brean, som indkalder filmproducenten Stanley til at ordne det visuelle i en afledningsmanøvre. En ikke-eksisterende konflikt med Albanien skal sikre almen frygt for terrorisme, så præsidenten kan vise, at han har styr på sagerne.
 Medvirkende: Dustin Hoffman, Robert De Niro, Anne Heche m.fl.
 Instruktion: Barry Levinson.</desc>
+  </programme>
+  <programme start="20260622001500 +0000" stop="20260622011000 +0000" channel="dr2.dk">
+    <title>Aids: De uhørte bånd (3:3)</title>
+    <desc>BBC-dokumentarserie fra 2023.
+(AIDS: The Unheard Tapes)
+I takt med at aids-epidemien spreder sig, kæmper forskerne for at udvikle et lægemiddel mod virussen. AZT-forsøg er i gang, og der er store forhåbninger til at finde en mirakelkur. Men snart begynder deltagerne i forsøgene at blive alvorligt syge. Landets hospitaler og hospicer er nødt til at samarbejde for at håndtere antallet af patienter, der har brug for palliativ pleje. Først i 1995 har man succes med at udvikle en vellykket kombinationsbehandling til at håndtere hiv - til dem, der kan få adgang til den.</desc>
+    <episode-num system="xmltv_ns">0.2.0</episode-num>
+  </programme>
+  <programme start="20260622011000 +0000" stop="20260622015000 +0000" channel="dr2.dk">
+    <title>Digtere, Divaer og Dogmebrødre (1:8)</title>
+    <desc>Dansk dokumentarserie fra 2001. I starten af det 20. århundrede hersker der en stemning af jubeloptimisme. Automobiler, telefoner og flyvemaskiner bliver hyldet af kunstnere og intellektuelle. Og Asta Nielsen chokerer med sin vovede dans i filmen 'Afgrunden'. Imens bliver arbejderklassens elendige forhold skildret af Martin Andersen Nexø. Kvinder har stadig ikke valgret eller kunstnerisk respekt, og da 1. verdenskrig bryder ud, drukner enhver optimisme.
+Tilrettelæggelse: Liv Thomsen.</desc>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+  </programme>
+  <programme start="20260622015000 +0000" stop="20260622023000 +0000" channel="dr2.dk">
+    <title>Digtere, Divaer og Dogmebrødre (2:8)</title>
+    <desc>Dansk dokumentarserie fra 2001. Efter 1. verdenskrig, hvor millioner af mennesker har mistet livet, er der en stemning af både katastrofe og løssluppenhed. Det gælder om at leve, så i de brølende 20'ere er der fuld fart på livet og kunsten. Malerne Harald Giersing og Vilhelm Lundstrøm skildrer verden på en helt ny måde. På byens mange forlystelsessteder kan man opleve Liva Weel og Josephine Baker. Festen ender dog, og depression og krise melder sig.
+Tilrettelæggelse: Liv Thomsen.</desc>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+  </programme>
+  <programme start="20260622023000 +0000" stop="20260622033000 +0000" channel="dr2.dk">
+    <title>Renæssancens blodige skønhed (3:3)</title>
+    <desc>BBC-dokumentarserie fra 2024.
+(Renaissance - The Blood and the Beauty)
+Michelangelo maler en enorm fresko i loftet af det Sixtinske Kapel, Roms vigtigste kirke. En opgave, der presser ham til grænsen for hans evner og forstand. Mens han kæmper, nyder Leonardo kunstnerisk frihed i Milano. Og hans anden store konkurrent, Rafael, arbejder lige ved siden af i pavens private gemakker. Samtidig bliver han fanget midt i reformationens kaos og oplever død og ødelæggelse, der får ham til at tvivle på alt, hvad han har troet på.</desc>
+    <episode-num system="xmltv_ns">0.2.0</episode-num>
+  </programme>
+  <programme start="20260622033000 +0000" stop="20260622040000 +0000" channel="dr2.dk">
+    <title>Værtshushistorier: Café Viking</title>
+    <desc>En mandag i 2012 forandrer alt sig på  Nørrebroværtshuset Cafe Viking. Værtshusejer Jane Pedersen bliver afpresset af en ung fyr til at betale beskyttelsespenge til en lokal bande. Men den lille rødhårede dame nægter at ligge under for truslerne - også selvom hun ved, at det kan få fatale konsekvenser. Digteren Claus Høxbroe, fortæller historien</desc>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+  </programme>
+  <programme start="20260622040000 +0000" stop="20260622050000 +0000" channel="dr2.dk">
+    <title>Husker du... 1978</title>
+    <desc>Året er 1978.
+1978 er et år med nye og utraditionelle løsninger. Anker Jørgensen danner en SV regering. Undervisningsminister Ritt Bjerregaard flytter ind på hotel Ritz i Paris. Og verdens første reagensglasbarn kommer til verden i England. 1978 er også året, da Danmark må sige farvel til Jens Otto Krag. Den katolske verden mister to paver. Heldigvis er der da også lyspunkter. Matador bliver sendt første gang og bliver en bragende succes for DR.
+Sendt første gang 20.04.05</desc>
+  </programme>
+  <programme start="20260622050000 +0000" stop="20260622055000 +0000" channel="dr2.dk">
+    <title>24 timer vi aldrig glemmer - Da Danmark bankede Sovjet</title>
+    <desc>En solbeskinnet grundlovsdag, onsdag den 5. juni 1985, står det danske dynamithold overfor sin hidtil største udfordring i Idrætsparken: Et topmotiveret sovjetisk landshold. Midt under den kolde krig er Sovjetunionens fodboldspillere landets bedste reklame: De er teknisk overlegne og holder aldrig op med at løbe. Mød bl.a. Klaus Berggreen og Per Frimann i historien om den dag, dansk fodbold ramte den absolutte verdenselite - og blev der. 
+Tilrettelæggelse: Janus Køster-Rasmussen.</desc>
+    <episode-num system="xmltv_ns">1.9.0</episode-num>
+  </programme>
+  <programme start="20260622055000 +0000" stop="20260622060000 +0000" channel="dr2.dk">
+    <title>Tænkepauser: Fordybelse</title>
+    <desc>Hvis bare der var mere tid til fordybelse! Så ville vi begynde at meditere, læse flere gode bøger og føre dybe samtaler med vores venner. Eller ville vi nu også det? Fordybelsen er slet ikke så let at opnå. Den kræver ikke bare tid, men også rum og rammer, og den kræver øvelse og vedholdenhed. Træd ind i en verden, hvor du mærker fordybelsen. 
+En film af Boris Bertram - efter en bog af Kristiane Hauer.</desc>
+    <episode-num system="xmltv_ns">0.12.0</episode-num>
+  </programme>
+  <programme start="20260622060000 +0000" stop="20260622060500 +0000" channel="dr2.dk">
+    <title>Radioavisen</title>
+    <desc>Bliv opdateret på de seneste nyheder fra ind- og udland.</desc>
+  </programme>
+  <programme start="20260622060500 +0000" stop="20260622063000 +0000" channel="dr2.dk">
+    <title>Morgenandagten</title>
+    <desc>Morgenandagten fra Vor Frue Kirke, Københavns Domkirke.</desc>
+  </programme>
+  <programme start="20260622063000 +0000" stop="20260622100000 +0000" channel="dr2.dk">
+    <title>Seneste nyt fra TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260622100000 +0000" stop="20260622151500 +0000" channel="dr2.dk">
+    <title>Seneste nyt fra TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260622151500 +0000" stop="20260622155500 +0000" channel="dr2.dk">
+    <title>Digtere, Divaer og Dogmebrødre (3:8)</title>
+    <desc>Dansk dokumentarserie fra 2001. Poul Henningsen er allestedsnærværende i 30'erne og 40'erne. PH er berømt for sine lamper og viser, men han er også antinazismens kølerfigur. Kommunister og kulturradikale bruger kunsten som våben mod Hitler. Folk som Lulu Ziegler og Kjeld Abell råber vagt i gevær. Og man nynner med på Marguerite Vibys og Osvald Helmuths nyeste sange. Da 2. verdenskrig bryder ud, flygter mange til Sverige - og Kaj Munk bliver myrdet.
+Tilrettelæggelse: Liv Thomsen.</desc>
+    <episode-num system="xmltv_ns">0.2.0</episode-num>
+  </programme>
+  <programme start="20260622155500 +0000" stop="20260622163500 +0000" channel="dr2.dk">
+    <title>Digtere, Divaer og Dogmebrødre (4:8)</title>
+    <desc>Dansk dokumentarserie fra 2001. 2. verdenskrig er slut, og tømmermændene efter befrielsen melder sig hurtigt. Kunstnerne kredser om skyld og angst, og man dyrker modstandsmyterne. Karen Blixen holder hof for en samling unge, højtidelige digtere. Samtidig starter Asger Jorn kunstnergruppen Cobra, der sætter farver på en trist tid. I skyggen af atombomben vokser angsten. En ny ungdomskultur inspireret af USA vokser frem, mens andre tyr til Morten Korch.
+Tilrettelæggelse: Liv Thomsen.</desc>
+    <episode-num system="xmltv_ns">0.3.0</episode-num>
+  </programme>
+  <programme start="20260622163500 +0000" stop="20260622170500 +0000" channel="dr2.dk">
+    <title>Danske katastrofer - Flystyrtet ved Dubai</title>
+    <desc>Tirsdag den 14. marts 1972 er 106 charterturister fra Tjæreborg Rejser på vej hjem fra paradisøen Ceylon. Over det indiske ocean går det galt. Flyet fra Sterling Airways mister orienteringen og styrter til sidst ned i Oman bjergene på den arabiske halvø. I alt 112 mennesker mister livet. 
+Med beretninger fra en tidligere stewardesse og en pårørende, fortæller historikeren Rasmus Dahlberg om den værste danske flykatastrofe nogensinde.   
+Der findes stadig rester efter det voldsomme flystyrt på bjerget nær Dubai. 
+Sendt første gang 18.10.2017</desc>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+  </programme>
+  <programme start="20260622170500 +0000" stop="20260622180000 +0000" channel="dr2.dk">
+    <title>Fortidens fantastiske ingeniørkunst (7:10) Vandets kraft</title>
+    <desc>Britisk dokumentarserie fra 2021.
+(Ancient Engineering) 
+Vand er et spørgsmål om liv eller død. En moderne by som New York forbruger ca. fire milliarder liter vand hver eneste dag. Overalt på kloden bidrager enorme underjordiske tunneller og mægtige dæmninger til vandforsyningen. Men millioner af mennesker lider stadig af vandmangel. For tusinde af år siden kæmpede ingeniører for at lære at kontrollere og transportere vand. Takket være deres opfindsomhed kunne civilisationer vokse sig store.</desc>
+    <episode-num system="xmltv_ns">0.6.0</episode-num>
+  </programme>
+  <programme start="20260622180000 +0000" stop="20260622194000 +0000" channel="dr2.dk">
+    <title>Filmperler: Nomadland</title>
+    <desc>Amerikansk Oscarbelønnet drama fra 2020.
+Den midaldrende Fern mister sit arbejde, da den lokale gipsfabrik bliver lukket. Der er ingen grund til at blive hængende i byen, så Fern begiver sig af sted i sin lille varevogn, der nu er hendes hjem. Ud på de amerikanske landeveje sammen med de andre nomader, der - måske tvunget af omstændighederne - har sagt farvel til hus og hjem og nu lever det hårde, men frie liv på vejene.
+Medvirkende: Frances McDormand, David Strathairn, Linda May m.fl.
+Instruktion: Chloé Zhao.</desc>
+  </programme>
+  <programme start="20260622194000 +0000" stop="20260622195500 +0000" channel="dr2.dk">
+    <title>Troldspejlet: Overflod af Star Wars</title>
+    <desc>En ny Star Wars-film er udkommet: The Mandalorian &amp; Grogu. Men hvor meget er for meget? Jakob Stegelmann undersøger, om de utallige spin-offs er ved at udvande Star Wars-mytologien - eller om det stadig er ren magi, som da eventyret begyndte i 1977.</desc>
+    <episode-num system="xmltv_ns">0.4.0</episode-num>
+  </programme>
+  <programme start="20260622200000 +0000" stop="20260622201500 +0000" channel="dr2.dk">
+    <title>TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260622201500 +0000" stop="20260622204500 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+  </programme>
+  <programme start="20260622204500 +0000" stop="20260622214000 +0000" channel="dr2.dk">
+    <title>The Matrix - Filmene, der formede en generation</title>
+    <desc>Fransk dokumentar fra 2023.
+(The Matrix: Generation)
+Filmserien formede og rystede en hel generation. Fra 1999 til 2003 skabte søskendeparret Wachowski Matrix-trilogien. De banebrydende film blev hurtigt et popkulturelt fænomen og forudså en lang række af vor tids største sociale og politiske problemstillinger: teknologiens magt, hacking, køn og identitet, falske nyheder og konspirationsteorier - og de har inspireret generationer i jagten på sandhed, valg og frihed.</desc>
+  </programme>
+  <programme start="20260622214000 +0000" stop="20260622221000 +0000" channel="dr2.dk">
+    <title>Gift som aldrig før (5:6) Hvordan ser Gud ud som kvinde?</title>
+    <desc>Nicoline og Cillian er hos tatovøren for at få færdiggjort en symbolsk japansk
+tatovering. Samtidig leder Glenn Bech efter de helt rette ord til sin tale, der kan leve
+op til brudeparrets høje forventninger. Noah Umur Kanber planlægger en ceremoni,
+hvor hun selv spiller Gud - men hvordan ser Gud egentlig ud som kvinde?</desc>
+    <episode-num system="xmltv_ns">0.4.0</episode-num>
+  </programme>
+  <programme start="20260622221000 +0000" stop="20260622224000 +0000" channel="dr2.dk">
+    <title>Gift som aldrig før (6:6) Engle, dæmoner og et bryllup</title>
+    <desc>I sidste øjeblik falder Apolonia Sokols ritual på plads, netop som Ben og Chris
+ankommer med deres farverige følge på Rudolph Tegners Museum.
+Jakob og Stine ved ikke helt, hvad de har sagt ja til. De bliver blæst bagover af Noah
+Umur Kanbers ceremoni med både Gud, engle og dæmoner i provokerende
+sammensmeltning i Nikolaj Kunsthal.</desc>
+    <episode-num system="xmltv_ns">0.5.0</episode-num>
+  </programme>
+  <programme start="20260622224000 +0000" stop="20260622231000 +0000" channel="dr2.dk">
+    <title>Kunstnerkolonien i Skagen (4:6)</title>
+    <desc>De seks kunstnere har brug for hjælp udefra og håber på at finde en person, der kan kuratere deres meget forskellige værker til en fælles udstilling. Maria Torp skylder Kirsten Justesen en tjeneste, som kræver hendes ekspertise med et kamera. Frederik Næblerød bliver inspireret på Skagens Bamsemuseum, og John Kørner eksperimenterer med Vesterhavets kræfter, men det viser sig ikke at være så ligetil.</desc>
+    <episode-num system="xmltv_ns">0.3.0</episode-num>
+  </programme>
+  <programme start="20260622231000 +0000" stop="20260623001000 +0000" channel="dr2.dk">
+    <title>Renæssancens blodige skønhed (3:3)</title>
+    <desc>BBC-dokumentarserie fra 2024.
+(Renaissance - The Blood and the Beauty)
+Michelangelo maler en enorm fresko i loftet af det Sixtinske Kapel, Roms vigtigste kirke. En opgave, der presser ham til grænsen for hans evner og forstand. Mens han kæmper, nyder Leonardo kunstnerisk frihed i Milano. Og hans anden store konkurrent, Rafael, arbejder lige ved siden af i pavens private gemakker. Samtidig bliver han fanget midt i reformationens kaos og oplever død og ødelæggelse, der får ham til at tvivle på alt, hvad han har troet på.</desc>
+    <episode-num system="xmltv_ns">0.2.0</episode-num>
   </programme>
 </tv>

@@ -3,37 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260615173000 +0000" stop="20260615182800 +0000" channel="ruv2.is">
-    <title>Jörðin - með enskum þul</title>
-    <sub-title>(1 af 8)</sub-title>
-    <desc>Þriðja þáttaröð þessara stórbrotnu náttúrulífsþátta með David Attenborough um Jörðina, náttúru hennar og dýralíf á öllum árstíðum.</desc>
-  </programme>
-  <programme start="20260615183000 +0000" stop="20260615185000 +0000" channel="ruv2.is">
-    <title>Stofan</title>
-    <desc>Umfjallanir um leiki á HM karla í fótbolta.
-
-Upphitun fyrir leik Belgíu og Egyptalands á HM karla í fótbolta.</desc>
-  </programme>
-  <programme start="20260615185000 +0000" stop="20260615210500 +0000" channel="ruv2.is">
-    <title>Belgía - Egyptaland</title>
-    <desc>Leikir á HM karla í fótbolta.
-
-Leikur Belgíu og Egyptalands á HM karla í fótbolta.</desc>
-  </programme>
-  <programme start="20260615210500 +0000" stop="20260615215000 +0000" channel="ruv2.is">
-    <title>HM kvöld</title>
-    <desc>Samantekt frá leikjum dagsins á HM karla í fótbolta.</desc>
-  </programme>
-  <programme start="20260615215000 +0000" stop="20260616001000 +0000" channel="ruv2.is">
-    <title>Sádi-Arabía - Úrúgvæ</title>
-    <desc>Leikir á HM karla í fótbolta.
-
-Leikur Sádi-Arabíu og Úrúgvæ á HM karla í fótbolta.</desc>
-  </programme>
-  <programme start="20260616001000 +0000" stop="20260616003700 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20260616183000 +0000" stop="20260616185000 +0000" channel="ruv2.is">
     <title>Stofan</title>
     <desc>Umfjallanir um leiki á HM karla í fótbolta.
@@ -227,5 +196,36 @@ Leikur Úrúgvæ og Grænhöfðaeyja á HM karla í fótbolta.</desc>
   <programme start="20260622001000 +0000" stop="20260622003000 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260622164500 +0000" stop="20260622191000 +0000" channel="ruv2.is">
+    <title>Argentína - Austurríki</title>
+    <desc>Leikir á HM karla í fótbolta.
+
+Leikur Argentínu og Austurríkis á HM karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260622191000 +0000" stop="20260622193700 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260622203000 +0000" stop="20260622205000 +0000" channel="ruv2.is">
+    <title>Stofan</title>
+    <desc>Umfjallanir um leiki á HM karla í fótbolta.
+
+Upphitun fyrir leik Frakklands og Írak á HM karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260622205000 +0000" stop="20260622230500 +0000" channel="ruv2.is">
+    <title>Frakkland - Írak</title>
+    <desc>Leikir á HM karla í fótbolta.
+
+Leikur Frakklands og Íraks á HM karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260622230500 +0000" stop="20260622233500 +0000" channel="ruv2.is">
+    <title>HM kvöld</title>
+    <desc>Samantekt frá leikjum dagsins á HM karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260622233500 +0000" stop="20260623003200 +0000" channel="ruv2.is">
+    <title>Jörðin - með enskum þul</title>
+    <sub-title>(2 af 8)</sub-title>
+    <desc>Þriðja þáttaröð þessara stórbrotnu náttúrulífsþátta með David Attenborough um Jörðina, náttúru hennar og dýralíf á öllum árstíðum.</desc>
   </programme>
 </tv>
