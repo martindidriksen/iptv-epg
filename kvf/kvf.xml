@@ -3,33 +3,6 @@
   <channel id="kvf.fo">
     <display-name>KVF</display-name>
   </channel>
-  <programme start="20260617170000 " stop="20260617173000 " channel="kvf.fo">
-    <title>Alt um djór</title>
-    <sub-title>- barnarøð frá BBC við føroyskari talu</sub-title>
-  </programme>
-  <programme start="20260617173000 " stop="20260617180000 " channel="kvf.fo">
-    <title>Snipp snapp</title>
-    <sub-title>- føroysk sending til børn</sub-title>
-    <desc>VIT hava verið í Fuglafjarðar skúla og filmað 11 nýggjar Snipp Snapp-sendingar. Børn, sum ganga í 2. flokki í Fuglafjarðar skúla eru vertir hvørt mikukvøld.</desc>
-  </programme>
-  <programme start="20260617180000 " stop="20260617182500 " channel="kvf.fo">
-    <title>Myndlist í Føroyum 2:11</title>
-    <sub-title>- føroysk sendirøð frá 2001</sub-title>
-    <desc>Landslagslistin tók seg av álvara upp í Føroyum um ár 1900. Tað vóru serliga teir tríggir Niels Kruse, Kristin í Geil og Jógvan Waagstein, sum - í tráð við vaksandi tjóðskaparkensluna - høvdu ans fyri føroyska landslagnum og bygdalagnum. Og tað varð skjótt, at eisini aðrir tóku táttin upp. Sjálvlærdir Landslagsmálarar ferðaðust í 1920- og 30 árunum kring oyggjarnar og málaðu føgur útsýni yvir fjørð og sund, bygdarløg og býlingar. Eisini henda greinin av listini mentist sum árini liðu, tað kendasta umboðið fyri hesar málararnar man vera Sigmund Petersen. Aðrir gingu aðrar leiðir. William Heinesen hevur helst fingið íblástur frá vaksandi áhuganum í grannalondunum fyri sagnum og ævintýrum. Í 1920árunum teknaði William Heinesen nógvar av teimum myndunum av eitt nú trøllum og huldufólkum, sum eru kendar tann dag í dag. Tað var serliga í 1920árunum, at man fyri fyrstu ferð kann tosa um eitt listaumhvørvi í Føroyum. Hóast enn ikki er talan um professionell listafólk, sum liva av listini eina, so vóru hesi árini merkt av einum eldhuga og nýskapan og eini kenslu av at byggja land. Skrivað og lagt til rættis fyri SvF: Bárður Jákupsson. Programmleiðsla: Ivan Niclasen.</desc>
-  </programme>
-  <programme start="20260617182500 " stop="20260617190000 " channel="kvf.fo">
-    <title>Leyslatin</title>
-    <sub-title>- rættir menn gráta ikki (3:5)</sub-title>
-    <desc>Noah skal aftur í fongsul, men fyrst skulu tær síðstu ølirnar drekkast. Claus hevur fingið óvæntaða vitjan av løgregluni. Henrik skal fyri rættin og fær loksins at vita, um hann verður dømdur ella fríkendur fyri tær mongu ákærurnar. Ella hevur fingið arbeiði á einari matstovu, og familjupápin Adam stríðist. Sesong 2.</desc>
-  </programme>
-  <programme start="20260617190000 " stop="20260617195000 " channel="kvf.fo">
-    <title>Ekstremt vanligt</title>
-    <sub-title>- Jesus er lívið, donsk sendirøð (4:5)</sub-title>
-    <desc>Gud er okkara rúsdrekka! Fráhaldni ? bæði tá ið tað snýr seg um sex og alkohol ? er tað, sum 22 ára gamla timburkvinnan Anna hevur valt í sínum nýggja lívi við Jesusi. Sanne Cigale Benmouyal flytur inn á gestakamarið hjá Onnu og fer við til veitslu í ungdómsfelagsskapinum hjá kirkjuni. Hon tosar við fríkirkjuprestin úr Åbenkirke um fosturtøku og samkyndleika og endar vikuskiftið við lovsangi.</desc>
-  </programme>
-  <programme start="20260617195000 " stop="20260618155000 " channel="kvf.fo">
-    <title>FIFA HM 2026: Ongland - Kroatia</title>
-  </programme>
   <programme start="20260618155000 " stop="20260618180000 " channel="kvf.fo">
     <title>FIFA HM 2026: Kekkia - Suðurafrika</title>
   </programme>
@@ -219,7 +192,34 @@
     <title>Dagur og vika</title>
     <sub-title>- við teksti</sub-title>
   </programme>
-  <programme start="20260623215500 " stop="20260623225500 " channel="kvf.fo">
+  <programme start="20260623215500 " stop="20260623235000 " channel="kvf.fo">
     <title>Veðrið</title>
+  </programme>
+  <programme start="20260623235000 " stop="20260624170000 " channel="kvf.fo">
+    <title>FIFA HM 2026: Kekkia - Meksiko</title>
+  </programme>
+  <programme start="20260624170000 " stop="20260624172500 " channel="kvf.fo">
+    <title>Alt um djór</title>
+    <sub-title>- barnarøð frá BBC við føroyskari talu</sub-title>
+  </programme>
+  <programme start="20260624172500 " stop="20260624175000 " channel="kvf.fo">
+    <title>Snipp snapp</title>
+    <sub-title>- føroysk sending til børn</sub-title>
+    <desc>VIT hava verið í Fuglafjarðar skúla og filmað 11 nýggjar Snipp Snapp-sendingar. Børn, sum ganga í 2. flokki í Fuglafjarðar skúla eru vertir hvørt mikukvøld.</desc>
+  </programme>
+  <programme start="20260624175000 " stop="20260624200000 " channel="kvf.fo">
+    <title>FIFA HM 2026: Sveis - Kanada</title>
+  </programme>
+  <programme start="20260624200000 " stop="20260624203000 " channel="kvf.fo">
+    <title>Myndlist í Føroyum 3:11</title>
+    <sub-title>- føroysk sendirøð frá 2001</sub-title>
+    <desc>Føroya fyrsti professionelli myndlistamaður varð borin í Mykinesi, og hann tók navn eftir oynnið. Sámal Joensen-Mikines tók eina tá í tíðini heilt óvanliga avgerð, tá hann valdi at gerast listamaður. Gjørdi hann sum unglingar flestir í Føroyum tá, fór hann til skips. Hann kundi síðani sett búgv og livað sum sluppmaður og jarðarbrúkari. Mikines búði ein stóran part av lívinum í Danmark, og í sendingini skulu vit millum annað hoyra um nakrar av hansara mest kendu málningum, eitt nú "Aftur av jarðarferð" og málningarnar av grindadrápi. &amp;#12288;</desc>
+  </programme>
+  <programme start="20260624203000 " stop="20260624205000 " channel="kvf.fo">
+    <title>Úr savninum: Í luftini við Jasmin</title>
+    <desc>Í luftini er sjónvarpsrøð við tónleiki og práti úr Kringvarpshøllini. Í sendingini tosa vit við fløguaktuellar tónleikarar, og tey framføra nøkur løg av nýggjastu útgávuni. Hesa ferð er Jasmin gestur. Sendingin er gjørd í samstarvi við Faroe Music Export.</desc>
+  </programme>
+  <programme start="20260624205000 " stop="20260624215000 " channel="kvf.fo">
+    <title>FIFA HM 2026: Skotland - Brasil</title>
   </programme>
 </tv>
