@@ -3,57 +3,31 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260619183000 +0000" stop="20260619185000 +0000" channel="ruv2.is">
-    <title>Stofan</title>
-    <desc>Umfjallanir um leiki á HM karla í fótbolta.
-
-Upphitun fyrir leik Bandaríkjanna og Ástralíu á HM karla í fótbolta.</desc>
-  </programme>
-  <programme start="20260619185000 +0000" stop="20260619210500 +0000" channel="ruv2.is">
-    <title>Bandaríkin - Ástralía</title>
-    <desc>Leikir á HM karla í fótbolta.
-
-Leikur Bandaríkjanna og Ástralíu á HM karla í fótbolta.</desc>
-  </programme>
-  <programme start="20260619210500 +0000" stop="20260619215000 +0000" channel="ruv2.is">
-    <title>HM kvöld</title>
-    <desc>Samantekt frá leikjum dagsins á HM karla í fótbolta.</desc>
-  </programme>
-  <programme start="20260619215000 +0000" stop="20260620001000 +0000" channel="ruv2.is">
-    <title>Skotland - Marokkó</title>
-    <desc>Leikir á HM karla í fótbolta.
-
-Leikur Skotlands og Marokkó á HM karla í fótbolta.</desc>
-  </programme>
-  <programme start="20260620001000 +0000" stop="20260620003700 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20260620163000 +0000" stop="20260620165000 +0000" channel="ruv2.is">
     <title>Stofan</title>
     <desc>Umfjallanir um leiki á HM karla í fótbolta.
 
 Upphitun fyrir leik Hollands og Svíþjóðar á HM karla í fótbolta.</desc>
   </programme>
-  <programme start="20260620165000 +0000" stop="20260620190500 +0000" channel="ruv2.is">
+  <programme start="20260620165300 +0000" stop="20260620190800 +0000" channel="ruv2.is">
     <title>Holland - Svíþjóð</title>
     <desc>Leikir á HM karla í fótbolta.
 
 Leikur Hollands og Svíþjóðar á HM karla í fótbolta.</desc>
   </programme>
-  <programme start="20260620190500 +0000" stop="20260620191500 +0000" channel="ruv2.is">
+  <programme start="20260620191500 +0000" stop="20260620192500 +0000" channel="ruv2.is">
     <title>Stofan</title>
     <desc>Umfjallanir um leiki á HM karla í fótbolta.
 
 Uppgjör á leik Hollands og Svíþjóðar á HM karla í fótbolta.</desc>
   </programme>
-  <programme start="20260620193000 +0000" stop="20260620195000 +0000" channel="ruv2.is">
+  <programme start="20260620194100 +0000" stop="20260620200100 +0000" channel="ruv2.is">
     <title>Stofan</title>
     <desc>Umfjallanir um leiki á HM karla í fótbolta.
 
 Upphitun fyrir leik Þýskalands og Fílabeinsstrandarinnar á HM karla í fótbolta.</desc>
   </programme>
-  <programme start="20260620195000 +0000" stop="20260620220500 +0000" channel="ruv2.is">
+  <programme start="20260620200600 +0000" stop="20260620222100 +0000" channel="ruv2.is">
     <title>Þýskaland - Fílabeinsströndin</title>
     <desc>Leikir á HM karla í fótbolta.
 
@@ -230,5 +204,51 @@ Fjallað er um Curaçao, Jórdaníu, Grænhöfðaeyjar og Úsbekistan.</desc>
     <desc>Leikir á HM karla í fótbolta.
 
 Leikur Paragvæ og Ástralíu á HM karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260626183000 +0000" stop="20260626185000 +0000" channel="ruv2.is">
+    <title>Stofan</title>
+    <desc>Umfjallanir um leiki á HM karla í fótbolta.
+
+Upphitun fyrir leik Senegal og Íraks á HM karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260626185000 +0000" stop="20260626210500 +0000" channel="ruv2.is">
+    <title>Senegal - Írak</title>
+    <desc>Leikir á HM karla í fótbolta.
+
+Leikur Senegal og Íraks á HM karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260626210500 +0000" stop="20260626213000 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260626223500 +0000" stop="20260626232000 +0000" channel="ruv2.is">
+    <title>HM kvöld</title>
+    <desc>Samantekt frá leikjum dagsins á HM karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260626232000 +0000" stop="20260626234400 +0000" channel="ruv2.is">
+    <title>Leiðin á HM</title>
+    <sub-title>(10 af 12)</sub-title>
+    <desc>Þættir sem fjalla um þjóðirnar sem taka þátt á HM karla í fótbolta. Við kynnumst leikmönnum, þjálfurum og þeim þjóðum sem keppa um heimsmeistaratitilinn á þessum stærsta viðburði vinsælustu íþróttagreinar veraldar.
+
+Fjallað er um Curaçao, Jórdaníu, Grænhöfðaeyjar og Úsbekistan.</desc>
+  </programme>
+  <programme start="20260626234500 +0000" stop="20260627021000 +0000" channel="ruv2.is">
+    <title>Grænhöfðaeyjar - Sádi-Arabía</title>
+    <desc>Leikir á HM karla í fótbolta.
+
+Leikur Grænhöfðaeyja og Sádi-Arabíu á HM karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260627021500 +0000" stop="20260627023900 +0000" channel="ruv2.is">
+    <title>Leiðin á HM</title>
+    <sub-title>(7 af 12)</sub-title>
+    <desc>Þættir sem fjalla um þjóðirnar sem taka þátt á HM karla í fótbolta. Við kynnumst leikmönnum, þjálfurum og þeim þjóðum sem keppa um heimsmeistaratitilinn á þessum stærsta viðburði vinsælustu íþróttagreinar veraldar.
+
+Fjallað er um Marokkó, Senegal, Egyptaland og Fílabeinsströndina.</desc>
+  </programme>
+  <programme start="20260627024500 +0000" stop="20260627051000 +0000" channel="ruv2.is">
+    <title>Egyptaland - Íran</title>
+    <desc>Leikir á HM karla í fótbolta.
+
+Leikur Egyptalands og Íran á HM karla í fótbolta.</desc>
   </programme>
 </tv>

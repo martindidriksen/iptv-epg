@@ -3,45 +3,6 @@
   <channel id="kvf.fo">
     <display-name>KVF</display-name>
   </channel>
-  <programme start="20260619000000 " stop="20260619002500 " channel="kvf.fo">
-    <title>Dagur og vika</title>
-    <sub-title>- við teksti</sub-title>
-  </programme>
-  <programme start="20260619002500 " stop="20260619170000 " channel="kvf.fo">
-    <title>Veðrið</title>
-  </programme>
-  <programme start="20260619170000 " stop="20260619173000 " channel="kvf.fo">
-    <title>Mumi 7</title>
-    <sub-title>- kuffertið</sub-title>
-    <desc>Teknirøð við føroyskari talu til smábørn.</desc>
-  </programme>
-  <programme start="20260619173000 " stop="20260619180000 " channel="kvf.fo">
-    <title>MORSA 7:12</title>
-    <sub-title>- føroysk barnarøð</sub-title>
-    <desc>Í nýggju barnarøðini Morsa fer Elisabeth á Bakka at vísa ymiska hárseting. Og vit vísa nýggju bretsku barnarøðina Katie, sum BBC hevur gjørt. Vertur: Jákup Wardum. Upptøka: Bjørg Mohr Andersen. Klipt: Bjørg Mohr Andersen og Sólfríð Maria í Rók. Lagt til rættis: Elin á Rógvi.</desc>
-  </programme>
-  <programme start="20260619180000 " stop="20260619182500 " channel="kvf.fo">
-    <title>Dagur og vika</title>
-  </programme>
-  <programme start="20260619182500 " stop="20260619184000 " channel="kvf.fo">
-    <title>Veðrið</title>
-  </programme>
-  <programme start="20260619184000 " stop="20260619192000 " channel="kvf.fo">
-    <title>Gekkur</title>
-  </programme>
-  <programme start="20260619192000 " stop="20260619195500 " channel="kvf.fo">
-    <title>Úr savninum: Nýggjar røddir á tingi</title>
-    <sub-title>- føroyskur dokumentarur</sub-title>
-    <desc>Á løgtingsvalinum í fjør vann høgravongurin á vinstravonginum, og vinstravongurin mátti lata valdið frá sær. Men flokkarnir, sum sótu í samgongu farna valskeið, kundu fegnast um, at teir fingu heilt nýggjar politikarar valdar á ting. Tann 25 ára gamli, Bjarni Kárason Petersen, varð valdur fyri Framsókn, og nýggjur tinglimur fyri Tjóðveldi gjørdist tann 23 ára gamla, Hervør Pálsdóttir. Á javnaðarlistanum streyk tann 28 ára gamla, Ingilín Didriksen Strøm, inn á ting. Toppskorari millum tey ungu gjørdist tó Beinir Johannesen úr Fólkaflokkinum, sum vað valdur við 995 atkvøðum. Lagt til rættis: Uni Arge. Filmað og klipt: Jógvan Eli Dam.</desc>
-  </programme>
-  <programme start="20260619195500 " stop="20260619215000 " channel="kvf.fo">
-    <title>Ad Astra</title>
-    <sub-title>- amr. framtíðar-filmsdrama frá  2019</sub-title>
-    <desc>Fyri tjúgu árum síðani fór Clifford McBride (Tommy Lee Jones) á eina djarva rúmdarferð til Neptun at leita eftir teknum um vitugt lív í alheiminum. Men hann kom ongantíð aftur. Nú ger sonur hansara, rúmdarfarin Roy McBride (Brad Pitt), av at fylgja í fótasporunum hjá pápanum og finna út av, hvat gekk galið tá. Ferð hansara mennist til eina episka odyssé, har hann ikki bara leitar eftir svari upp á gátuna um pápan, men eisini kannar djúpari spurningar um menniskjalyndið og okkara pláss í alheiminum. Framl.ár:2019 Aldursmark:11</desc>
-  </programme>
-  <programme start="20260619215000 " stop="20260620142000 " channel="kvf.fo">
-    <title>FIFA HM 2026: Skotland - Marokko</title>
-  </programme>
   <programme start="20260620142000 " stop="20260620165000 " channel="kvf.fo">
     <title>Kappróður: Jóansøka í Vági</title>
   </programme>
@@ -234,7 +195,61 @@
   <programme start="20260625214000 " stop="20260625215000 " channel="kvf.fo">
     <title>Veðrið</title>
   </programme>
-  <programme start="20260625215000 " stop="20260625225000 " channel="kvf.fo">
+  <programme start="20260625215000 " stop="20260626170000 " channel="kvf.fo">
     <title>FIFA HM 2026: Japan - Svøríki</title>
+  </programme>
+  <programme start="20260626170000 " stop="20260626173000 " channel="kvf.fo">
+    <title>Mumi 8</title>
+    <sub-title>- rubinurin hjá gandakallinum</sub-title>
+    <desc>Teknirøð við føroyskari talu til smábørn.</desc>
+  </programme>
+  <programme start="20260626173000 " stop="20260626180000 " channel="kvf.fo">
+    <title>MORSA 8:12</title>
+    <sub-title>- føroysk barnarøð</sub-title>
+    <desc>Í nýggju barnarøðini Morsa fer Elisabeth á Bakka at vísa ymiska hárseting. Og vit vísa nýggju bretsku barnarøðina Katie, sum BBC hevur gjørt. Vertur: Jákup Wardum. Upptøka: Bjørg Mohr Andersen. Klipt: Bjørg Mohr Andersen og Sólfríð Maria í Rók. Lagt til rættis: Elin á Rógvi.</desc>
+  </programme>
+  <programme start="20260626180000 " stop="20260626182500 " channel="kvf.fo">
+    <title>Dagur og vika</title>
+  </programme>
+  <programme start="20260626182500 " stop="20260626184000 " channel="kvf.fo">
+    <title>Veðrið</title>
+  </programme>
+  <programme start="20260626184000 " stop="20260626192000 " channel="kvf.fo">
+    <title>Gekkur</title>
+  </programme>
+  <programme start="20260626192000 " stop="20260626210000 " channel="kvf.fo">
+    <title>Mr. Bean á ferð</title>
+    <sub-title>- bretsk komedia frá 2007</sub-title>
+    <desc>Mr. Bean (Rowan Atkinson) vinnur eina ferð til Cannes í Fraklandi, men á vegnum er hann so óheppin, at hann skilir ein ungan drong og pápan frá hvørjum øðrum. Hann hjálpir teimum báðum at finna saman aftur, og aftaná fer hann eina hendingaríka ferð gjøgnum Frakland, har hann lærir um filmslist, súkklur og ektaðan kærleika. Upprunah.:Mr. Bean´s Holiday Framl.ár:2007</desc>
+  </programme>
+  <programme start="20260626210000 " stop="20260626213000 " channel="kvf.fo">
+    <title>Smuglað 1:4</title>
+    <sub-title>- svensk dokumentarrøð frá 2023</sub-title>
+    <desc>Ein ískaldan vetrarmorgun í 1993 kemur ein fiskibátur til Gotlands, í lastarúminum og kahúttini umborð eru 391 fólk. Hvørji eru tey, og hvussu endaðu tey her? Hvør hevur fyrireikað alt? Hetta er søgan um størsta talið av flóttafólkum, ið eru sett ólógliga á land í Svøríki í nýggjari tíð. 1. partur av 4. Broadcast Company	SVT</desc>
+  </programme>
+  <programme start="20260626213000 " stop="20260626220000 " channel="kvf.fo">
+    <title>Smuglað 2:4</title>
+    <sub-title>- svensk dokumentarrøð frá 2023</sub-title>
+    <desc>Tey hava flýggjað leingi og keypt dýrar ferjuferðaseðlar frá smuglarum í Moskva. Nú skulu Perya og øll hini endiliga ferðast seinasta teinin. Men huglagið er broytt frá veitslulagi til ræðslu. Báturin, tey skulu við, vísir seg at vera eitt slitið fiskifar, og í Eystursjónum væntast ringasti stormurin á vetrinum. 2. partur av 4. Broadcast Company	SVT</desc>
+  </programme>
+  <programme start="20260626220000 " stop="20260626222500 " channel="kvf.fo">
+    <title>Dagur og vika</title>
+    <sub-title>- við teksti</sub-title>
+  </programme>
+  <programme start="20260626222500 " stop="20260626223000 " channel="kvf.fo">
+    <title>Veðrið</title>
+  </programme>
+  <programme start="20260626223000 " stop="20260626224000 " channel="kvf.fo">
+    <title>Loppumarknaðarprei 1:6</title>
+    <sub-title>- svensk røð frá 2022</sub-title>
+    <desc>Postalín frá 60´unum og virðismikla glaslist á loppumarknaði í Skurup. Tú fært prei um, hvussu tú tingast á loppumarknaði, og Sofia Rågenklint fær eina uppgávu frá Maria Granström, fornlutaserfrøðingi.</desc>
+  </programme>
+  <programme start="20260626224000 " stop="20260626225000 " channel="kvf.fo">
+    <title>Loppumarknaðarprei 2:6</title>
+    <sub-title>- svensk røð frá 2022</sub-title>
+    <desc>Sofia Rågenklint fer á loppmarknað í Sjöbo og kekkar møblarák og lampur við antikserkønu Maria Granström.</desc>
+  </programme>
+  <programme start="20260626225000 " stop="20260626235000 " channel="kvf.fo">
+    <title>FIFA HM 2026: Uruguai - Spania</title>
   </programme>
 </tv>
