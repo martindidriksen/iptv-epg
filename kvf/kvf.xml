@@ -3,30 +3,6 @@
   <channel id="kvf.fo">
     <display-name>KVF</display-name>
   </channel>
-  <programme start="20260620142000 " stop="20260620165000 " channel="kvf.fo">
-    <title>Kappróður: Jóansøka í Vági</title>
-  </programme>
-  <programme start="20260620165000 " stop="20260620190000 " channel="kvf.fo">
-    <title>FIFA HM 2026: Holland - Svøríki</title>
-  </programme>
-  <programme start="20260620190000 " stop="20260620193000 " channel="kvf.fo">
-    <title>Pengar pengar pengar - við Esben Bjerre 2:4</title>
-    <sub-title>- hvítvask</sub-title>
-    <desc>Vit hoyra alla tíðina um milliónirnar, sum seyra úr skipanini í stórum hvítvask-gølum. Men hvussu gera bandittarnir? Og tá hvítvasking fyri uml. 2000 mió. dollarar fer fram, hví fáa tú og eg so ikki ein bita av køkuni?</desc>
-  </programme>
-  <programme start="20260620193000 " stop="20260620195000 " channel="kvf.fo">
-    <title>Løgfrøðingurin 2:3</title>
-    <sub-title>- svensk stuttrøð frá 2022</sub-title>
-    <desc>Vilja klientar veruliga lata hús og íbúð til fólk, tey als ikki kenna? 2. partur av 3. Broadcast Company	SVTr fr</desc>
-  </programme>
-  <programme start="20260620195000 " stop="20260620220000 " channel="kvf.fo">
-    <title>FIFA HM 2026: Týskland - Fílabeinsstrondin</title>
-  </programme>
-  <programme start="20260620220000 " stop="20260621070000 " channel="kvf.fo">
-    <title>Lost Girls and Love Hotels</title>
-    <sub-title>- amr. ræðufilmur frá 2020</sub-title>
-    <desc>Margaret (Alexandra Daddario) er ein vónbrotin amerikansk genta, sum býr einsamøll í Tokyo. Hon drekkur illa og brúkar næturnar saman við tilvildarligum monnum á teimum kendu "kærleikshotellunum". Tá hon ein dagin hittir gátuføra og pínda Kazu (Takehiro Hira), gerst hon bergtikin av honum. Men gevur hansara lív sum Yakuza-limur rúm fyri kærleika? Hava tey bæði møguleika fyri eini framtíð saman? Ein filmur eftir svenska leikstjóran William Olsson við Alexandru Daddario (The White Lotus) í høvuðleiklutinum. Framleiðsluár: 2020 Aldursmark:15</desc>
-  </programme>
   <programme start="20260621070000 " stop="20260621072100 " channel="kvf.fo">
     <title>MORSA 6:12</title>
     <sub-title>- føroysk barnarøð</sub-title>
@@ -249,7 +225,46 @@
     <sub-title>- svensk røð frá 2022</sub-title>
     <desc>Sofia Rågenklint fer á loppmarknað í Sjöbo og kekkar møblarák og lampur við antikserkønu Maria Granström.</desc>
   </programme>
-  <programme start="20260626225000 " stop="20260626235000 " channel="kvf.fo">
+  <programme start="20260626225000 " stop="20260627005000 " channel="kvf.fo">
     <title>FIFA HM 2026: Uruguai - Spania</title>
+  </programme>
+  <programme start="20260627005000 " stop="20260627180000 " channel="kvf.fo">
+    <title>FIFA HM 2026: Jordan - Argentina</title>
+  </programme>
+  <programme start="20260627180000 " stop="20260627183500 " channel="kvf.fo">
+    <title>Úr savninum: Nýggjar røddir á tingi</title>
+    <sub-title>- føroyskur dokumentarur</sub-title>
+    <desc>Á løgtingsvalinum í fjør vann høgravongurin á vinstravonginum, og vinstravongurin mátti lata valdið frá sær. Men flokkarnir, sum sótu í samgongu farna valskeið, kundu fegnast um, at teir fingu heilt nýggjar politikarar valdar á ting. Tann 25 ára gamli, Bjarni Kárason Petersen, varð valdur fyri Framsókn, og nýggjur tinglimur fyri Tjóðveldi gjørdist tann 23 ára gamla, Hervør Pálsdóttir. Á javnaðarlistanum streyk tann 28 ára gamla, Ingilín Didriksen Strøm, inn á ting. Toppskorari millum tey ungu gjørdist tó Beinir Johannesen úr Fólkaflokkinum, sum vað valdur við 995 atkvøðum. Lagt til rættis: Uni Arge. Filmað og klipt: Jógvan Eli Dam.</desc>
+  </programme>
+  <programme start="20260627183500 " stop="20260627190500 " channel="kvf.fo">
+    <title>Pengar pengar pengar - við Esben Bjerre 3:4</title>
+    <sub-title>- ríkidømi</sub-title>
+    <desc>Tey ríku gerast ríkari, meðan ójavnin veksur. Vit hava hoyrt tað fyrr, men vit hava ikki loyst tað. Skulu tey ríku skattast meira? Og hvussu vinna tey ríku í roynd og veru pengarnar? Esben vitjar eini hjún í Florida, tey eru limir í einum ríkmannafelag og koyra Porche við einum millióningi, sum heldur, at tey ríku skulu gjalda meira skatt.</desc>
+  </programme>
+  <programme start="20260627190500 " stop="20260627192000 " channel="kvf.fo">
+    <title>Løgfrøðingurin 3:3</title>
+    <sub-title>- svensk stuttrøð frá 2022</sub-title>
+    <desc>Prátið við løgfrøðingin, sum var avtalað, varð av ongum. Hann svarar ikki telduposti longur ei heldur telefon. Man tað bera til at fáa svarað týdningarmesta spurninginum: Er hann svikari? 3. partur av 3. Broadcast Company	SVT</desc>
+  </programme>
+  <programme start="20260627192000 " stop="20260627195000 " channel="kvf.fo">
+    <title>Deyðiligir dreymakroppar 1:3</title>
+    <sub-title>- skíti á um eg doyggi ungur, da.dokumentar fra 2023</sub-title>
+    <desc>21 ára gamli Chap er farin úr Danmark sjálvboðin í kríggj í Ukraine. Uttan trygdarnet. I Danmark er eitt sjálvboðið undirgrundarnet av veteranum, sum virkar sum bakland fyri aðrar danskar hermenn. Heima hjá mammu Chap liggur eitt skilnaðarbræv frá soninum - til at lata upp, um tað ringasta skuldi hent.</desc>
+  </programme>
+  <programme start="20260627195000 " stop="20260627220000 " channel="kvf.fo">
+    <title>FIFA HM 2026: Panama - Ongland</title>
+  </programme>
+  <programme start="20260627220000 " stop="20260627221000 " channel="kvf.fo">
+    <title>Loppumarknaðarprei 3:6</title>
+    <sub-title>- svensk røð frá 2022</sub-title>
+    <desc>Sofia Rågenklint og antikkserkøna Maria Granström finna leikur frá Steiff og designmøblar á loppumarknaði í Ånäset. Tú fært ráð um, hvussu tú velur rætt silvur á aloppumarknaði, og hvørjum tú skalt hyggja eftir.</desc>
+  </programme>
+  <programme start="20260627221000 " stop="20260627222000 " channel="kvf.fo">
+    <title>Loppumarknaðarprei 4:6</title>
+    <sub-title>- svensk røð frá 2022</sub-title>
+    <desc>Sofia Rågenklint vitjar ein antikvitetshandil í Rödåsel uttan fyri Umeå við serkønu Mariu Granström. Vit læra um virðið av smálutum í urtagarðinum, um urtagarðsinnrætting og kakkelovnar.</desc>
+  </programme>
+  <programme start="20260627222000 " stop="20260627232000 " channel="kvf.fo">
+    <title>FIFA HM 2026: Kolumbia - Portugal</title>
   </programme>
 </tv>
