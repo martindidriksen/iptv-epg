@@ -3,32 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260621183000 +0000" stop="20260621185000 +0000" channel="ruv2.is">
-    <title>Stofan</title>
-    <desc>Umfjallanir um leiki á HM karla í fótbolta.
-
-Upphitun fyrir leik Belgíu og Íran á HM karla í fótbolta.</desc>
-  </programme>
-  <programme start="20260621185200 +0000" stop="20260621210700 +0000" channel="ruv2.is">
-    <title>Belgía - Íran</title>
-    <desc>Leikir á HM karla í fótbolta.
-
-Leikur Belgíu og Íran á HM karla í fótbolta.</desc>
-  </programme>
-  <programme start="20260621211200 +0000" stop="20260621215700 +0000" channel="ruv2.is">
-    <title>HM kvöld</title>
-    <desc>Samantekt frá leikjum dagsins á HM karla í fótbolta.</desc>
-  </programme>
-  <programme start="20260621215900 +0000" stop="20260622001900 +0000" channel="ruv2.is">
-    <title>Úrúgvæ - Grænhöfðaeyjar</title>
-    <desc>Leikir á HM karla í fótbolta.
-
-Leikur Úrúgvæ og Grænhöfðaeyja á HM karla í fótbolta.</desc>
-  </programme>
-  <programme start="20260622001900 +0000" stop="20260622003900 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20260622164500 +0000" stop="20260622191000 +0000" channel="ruv2.is">
     <title>Argentína - Austurríki</title>
     <desc>Leikir á HM karla í fótbolta.
@@ -240,5 +214,23 @@ Leikur Kongó og Úsbekistan á HM karla í fótbolta.</desc>
     <desc>Leikir á HM karla í fótbolta.
 
 Leikur Alsír og Austurríkis á HM karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260628183000 +0000" stop="20260628185000 +0000" channel="ruv2.is">
+    <title>Stofan</title>
+    <desc>Umfjallanir um leiki á HM karla í fótbolta.
+
+Upphitun fyrir 32-liða úrslit á HM karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260628185000 +0000" stop="20260628210500 +0000" channel="ruv2.is">
+    <title>32-liða úrslit</title>
+    <desc>Leikir á HM karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260628210500 +0000" stop="20260628212500 +0000" channel="ruv2.is">
+    <title>HM kvöld</title>
+    <desc>Samantekt frá leikjum dagsins á HM karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260628212500 +0000" stop="20260628214500 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
 </tv>
