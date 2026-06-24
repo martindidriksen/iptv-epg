@@ -3,277 +3,55 @@
   <channel id="dr1.dk">
     <display-name>DR1</display-name>
   </channel>
-  <programme start="20260622220000 +0000" stop="20260623005000 +0000" channel="dr1.dk">
-    <title>FIFA VM 2026: Frankrig - Irak, direkte</title>
-    <desc>Frankrig er en del af favoritfeltet ved dette års VM, så der er ingen tvivl om, hvem der vurderes stærkest i aftenens sene opgør i gruppe I. Modstanderen er Irak, som måtte den længst mulige vej gennem kvalifikationen for at nå frem til VM. I dag står de over for en kæmpemæssig udfordring, når de franske verdensmestre fra 2018 venter på stadion i Philadelphia.
-Kommentator: Henrik Liniger.</desc>
-    <episode-num system="xmltv_ns">2025.20.0</episode-num>
-  </programme>
-  <programme start="20260623005000 +0000" stop="20260623022100 +0000" channel="dr1.dk">
-    <title>Hercule Poirot: De fire store</title>
-    <desc>Engelsk krimi fra 2013.
-(Agatha Christie's Poirot: The Big Four)
-Verden befinder sig på randen af krig, og Fredspartiet holder en stor reception i et forsøg på at vise internationalt sammenhold. Gæsterne tæller blandt andre selveste Hercule Poirot. Snart bliver den lille detektiv involveret i en gådefuld sammensværgelse, der ender med hans egen begravelse...
-Poirot: David Suchet.
-Japp: Philip Jackson.
-Hastings: Hugh Fraser.
-Instruktion: Peter Lydon.</desc>
-    <episode-num system="xmltv_ns">12.1.0</episode-num>
-  </programme>
-  <programme start="20260623022100 +0000" stop="20260623025000 +0000" channel="dr1.dk">
-    <title>Udsendelsesophør</title>
-    <desc>.</desc>
-  </programme>
-  <programme start="20260623025000 +0000" stop="20260623035000 +0000" channel="dr1.dk">
-    <title>FIFA VM 2026: Jordan - Algeriet, direkte</title>
-    <desc>For første gang nogensinde er Jordan med ved en VM-slutrunde. Siden 1986 har holdet forgæves forsøgt at kvalificere sig, men i 2026 - efter ti kiksede forsøg - er holdet endelig med i det fine selskab. Dagens modstander fra Algeriet har også måttet vente - men "kun" 12 år - på igen at være med ved en VM-slutrunde, selvom holdet i en årrække har været blandt Afrikas bedste mandskaber.
-Kommentatorer: Mads Thyrsted og Kenneth Møller Pedersen.</desc>
-    <episode-num system="xmltv_ns">2025.21.0</episode-num>
-  </programme>
-  <programme start="20260623035000 +0000" stop="20260623040000 +0000" channel="dr1.dk">
+  <programme start="20260623235000 +0000" stop="20260624000000 +0000" channel="dr1.dk">
     <title>TVA</title>
-    <desc>Andy Burnham vil være den næste leder for Labour og premierminister i Storbritannien. Det annoncerede han i et opslag på X, efter at den nuværende premierminister, Keir Starmer, har meddelt, at han trækker sig.
+    <desc>110 værnepligtige soldater skal udsendes til Grønland for at deltage i operative opgaver. Det siger forsvarsminister Jeppe Bruus tirsdag.
 
 TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
   </programme>
-  <programme start="20260623040000 +0000" stop="20260623050000 +0000" channel="dr1.dk">
-    <title>FIFA VM 2026: Jordan - Algeriet, direkte</title>
-    <desc>For første gang nogensinde er Jordan med ved en VM-slutrunde. Siden 1986 har holdet forgæves forsøgt at kvalificere sig, men i 2026 - efter ti kiksede forsøg - er holdet endelig med i det fine selskab. Dagens modstander fra Algeriet har også måttet vente - men "kun" 12 år - på igen at være med ved en VM-slutrunde, selvom holdet i en årrække har været blandt Afrikas bedste mandskaber.
-Kommentatorer: Mads Thyrsted og Kenneth Møller Pedersen.</desc>
-    <episode-num system="xmltv_ns">2025.21.0</episode-num>
-  </programme>
-  <programme start="20260623050000 +0000" stop="20260623051500 +0000" channel="dr1.dk">
-    <title>TVA</title>
-    <desc>Tre rådgivningstilbud oplever en ny type henvendelser, som efter deres vurdering har forbindelse til sadistiske onlinefælleskaber, hvor primært unge mænd presser unge til selvskade, seksuel ydmygelse og i værste tilfælde selvmord.
-
-TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260623051500 +0000" stop="20260623060000 +0000" channel="dr1.dk">
-    <title>FIFA VM 2026 mens du sov</title>
-    <desc>Nyt fra VM-land til morgenkaffen, så du kan sove om natten uden at misse det bedste fra slutrunden. Alle mål, de største højdepunkter og de vigtigste nyheder fra VM i fodbold. Vi guider dig sikkert igennem nattens kampe og serverer de seneste nyheder.
-Vært: Kian Fonoudi.</desc>
-  </programme>
-  <programme start="20260623060000 +0000" stop="20260623061500 +0000" channel="dr1.dk">
-    <title>TVA</title>
-    <desc>Tre rådgivningstilbud oplever en ny type henvendelser, som efter deres vurdering har forbindelse til sadistiske onlinefælleskaber, hvor primært unge mænd presser unge til selvskade, seksuel ydmygelse og i værste tilfælde selvmord.
-
-TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260623061500 +0000" stop="20260623070000 +0000" channel="dr1.dk">
-    <title>FIFA VM 2026 mens du sov</title>
-    <desc>Nyt fra VM-land til morgenkaffen, så du kan sove om natten uden at misse det bedste fra slutrunden. Alle mål, de største højdepunkter og de vigtigste nyheder fra VM i fodbold. Vi guider dig sikkert igennem nattens kampe og serverer de seneste nyheder.
-Vært: Kian Fonoudi.</desc>
-  </programme>
-  <programme start="20260623070000 +0000" stop="20260623075500 +0000" channel="dr1.dk">
-    <title>Aftenshowet</title>
-    <desc>Kvinders sygdomme og skader har længe været et overset område i sundhedsvæsenet. I aften møder kvinder med endometriose og fødselsskader sundhedsminister Ida Auken til en snak om, hvordan uligheden kan mindskes. Vi ser også nærmere på de tragiske drukneulykker i grusgravssøerne ved Roskilde og spørger, hvorfor de fortsat sker. Derudover får vi besøg af to sosu-medarbejdere fra Grenaa, som er blevet mødt af en kærlighedsstorm efter en dokumentar om deres arbejde. Og sammen med Hr Skæg og Sælma Alakhir undersøger vi, om cirkus stadig kan samle og begejstre danske børnefamilier i 2026.
-Aftenens vært: Kristian Ring-Hansen Holt.
-
-DR1s journalistiske talkshow direkte fra Rådhuspladsen i København.</desc>
-    <episode-num system="xmltv_ns">2025.89.0</episode-num>
-  </programme>
-  <programme start="20260623080000 +0000" stop="20260623083000 +0000" channel="dr1.dk">
-    <title>Husdrømme på Sicilien III (1:8)</title>
-    <desc>Svensk livsstilsserie fra 2022. 
-(Husdrömmar Sicilien)
-Hvornår bliver man færdig med sin husdrøm? Bill og Marie har forvandlet det udslidte Palazzo Cirillo til deres andet hjem og fikset den vildtvoksne have. Nu er de klar til at tage sig af husets gadeplan. Samtidig vil de opleve mere af Sicilien, og programtilrettelæggeren Pernilla Månsson Colt har en plan om, hvordan det skal foregå.</desc>
-    <episode-num system="xmltv_ns">2.0.0</episode-num>
-  </programme>
-  <programme start="20260623083000 +0000" stop="20260623091500 +0000" channel="dr1.dk">
-    <title>Dyrlægerne i Yorkshire XIV (9:10)</title>
-    <desc>Britisk dokumentarserie fra 2022.
-(The Yorkshire Vet)
-Peter skal håndtere det mest tilgroede skildpadde-næb, han nogensinde har set. Julian behandler en Vizsla-hvalp, der for anden gang har spist en opvaskesvamp. Og David tilser et får, der har fået en livstruende prolaps.</desc>
-    <episode-num system="xmltv_ns">13.8.0</episode-num>
-  </programme>
-  <programme start="20260623091500 +0000" stop="20260623100000 +0000" channel="dr1.dk">
-    <title>Antikkrejlerne XXVI (14:25)</title>
-    <desc>Antikvitetseksperter konkurrerer mod hinanden om at købe antikviteter og sælge dem på auktion.</desc>
-    <episode-num system="xmltv_ns">25.13.0</episode-num>
-  </programme>
-  <programme start="20260623100000 +0000" stop="20260623101500 +0000" channel="dr1.dk">
-    <title>TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260623101500 +0000" stop="20260623104500 +0000" channel="dr1.dk">
-    <title>Frank &amp; Kastaniegaarden - Storkepar og vindueskitning</title>
-    <desc>Til Franks store glæde er et storkepar ankommet til Kastaniegaarden, hvor parret checker den nyrenoverede og indflytningsklare storkerede ud. Der skal laves hegn og kittes vinduer, og Frank nyder at det er sæson for at kunne malke udenfor.</desc>
-    <episode-num system="xmltv_ns">2022.7.0</episode-num>
-  </programme>
-  <programme start="20260623104500 +0000" stop="20260623113500 +0000" channel="dr1.dk">
-    <title>Nak &amp; Æd - en krage i Danmark (4:10)</title>
-    <desc>Sæson 6 (2015).
-Det er forår i Danmark. Jørgen og Nikolaj har slået lejr i Bjerregrav Mose. Her vil de prøve at få ram på en krage. Men krager både ser og hører godt. Derfor har de to venner allieret sig med den lokale kragejæger Kalle, som med lokkekrager og kragelyde skal hjælpe de to venner med at få en krage i gryden. Lykkedes missionen ikke, skal Nikolaj til gengæld kokkerere en nilgås.
-Sendt første gang 18.10.2015</desc>
-    <episode-num system="xmltv_ns">5.3.0</episode-num>
-  </programme>
-  <programme start="20260623113500 +0000" stop="20260623122000 +0000" channel="dr1.dk">
-    <title>Hammerslag 2018 (19)</title>
-    <desc>Hammerslag åbner i aften dørene til tre liebhaverboliger, der alle ligger ved den maleriske Isefjord. 
-Første udfordring for hold Øst og Vest er i den lille by Hagested, hvor der venter en ægte liebhaverejendom i al sin pomp og pragt.
-Der skal også sættes pris på et gammelt fiskerhus i første parket til Holbæk Fjord, og til sidst venter der en villa i et af Holbæks mest prominente kvarterer, som har en helt særlig historie. 
-Vært: Christian Degn</desc>
-    <episode-num system="xmltv_ns">2017.18.0</episode-num>
-  </programme>
-  <programme start="20260623122000 +0000" stop="20260623125000 +0000" channel="dr1.dk">
-    <title>Kender Du Typen? - Italiensk luksus i køkkenet</title>
-    <desc>Hvem er det, der har bygget sit køkken om for at få plads til kaffemaskinen fra Italien? Og som elsker at gøre det selv?
-Det skal livsstilseksperterne Anne Glad Wagner og Jacob Holst Mouritzen regne ud, når Kender Du Typen? besøger en murermestervilla i Rødovre med klassiske danske dimser og italienske noter. 
-Vært: Tobias Hansen.</desc>
-    <episode-num system="xmltv_ns">2025.2.0</episode-num>
-  </programme>
-  <programme start="20260623125000 +0000" stop="20260623142000 +0000" channel="dr1.dk">
-    <title>Hercule Poirot: Tæppefald - Poirots sidste sag</title>
-    <desc>Engelsk krimi fra 2013.
-(Agatha Christie's Poirot: Curtain)
-Den aldrende Poirot genforenes med sin gamle ven Hastings på godset Styles, hvor de opklarede deres første sag sammen for 30 år siden. Poirot er bundet til en kørestol, men de små grå celler fejler ikke noget. Den lille detektiv er sikker på, at der igen er en morder på spil på Styles, og i sin sidste sag nogensinde må han bruge sine bedste evner for at afsløre vedkommende.
-Poirot: David Suchet.
-Elizabeth Cole: Helen Baxendale.
-Hastings: Hugh Fraser.
-Instruktion: Hettie Macdonald.</desc>
-    <episode-num system="xmltv_ns">12.4.0</episode-num>
-  </programme>
-  <programme start="20260623142000 +0000" stop="20260623151500 +0000" channel="dr1.dk">
-    <title>Jordemoderen VIII (5:10)</title>
-    <desc>Engelsk dramaserie fra 2019.
-(Call the Midwife)
-En mæslingeepidemi spreder sig i Østlondon, og dr. Turner beslutter at gøre bydelens mødre klogere på sygdommen. Samtidig forsøger han at hjælpe en mor, der har mistet et barn og nu er stærkt bekymret for sit andet barns helbred.</desc>
-    <episode-num system="xmltv_ns">7.4.0</episode-num>
-  </programme>
-  <programme start="20260623151500 +0000" stop="20260623153000 +0000" channel="dr1.dk">
-    <title>TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260623153000 +0000" stop="20260623160000 +0000" channel="dr1.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
-    <episode-num system="xmltv_ns">2025.92.0</episode-num>
-  </programme>
-  <programme start="20260623160000 +0000" stop="20260623163000 +0000" channel="dr1.dk">
-    <title>FIFA VM 2026: VM-studiet</title>
-    <desc>VM 2026 skriver historie som det største verdensmesterskab i fodbold nogensinde - med 48 nationer og tre værtslande. Fra VM-studiet i Aarhus og direkte fra Nordamerika bringer værter, reportere og eksperter seerne tæt på kampene, stemningen og historierne.
-Vært : Tobias Hansen.</desc>
-    <episode-num system="xmltv_ns">2025.26.0</episode-num>
-  </programme>
-  <programme start="20260623163000 +0000" stop="20260623164000 +0000" channel="dr1.dk">
-    <title>TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260623164000 +0000" stop="20260623170000 +0000" channel="dr1.dk">
-    <title>FIFA VM 2026: VM-studiet</title>
-    <desc>VM 2026 skriver historie som det største verdensmesterskab i fodbold nogensinde - med 48 nationer og tre værtslande. Fra VM-studiet i Aarhus og direkte fra Nordamerika bringer værter, reportere og eksperter seerne tæt på kampene, stemningen og historierne.
-Vært : Tobias Hansen.</desc>
-    <episode-num system="xmltv_ns">2025.26.0</episode-num>
-  </programme>
-  <programme start="20260623170000 +0000" stop="20260623175000 +0000" channel="dr1.dk">
-    <title>FIFA VM 2026: Portugal - Uzbekistan, direkte</title>
-    <desc>Så gælder det anden gruppekamp for Portugal og Uzbekistan, når de to tørner sammen i Houston. Portugal er på forhånd udråbt til storfavoritter, men spørgsmålet er, om usbekernes landstræner, Fabio Cannavaro, der selv var en af verdens bedste forsvarsspillere som aktiv, kan få sit holds defensiv til at tæmme den skræmmende portugisiske offensiv. 
-Kommentatorer: Mathias Jacobsen og Mikkel Bischoff.</desc>
-    <episode-num system="xmltv_ns">2025.22.0</episode-num>
-  </programme>
-  <programme start="20260623175000 +0000" stop="20260623175500 +0000" channel="dr1.dk">
-    <title>TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260623175500 +0000" stop="20260623190000 +0000" channel="dr1.dk">
-    <title>FIFA VM 2026: Portugal - Uzbekistan, direkte</title>
-    <desc>Så gælder det anden gruppekamp for Portugal og Uzbekistan, når de to tørner sammen i Houston. Portugal er på forhånd udråbt til storfavoritter, men spørgsmålet er, om usbekernes landstræner, Fabio Cannavaro, der selv var en af verdens bedste forsvarsspillere som aktiv, kan få sit holds defensiv til at tæmme den skræmmende portugisiske offensiv. 
-Kommentatorer: Mathias Jacobsen og Mikkel Bischoff.</desc>
-    <episode-num system="xmltv_ns">2025.22.0</episode-num>
-  </programme>
-  <programme start="20260623190000 +0000" stop="20260623192500 +0000" channel="dr1.dk">
-    <title>FIFA VM 2026: VM-studiet</title>
-    <desc>VM 2026 skriver historie som det største verdensmesterskab i fodbold nogensinde - med 48 nationer og tre værtslande. Fra VM-studiet i Aarhus og direkte fra Nordamerika bringer værter, reportere og eksperter seerne tæt på kampene, stemningen og historierne.
-Vært : Tobias Hansen.</desc>
-    <episode-num system="xmltv_ns">2025.27.0</episode-num>
-  </programme>
-  <programme start="20260623192500 +0000" stop="20260623195500 +0000" channel="dr1.dk">
-    <title>Aftenshowet - Sankt Hans Aften</title>
-    <desc>I aften sender vi en særudsendelse på DR1 direkte fra den stemningsfulde Sankt Hans aften i Skyttehushaven i Vejle. Fællesskab, sang og bål er omdrejningspunktet, når byen samles - og alle er inviteret med. 
-Aftenens vært er Mark Stokholm.</desc>
-  </programme>
-  <programme start="20260623195500 +0000" stop="20260623202500 +0000" channel="dr1.dk">
-    <title>Heksejagt: Farlig magi</title>
-    <desc>Tortur, angiveri og mennesker, der bliver brændt på bålet. I en kort, brutal periode er det hverdag i Danmark. Her ender næsten tusind danskere i flammerne - dømt og henrettet for hekseri. Tag med historiker Emma Paaske til 1600-tallets mørke, hvor frygten og troen på sort magi får fatale konsekvenser. Bl.a. for den kloge kone Bodil fra Djursland, der med ét er blevet en samfundsfjende.</desc>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-  </programme>
-  <programme start="20260623202500 +0000" stop="20260623211000 +0000" channel="dr1.dk">
-    <title>Drabschef Wisting: Ond vilje (3:4)</title>
-    <desc>Norsk krimiserie fra 2021.
-En kvinde forsvinder. Hendes forsvinden får Wisting og Stiller til at frygte, at drabsmændene er ved at forlade landet. Men er det nye offer egentlig blevet kidnappet?</desc>
-  </programme>
-  <programme start="20260623211000 +0000" stop="20260623220000 +0000" channel="dr1.dk">
-    <title>Drabschef Wisting: Ond vilje (4:4)</title>
-    <desc>Norsk krimiserie fra 2021.
-Lines chokerende fund vender op og ned på politiets teori om "den anden". Gerningsmanden er ved at skaffe sig af med løse tråde, og tiden løber snart ud. Wisting opdager den hemmelighed, som hans datter har holdt skjult for ham.</desc>
-  </programme>
-  <programme start="20260623220000 +0000" stop="20260623222500 +0000" channel="dr1.dk">
-    <title>Welcome to Wrexham (13:18)</title>
-    <desc>Holdændringer truer Wrexhams momentum, mens de forbereder sig på opgøret mod ligaens bundhold.</desc>
-    <episode-num system="xmltv_ns">0.12.0</episode-num>
-  </programme>
-  <programme start="20260623222500 +0000" stop="20260623224800 +0000" channel="dr1.dk">
-    <title>Welcome to Wrexham (14:18)</title>
-    <desc>Ryan Reynolds overrasker holdet med et besøg, mens Wrexham forbereder sig på sæsonens største opgør mod Stockport County - deres rivaler i oprykningskampen.</desc>
-    <episode-num system="xmltv_ns">0.13.0</episode-num>
-  </programme>
-  <programme start="20260623224800 +0000" stop="20260623225000 +0000" channel="dr1.dk">
-    <title>OBS</title>
-    <desc>.</desc>
-  </programme>
-  <programme start="20260623225000 +0000" stop="20260623235000 +0000" channel="dr1.dk">
+  <programme start="20260624000000 +0000" stop="20260624005500 +0000" channel="dr1.dk">
     <title>FIFA VM 2026: Panama - Kroatien, direkte</title>
     <desc>Panama er på papiret oppe mod overmagten i skikkelse af Kroatien, når de to lande mødes i Toronto. Det vil være en regulær VM-sensation, hvis dansk-spanske Thomas Christiansens mandskab kan besejre de kroatiske stjerner. Kroatien, der fortsat har veteranen og midtbanemaestroen Luka Modric på holdet, har taget hhv. bronze- og sølvmedaljer ved de seneste to VM-slutrunder, så de er om nogen klar over, hvad der kræves for at nå langt i turneringen. De øvrige hold i Gruppe L er England og Ghana, der kort forinden har mødt hinanden i Boston.
 Kommentator: Zak Egholm.</desc>
     <episode-num system="xmltv_ns">2025.23.0</episode-num>
   </programme>
-  <programme start="20260623235000 +0000" stop="20260623235500 +0000" channel="dr1.dk">
-    <title>TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260623235500 +0000" stop="20260624011000 +0000" channel="dr1.dk">
-    <title>FIFA VM 2026: Panama - Kroatien, direkte</title>
-    <desc>Panama er på papiret oppe mod overmagten i skikkelse af Kroatien, når de to lande mødes i Toronto. Det vil være en regulær VM-sensation, hvis dansk-spanske Thomas Christiansens mandskab kan besejre de kroatiske stjerner. Kroatien, der fortsat har veteranen og midtbanemaestroen Luka Modric på holdet, har taget hhv. bronze- og sølvmedaljer ved de seneste to VM-slutrunder, så de er om nogen klar over, hvad der kræves for at nå langt i turneringen. De øvrige hold i Gruppe L er England og Ghana, der kort forinden har mødt hinanden i Boston.
-Kommentator: Zak Egholm.</desc>
-    <episode-num system="xmltv_ns">2025.23.0</episode-num>
-  </programme>
-  <programme start="20260624011000 +0000" stop="20260624015500 +0000" channel="dr1.dk">
+  <programme start="20260624005500 +0000" stop="20260624014000 +0000" channel="dr1.dk">
     <title>Antikkrejlerne XXVI (12:25)</title>
     <desc>Antikvitetseksperter konkurrerer mod hinanden om at købe antikviteter og sælge dem på auktion.</desc>
     <episode-num system="xmltv_ns">25.11.0</episode-num>
   </programme>
-  <programme start="20260624015500 +0000" stop="20260624023500 +0000" channel="dr1.dk">
+  <programme start="20260624014000 +0000" stop="20260624022300 +0000" channel="dr1.dk">
     <title>Hvor ingen skulle tro, at nogen kunne bo XXIV (5:8)</title>
     <desc>Norsk dokumentarserie fra 2025.
 (Der ingen skulle tru at nokon kunne bu)
 Eline B. Gulsrud flytter til højfjeldet med børnene for at drive en turisthytte. Manden er blevet i byen. Det nye liv bliver meget mere barskt, end hun havde forestillet sig.</desc>
     <episode-num system="xmltv_ns">2025.4.0</episode-num>
   </programme>
-  <programme start="20260624023500 +0000" stop="20260624031000 +0000" channel="dr1.dk">
-    <title>Udsendelsesophør</title>
-    <desc>.</desc>
-  </programme>
-  <programme start="20260624042000 +0000" stop="20260624050000 +0000" channel="dr1.dk">
+  <programme start="20260624041500 +0000" stop="20260624050000 +0000" channel="dr1.dk">
     <title>I vikingernes fodspor (4:6)</title>
     <desc>Norsk rejseserie fra 2018.
 (Team Bachstad i Østerled)
 Øystein Bache og Rune Gokstad nærmer sig grænsen til Ukraine. Og mens deres los, Tore, må på hospitalet med et betændt knæ, går Øystein og Rune på grund og havner i en diplomatisk krise på floden mellem Hviderusland og Ukraine.</desc>
     <episode-num system="xmltv_ns">5.3.0</episode-num>
   </programme>
-  <programme start="20260624050000 +0000" stop="20260624051500 +0000" channel="dr1.dk">
+  <programme start="20260624050000 +0000" stop="20260624051000 +0000" channel="dr1.dk">
     <title>TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+    <desc>En person er blevet dræbt, da en bil kørte ind i et parcelhus i Tilst ved Aarhus. Ulykken skete, da en patruljevogn eftersatte personbilen, som endte med at køre ind i parcelhuset. Sagen behandles af Den Uafhængige Politiklagemyndighed (DUP). 
+
+TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
   </programme>
-  <programme start="20260624051500 +0000" stop="20260624060000 +0000" channel="dr1.dk">
+  <programme start="20260624051000 +0000" stop="20260624060000 +0000" channel="dr1.dk">
     <title>FIFA VM 2026 mens du sov</title>
     <desc>Nyt fra VM-land til morgenkaffen, så du kan sove om natten uden at misse det bedste fra slutrunden. Alle mål, de største højdepunkter og de vigtigste nyheder fra VM i fodbold. Vi guider dig sikkert igennem nattens kampe og serverer de seneste nyheder.
 Vært: Sarah Fisker.</desc>
   </programme>
-  <programme start="20260624060000 +0000" stop="20260624061500 +0000" channel="dr1.dk">
+  <programme start="20260624060000 +0000" stop="20260624061000 +0000" channel="dr1.dk">
     <title>TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+    <desc>En person er blevet dræbt, da en bil kørte ind i et parcelhus i Tilst ved Aarhus. Ulykken skete, da en patruljevogn eftersatte personbilen, som endte med at køre ind i parcelhuset. Sagen behandles af Den Uafhængige Politiklagemyndighed (DUP). 
+
+TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
   </programme>
-  <programme start="20260624061500 +0000" stop="20260624070000 +0000" channel="dr1.dk">
+  <programme start="20260624061000 +0000" stop="20260624070000 +0000" channel="dr1.dk">
     <title>FIFA VM 2026 mens du sov</title>
     <desc>Nyt fra VM-land til morgenkaffen, så du kan sove om natten uden at misse det bedste fra slutrunden. Alle mål, de største højdepunkter og de vigtigste nyheder fra VM i fodbold. Vi guider dig sikkert igennem nattens kampe og serverer de seneste nyheder.
 Vært: Sarah Fisker.</desc>
@@ -297,14 +75,14 @@ Bestyrelsen truer Sam med et ultimatum. Samtidig får Mary den kolde skulder af 
 Vennerne Sara og Patrik hilser på i Palazzo Cirillo, men når man er gæst hos Bill og Marie, bliver det ikke kun til ferie. Man bliver en del af familien og sættes i arbejde. Marie vil også være en god værtinde og fremviser sit elskede antikmarked i Palermo.</desc>
     <episode-num system="xmltv_ns">2.1.0</episode-num>
   </programme>
-  <programme start="20260624083000 +0000" stop="20260624091500 +0000" channel="dr1.dk">
+  <programme start="20260624083000 +0000" stop="20260624091000 +0000" channel="dr1.dk">
     <title>Dyrlægerne i Yorkshire XIV (10:10)</title>
     <desc>Britisk dokumentarserie fra 2022.
 (The Yorkshire Vet)
 Julian skal tilse ornen Hal, der har en stor knude på halsen. Men han har meget dårlige erfaringer med vrede grise, og Hal virker ikke til at være i humør til at blive undersøgt. Og Peter bliver en smule starstruck, da en berømt klient bringer sin hund til klinikken.</desc>
     <episode-num system="xmltv_ns">13.9.0</episode-num>
   </programme>
-  <programme start="20260624091500 +0000" stop="20260624100000 +0000" channel="dr1.dk">
+  <programme start="20260624091000 +0000" stop="20260624100000 +0000" channel="dr1.dk">
     <title>Antikkrejlerne XXVI (15:25)</title>
     <desc>Antikvitetseksperter konkurrerer mod hinanden om at købe antikviteter og sælge dem på auktion.</desc>
     <episode-num system="xmltv_ns">25.14.0</episode-num>
@@ -318,14 +96,14 @@ Julian skal tilse ornen Hal, der har en stor knude på halsen. Men han har meget
     <desc>Frank sorterer tækkerør og er spændt på om han består testen som tagrørsrenser. Han får nemlig besøg af tækkemændene Bjarne og Tony, som skal aftage hans tagrør. Fårene bliver flyttet og kaster sig over tjørnehækken og Frank får hjælp til at tagdække rørstakken.</desc>
     <episode-num system="xmltv_ns">2022.8.0</episode-num>
   </programme>
-  <programme start="20260624104500 +0000" stop="20260624113500 +0000" channel="dr1.dk">
+  <programme start="20260624104500 +0000" stop="20260624113600 +0000" channel="dr1.dk">
     <title>Nak &amp; Æd - en bæver i Sverige, 2. forsøg (5:10)</title>
     <desc>Sæson 6 (2015).
 Det er april. Jørgen og Nikolaj har pakket teltet og er draget til Sverige for endnu en gang at prøve at få ram på en bæver. De ved, at bæverjagt er en af de mest udholdende jagtformer. Og denne gang vil de fra kano prøve at sejle sig på skudhold af det vilde dyr. Det kræver derfor det ypperste af dem begge, hvis de to venner skal lykkes med at få bæverbøf på tallerkenen.
 Sendt første gang 25.10.2015</desc>
     <episode-num system="xmltv_ns">5.4.0</episode-num>
   </programme>
-  <programme start="20260624113600 +0000" stop="20260624121500 +0000" channel="dr1.dk">
+  <programme start="20260624113500 +0000" stop="20260624121500 +0000" channel="dr1.dk">
     <title>Krimiredaktøren: Moonflower-mordene (1:6)</title>
     <desc>Britisk krimiserie fra 2024.
 (Moonflower Murders)
@@ -339,7 +117,7 @@ Redaktøren Susan Ryeland og hendes samlever Andreas har slået sig ned på Kret
 Susan rejser til England. Her møder hun de andre mennesker i Cecilys liv. Hvem af dem er ansvarlig for hendes forsvinden? I fiktionens verden besøger Atticus Pünd og hans assistent miss Cain den berømte skuespiller Melissa James' hjem for at efterforske mordet på Melissa.</desc>
     <episode-num system="xmltv_ns">1.1.0</episode-num>
   </programme>
-  <programme start="20260624130500 +0000" stop="20260624135000 +0000" channel="dr1.dk">
+  <programme start="20260624130000 +0000" stop="20260624135000 +0000" channel="dr1.dk">
     <title>Krimiredaktøren: Moonflower-mordene (3:6)</title>
     <desc>Britisk krimiserie fra 2024.
 (Moonflower Murders)
@@ -353,7 +131,7 @@ Hvad vidste Alan Conway om mordet på Frank Parris? Og hvad er der blevet af Cec
 Søster Julienne drages ind i en konflikt mellem en mor og datter, som begge er gravide. Samtidig går det op for Phyllis Crane, at hun har en beundrer.</desc>
     <episode-num system="xmltv_ns">7.5.0</episode-num>
   </programme>
-  <programme start="20260624144500 +0000" stop="20260624151500 +0000" channel="dr1.dk">
+  <programme start="20260624144000 +0000" stop="20260624151500 +0000" channel="dr1.dk">
     <title>Krigens døgn</title>
     <desc>Forstå krigen mellem Ukraine og Rusland helt ned i detaljen. Med udgangspunkt i den seneste uges begivenheder zoomer vi sammen med Danmarks førende eksperter ind på krigens afgørende elementer.</desc>
     <episode-num system="xmltv_ns">4.19.0</episode-num>
@@ -365,6 +143,7 @@ Søster Julienne drages ind i en konflikt mellem en mor og datter, som begge er 
   <programme start="20260624153000 +0000" stop="20260624160000 +0000" channel="dr1.dk">
     <title>Deadline</title>
     <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <episode-num system="xmltv_ns">2025.93.0</episode-num>
   </programme>
   <programme start="20260624160000 +0000" stop="20260624163000 +0000" channel="dr1.dk">
     <title>Soccer-showet</title>
@@ -397,7 +176,8 @@ Vært : Tobias Hansen.</desc>
   </programme>
   <programme start="20260624190000 +0000" stop="20260624195000 +0000" channel="dr1.dk">
     <title>FIFA VM 2026: Schweiz - Canada, direkte</title>
-    <desc>.</desc>
+    <desc>Der er lagt op til et sandt topopgør i gruppe B, når Schweiz og værtsnationen Canada tørner sammen i Vancouver. Begge hold står med fire point efter de to første kampe og har dermed sat kurs mod 1/16-finalerne. Schweiz åbnede med 1-1 mod Qatar, inden Bosnien-Hercegovina blev besejret med hele 4-1, mens Canada efter 1-1 mod bosnierne sendte et stærkt signal til konkurrenterne med en knusende 6-0-sejr over Qatar. Førstepladsen i gruppe B er på spil, når to af gruppespillets hidtil mest overbevisende hold mødes.
+Kommentatorer: Zak Egholm og Kenneth Møller Pedersen.</desc>
     <episode-num system="xmltv_ns">2025.24.0</episode-num>
   </programme>
   <programme start="20260624195000 +0000" stop="20260624195500 +0000" channel="dr1.dk">
@@ -406,7 +186,8 @@ Vært : Tobias Hansen.</desc>
   </programme>
   <programme start="20260624195500 +0000" stop="20260624210000 +0000" channel="dr1.dk">
     <title>FIFA VM 2026: Schweiz - Canada, direkte</title>
-    <desc>.</desc>
+    <desc>Der er lagt op til et sandt topopgør i gruppe B, når Schweiz og værtsnationen Canada tørner sammen i Vancouver. Begge hold står med fire point efter de to første kampe og har dermed sat kurs mod 1/16-finalerne. Schweiz åbnede med 1-1 mod Qatar, inden Bosnien-Hercegovina blev besejret med hele 4-1, mens Canada efter 1-1 mod bosnierne sendte et stærkt signal til konkurrenterne med en knusende 6-0-sejr over Qatar. Førstepladsen i gruppe B er på spil, når to af gruppespillets hidtil mest overbevisende hold mødes.
+Kommentatorer: Zak Egholm og Kenneth Møller Pedersen.</desc>
     <episode-num system="xmltv_ns">2025.24.0</episode-num>
   </programme>
   <programme start="20260624210000 +0000" stop="20260624213000 +0000" channel="dr1.dk">
@@ -423,7 +204,7 @@ Vært : Tobias Hansen.</desc>
   </programme>
   <programme start="20260624220000 +0000" stop="20260624225000 +0000" channel="dr1.dk">
     <title>FIFA VM 2026: Skotland - Brasilien, direkte</title>
-    <desc>Så skal VMs indledende gruppe C afgøres, og det sker med et møde mellem to historisk set forskellige fodboldstilarter, når Skotland møder Brasilien i Miami. Skotterne kommer altid med stor gejst og vilje, men de har en uvane med altid at vinke farvel til VM efter gruppespillet. Brasilien som altid følges af store forventninger fra det fodboldgale publikum i hjemlandet, som helt sikkert også forventer sejr i aften. Samtidig med denne kamp mødes Marokko og Haiti i samme gruppe.
+    <desc>Så skal VMs indledende gruppe C afgøres, og det sker med et møde mellem to historisk set forskellige fodboldstilarter, når Skotland møder Brasilien i Miami. Skotterne kommer altid med stor gejst og vilje, men de har en uvane med altid at vinke farvel til VM efter gruppespillet. Brasilien som altid følges af store forventninger fra det fodboldgale publikum i hjemlandet, forventer helt sikkert også sejr i aften. Samtidig med denne kamp mødes Marokko og Haiti i samme gruppe.
 Kommentator: Henrik Liniger.</desc>
     <episode-num system="xmltv_ns">2025.26.0</episode-num>
   </programme>
@@ -433,11 +214,11 @@ Kommentator: Henrik Liniger.</desc>
   </programme>
   <programme start="20260624225500 +0000" stop="20260625001500 +0000" channel="dr1.dk">
     <title>FIFA VM 2026: Skotland - Brasilien, direkte</title>
-    <desc>Så skal VMs indledende gruppe C afgøres, og det sker med et møde mellem to historisk set forskellige fodboldstilarter, når Skotland møder Brasilien i Miami. Skotterne kommer altid med stor gejst og vilje, men de har en uvane med altid at vinke farvel til VM efter gruppespillet. Brasilien som altid følges af store forventninger fra det fodboldgale publikum i hjemlandet, som helt sikkert også forventer sejr i aften. Samtidig med denne kamp mødes Marokko og Haiti i samme gruppe.
+    <desc>Så skal VMs indledende gruppe C afgøres, og det sker med et møde mellem to historisk set forskellige fodboldstilarter, når Skotland møder Brasilien i Miami. Skotterne kommer altid med stor gejst og vilje, men de har en uvane med altid at vinke farvel til VM efter gruppespillet. Brasilien som altid følges af store forventninger fra det fodboldgale publikum i hjemlandet, forventer helt sikkert også sejr i aften. Samtidig med denne kamp mødes Marokko og Haiti i samme gruppe.
 Kommentator: Henrik Liniger.</desc>
     <episode-num system="xmltv_ns">2025.26.0</episode-num>
   </programme>
-  <programme start="20260625001500 +0000" stop="20260625014500 +0000" channel="dr1.dk">
+  <programme start="20260625001000 +0000" stop="20260625014000 +0000" channel="dr1.dk">
     <title>Hercule Poirot: Leg med mord</title>
     <desc>Engelsk krimi fra 2013.
 (Agatha Christie's Poirot: Dead Man's Folly)
@@ -448,7 +229,7 @@ Sir George Stubbs: Sean Pertwee.
 Instruktion: Tom Vaughan.</desc>
     <episode-num system="xmltv_ns">12.2.0</episode-num>
   </programme>
-  <programme start="20260625022500 +0000" stop="20260625021000 +0000" channel="dr1.dk">
+  <programme start="20260625014000 +0000" stop="20260625021000 +0000" channel="dr1.dk">
     <title>Udsendelsesophør</title>
     <desc>.</desc>
   </programme>
@@ -463,7 +244,7 @@ Båden 'Sirius' har været på værft i Ukraines hovedstad Kiev, før turen fort
     <title>TVA</title>
     <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
   </programme>
-  <programme start="20260625051500 +0000" stop="20260625060000 +0000" channel="dr1.dk">
+  <programme start="20260625051000 +0000" stop="20260625060000 +0000" channel="dr1.dk">
     <title>FIFA VM 2026 mens du sov</title>
     <desc>Nyt fra VM-land til morgenkaffen, så du kan sove om natten uden at misse det bedste fra slutrunden. Alle mål, de største højdepunkter og de vigtigste nyheder fra VM i fodbold. Vi guider dig sikkert igennem nattens kampe og serverer de seneste nyheder.
 Vært: Sarah Fisker.</desc>
@@ -472,7 +253,7 @@ Vært: Sarah Fisker.</desc>
     <title>TVA</title>
     <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
   </programme>
-  <programme start="20260625061500 +0000" stop="20260625070000 +0000" channel="dr1.dk">
+  <programme start="20260625061000 +0000" stop="20260625070000 +0000" channel="dr1.dk">
     <title>FIFA VM 2026 mens du sov</title>
     <desc>Nyt fra VM-land til morgenkaffen, så du kan sove om natten uden at misse det bedste fra slutrunden. Alle mål, de største højdepunkter og de vigtigste nyheder fra VM i fodbold. Vi guider dig sikkert igennem nattens kampe og serverer de seneste nyheder.
 Vært: Sarah Fisker.</desc>
@@ -480,20 +261,21 @@ Vært: Sarah Fisker.</desc>
   <programme start="20260625070000 +0000" stop="20260625073000 +0000" channel="dr1.dk">
     <title>Krigens døgn</title>
     <desc>Forstå krigen mellem Ukraine og Rusland helt ned i detaljen. Med udgangspunkt i den seneste uges begivenheder zoomer vi sammen med Danmarks førende eksperter ind på krigens afgørende elementer.</desc>
+    <episode-num system="xmltv_ns">4.19.0</episode-num>
   </programme>
-  <programme start="20260625073000 +0000" stop="20260625082500 +0000" channel="dr1.dk">
+  <programme start="20260625073000 +0000" stop="20260625083000 +0000" channel="dr1.dk">
     <title>Aftenshowet</title>
     <desc>DR1s journalistiske talkshow direkte fra Rådhuspladsen i København.</desc>
     <episode-num system="xmltv_ns">2025.90.0</episode-num>
   </programme>
-  <programme start="20260625083000 +0000" stop="20260625091500 +0000" channel="dr1.dk">
+  <programme start="20260625082500 +0000" stop="20260625091000 +0000" channel="dr1.dk">
     <title>Dyrlægerne i Yorkshire XV (1:13)</title>
     <desc>Britisk dokumentarserie fra 2022.
 (The Yorkshire Vet)
 Peter må yde akut hjælp til et drægtigt får. Julian opererer på en terrier, der lider af blæresten. Og Matt må udføre en stressende operation på en kamæleon, hvis æg sidder fast inde i hende.</desc>
     <episode-num system="xmltv_ns">14.0.0</episode-num>
   </programme>
-  <programme start="20260625091500 +0000" stop="20260625100000 +0000" channel="dr1.dk">
+  <programme start="20260625091000 +0000" stop="20260625100000 +0000" channel="dr1.dk">
     <title>Antikkrejlerne XXVI (16:25)</title>
     <desc>Antikvitetseksperter konkurrerer mod hinanden om at købe antikviteter og sælge dem på auktion.</desc>
     <episode-num system="xmltv_ns">25.15.0</episode-num>
@@ -514,7 +296,7 @@ Det er starten af juni. Jørgen og Nikolaj er kørt syd for grænsen til vores t
 Sendt første gang 01.11.2015</desc>
     <episode-num system="xmltv_ns">5.5.0</episode-num>
   </programme>
-  <programme start="20260625113000 +0000" stop="20260625113500 +0000" channel="dr1.dk">
+  <programme start="20260625113000 +0000" stop="20260625121500 +0000" channel="dr1.dk">
     <title>Krimiredaktøren: Moonflower-mordene (4:6)</title>
     <desc>Britisk krimiserie fra 2024.
 (Moonflower Murders)
@@ -540,10 +322,12 @@ Susan besøger Stefan i fængslet. Han er uskyldig, men han fortæller ikke hele
     <desc>Engelsk dramaserie fra 2019.
 (Call the Midwife)
 Lucille har udsigt til en ny romance, og det løfter humøret i Nonnatus House. Samtidig rammes en gravid kvindes mand af nogle uforklarlige smerter, der minder om hans kones symptomer.</desc>
+    <episode-num system="xmltv_ns">7.6.0</episode-num>
   </programme>
-  <programme start="20260625144500 +0000" stop="20260625151500 +0000" channel="dr1.dk">
+  <programme start="20260625144000 +0000" stop="20260625151500 +0000" channel="dr1.dk">
     <title>Trumps USA</title>
     <desc>I "Trumps USA" stiller vi skarpt på de afgørende udviklinger, personopgør og dagsordener, der udspiller sig i amerikansk politik.</desc>
+    <episode-num system="xmltv_ns">2025.18.0</episode-num>
   </programme>
   <programme start="20260625151500 +0000" stop="20260625153000 +0000" channel="dr1.dk">
     <title>TVA</title>
@@ -604,12 +388,12 @@ Michael står stadig mere alene. Annie begynder at følge en ny retning for efte
 Alana, Annie og resten af politiet er chokerede efter den seneste hændelse. Annie bliver mere og mere overbevist om, at Michael er uskyldig. Ivan kæmper for at få afsluttet efterforskningen, men det lykkes Annie at få en afgørende sandhed frem i lyset. Har hun fået et gennembrud i sagen?</desc>
     <episode-num system="xmltv_ns">0.5.0</episode-num>
   </programme>
-  <programme start="20260625214000 +0000" stop="20260625220500 +0000" channel="dr1.dk">
+  <programme start="20260625213500 +0000" stop="20260625220000 +0000" channel="dr1.dk">
     <title>Welcome to Wrexham (15:18)</title>
     <desc>Der er én kamp tilbage i sæsonen, og Wrexham har stadig en chance for at vinde ligaen og sikre oprykning.</desc>
     <episode-num system="xmltv_ns">0.14.0</episode-num>
   </programme>
-  <programme start="20260625220500 +0000" stop="20260625225000 +0000" channel="dr1.dk">
+  <programme start="20260625220000 +0000" stop="20260625225000 +0000" channel="dr1.dk">
     <title>Indefra med Anders Agger - Gaden i Grenaa (4:4) Det kommer et sted fra</title>
     <desc>Anders Agger er på sit sidste besøg i Fredensgade i Grenaa. Hos Torben, Kristian og Egon. De bærer rundt på en arv, som ikke står i et testamente. Men som løber i blodet og følger med gennem livet. For hvad er det, der former et menneske? Og hvordan ender man et sted som Fredensgade? Anders tager Kristian med tilbage til Aarhus. Til fællessangen, stadionplatten og kærligheden til AGF - det hold, han har holdt fast i, når så meget andet er gledet væk.</desc>
     <episode-num system="xmltv_ns">0.3.0</episode-num>
@@ -640,7 +424,7 @@ Barbara og Jan Behme fra Tyskland finder et grønt paradis i Norge - ude mod hav
   <programme start="20260626015000 +0000" stop="20260626025000 +0000" channel="dr1.dk">
     <title>FIFA VM 2026: Tyrkiet - USA, direkte</title>
     <desc>Der findes få lande på det europæiske kontinent, som elsker fodbold og deres landshold så meget som tyrkerne. Og efter en flot kvartfinale ved EM 2024 tror tyrkerne på, at en ny, gylden landsholdsgeneration er født. Værtsnationen USA står dog også med en gylden generation af spillere med Christian Pulisic som den største profil. Og med den argentinske stjernetræner Mauricio Pochettino på bænken håber amerikanerne på en stor slutrunde for USMNT. 
-Kommentatorer: Mads Thyrsted og Mikkel Beckmann.</desc>
+Kommentatorer: Zak Egholm.</desc>
     <episode-num system="xmltv_ns">2025.30.0</episode-num>
   </programme>
   <programme start="20260626025000 +0000" stop="20260626025500 +0000" channel="dr1.dk">
@@ -650,14 +434,14 @@ Kommentatorer: Mads Thyrsted og Mikkel Beckmann.</desc>
   <programme start="20260626025500 +0000" stop="20260626041000 +0000" channel="dr1.dk">
     <title>FIFA VM 2026: Tyrkiet - USA, direkte</title>
     <desc>Der findes få lande på det europæiske kontinent, som elsker fodbold og deres landshold så meget som tyrkerne. Og efter en flot kvartfinale ved EM 2024 tror tyrkerne på, at en ny, gylden landsholdsgeneration er født. Værtsnationen USA står dog også med en gylden generation af spillere med Christian Pulisic som den største profil. Og med den argentinske stjernetræner Mauricio Pochettino på bænken håber amerikanerne på en stor slutrunde for USMNT. 
-Kommentatorer: Mads Thyrsted og Mikkel Beckmann.</desc>
+Kommentatorer: Zak Egholm.</desc>
     <episode-num system="xmltv_ns">2025.30.0</episode-num>
   </programme>
   <programme start="20260626041000 +0000" stop="20260626044500 +0000" channel="dr1.dk">
     <title>Udsendelsesophør</title>
     <desc>.</desc>
   </programme>
-  <programme start="20260626045400 +0000" stop="20260626050000 +0000" channel="dr1.dk">
+  <programme start="20260626045500 +0000" stop="20260626050000 +0000" channel="dr1.dk">
     <title>OBS</title>
     <desc>.</desc>
   </programme>
@@ -665,7 +449,7 @@ Kommentatorer: Mads Thyrsted og Mikkel Beckmann.</desc>
     <title>TVA</title>
     <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
   </programme>
-  <programme start="20260626051500 +0000" stop="20260626060000 +0000" channel="dr1.dk">
+  <programme start="20260626051000 +0000" stop="20260626060000 +0000" channel="dr1.dk">
     <title>FIFA VM 2026 mens du sov</title>
     <desc>Nyt fra VM-land til morgenkaffen, så du kan sove om natten uden at misse det bedste fra slutrunden. Alle mål, de største højdepunkter og de vigtigste nyheder fra VM i fodbold. Vi guider dig sikkert igennem nattens kampe og serverer de seneste nyheder.
 Vært: Sarah Fisker.</desc>
@@ -674,7 +458,7 @@ Vært: Sarah Fisker.</desc>
     <title>TVA</title>
     <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
   </programme>
-  <programme start="20260626061500 +0000" stop="20260626070000 +0000" channel="dr1.dk">
+  <programme start="20260626061000 +0000" stop="20260626070000 +0000" channel="dr1.dk">
     <title>FIFA VM 2026 mens du sov</title>
     <desc>Nyt fra VM-land til morgenkaffen, så du kan sove om natten uden at misse det bedste fra slutrunden. Alle mål, de største højdepunkter og de vigtigste nyheder fra VM i fodbold. Vi guider dig sikkert igennem nattens kampe og serverer de seneste nyheder.
 Vært: Sarah Fisker.</desc>
@@ -682,22 +466,27 @@ Vært: Sarah Fisker.</desc>
   <programme start="20260626070000 +0000" stop="20260626073000 +0000" channel="dr1.dk">
     <title>Trumps USA</title>
     <desc>I "Trumps USA" stiller vi skarpt på de afgørende udviklinger, personopgør og dagsordener, der udspiller sig i amerikansk politik.</desc>
+    <episode-num system="xmltv_ns">2025.18.0</episode-num>
   </programme>
   <programme start="20260626073000 +0000" stop="20260626082500 +0000" channel="dr1.dk">
     <title>Aftenshowet</title>
     <desc>DR1s journalistiske talkshow direkte fra Rådhuspladsen i København.</desc>
     <episode-num system="xmltv_ns">2025.91.0</episode-num>
   </programme>
-  <programme start="20260626082500 +0000" stop="20260626091000 +0000" channel="dr1.dk">
+  <programme start="20260626082500 +0000" stop="20260626090807 +0000" channel="dr1.dk">
     <title>Dyrlægerne i Yorkshire XV (2:13)</title>
     <desc>Britisk dokumentarserie fra 2022.
 (The Yorkshire Vet)
 Peter skal hjælpe en drægtig ko, der venter tvillinger, hvilket ikke er så almindeligt for køer. Vil de overleve? Julian tilser en ilder, hvis fod er svært inficeret og hævet. Og Shona tager ud for at tilse en gammel hest, der har øjenproblemer.</desc>
     <episode-num system="xmltv_ns">14.1.0</episode-num>
   </programme>
-  <programme start="20260626091500 +0000" stop="20260626100000 +0000" channel="dr1.dk">
+  <programme start="20260626090807 +0000" stop="20260626091500 +0000" channel="dr1.dk">
+    <title>Nul stjerner - Smager på verden</title>
+    <desc>.</desc>
+  </programme>
+  <programme start="20260626091000 +0000" stop="20260626100000 +0000" channel="dr1.dk">
     <title>Studenterfejringer i hele Danmark, direkte</title>
-    <desc>Vær med til festen når vi livestreamer fra studenterfejringer i hele landet. Fra Kongens Nytorv i København stiller vi om til lykkelige unge mennesker i festlige omgivelser - og uanset hvilken farve huen har, så skal det fejres!</desc>
+    <desc>Vær med til festen når vi livestreamer fra studenterfejringer i hele landet. Fra Storkespringvandet i København stiller vi om til lykkelige unge mennesker i festlige omgivelser - og uanset hvilken farve huen har, så skal det fejres!</desc>
   </programme>
   <programme start="20260626100000 +0000" stop="20260626101500 +0000" channel="dr1.dk">
     <title>TVA</title>
@@ -705,7 +494,7 @@ Peter skal hjælpe en drægtig ko, der venter tvillinger, hvilket ikke er så al
   </programme>
   <programme start="20260626101500 +0000" stop="20260626132000 +0000" channel="dr1.dk">
     <title>Studenterfejringer i hele Danmark, direkte</title>
-    <desc>Vær med til festen når vi livestreamer fra studenterfejringer i hele landet. Fra Kongens Nytorv i København stiller vi om til lykkelige unge mennesker i festlige omgivelser - og uanset hvilken farve huen har, så skal det fejres!</desc>
+    <desc>Vær med til festen når vi livestreamer fra studenterfejringer i hele landet. Fra Storkespringvandet i København stiller vi om til lykkelige unge mennesker i festlige omgivelser - og uanset hvilken farve huen har, så skal det fejres!</desc>
   </programme>
   <programme start="20260626132000 +0000" stop="20260626163000 +0000" channel="dr1.dk">
     <title>DM-Ugen: Cykling, enkeltstart, direkte</title>
@@ -729,7 +518,7 @@ Vært : Tobias Hansen.</desc>
   <programme start="20260626190000 +0000" stop="20260626195000 +0000" channel="dr1.dk">
     <title>FIFA VM 2026: Norge - Frankrig, direkte</title>
     <desc>Det er en af gruppespillets mest imødesete kampe, som venter i aften, når Norge og Frankrig støder sammen i Boston. Det norske landshold har præsteret fornemt under Ståle Solbakkens ledelse de senere år, men er det nok til at hamle op med de forsvarende VM-sølvvindere fra Frankrig? I hvert fald har de gode resultater tændt op under landsholdsfansene i Norge, og der ventes massiv norsk opbakning på tribunerne i aften. Vi er nået til sidste spillerunde i gruppe I, hvor Senegal og Irak spiller samtidig med denne kamp.
-Kommentator: Henrik Liniger.</desc>
+Kommentator: Henrik Liniger og Martin Jørgensen.</desc>
     <episode-num system="xmltv_ns">2025.32.0</episode-num>
   </programme>
   <programme start="20260626195000 +0000" stop="20260626195500 +0000" channel="dr1.dk">
@@ -739,7 +528,7 @@ Kommentator: Henrik Liniger.</desc>
   <programme start="20260626195500 +0000" stop="20260626210000 +0000" channel="dr1.dk">
     <title>FIFA VM 2026: Norge - Frankrig, direkte</title>
     <desc>Det er en af gruppespillets mest imødesete kampe, som venter i aften, når Norge og Frankrig støder sammen i Boston. Det norske landshold har præsteret fornemt under Ståle Solbakkens ledelse de senere år, men er det nok til at hamle op med de forsvarende VM-sølvvindere fra Frankrig? I hvert fald har de gode resultater tændt op under landsholdsfansene i Norge, og der ventes massiv norsk opbakning på tribunerne i aften. Vi er nået til sidste spillerunde i gruppe I, hvor Senegal og Irak spiller samtidig med denne kamp.
-Kommentator: Henrik Liniger.</desc>
+Kommentator: Henrik Liniger og Martin Jørgensen.</desc>
     <episode-num system="xmltv_ns">2025.32.0</episode-num>
   </programme>
   <programme start="20260626210000 +0000" stop="20260626213000 +0000" channel="dr1.dk">
@@ -764,19 +553,19 @@ Da en studerende i 1957 fortæller arkæologiprofessor Jones, at han ved, hvor m
 Medvirkende: Harrison Ford, Cate Blanchett, Karen Allen m.fl.
 Instruktion: Steven Spielberg.</desc>
   </programme>
-  <programme start="20260627010000 +0000" stop="20260627014500 +0000" channel="dr1.dk">
+  <programme start="20260627010500 +0000" stop="20260627015000 +0000" channel="dr1.dk">
     <title>Antikkrejlerne XXVI (13:25)</title>
     <desc>Antikvitetseksperter konkurrerer mod hinanden om at købe antikviteter og sælge dem på auktion.</desc>
     <episode-num system="xmltv_ns">25.12.0</episode-num>
   </programme>
-  <programme start="20260627014500 +0000" stop="20260627023000 +0000" channel="dr1.dk">
+  <programme start="20260627015000 +0000" stop="20260627023000 +0000" channel="dr1.dk">
     <title>Hvor ingen skulle tro, at nogen kunne bo XXIV (7:8)</title>
     <desc>Norsk dokumentarserie fra 2025.
 (Der ingen skulle tru at nokon kunne bu)
 Sara og Henrik Nordlöf har alt, de behøver i Stockholm. Alligevel ofrer de det trygge byliv og tager børnene med til en afsidesliggende ødegård ved en fjord i Norge.</desc>
     <episode-num system="xmltv_ns">2025.6.0</episode-num>
   </programme>
-  <programme start="20260627023000 +0000" stop="20260627030500 +0000" channel="dr1.dk">
+  <programme start="20260627023000 +0000" stop="20260627030000 +0000" channel="dr1.dk">
     <title>Udsendelsesophør</title>
     <desc>.</desc>
   </programme>
@@ -816,7 +605,7 @@ Vært: Sarah Fisker.</desc>
     <desc>Nyt fra VM-land til morgenkaffen, så du kan sove om natten uden at misse det bedste fra slutrunden. Alle mål, de største højdepunkter og de vigtigste nyheder fra VM i fodbold. Vi guider dig sikkert igennem nattens kampe og serverer de seneste nyheder.
 Vært: Sarah Fisker.</desc>
   </programme>
-  <programme start="20260627080000 +0000" stop="20260627085000 +0000" channel="dr1.dk">
+  <programme start="20260627080000 +0000" stop="20260627084500 +0000" channel="dr1.dk">
     <title>Familien Hardacre (6:6)</title>
     <desc>Britisk dramaserie fra 2024.
 (The Hardacres)
@@ -824,10 +613,8 @@ Mary finder modet til at fortælle Emma nogle sandheder. Samtidig venter der fam
     <episode-num system="xmltv_ns">0.5.0</episode-num>
   </programme>
   <programme start="20260627084500 +0000" stop="20260627085500 +0000" channel="dr1.dk">
-    <title>P3 Essensen - Forstå tennis på 5 minutter</title>
-    <desc>Selvom tennis ser enkelt ud, så er sportsgrenen et kludetæppe af mærkelige regler og traditioner.
-Så vil du gerne følge med i sommerens Wimbledon, så se med her, hvor Albert, udover at flashe sine imponerende tenniskundskaber, giver et hurtigt overblik over tennis og ikke mindst Wimbledon.</desc>
-    <episode-num system="xmltv_ns">1.1.0</episode-num>
+    <title>Vilde haver - gør det selv</title>
+    <desc>Byrummet giver ikke meget plads til den vilde natur og insekterne. I dette program viser havedesigner og biolog Katrine Turner dig, hvordan du kan skabe en vild tankstation (fødekilder) for sommerfugle, humlebier og andre insekter på din altan. Byd vildskaben velkommen og få et sjovere byrum med smukke planter og en livlig summen.</desc>
   </programme>
   <programme start="20260627085500 +0000" stop="20260627100000 +0000" channel="dr1.dk">
     <title>DM-Ugen: Triatlon, direkte</title>
@@ -904,21 +691,14 @@ Dagbjört har magtfulde modstandere, og både Stella og Gunna må flygte for at 
 Michael står stadig mere alene. Annie begynder at følge en ny retning for efterforskningen. Den fører til en ny mistænkt. Dylan har stadig store problemer i skolen. Desperat søger han hjælp hos sin skoleinspektør.</desc>
     <episode-num system="xmltv_ns">0.4.0</episode-num>
   </programme>
-  <programme start="20260628002000 +0000" stop="20260628003000 +0000" channel="dr1.dk">
+  <programme start="20260628002000 +0000" stop="20260628010500 +0000" channel="dr1.dk">
     <title>Krimiredaktøren: Moonflower-mordene (1:6)</title>
     <desc>Britisk krimiserie fra 2024.
 (Moonflower Murders)
 Redaktøren Susan Ryeland og hendes samlever Andreas har slået sig ned på Kreta. Her driver de et hotel, men der bliver vendt op og ned på Susans liv, da et ægtepar beder om hjælp til at finde deres forsvundne datter. Et mysterium, der er forbundet med en roman af Susans gamle modstander, Alan Conway. Igen bliver hun kastet ud i Conways glamourøse verden. Vil det lykkes hende at løse gåden, inden tiden rinder ud?</desc>
     <episode-num system="xmltv_ns">1.0.0</episode-num>
   </programme>
-  <programme start="20260628003000 +0000" stop="20260628010000 +0000" channel="dr1.dk">
-    <title>Husdrømme på Sicilien II (6:6)</title>
-    <desc>Svensk livsstilsserie. 
-(Husdrömmar på Sicilien)
-Med kalkede mure, pizzaovn og palmer vokser den nye have frem. Men når de at få alt klart til indvielsesfesten for deres sicilianske venner - og bliver det den have, Marie og Bill drømte om fra begyndelsen?</desc>
-    <episode-num system="xmltv_ns">1.5.0</episode-num>
-  </programme>
-  <programme start="20260628010000 +0000" stop="20260628014500 +0000" channel="dr1.dk">
+  <programme start="20260628010500 +0000" stop="20260628015000 +0000" channel="dr1.dk">
     <title>Antikkrejlerne XXVI (14:25)</title>
     <desc>Antikvitetseksperter konkurrerer mod hinanden om at købe antikviteter og sælge dem på auktion.</desc>
     <episode-num system="xmltv_ns">25.13.0</episode-num>
@@ -979,8 +759,9 @@ Vært: Sarah Fisker.</desc>
   <programme start="20260628080000 +0000" stop="20260628090000 +0000" channel="dr1.dk">
     <title>Sommergudstjeneste</title>
     <desc>Gudstjeneste fra Aalborg Domkirke. Liturg og Biskop Thomas Reinholdt Rasmussen. Gudstjenesten transmitteres via fastmonterede kameraer i kirken.</desc>
+    <episode-num system="xmltv_ns">2025.5.0</episode-num>
   </programme>
-  <programme start="20260628090000 +0000" stop="20260628094500 +0000" channel="dr1.dk">
+  <programme start="20260628090000 +0000" stop="20260628095000 +0000" channel="dr1.dk">
     <title>Ukendt arving II: Pigen uden barndom</title>
     <desc>Norsk dokumentarserie fra 2022.
 (Ukjent arving)
@@ -1052,7 +833,7 @@ Den russiske ballerina Dominika Egorova tvinges til at blive spion. "Din krop ti
 Medvirkende: Jennifer Lawrence, Joel Edgerton, Matthias Schoenaerts m.fl.
 Instruktion: Francis Lawrence.</desc>
   </programme>
-  <programme start="20260628230000 +0000" stop="20260628235000 +0000" channel="dr1.dk">
+  <programme start="20260628230000 +0000" stop="20260628234500 +0000" channel="dr1.dk">
     <title>Gone (6:6)</title>
     <desc>Britisk krimidramaserie fra 2026.
 Alana, Annie og resten af politiet er chokerede efter den seneste hændelse. Annie bliver mere og mere overbevist om, at Michael er uskyldig. Ivan kæmper for at få afsluttet efterforskningen, men det lykkes Annie at få en afgørende sandhed frem i lyset. Har hun fået et gennembrud i sagen?</desc>
@@ -1067,15 +848,16 @@ Poirot: David Suchet.
 Sir Anthony Morgan: Patrick Ryecart.
 Harold Waring: Rupert Evans.
 Instruktion: Andy Wilson.</desc>
+    <episode-num system="xmltv_ns">12.3.0</episode-num>
   </programme>
-  <programme start="20260629012000 +0000" stop="20260629021000 +0000" channel="dr1.dk">
+  <programme start="20260629012000 +0000" stop="20260629020500 +0000" channel="dr1.dk">
     <title>Hvor ingen skulle tro, at nogen kunne bo XXIV (8:8)</title>
     <desc>Norsk dokumentarserie fra 2025.
 (Der ingen skulle tru at nokon kunne bu)
 Line og Tor-Evert Grøndal bor på 52 kvadratmeter sammen med to børn. Alene i en skov, langt fra børnepasning. Det er hårdt. Men en dag sker der noget magisk.</desc>
     <episode-num system="xmltv_ns">2025.7.0</episode-num>
   </programme>
-  <programme start="20260629021000 +0000" stop="20260629024500 +0000" channel="dr1.dk">
+  <programme start="20260629021000 +0000" stop="20260629023000 +0000" channel="dr1.dk">
     <title>Udsendelsesophør</title>
     <desc>.</desc>
   </programme>
@@ -1111,6 +893,7 @@ Line og Tor-Evert Grøndal bor på 52 kvadratmeter sammen med to børn. Alene i 
     <desc>BBC-dokumentarserie fra 2024.
 (Asia)
 Asien er det mest bjergrige kontinent på jorden. Fra de skovklædte toppe i Sydøstasien til Himalayas barske tinder er Asiens bjerge hjemsted for en overraskende rigdom af specialiserede planter og vilde dyr. Tag med op i højderne og oplev elefanter, der lever i te-plantager. Skruegeder, der sætter livet på spil, når de kæmper om en mage på stejle klippesider, og måske et af verdens sjældneste dyr - sneleoparden, der holder til i over 3000 meters højde.</desc>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
   </programme>
   <programme start="20260629080000 +0000" stop="20260629083000 +0000" channel="dr1.dk">
     <title>Husdrømme på Sicilien III (3:8)</title>
@@ -1152,6 +935,7 @@ Sendt første gang 03.04.2016</desc>
     <desc>Svensk madserie fra 2023.
 (Världens bästa curry)
 Komikeren David Batra og korrespondenten Malin Mendel starter en restaurant i Indien. Men hvilken mad skal de servere? De starter med deres fælles frokostfavorit, egg bhurji. Mundskænken er fotografen Douglas.</desc>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
   </programme>
   <programme start="20260629114500 +0000" stop="20260629123000 +0000" channel="dr1.dk">
     <title>Hammerslag 2018 (20)</title>
@@ -1249,5 +1033,199 @@ Poirot: David Suchet.
 Elizabeth Cole: Helen Baxendale.
 Hastings: Hugh Fraser.
 Instruktion: Hettie Macdonald.</desc>
+  </programme>
+  <programme start="20260630003000 +0000" stop="20260630003000 +0000" channel="dr1.dk">
+    <title>Krimiredaktøren: Moonflower-mordene (2:6)</title>
+    <desc>Britisk krimiserie fra 2024.
+(Moonflower Murders)
+Susan rejser til England. Her møder hun de andre mennesker i Cecilys liv. Hvem af dem er ansvarlig for hendes forsvinden? I fiktionens verden besøger Atticus Pünd og hans assistent miss Cain den berømte skuespiller Melissa James' hjem for at efterforske mordet på Melissa.</desc>
+    <episode-num system="xmltv_ns">1.1.0</episode-num>
+  </programme>
+  <programme start="20260630011500 +0000" stop="20260630020000 +0000" channel="dr1.dk">
+    <title>Antikkrejlerne XXVI (15:25)</title>
+    <desc>Antikvitetseksperter konkurrerer mod hinanden om at købe antikviteter og sælge dem på auktion.</desc>
+    <episode-num system="xmltv_ns">25.14.0</episode-num>
+  </programme>
+  <programme start="20260630020000 +0000" stop="20260630023000 +0000" channel="dr1.dk">
+    <title>Husdrømme på Sicilien II (6:6)</title>
+    <desc>Svensk livsstilsserie. 
+(Husdrömmar på Sicilien)
+Med kalkede mure, pizzaovn og palmer vokser den nye have frem. Men når de at få alt klart til indvielsesfesten for deres sicilianske venner - og bliver det den have, Marie og Bill drømte om fra begyndelsen?</desc>
+    <episode-num system="xmltv_ns">1.5.0</episode-num>
+  </programme>
+  <programme start="20260630023000 +0000" stop="20260630030500 +0000" channel="dr1.dk">
+    <title>Udsendelsesophør</title>
+    <desc>.</desc>
+  </programme>
+  <programme start="20260630040000 +0000" stop="20260630050000 +0000" channel="dr1.dk">
+    <title>Fiskene i Sverige: Floderne</title>
+    <desc>Svensk naturserie fra 2022.
+(Fiskarnas Rike)
+Vandrende fisk, udrydningstruede fortidsvæsner og svømmende vandstære. I Sveriges strømmende vand gemmer der sig en myldrende verden. Her har selv de mindste væsener større betydning, end vi måske ser. Alt hænger sammen. Tag med på en magisk rejse gennem de svenske floder. Mød blodsugende parasitter og den superstærke laks, og hør, hvordan fiskepleje er blevet lidt af en folkebevægelse.</desc>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+  </programme>
+  <programme start="20260630050000 +0000" stop="20260630051500 +0000" channel="dr1.dk">
+    <title>TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260630051500 +0000" stop="20260630060000 +0000" channel="dr1.dk">
+    <title>FIFA VM 2026 mens du sov</title>
+    <desc>Nyt fra VM-land til morgenkaffen, så du kan sove om natten uden at misse det bedste fra slutrunden. Alle mål, de største højdepunkter og de vigtigste nyheder fra VM i fodbold. Vi guider dig sikkert igennem nattens kampe og serverer de seneste nyheder.</desc>
+  </programme>
+  <programme start="20260630060000 +0000" stop="20260630061500 +0000" channel="dr1.dk">
+    <title>TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260630061500 +0000" stop="20260630070000 +0000" channel="dr1.dk">
+    <title>FIFA VM 2026 mens du sov</title>
+    <desc>Nyt fra VM-land til morgenkaffen, så du kan sove om natten uden at misse det bedste fra slutrunden. Alle mål, de største højdepunkter og de vigtigste nyheder fra VM i fodbold. Vi guider dig sikkert igennem nattens kampe og serverer de seneste nyheder.</desc>
+  </programme>
+  <programme start="20260630070000 +0000" stop="20260630075500 +0000" channel="dr1.dk">
+    <title>Aftenshowet</title>
+    <desc>DR1s journalistiske talkshow direkte fra Rådhuspladsen i København.</desc>
+  </programme>
+  <programme start="20260630075500 +0000" stop="20260630083000 +0000" channel="dr1.dk">
+    <title>Husdrømme på Sicilien III (4:8)</title>
+    <desc>Svensk livsstilsserie fra 2022. 
+(Husdrömmar Sicilien)
+Pernilla Månsson Colt møder Marie i farens bilværksted i Sverige for at se på den udslidte lille sportsvogn, som Bill og Marie skal køre ned til Sicilien. Kan bilen holde hele vejen? I paladset fortsætter anstrengelserne for at blande nyt og gammelt.</desc>
+    <episode-num system="xmltv_ns">2.3.0</episode-num>
+  </programme>
+  <programme start="20260630083000 +0000" stop="20260630091500 +0000" channel="dr1.dk">
+    <title>Dyrlægerne i Yorkshire XV (4:13)</title>
+    <desc>Britisk dokumentarserie fra 2022.
+(The Yorkshire Vet)
+Peter kæmper for at få lam ud af et moderfår. Julian må håndtere en vred papegøje, der er sluppet fri på klinikken. Og en fredelig gåtur udvikler sig til et mareridt, da en hund bliver angrebet af en anden hund, og David må skynder sig at bringe den til hospitalet i Huddersfield.</desc>
+    <episode-num system="xmltv_ns">14.3.0</episode-num>
+  </programme>
+  <programme start="20260630091500 +0000" stop="20260630100000 +0000" channel="dr1.dk">
+    <title>Antikkrejlerne XXVI (18:25)</title>
+    <desc>Antikvitetseksperter konkurrerer mod hinanden om at købe antikviteter og sælge dem på auktion.</desc>
+    <episode-num system="xmltv_ns">25.17.0</episode-num>
+  </programme>
+  <programme start="20260630100000 +0000" stop="20260630101500 +0000" channel="dr1.dk">
+    <title>TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260630101500 +0000" stop="20260630104500 +0000" channel="dr1.dk">
+    <title>Frank &amp; Kastaniegaarden - Ny traktor og gamle river</title>
+    <desc>Frank har købt en ny traktor, men kan ikke bruge frontlæsseren til noget, så den skal afmonteres. Den gamle rive skal have nye tænder og så vender storken tilbage.</desc>
+    <episode-num system="xmltv_ns">2022.11.0</episode-num>
+  </programme>
+  <programme start="20260630104500 +0000" stop="20260630113000 +0000" channel="dr1.dk">
+    <title>Nak &amp; Æd - en sæl på Svalbard (8:10)</title>
+    <desc>Sæson 6 (2015).
+Jørgen og Nikolaj fortsætter eventyret i det kolde nord, hvor Svalbard har taget de to venners hjerter med storm. Denne gang er det en fed sæl, som de vil have ram på. Men sæljagt foregår bl.a. fra en vippende båd. Så endnu engang gælder det for Jørgen og Nikolaj om at sidde helt stille. Lykkes dette ikke, skal der krabbe i gryden.
+Sendt første gang 10.04.2016</desc>
+    <episode-num system="xmltv_ns">5.7.0</episode-num>
+  </programme>
+  <programme start="20260630113000 +0000" stop="20260630114500 +0000" channel="dr1.dk">
+    <title>Verdens bedste karryretter (2:6)</title>
+    <desc>Svensk madserie fra 2023.
+(Världens bästa curry)
+David forsøger at håndtere stærk chili. Malin høster spinat i haven og kommer med sine bedste løgtricks, hvis man vil lave en mild palak paneer.</desc>
+  </programme>
+  <programme start="20260630114500 +0000" stop="20260630123000 +0000" channel="dr1.dk">
+    <title>Hammerslag 2019 - Ved vandet i København</title>
+    <desc>Hammerslag starter sæsonen i København, hvor vi skal se på boliger, der alle har udsigt over vandet. På Islandsbrygge skal hold Øst og Vest gætte pris på en lejlighed i det ikoniske silobyggeri. Dernæst skal der sættes pris på en fredet bolig fra 1939 med udsigt over søerne. Og så slutter vi af på historiske Christianshavn med en lejlighed med egen terrasse på over 50 kvm en spytklat fra kanalerne.
+Vært: Christian Degn</desc>
+    <episode-num system="xmltv_ns">2018.0.0</episode-num>
+  </programme>
+  <programme start="20260630123000 +0000" stop="20260630140000 +0000" channel="dr1.dk">
+    <title>Wimbledon: 1. runde (m/k), direkte</title>
+    <desc>.</desc>
+  </programme>
+  <programme start="20260630140000 +0000" stop="20260630150500 +0000" channel="dr1.dk">
+    <title>Wimbledon: 1. runde (m/k), direkte</title>
+    <desc>.</desc>
+  </programme>
+  <programme start="20260630150500 +0000" stop="20260630151000 +0000" channel="dr1.dk">
+    <title>Wimbledon</title>
+    <desc>.</desc>
+  </programme>
+  <programme start="20260630151000 +0000" stop="20260630151500 +0000" channel="dr1.dk">
+    <title>Wimbledon</title>
+    <desc>.</desc>
+  </programme>
+  <programme start="20260630151500 +0000" stop="20260630153000 +0000" channel="dr1.dk">
+    <title>TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260630153000 +0000" stop="20260630160000 +0000" channel="dr1.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+  </programme>
+  <programme start="20260630160000 +0000" stop="20260630163000 +0000" channel="dr1.dk">
+    <title>Soccer-showet</title>
+    <desc>De sjoveste klip, de vildeste fans og de skøreste historier fra slutrunden i Nordamerika. I Soccer-showet samler vi alt det, der får verdens vildeste VM til at koge.
+Værter: Anders Hagen og Mikkel Nygaard.</desc>
+  </programme>
+  <programme start="20260630163000 +0000" stop="20260630165000 +0000" channel="dr1.dk">
+    <title>TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260630165000 +0000" stop="20260630170000 +0000" channel="dr1.dk">
+    <title>Vores Vejr</title>
+    <desc>DR's vejrudsendelse, der i løbet af ugen gør dig klogere på vejret, der var, og hvad der venter os.</desc>
+  </programme>
+  <programme start="20260630170000 +0000" stop="20260630180000 +0000" channel="dr1.dk">
+    <title>Aftenshowet</title>
+    <desc>DR1s journalistiske talkshow direkte fra Rådhuspladsen i København.</desc>
+  </programme>
+  <programme start="20260630180000 +0000" stop="20260630183000 +0000" channel="dr1.dk">
+    <title>Store kanoner (1:6) Forlader versus baglader</title>
+    <desc>Luften er tyk af sort krudt, når Rane Willerslev og Marc Johnson mødes i duel med forlader- og bagladergeværer - som danskerne og preusserne gjorde under krigen i 1864. Har jægeren Rane en skjult fordel, eller kan landsholdspistolskytten Marc skyde sig til sejren og slippe for en straf inspireret af 1800-tallets soldaterdisciplin?</desc>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+  </programme>
+  <programme start="20260630183000 +0000" stop="20260630190000 +0000" channel="dr1.dk">
+    <title>Prinsesse i Alanya (1:6) Princess Treatment</title>
+    <desc>Josefine drømmer om at finde en kæreste i den tyrkiske badeby. Hun synes nemlig, de danske mænd er nogle tørre kiks til sammenligning. Og hun er ikke alene - unge danske kvinder valfarter til Alanya - for kærlighed og komplimenter. Men bag prinsessebehandlingen lurer der også farer i form af løgne, fordomme, store kulturelle forskelle og helt anderledes levevilkår.</desc>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+  </programme>
+  <programme start="20260630190000 +0000" stop="20260630191500 +0000" channel="dr1.dk">
+    <title>TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260630191500 +0000" stop="20260630194500 +0000" channel="dr1.dk">
+    <title>Heksejagt: Djævlen iblandt os</title>
+    <desc>I Annas hus i Køge sker der mystiske ting. Syge børn, rystende senge og usynlige dyr - er det djævlen? Paranoiaen spreder sig og fører til ekstreme hekseanklager, hvor naboer angiver hinanden til flammerne. Christian d. 4. underskriver en ny, streng lov - heksene i Danmark skal udryddes! Historiker Emma Paaske tager tilbage til den brutale heksejagt i 1600-tallets Danmark.</desc>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+  </programme>
+  <programme start="20260630194500 +0000" stop="20260630203000 +0000" channel="dr1.dk">
+    <title>Drabschef Wisting: Natmanden (1:4)</title>
+    <desc>Norsk krimiserie fra 2022.
+En tåget morgen i den norske by Larvik gør en kvinde et grusomt fund. På en pæl midt på byens torv har nogen placeret det afskårne hoved af en ung kvinde. Det bliver en sag for politimanden William Wisting, der snart får assistance af FBI-agenten Maggie Griffin.</desc>
+    <episode-num system="xmltv_ns">2.0.0</episode-num>
+  </programme>
+  <programme start="20260630203000 +0000" stop="20260630211500 +0000" channel="dr1.dk">
+    <title>Drabschef Wisting: Natmanden (2:4)</title>
+    <desc>Norsk krimiserie fra 2022.
+En fisker har fanget et lig i sit garn. Wisting knytter drabene sammen. Vil det føre dem til resten af Laylas lig?</desc>
+    <episode-num system="xmltv_ns">2.1.0</episode-num>
+  </programme>
+  <programme start="20260630211500 +0000" stop="20260630213500 +0000" channel="dr1.dk">
+    <title>Welcome to Wrexham (17:18)</title>
+    <desc>Et indblik i Ryan Reynolds og Rob McElhenneys usædvanlige venskab, som er opstået gennem deres fælles ejerskab af fodboldklubben Wrexham.</desc>
+    <episode-num system="xmltv_ns">0.16.0</episode-num>
+  </programme>
+  <programme start="20260630213500 +0000" stop="20260630223500 +0000" channel="dr1.dk">
+    <title>The Capture (3:6)</title>
+    <desc>Britisk thrillerserie fra 2019.
+Shaun afhøres af den uudgrundelige CIA-agent Frank Napier. Samtidig forsøger Rachel at lokalisere Shaun i det hus, hun så ham gå ind i på overvågningsbillederne.</desc>
+    <episode-num system="xmltv_ns">0.2.0</episode-num>
+  </programme>
+  <programme start="20260630223500 +0000" stop="20260630232000 +0000" channel="dr1.dk">
+    <title>Krimiredaktøren: Moonflower-mordene (3:6)</title>
+    <desc>Britisk krimiserie fra 2024.
+(Moonflower Murders)
+Hvad vidste Alan Conway om mordet på Frank Parris? Og hvad er der blevet af Cecily MacNeil? Susan undersøger sagen, men kriminalinspektør Locke beder hende holde sig væk fra efterforskningen.</desc>
+    <episode-num system="xmltv_ns">1.2.0</episode-num>
+  </programme>
+  <programme start="20260630232000 +0000" stop="20260701000500 +0000" channel="dr1.dk">
+    <title>Krimiredaktøren: Moonflower-mordene (4:6)</title>
+    <desc>Britisk krimiserie fra 2024.
+(Moonflower Murders)
+Susan tager til London. Her møder hun Alan Conways ekskæreste for at grave en tand dybere i Conways fortid. I fiktionens verden opdager Algernon, at Leonard og Samantha gemmer på en hemmelighed.</desc>
+    <episode-num system="xmltv_ns">1.3.0</episode-num>
   </programme>
 </tv>

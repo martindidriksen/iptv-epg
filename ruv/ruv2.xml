@@ -3,32 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260623164500 +0000" stop="20260623191000 +0000" channel="ruv2.is">
-    <title>Portúgal - Úsbekistan</title>
-    <desc>Leikir á HM karla í fótbolta.
-
-Leikur Portúgal og Úsbekistan á HM karla í fótbolta.</desc>
-  </programme>
-  <programme start="20260623193000 +0000" stop="20260623195000 +0000" channel="ruv2.is">
-    <title>Stofan</title>
-    <desc>Umfjallanir um leiki á HM karla í fótbolta.
-
-Upphitun fyrir leik Englands og Gana á HM karla í fótbolta.</desc>
-  </programme>
-  <programme start="20260623195200 +0000" stop="20260623220700 +0000" channel="ruv2.is">
-    <title>England - Gana</title>
-    <desc>Leikir á HM karla í fótbolta.
-
-Leikur Englands og Gana á HM karla í fótbolta.</desc>
-  </programme>
-  <programme start="20260623221200 +0000" stop="20260623225700 +0000" channel="ruv2.is">
-    <title>HM kvöld</title>
-    <desc>Samantekt frá leikjum dagsins á HM karla í fótbolta.</desc>
-  </programme>
-  <programme start="20260623225800 +0000" stop="20260623232300 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20260624183000 +0000" stop="20260624185000 +0000" channel="ruv2.is">
     <title>Stofan</title>
     <desc>Umfjallanir um leiki á HM karla í fótbolta.
@@ -228,5 +202,27 @@ Upphitun fyrir 32-liða úrslit á HM karla í fótbolta.</desc>
     <title>Jörðin - með enskum þul</title>
     <sub-title>(3 af 8)</sub-title>
     <desc>Þriðja þáttaröð þessara stórbrotnu náttúrulífsþátta með David Attenborough um Jörðina, náttúru hennar og dýralíf á öllum árstíðum.</desc>
+  </programme>
+  <programme start="20260630164500 +0000" stop="20260630191000 +0000" channel="ruv2.is">
+    <title>32-liða úrslit</title>
+    <desc>Leikir á HM karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260630191000 +0000" stop="20260630193700 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260630203000 +0000" stop="20260630205000 +0000" channel="ruv2.is">
+    <title>Stofan</title>
+    <desc>Umfjallanir um leiki á HM karla í fótbolta.
+
+Upphitun fyrir 32-liða úrslit á HM karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260630205000 +0000" stop="20260630230500 +0000" channel="ruv2.is">
+    <title>32-liða úrslit</title>
+    <desc>Leikir á HM karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260630230500 +0000" stop="20260630233500 +0000" channel="ruv2.is">
+    <title>HM kvöld</title>
+    <desc>Samantekt frá leikjum dagsins á HM karla í fótbolta.</desc>
   </programme>
 </tv>

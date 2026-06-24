@@ -3,152 +3,21 @@
   <channel id="dr2.dk">
     <display-name>DR2</display-name>
   </channel>
-  <programme start="20260622230500 +0000" stop="20260623000500 +0000" channel="dr2.dk">
-    <title>Renæssancens blodige skønhed (3:3)</title>
-    <desc>BBC-dokumentarserie fra 2024.
-(Renaissance - The Blood and the Beauty)
-Michelangelo maler en enorm fresko i loftet af det Sixtinske Kapel, Roms vigtigste kirke. En opgave, der presser ham til grænsen for hans evner og forstand. Mens han kæmper, nyder Leonardo kunstnerisk frihed i Milano. Og hans anden store konkurrent, Rafael, arbejder lige ved siden af i pavens private gemakker. Samtidig bliver han fanget midt i reformationens kaos og oplever død og ødelæggelse, der får ham til at tvivle på alt, hvad han har troet på.</desc>
-    <episode-num system="xmltv_ns">0.2.0</episode-num>
-  </programme>
-  <programme start="20260623000500 +0000" stop="20260623010000 +0000" channel="dr2.dk">
-    <title>Sagrada Família - Et vanvittigt byggeprojekt</title>
-    <desc>Spansk dokumentar fra 2023.
-(Sagrada Familia - Gaudi's Challenge)
-I 1883 begyndte byggeriet af den berømte Sagrada Família i Barcelona. Den er designet af Antoni Gaudí og er den dag i dag ikke færdig. Arkitekturen er så original og fantasifuld, at den står på Unescos Verdensarvsliste. Brand og hærværk har hærget kirken, og Gaudis originale tegninger og modeller er blevet ødelagt. Kan kirken blive færdig til Gaudis 100-års jubilæum i 2026? Og hvordan viderefører hans efterfølgere byggeriet trods udfordringerne?</desc>
-  </programme>
-  <programme start="20260623010000 +0000" stop="20260623020000 +0000" channel="dr2.dk">
-    <title>Den klassiske musikquiz (6:8)</title>
-    <desc>Kan aftenens deltagere gætte musik alene ud fra dirigentens bevægelser? Kan de gennemskue hvilke klassiske værker, der ligger bag kendte pophits? Og hvor gode er de til at spille musik på rør? Frederik Cilius og Mathias Hammer er holdkaptajnerne, der styrer aftenens to hold gennem udfordringerne. Med sig har de Sara Rosendal, Nikolaj Koppel, Else Torp og Peter Ettrup Larsen. DR SymfoniOrkestret og dirigent Henrik Schaefer står for musikken, mens Phillip Faber er den oplagte vært, der forsøger at holde styr på løjerne.</desc>
-    <episode-num system="xmltv_ns">1.5.0</episode-num>
-  </programme>
-  <programme start="20260623020000 +0000" stop="20260623023000 +0000" channel="dr2.dk">
-    <title>Deadline: Er Danmark et kristent land?</title>
-    <desc>Danmark har fået en ny kirkeminister, som både er værdikriger, troende kristen, og som fuldt og fast holder på, at Danmark er et kristent land bygget på kristne værdier. Men hvad betyder det egentlig? Og hvor rummelig skal den danske folkekirke være? 
-Christian Bennike spørger kirkeminister Ida Auken.</desc>
-    <episode-num system="xmltv_ns">2025.91.0</episode-num>
-  </programme>
-  <programme start="20260623023000 +0000" stop="20260623030000 +0000" channel="dr2.dk">
-    <title>Deadline: Har MeToo ændret noget?</title>
-    <desc>Pia Olsen Dyhrs ansættelse af en rådgiver med en krænkelsessag i bagagen har den seneste uge tændt ild til den offentlige debat. Ud af flammerne rejser spørgsmålene sig: Har MeToo sejret - eller er oprøret tværtimod gået for vidt? Sandra Brovall spørger blandt andre Sofie Linde, der fik MeToo-bølgen til at skylle ind over Danmark.</desc>
-    <episode-num system="xmltv_ns">2025.90.0</episode-num>
-  </programme>
-  <programme start="20260623030000 +0000" stop="20260623033000 +0000" channel="dr2.dk">
-    <title>Deadline: Er fremtidens arbejderklasse liberal?</title>
-    <desc>At forme ungdommen er at forme historiens næste kapitel. Og hvis det er sandt, så tilhører titlen som fremtidens arbejderparti Liberal Alliance. Og alt imens LA giver røde partier baghjul, når det gælder opbakning fra unge arbejdere, har toneangivende Socialdemokrater indledt kampen, der skal tilbageerobre ungdommen.
-Hvem er fremtidens arbejderparti? Det debatterer Liberal Alliances Mads Strange med Socialdemokratiets Frederik Vad. Vært: Issa Mahmoud Jeppesen.</desc>
-    <episode-num system="xmltv_ns">2025.89.0</episode-num>
-  </programme>
-  <programme start="20260623033000 +0000" stop="20260623040000 +0000" channel="dr2.dk">
-    <title>Deadline: En nation i opløsning?</title>
-    <desc>Ti år efter Brexit ligner Storbritannien mere og mere en nation i opløsning: Fattigdom, optøjer, en indvandring, som borgerne ikke ønsker sig, og en højrefløj i voldsom vækst. Der har været seks premierministre på 10 år, og i denne uge kan et lokalvalg så blive enden på Kier Starmer og hans regering. Men hvordan er det kommet så vidt - og er der en vej ud for briterne? Det spørger Christian Bennike om i dagens udgave af Deadline.</desc>
-    <episode-num system="xmltv_ns">2025.88.0</episode-num>
-  </programme>
-  <programme start="20260623040000 +0000" stop="20260623043000 +0000" channel="dr2.dk">
-    <title>1000 års tro: Friheden til at tro</title>
-    <desc>Historien om kristendommen i Danmark er en dramatisk fortælling om brutale magtkampe, folkeoprør og spirende demokrati fra vikingetiden og frem til i dag. I dette program undersøger værten Cecilie Nielsen, hvordan danskerne fik religionsfrihed med Grundloven i 1849? Og hvilken betydning det fik, at alle danskere skulle gå i folkeskole fra 1814?</desc>
-    <episode-num system="xmltv_ns">0.4.0</episode-num>
-  </programme>
-  <programme start="20260623043000 +0000" stop="20260623051000 +0000" channel="dr2.dk">
-    <title>Reklamer til tiden (2:8)</title>
-    <desc>Dansk dokumentarserie fra 2003. Oplev Liva Weel besynge margarinen i 30'erne, Dirch Passer sælge appelsiner i 50'erne, og Ida Davidsen hylde den belgiske julesalat i 70'erne. I gamle dage elskede vi alt det fede, og i de første sort-hvide film er koteletterne ved at drukne i margarine. I dag er vi til gengæld hysterisk fedtforskrækkede, og der reklameres for et hav af lightprodukter. 
-Vært: Liv Thomsen.</desc>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-  </programme>
-  <programme start="20260623051000 +0000" stop="20260623060000 +0000" channel="dr2.dk">
-    <title>Europas vidundere I (1:4) Louvre</title>
-    <desc>Fransk dokumentarserie fra 2022.
-(The Wonders of Europe)
-Det er verdens største kunstmuseum. Det verdensberømte museum Louvre ligger midt i Paris. Med malerier som Mona Lisa, Venus fra Milo og 35.000 andre mesterværker. Men det er ikke kun et museum. Slottet har været magtens centrum, lige siden det blev bygget. Filip 2. August, Frans 1., Ludvig 14. den Store og selv Napoleon har sat deres præg på det. Her dykker vi ned i den utrolige historie om et af Europas prægtigste bygningsværker.</desc>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-  </programme>
-  <programme start="20260623060000 +0000" stop="20260623060500 +0000" channel="dr2.dk">
-    <title>Radioavisen</title>
-    <desc>Bliv opdateret på de seneste nyheder fra ind- og udland.</desc>
-  </programme>
-  <programme start="20260623060500 +0000" stop="20260623063000 +0000" channel="dr2.dk">
-    <title>Morgenandagten</title>
-    <desc>Morgenandagten fra Vor Frue Kirke, Københavns Domkirke.</desc>
-  </programme>
-  <programme start="20260623063000 +0000" stop="20260623100000 +0000" channel="dr2.dk">
-    <title>Seneste nyt fra TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260623100000 +0000" stop="20260623151500 +0000" channel="dr2.dk">
-    <title>Seneste nyt fra TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260623151500 +0000" stop="20260623161500 +0000" channel="dr2.dk">
-    <title>Danske drømme (2:10)</title>
-    <desc>Dansk dokumentarserie fra 1998. Kvinderne gør oprør, danner basisgrupper, tager på Femølejr og forvirrer manden. Imens står bilerne stille om søndagen. Poul Hartling forsøger med sin Venstreregering at styre Danmark gennem krisen, men må overlade magten til Anker Jørgensen. Danskerne flytter i kollektiv, og Leif Panduro fanger tidsånden med sine tv-spil. Der er røde faner og strejker i en tid, som er præget af splittelse og forvirring.
-Tilrettelæggelse: Leif Davidsen.</desc>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-  </programme>
-  <programme start="20260623161500 +0000" stop="20260623170500 +0000" channel="dr2.dk">
-    <title>Europas vidundere I (2:4) Versailles</title>
-    <desc>Fransk dokumentarserie fra 2022.
-(The Wonders of Europe)
-Det er Frankrigs mest berømte slot. I 1661 blev Ludvig 14. præsenteret for det dramatiske slot Vaux-le-Vicomte uden for Paris. Slottet gjorde så stort et indtryk på kongen, at han satte sig for at bygge verdens smukkeste slot - Versailles. Det tog de ypperste arkitekter og kunstnere over 50 år at bygge det verdenskendte monument med sin spejlsal, barokhave og slotskirke. Her dykker vi ned i den utrolige historie om et af Europas prægtigste bygningsværker.</desc>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-  </programme>
-  <programme start="20260623170500 +0000" stop="20260623180500 +0000" channel="dr2.dk">
-    <title>Pompeji: De nye udgravninger (3:3)</title>
-    <desc>Italiensk dokumentarserie fra 2022.
-(Pompeii: The New Dig)
-Hvad lavede folk i byen Pompeji inden vulkanudbruddet? Det italienske hold arkæologer har brugt over et år på at afdække en ny tomt. De har gjort flere usædvanlige fund - et bageri, et luksusvaskeri med 2000 år gammel rørføring, sjældne offergaver og farvestrålende freskoer med blandt andet et motiv, der ligner en pizza. Hvert fund fortæller mere om panikken i Pompejis sidste timer.</desc>
-    <episode-num system="xmltv_ns">0.2.0</episode-num>
-  </programme>
-  <programme start="20260623180500 +0000" stop="20260623185500 +0000" channel="dr2.dk">
-    <title>Marie Antoinette - Dronning for retten</title>
-    <desc>Tysk dokumentar fra 2018.
-(Marie Antoinette - Trial of a Queen)
-Hun er Frankrigs sidste dronning. Marie Antoinette. Hendes mand, Ludvig den 16., blev henrettet offentligt ved guillotinering på Revolutionspladsen, hendes børn taget fra hende, og befolkningen i Frankrig ville have hendes hoved. Det tog kun tre dage og to nætter at anklage, dømme og henrette hende. Her dykker vi ned i de sidste 76 dage af Marie Antoinettes liv og den iscenesatte retssag, der sendte hende til guillotinen.</desc>
-  </programme>
-  <programme start="20260623190000 +0000" stop="20260623195500 +0000" channel="dr2.dk">
-    <title>Nazisternes store kunsttyveri (2:2)</title>
-    <desc>Nazikunsthandleren Bruno Lohse ved, at hvis han skal genoplive sin karriere i 1950'erne, så skal han til USA. Han etablerer forbindelse til kuratorer på nogle af landets vigtigste kulturinstitutioner og opbygger et forhold til Wildensteinfamilien, som er det vigtigste kunsthandlerdynasti i verden. Alt sammen mens de oprindelige ejere kræver at få deres værker leveret tilbage. 
-Amerikansk dokumentarserie fra 2024.
-(Plunderer: The Life and Times of a Nazi Art Thief)</desc>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-  </programme>
-  <programme start="20260623200000 +0000" stop="20260623201500 +0000" channel="dr2.dk">
-    <title>TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260623201500 +0000" stop="20260623204500 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
-  </programme>
-  <programme start="20260623204500 +0000" stop="20260623223500 +0000" channel="dr2.dk">
-    <title>Kenny Dalglish - Kongen af Liverpool</title>
-    <desc>Han er en ægte fodboldlegende. Sir Kenny Dalglish, kendt som 'The King', er en af de største og mest indflydelsesrige britiske angribere efter 2. verdenskrig. Her følger vi hans 22-årige karriere - fra ungdomsårene i Celtic FC til ikonstatus i Liverpool FC, hvor han som spiller og manager vinder 27 trofæer. Vi hører også, hvordan to katastrofale stadionulykker i 1985 og 1989, hvor mange tilskuere omkommer, kommer til at præge resten af hans liv.
-Britisk dokumentar fra 2025.
-(Kenny Dalglish)</desc>
-  </programme>
-  <programme start="20260623223500 +0000" stop="20260623230500 +0000" channel="dr2.dk">
-    <title>Moderne Klassikere: Soundgarden - Black Hole Sun</title>
-    <desc>Se historien om balladen som rummer Grungens storhed og fald. Og som da den udsendes i 1994 gør et indadvendt deprimeret Seattle-band til allemandseje. Mød Chris Cornell og producer Michael Beinhorn som efter 20 år åbner op for sangens grundspor som er gennemsyret af konflikter, dårlig stemning i studiet, tanker om verdens undergang og et dystert rockbands kamp mod en kommerciel lyd. Det lyder ikke som opskriften på et hit. Men da Soundgarden arbejder på sangen i 1993 er Seattle og grunge-musik højeste mode. Teenagere fra hele verden går i militærstøvler og skovmandsskjorter - og Black Hole Sun bliver et hit. Selvom sangen er gennemsyret af noget ildevarslende og rejsen dertil var alt andet end enkel.</desc>
-  </programme>
-  <programme start="20260623230500 +0000" stop="20260623235500 +0000" channel="dr2.dk">
-    <title>24 timer vi aldrig glemmer: Håndboldpigernes OL-triumf</title>
-    <desc>I 1996 deltager de danske håndboldkvinder for første gang i en OL-turnering, og de gør det med en ambition om at vinde guld. Men i finalen venter verdensmestrene fra Sydkorea, og i første halvleg bliver danskerne løbet over ende. Forspringet bliver indhentet, og i kampens sidste sekunder får Anja Andersen tilkæmpet sig et straffekast. Hvis hun scorer, er Danmark olympiske mestre. 
-Tilrettelæggelse: Jakob Thygesen.</desc>
-    <episode-num system="xmltv_ns">1.5.0</episode-num>
-  </programme>
-  <programme start="20260623235500 +0000" stop="20260624005000 +0000" channel="dr2.dk">
+  <programme start="20260623235000 +0000" stop="20260624004500 +0000" channel="dr2.dk">
     <title>Den kinesiske superfæstning (1:2) Kampen om Silkevejen</title>
     <desc>Kinesisk dokumentarserie fra 2020.
 (Dunhuang: Ancient Frontier Fortress)
 Det vestlige Kina, 111 f.Kr. Han-dynastiet bygger en fæstning ved den kinesiske ørkenoase Dunhuang for at kontrollere adgangen til Silkevejen. Handelsruten fra Kina til Romerriget genererer massive profitter og skatter. Men magtfulde nomadiske Xiongnu-stammer truer handlen. Kan den snu Han-general Ban Chao besejre både Shanshan-kongen og det mægtige Kushan-imperium og genvinde kontrollen over Silkevejen?</desc>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
   </programme>
-  <programme start="20260624005000 +0000" stop="20260624014500 +0000" channel="dr2.dk">
+  <programme start="20260624004500 +0000" stop="20260624014000 +0000" channel="dr2.dk">
     <title>Den kinesiske superfæstning (2:2) Storhed, fald og genfødsel</title>
     <desc>Kinesisk dokumentarserie fra 2020.
 (Dunhuang: Ancient Frontier Fortress)
 I begyndelsen af det femte århundrede er Kina i opløsning. Xiongnu-krigsherren Juqu Mengxun bryder gennem fæstningsmurene og erobrer Dunhuang. Sammen med den indiske buddhistiske munk Dharmaksema begynder han at bygge storslåede grottetempler ved Mogao. I 655 bliver Wu Zetian kejserinde under Tang-imperiet. Kvinder får større frihed, og buddhismen spreder sig til Japan og Korea. Men trods fremgang truer forfaldet.</desc>
     <episode-num system="xmltv_ns">0.1.0</episode-num>
   </programme>
-  <programme start="20260624014500 +0000" stop="20260624020000 +0000" channel="dr2.dk">
+  <programme start="20260624014000 +0000" stop="20260624020000 +0000" channel="dr2.dk">
     <title>Alt forladt - Civilbunkeren Regan Vest</title>
     <desc>Dybt inde i Rold Skov i Nordjylland ligger det sted, hvor Kongehuset og den danske regering skulle overleve og styre Danmark, hvis atomkrigen brød ud. De to Urban Explorers Jan Elhøj og Morten Kirckhoff går på opdagelse i de mørke tunneler og forestiller sig livet under jorden efter ragnarok.
 Tilrettelæggelse: Morten Steenstrup
@@ -156,8 +25,10 @@ Sendt første gang 28.01.13</desc>
     <episode-num system="xmltv_ns">0.2.0</episode-num>
   </programme>
   <programme start="20260624020000 +0000" stop="20260624023000 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <title>Deadline: Musik på algoritmens præmisser?</title>
+    <desc>Konfettirør, børnekor og live-events. Der blev holdt fest på DR's kanaler, da danskerne for nylig blev bedt om at kåre Danmarks 100 bedste sange gennem tiden.
+Men ikke alle deler begejstringen. Top-100-konkurrencen er udtryk for en udvikling, hvor kunstnere i højere grad skal kunne spille algoritmer fremfor musik, lyder kritikken fra sangskriver Jonas Petersen. Han debatterer DR's rolle i det digitale medielandskab med Nikolaj Vitting Hermann, der er chef for indhold for samarbejde i DR. Vært: Issa Mahmoud Jeppesen.</desc>
+    <episode-num system="xmltv_ns">2025.92.0</episode-num>
   </programme>
   <programme start="20260624023000 +0000" stop="20260624030000 +0000" channel="dr2.dk">
     <title>Deadline: Er Danmark et kristent land?</title>
@@ -239,13 +110,13 @@ Instruktion: Erik Clausen.</desc>
   </programme>
   <programme start="20260624185000 +0000" stop="20260624195000 +0000" channel="dr2.dk">
     <title>FIFA VM 2026: Bosnien-Hercegovina - Qatar, direkte</title>
-    <desc>Vejen til VM var snørklet og krævede to sejre i straffesparkskonkurrencer, før Bosnien-Hercegovina kunne gøre VM-comeback efter 14 års fravær. Dagens modstander Qatar har kun været med ved VM én gang tidligere, hvor det blev til tre klare nederlag. Men selvom de to hold begge kun har været med ved VM to gange, så drømme de om en plads i 1/16-finalerne. 
+    <desc>Vejen til VM var snørklet og krævede to sejre i straffesparkskonkurrencer, før Bosnien-Hercegovina kunne gøre VM-comeback efter 14 års fravær. Dagens modstander Qatar har kun været med ved VM én gang tidligere, hvor det blev til tre klare nederlag. Men selvom de to hold begge kun har været med ved VM to gange, så drømmer de om en plads i 1/16-finalerne. 
 Kommentatorer: Mads Thyrsted og Mikkel Beckmann.</desc>
     <episode-num system="xmltv_ns">2025.25.0</episode-num>
   </programme>
   <programme start="20260624195000 +0000" stop="20260624211000 +0000" channel="dr2.dk">
     <title>FIFA VM 2026: Bosnien-Hercegovina - Qatar, direkte</title>
-    <desc>Vejen til VM var snørklet og krævede to sejre i straffesparkskonkurrencer, før Bosnien-Hercegovina kunne gøre VM-comeback efter 14 års fravær. Dagens modstander Qatar har kun været med ved VM én gang tidligere, hvor det blev til tre klare nederlag. Men selvom de to hold begge kun har været med ved VM to gange, så drømme de om en plads i 1/16-finalerne. 
+    <desc>Vejen til VM var snørklet og krævede to sejre i straffesparkskonkurrencer, før Bosnien-Hercegovina kunne gøre VM-comeback efter 14 års fravær. Dagens modstander Qatar har kun været med ved VM én gang tidligere, hvor det blev til tre klare nederlag. Men selvom de to hold begge kun har været med ved VM to gange, så drømmer de om en plads i 1/16-finalerne. 
 Kommentatorer: Mads Thyrsted og Mikkel Beckmann.</desc>
     <episode-num system="xmltv_ns">2025.25.0</episode-num>
   </programme>
@@ -260,12 +131,14 @@ Kommentatorer: Mads Thyrsted og Mikkel Beckmann.</desc>
   </programme>
   <programme start="20260624215000 +0000" stop="20260624225000 +0000" channel="dr2.dk">
     <title>FIFA VM 2026: Marokko - Haiti, direkte</title>
-    <desc>.</desc>
+    <desc>Marokko er tæt på at sikre sig en plads i 1/16-finalerne efter uafgjort mod Brasilien og sejr over Skotland i de første to gruppekampe. Nordafrikanerne kan endda stadig snuppe førstepladsen i gruppe C, men det kræver et godt resultat mod Haiti. Caribierne har tabt til både Skotland og Brasilien og er allerede ude af VM. Marokko skrev historie med sin fjerdeplads ved VM 2022, og endnu en gang ligner holdet et af Afrikas stærkeste bud på en plads langt inde i turneringen.
+Kommentator: Zak Egholm.</desc>
     <episode-num system="xmltv_ns">2025.27.0</episode-num>
   </programme>
   <programme start="20260624225000 +0000" stop="20260625001500 +0000" channel="dr2.dk">
     <title>FIFA VM 2026: Marokko - Haiti, direkte</title>
-    <desc>.</desc>
+    <desc>Marokko er tæt på at sikre sig en plads i 1/16-finalerne efter uafgjort mod Brasilien og sejr over Skotland i de første to gruppekampe. Nordafrikanerne kan endda stadig snuppe førstepladsen i gruppe C, men det kræver et godt resultat mod Haiti. Caribierne har tabt til både Skotland og Brasilien og er allerede ude af VM. Marokko skrev historie med sin fjerdeplads ved VM 2022, og endnu en gang ligner holdet et af Afrikas stærkeste bud på en plads langt inde i turneringen.
+Kommentator: Zak Egholm.</desc>
     <episode-num system="xmltv_ns">2025.27.0</episode-num>
   </programme>
   <programme start="20260625001500 +0000" stop="20260625021000 +0000" channel="dr2.dk">
@@ -285,8 +158,10 @@ Sendt første gang 01.05.11</desc>
     <episode-num system="xmltv_ns">2025.93.0</episode-num>
   </programme>
   <programme start="20260625030000 +0000" stop="20260625033000 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <title>Deadline: Musik på algoritmens præmisser?</title>
+    <desc>Konfettirør, børnekor og live-events. Der blev holdt fest på DR's kanaler, da danskerne for nylig blev bedt om at kåre Danmarks 100 bedste sange gennem tiden.
+Men ikke alle deler begejstringen. Top-100-konkurrencen er udtryk for en udvikling, hvor kunstnere i højere grad skal kunne spille algoritmer fremfor musik, lyder kritikken fra sangskriver Jonas Petersen. Han debatterer DR's rolle i det digitale medielandskab med Nikolaj Vitting Hermann, der er chef for indhold for samarbejde i DR. Vært: Issa Mahmoud Jeppesen.</desc>
+    <episode-num system="xmltv_ns">2025.92.0</episode-num>
   </programme>
   <programme start="20260625033000 +0000" stop="20260625040000 +0000" channel="dr2.dk">
     <title>Deadline: Er Danmark et kristent land?</title>
@@ -322,7 +197,7 @@ I dette afsnit går Morten Brink og Trine Laier på jagt efter nogle af de polak
     <title>Seneste nyt fra TVA</title>
     <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
   </programme>
-  <programme start="20260625144500 +0000" stop="20260625163000 +0000" channel="dr2.dk">
+  <programme start="20260625140000 +0000" stop="20260625163000 +0000" channel="dr2.dk">
     <title>DM-Ugen: 5 km løb og længdespring, direkte</title>
     <desc>Det lange ben skal foran i centrum af Herning, hvor vi kårer Danmarks bedste kvindelige længdespringer samt de hurtigste mænd og kvinder på 5 km distancen.
 Kommentator: Christian Munk.</desc>
@@ -845,5 +720,117 @@ Fransk dokumentar fra 2025.
     <title>Kunstnerkolonien i Skagen (5:6)</title>
     <desc>De seks kunstnere arbejder hårdt på at blive færdige med deres værker, inden museumsdirektør og kurator, Michael Thouber, kommer på besøg i deres atelier. Kirsten Justesen færdiggør sin Skagen mapping af særligt udvalgte blade. Cathrine R. Davidsen leger med lys og skygge, når hun laver værker med kul og viskelæder. Og Frederik Næblerød har travlt med at hænge de bedste af sine mange malerier op på væggen for at vurdere, hvilke han vil vise til kuratoren.</desc>
     <episode-num system="xmltv_ns">0.4.0</episode-num>
+  </programme>
+  <programme start="20260630000500 +0000" stop="20260630005500 +0000" channel="dr2.dk">
+    <title>Marie Antoinette - Dronning for retten</title>
+    <desc>Tysk dokumentar fra 2018.
+(Marie Antoinette - Trial of a Queen)
+Hun er Frankrigs sidste dronning. Marie Antoinette. Hendes mand, Ludvig den 16., blev henrettet offentligt ved guillotinering på Revolutionspladsen, hendes børn taget fra hende, og befolkningen i Frankrig ville have hendes hoved. Det tog kun tre dage og to nætter at anklage, dømme og henrette hende. Her dykker vi ned i de sidste 76 dage af Marie Antoinettes liv og den iscenesatte retssag, der sendte hende til guillotinen.</desc>
+  </programme>
+  <programme start="20260630010000 +0000" stop="20260630020000 +0000" channel="dr2.dk">
+    <title>Den klassiske musikquiz (7:8)</title>
+    <desc>Kan aftenens deltagere finde frem til operaer ud fra bare tre ledetråde? Kan de gætte klassisk musik ud fra rytmen alene? Og hvor svært er det at genkende stykker spillet bagfra? Frederik Cilius og Mathias Hammer er holdkaptajnerne, der styrer aftenens to hold gennem udfordringerne. Med sig har de Susanne Elmark, Jacob la Cour, Andrea Pellegrini og Søren Schauser. DR SymfoniOrkestret og dirigent Henrik Schaefer står for musikken, mens Phillip Faber er den oplagte vært, der forsøger at holde styr på løjerne.</desc>
+    <episode-num system="xmltv_ns">1.6.0</episode-num>
+  </programme>
+  <programme start="20260630020000 +0000" stop="20260630023000 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+  </programme>
+  <programme start="20260630023000 +0000" stop="20260630030000 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+  </programme>
+  <programme start="20260630030000 +0000" stop="20260630033000 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+  </programme>
+  <programme start="20260630033000 +0000" stop="20260630040000 +0000" channel="dr2.dk">
+    <title>Deadline: Musik på algoritmens præmisser?</title>
+    <desc>Konfettirør, børnekor og live-events. Der blev holdt fest på DR's kanaler, da danskerne for nylig blev bedt om at kåre Danmarks 100 bedste sange gennem tiden.
+Men ikke alle deler begejstringen. Top-100-konkurrencen er udtryk for en udvikling, hvor kunstnere i højere grad skal kunne spille algoritmer fremfor musik, lyder kritikken fra sangskriver Jonas Petersen. Han debatterer DR's rolle i det digitale medielandskab med Nikolaj Vitting Hermann, der er chef for indhold for samarbejde i DR. Vært: Issa Mahmoud Jeppesen.</desc>
+    <episode-num system="xmltv_ns">2025.92.0</episode-num>
+  </programme>
+  <programme start="20260630040000 +0000" stop="20260630043000 +0000" channel="dr2.dk">
+    <title>1000 års tro: Kvindekamp i kirken</title>
+    <desc>Historien om kristendommen i Danmark er en dramatisk fortælling om brutale magtkampe, folkeoprør og spirende demokrati fra vikingetiden og frem til i dag. I dette program undersøger værten Cecilie Nielsen, hvordan Bodil Koch banede vej for kvinderne til kirkernes prædikestole i 1948? Og også hvordan danskernes forhold til religion og folkekirke er i dag?</desc>
+    <episode-num system="xmltv_ns">0.5.0</episode-num>
+  </programme>
+  <programme start="20260630043000 +0000" stop="20260630051000 +0000" channel="dr2.dk">
+    <title>Reklamer til Tiden (3:8)</title>
+    <desc>Dansk dokumentarserie fra 2003. Stærke og kloge mænd, kønne og flittige husmødre, artige og tavse børn. Sådant skildres den danske familie i et hav af gamle reklamefilm. Billedet ændrer sig først i 70'erne. Pludselig optræder Lisbet Dahl som udearbejdende kvinde i en slikreklame, og mændene dukker op ved kødgryderne. I dag griner vi af de gamle rengøringsreklamer skræddersyet til den hjemmegående kvinde, men for vores bedstemødre repræsenterede de drømmen om det perfekte liv.
+Vært: Liv Thomsen.</desc>
+    <episode-num system="xmltv_ns">0.2.0</episode-num>
+  </programme>
+  <programme start="20260630051000 +0000" stop="20260630060000 +0000" channel="dr2.dk">
+    <title>Europas vidundere I (2:4) Versailles</title>
+    <desc>Fransk dokumentarserie fra 2022.
+(The Wonders of Europe)
+Det er Frankrigs mest berømte slot. I 1661 blev Ludvig 14. præsenteret for det dramatiske slot Vaux-le-Vicomte uden for Paris. Slottet gjorde så stort et indtryk på kongen, at han satte sig for at bygge verdens smukkeste slot - Versailles. Det tog de ypperste arkitekter og kunstnere over 50 år at bygge det verdenskendte monument med sin spejlsal, barokhave og slotskirke. Her dykker vi ned i den utrolige historie om et af Europas prægtigste bygningsværker.</desc>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+  </programme>
+  <programme start="20260630060000 +0000" stop="20260630060500 +0000" channel="dr2.dk">
+    <title>Radioavisen</title>
+    <desc>Bliv opdateret på de seneste nyheder fra ind- og udland.</desc>
+  </programme>
+  <programme start="20260630060500 +0000" stop="20260630063000 +0000" channel="dr2.dk">
+    <title>Morgenandagten</title>
+    <desc>Morgenandagten fra Vor Frue Kirke, Københavns Domkirke.</desc>
+  </programme>
+  <programme start="20260630063000 +0000" stop="20260630100000 +0000" channel="dr2.dk">
+    <title>Seneste nyt fra TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260630100000 +0000" stop="20260630120000 +0000" channel="dr2.dk">
+    <title>Wimbledon: 1. runde (m/k), direkte</title>
+    <desc>.</desc>
+  </programme>
+  <programme start="20260630120000 +0000" stop="20260630133000 +0000" channel="dr2.dk">
+    <title>Wimbledon: 1. runde (m/k), direkte</title>
+    <desc>.</desc>
+  </programme>
+  <programme start="20260630133000 +0000" stop="20260630160000 +0000" channel="dr2.dk">
+    <title>Wimbledon: 1. runde (m/k), direkte</title>
+    <desc>.</desc>
+  </programme>
+  <programme start="20260630160000 +0000" stop="20260630190000 +0000" channel="dr2.dk">
+    <title>Wimbledon: 1. runde (m/k), direkte</title>
+    <desc>.</desc>
+  </programme>
+  <programme start="20260630190000 +0000" stop="20260630193000 +0000" channel="dr2.dk">
+    <title>Wimbledon</title>
+    <desc>.</desc>
+  </programme>
+  <programme start="20260630193000 +0000" stop="20260630200000 +0000" channel="dr2.dk">
+    <title>Wimbledon</title>
+    <desc>.</desc>
+  </programme>
+  <programme start="20260630200000 +0000" stop="20260630201500 +0000" channel="dr2.dk">
+    <title>TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260630201500 +0000" stop="20260630204500 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+  </programme>
+  <programme start="20260630204500 +0000" stop="20260630222500 +0000" channel="dr2.dk">
+    <title>Skælvet</title>
+    <desc>Norsk actiondrama fra 2018.
+(Skjelvet)
+Trues Oslo af et stort jordskælv, der kan lægge byen i ruiner? Det begynder geologen Kristian at frygte, da hans kollega omkommer, mens han er på arbejde i en motorvejstunnel. Kristian forsøger at advare myndighederne, men ingen vil lytte. Men Kristian har ret. Pludselig kommer jordskælvet, og nu må den desperate geolog forsøge at redde sin familie.
+Medvirkende: Kristoffer Joner, Ane Dahl Torp, Edith Haagenrud-Sande m.fl.
+Instruktion: John Andreas Andersen.</desc>
+  </programme>
+  <programme start="20260630222500 +0000" stop="20260630232000 +0000" channel="dr2.dk">
+    <title>The Matrix - Filmene, der formede en generation</title>
+    <desc>Fransk dokumentar fra 2023.
+(The Matrix: Generation)
+Filmserien formede og rystede en hel generation. Fra 1999 til 2003 skabte søskendeparret Wachowski Matrix-trilogien. De banebrydende film blev hurtigt et popkulturelt fænomen og forudså en lang række af vor tids største sociale og politiske problemstillinger: teknologiens magt, hacking, køn og identitet, falske nyheder og konspirationsteorier - og de har inspireret generationer i jagten på sandhed, valg og frihed.</desc>
+  </programme>
+  <programme start="20260630232000 +0000" stop="20260701001000 +0000" channel="dr2.dk">
+    <title>Fortidens fantastiske ingeniørkunst (8:10) Historiens største skibe</title>
+    <desc>Britisk dokumentarserie fra 2021.
+(Ancient Engineering) 
+Én opfindelse har givet mennesket mulighed for at udforske verden mere end nogen anden. Skibet. Det forbandt civilisationer på tværs af oceanerne. Over 90% af den moderne, globale handel foregår via havet. Oldtidens ingeniører arbejdede intenst på at perfektionere deres skibe, så de kunne klare længere rejser. Men hvilke historiske opfindelser førte i sidste ende til de teknologisk avancerede skibe, som vi ser i dag?</desc>
+    <episode-num system="xmltv_ns">0.7.0</episode-num>
   </programme>
 </tv>
