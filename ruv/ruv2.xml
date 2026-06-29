@@ -3,26 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260628183000 +0000" stop="20260628185000 +0000" channel="ruv2.is">
-    <title>Stofan</title>
-    <desc>Umfjallanir um leiki á HM karla í fótbolta.
-
-Upphitun fyrir 32-liða úrslit á HM karla í fótbolta.</desc>
-  </programme>
-  <programme start="20260628185100 +0000" stop="20260628210600 +0000" channel="ruv2.is">
-    <title>Suður-Afríka - Kanada</title>
-    <desc>Leikir á HM karla í fótbolta.
-
-Leikur Suður-Afríku og Kanada í 32-liða úrslitum á HM karla í fótbolta.</desc>
-  </programme>
-  <programme start="20260628210800 +0000" stop="20260628213800 +0000" channel="ruv2.is">
-    <title>HM kvöld</title>
-    <desc>Samantekt frá leikjum dagsins á HM karla í fótbolta.</desc>
-  </programme>
-  <programme start="20260628213900 +0000" stop="20260628215900 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20260629164500 +0000" stop="20260629191000 +0000" channel="ruv2.is">
     <title>Brasilía - Japan</title>
     <desc>Leikir á HM karla í fótbolta.
@@ -145,6 +125,10 @@ Upphitun fyrir 16-liða úrslit á HM karla í fótbolta.</desc>
 Uppgjör á 16-liða úrslitum á HM karla í fótbolta.</desc>
   </programme>
   <programme start="20260704192500 +0000" stop="20260704194500 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260705190000 +0000" stop="20260705192000 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
