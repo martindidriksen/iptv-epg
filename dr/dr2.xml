@@ -3,260 +3,25 @@
   <channel id="dr2.dk">
     <display-name>DR2</display-name>
   </channel>
-  <programme start="20260629221500 +0000" stop="20260630001000 +0000" channel="dr2.dk">
-    <title>Sicario 2: Soldado</title>
-    <desc>Amerikansk actionthriller fra 2018.
-(Sicario: Day of the Soldado)
-I kampen mod narkokartellerne er der ingen regler. Da kartellerne begynder at smugle terrorister over den amerikanske grænse, tager agent Graver kontakt til den mystiske Alejandro, hvis familie blev myrdet i kartelkrigene. Alejandro kidnapper en kartelleders datter for at optrappe konflikten, men kartelbossen er villig til at ofre sin egen datter, og pludselig ligger hendes skæbne i Alejandro og Gravers hænder.
-Medvirkende: Josh Brolin, Benicio del Toro, Isabela Moner m.fl.
-Instruktion: Stefano Sollima.</desc>
-  </programme>
-  <programme start="20260630001000 +0000" stop="20260630010500 +0000" channel="dr2.dk">
-    <title>Bruce Lee - Dragen fra Hong Kong</title>
-    <desc>Han var familiens sorte får - og hele verdens kung-fu-stjerne. I 1973 blev Bruce Lee med filmen 'I dragens kløer' den første globale asiatiske filmstjerne. Filmen gjorde ham til en myte og et forbillede for samfundets svageste og blev kulminationen på hans utrættelig kamp mod et Hollywood, som ikke ville kendes ved ham. Her er historien om en mand, der banede vejen for sig selv og andre asiater - indtil det kostede ham livet. 
-Fransk dokumentar fra 2025.
-(Bruce Lee - Enter the Dragon)</desc>
-  </programme>
-  <programme start="20260630010500 +0000" stop="20260630013500 +0000" channel="dr2.dk">
-    <title>Kunstnerkolonien i Skagen (5:6)</title>
-    <desc>De seks kunstnere arbejder hårdt på at blive færdige med deres værker, inden museumsdirektør og kurator, Michael Thouber, kommer på besøg i deres atelier. Kirsten Justesen færdiggør sin Skagen mapping af særligt udvalgte blade. Cathrine R. Davidsen leger med lys og skygge, når hun laver værker med kul og viskelæder. Og Frederik Næblerød har travlt med at hænge de bedste af sine mange malerier op på væggen for at vurdere, hvilke han vil vise til kuratoren.</desc>
-    <episode-num system="xmltv_ns">0.4.0</episode-num>
-  </programme>
-  <programme start="20260630013500 +0000" stop="20260630022500 +0000" channel="dr2.dk">
-    <title>Marie Antoinette - Dronning for retten</title>
-    <desc>Tysk dokumentar fra 2018.
-(Marie Antoinette - Trial of a Queen)
-Hun er Frankrigs sidste dronning. Marie Antoinette. Hendes mand, Ludvig den 16., blev henrettet offentligt ved guillotinering på Revolutionspladsen, hendes børn taget fra hende, og befolkningen i Frankrig ville have hendes hoved. Det tog kun tre dage og to nætter at anklage, dømme og henrette hende. Her dykker vi ned i de sidste 76 dage af Marie Antoinettes liv og den iscenesatte retssag, der sendte hende til guillotinen.</desc>
-  </programme>
-  <programme start="20260630022500 +0000" stop="20260630033500 +0000" channel="dr2.dk">
-    <title>Den klassiske musikquiz (7:8)</title>
-    <desc>Kan aftenens deltagere finde frem til operaer ud fra bare tre ledetråde? Kan de gætte klassisk musik ud fra rytmen alene? Og hvor svært er det at genkende stykker spillet bagfra? Frederik Cilius og Mathias Hammer er holdkaptajnerne, der styrer aftenens to hold gennem udfordringerne. Med sig har de Susanne Elmark, Jacob la Cour, Andrea Pellegrini og Søren Schauser. DR SymfoniOrkestret og dirigent Henrik Schaefer står for musikken, mens Phillip Faber er den oplagte vært, der forsøger at holde styr på løjerne.</desc>
-    <episode-num system="xmltv_ns">1.6.0</episode-num>
-  </programme>
-  <programme start="20260630033000 +0000" stop="20260630040000 +0000" channel="dr2.dk">
-    <title>Deadline: Tesfayes frygt for fremtidens Danmark</title>
-    <desc>Mattias Tesfaye har takket nej til ministerkontoret. I stedet skal han som ny gruppeformand stå i spidsen for kampen om Socialdemokratiets fremtid. For med højrefløjens voksende vælgertække risikerer velfærdsstaten at knække, lyder det fra den toneangivende socialdemokrat. Men hvordan har han tænkt sig at slå højrefløjen og bevare den socialdemokratiske udgave af velfærdsstaten? Issa Mahmoud Jeppesen får besøg af Mattias Tesfaye og Dansk Folkepartis Mikkel Bjørn.</desc>
-    <episode-num system="xmltv_ns">2025.95.0</episode-num>
-  </programme>
-  <programme start="20260630040000 +0000" stop="20260630043000 +0000" channel="dr2.dk">
-    <title>1000 års tro: Kvindekamp i kirken</title>
-    <desc>Historien om kristendommen i Danmark er en dramatisk fortælling om brutale magtkampe, folkeoprør og spirende demokrati fra vikingetiden og frem til i dag. I dette program undersøger værten Cecilie Nielsen, hvordan Bodil Koch banede vej for kvinderne til kirkernes prædikestole i 1948? Og også hvordan danskernes forhold til religion og folkekirke er i dag?</desc>
-    <episode-num system="xmltv_ns">0.5.0</episode-num>
-  </programme>
-  <programme start="20260630043000 +0000" stop="20260630051000 +0000" channel="dr2.dk">
-    <title>Reklamer til Tiden (3:8)</title>
-    <desc>Dansk dokumentarserie fra 2003. Stærke og kloge mænd, kønne og flittige husmødre, artige og tavse børn. Sådant skildres den danske familie i et hav af gamle reklamefilm. Billedet ændrer sig først i 70'erne. Pludselig optræder Lisbet Dahl som udearbejdende kvinde i en slikreklame, og mændene dukker op ved kødgryderne. I dag griner vi af de gamle rengøringsreklamer skræddersyet til den hjemmegående kvinde, men for vores bedstemødre repræsenterede de drømmen om det perfekte liv.
-Vært: Liv Thomsen.</desc>
-    <episode-num system="xmltv_ns">0.2.0</episode-num>
-  </programme>
-  <programme start="20260630051000 +0000" stop="20260630060000 +0000" channel="dr2.dk">
-    <title>Europas vidundere I (2:4) Versailles</title>
-    <desc>Fransk dokumentarserie fra 2022.
-(The Wonders of Europe)
-Det er Frankrigs mest berømte slot. I 1661 blev Ludvig 14. præsenteret for det dramatiske slot Vaux-le-Vicomte uden for Paris. Slottet gjorde så stort et indtryk på kongen, at han satte sig for at bygge verdens smukkeste slot - Versailles. Det tog de ypperste arkitekter og kunstnere over 50 år at bygge det verdenskendte monument med sin spejlsal, barokhave og slotskirke. Her dykker vi ned i den utrolige historie om et af Europas prægtigste bygningsværker.</desc>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-  </programme>
-  <programme start="20260630060000 +0000" stop="20260630060500 +0000" channel="dr2.dk">
-    <title>Radioavisen</title>
-    <desc>Bliv opdateret på de seneste nyheder fra ind- og udland.</desc>
-  </programme>
-  <programme start="20260630060500 +0000" stop="20260630063000 +0000" channel="dr2.dk">
-    <title>Morgenandagten</title>
-    <desc>Morgenandagten fra Vor Frue Kirke, Københavns Domkirke.</desc>
-    <episode-num system="xmltv_ns">2025.148.0</episode-num>
-  </programme>
-  <programme start="20260630063000 +0000" stop="20260630100000 +0000" channel="dr2.dk">
-    <title>Seneste nyt fra TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260630100000 +0000" stop="20260630100000 +0000" channel="dr2.dk">
-    <title>TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260630101000 +0000" stop="20260630120000 +0000" channel="dr2.dk">
-    <title>Seneste nyt fra TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260630120000 +0000" stop="20260630123000 +0000" channel="dr2.dk">
-    <title>Soccer-showet</title>
-    <desc>De sjoveste klip, de vildeste fans og de skøreste historier fra slutrunden i Nordamerika. I Soccer-showet samler vi alt det, der får verdens vildeste VM til at koge.
-Værter: Anders Hagen og Mikkel Nygaard.</desc>
-  </programme>
-  <programme start="20260630123000 +0000" stop="20260630140000 +0000" channel="dr2.dk">
-    <title>Wimbledon: Iga Swiatek - Taylor Townsend, 1. runde (k), direkte</title>
-    <desc>Polakken Iga Swiatek indleder jagten på at forsvare sin Wimbledon-titel, når hun møder amerikanske Taylor Townsend i første runde. Swiatek blev sidste år den første polske Wimbledon-vinder i turneringens historie, men har selv understreget, at en titelforsvar bliver en stor udfordring. Townsend er især kendt som en stærk doublespiller, men har kvaliteterne til at udfordre de fleste på en god dag.
-Kommentator: Torben Schou.</desc>
-  </programme>
-  <programme start="20260630140000 +0000" stop="20260630160000 +0000" channel="dr2.dk">
-    <title>Wimbledon: Alexander Zverev - Alexander Blockx, 1. runde (m), direkte</title>
-    <desc>Tyskeren Alexander Zverev kommer til Wimbledon med masser af selvtillid efter for få uger siden at have vundet French Open og dermed sikret sig karrierens første Grand Slam-titel. Nu begynder jagten på endnu en triumf, når andenseedede Zverev møder belgieren Alexander Blockx i første runde. For Blockx venter en af karrierens største opgaver mod en af turneringens største favoritter.
-Kommentator: Torben Schou.</desc>
-  </programme>
-  <programme start="20260630160000 +0000" stop="20260630190000 +0000" channel="dr2.dk">
-    <title>Wimbledon: Serena Williams - Maya Joint, 1. runde (k), direkte</title>
-    <desc>Amerikaneren Serena Williams er tilbage på Wimbledon-scenen fire år efter sin seneste optræden på græsset i London. Den syvdobbelte Wimbledon-vinder og 23-dobbelte Grand Slam-mester gør comeback i singleturneringen som 44-årig, og der vil være enorme forventninger, når australieren Maya Joint står på den modsatte side af nettet i første runde.
-Kommentatorer: Frederik Lindved og Michael Mortensen.</desc>
-  </programme>
-  <programme start="20260630190000 +0000" stop="20260630193000 +0000" channel="dr2.dk">
-    <title>Wimbledon</title>
-    <desc>.</desc>
-  </programme>
-  <programme start="20260630193000 +0000" stop="20260630200000 +0000" channel="dr2.dk">
-    <title>Wimbledon</title>
-    <desc>.</desc>
-  </programme>
-  <programme start="20260630200000 +0000" stop="20260630201500 +0000" channel="dr2.dk">
-    <title>TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260630201500 +0000" stop="20260630204500 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
-    <episode-num system="xmltv_ns">2025.96.0</episode-num>
-  </programme>
-  <programme start="20260630204500 +0000" stop="20260630222500 +0000" channel="dr2.dk">
-    <title>Skælvet</title>
-    <desc>Norsk actiondrama fra 2018.
-(Skjelvet)
-Trues Oslo af et stort jordskælv, der kan lægge byen i ruiner? Det begynder geologen Kristian at frygte, da hans kollega omkommer, mens han er på arbejde i en motorvejstunnel. Kristian forsøger at advare myndighederne, men ingen vil lytte. Men Kristian har ret. Pludselig kommer jordskælvet, og nu må den desperate geolog forsøge at redde sin familie.
-Medvirkende: Kristoffer Joner, Ane Dahl Torp, Edith Haagenrud-Sande m.fl.
-Instruktion: John Andreas Andersen.</desc>
-  </programme>
-  <programme start="20260630222500 +0000" stop="20260630232000 +0000" channel="dr2.dk">
-    <title>The Matrix - Filmene, der formede en generation</title>
-    <desc>Fransk dokumentar fra 2023.
-(The Matrix: Generation)
-Filmserien formede og rystede en hel generation. Fra 1999 til 2003 skabte søskendeparret Wachowski Matrix-trilogien. De banebrydende film blev hurtigt et popkulturelt fænomen og forudså en lang række af vor tids største sociale og politiske problemstillinger: teknologiens magt, hacking, køn og identitet, falske nyheder og konspirationsteorier - og de har inspireret generationer i jagten på sandhed, valg og frihed.</desc>
-  </programme>
-  <programme start="20260630232000 +0000" stop="20260701001000 +0000" channel="dr2.dk">
-    <title>Fortidens fantastiske ingeniørkunst (8:10) Historiens største skibe</title>
-    <desc>Britisk dokumentarserie fra 2021.
-(Ancient Engineering) 
-Én opfindelse har givet mennesket mulighed for at udforske verden mere end nogen anden. Skibet. Det forbandt civilisationer på tværs af oceanerne. Over 90% af den moderne, globale handel foregår via havet. Oldtidens ingeniører arbejdede intenst på at perfektionere deres skibe, så de kunne klare længere rejser. Men hvilke historiske opfindelser førte i sidste ende til de teknologisk avancerede skibe, som vi ser i dag?</desc>
-    <episode-num system="xmltv_ns">0.7.0</episode-num>
-  </programme>
-  <programme start="20260701001000 +0000" stop="20260701010500 +0000" channel="dr2.dk">
-    <title>Sagrada Família - Et vanvittigt byggeprojekt</title>
-    <desc>Spansk dokumentar fra 2023.
-(Sagrada Familia - Gaudi's Challenge)
-I 1883 begyndte byggeriet af den berømte Sagrada Família i Barcelona. Den er designet af Antoni Gaudí og er den dag i dag ikke færdig. Arkitekturen er så original og fantasifuld, at den står på Unescos Verdensarvsliste. Brand og hærværk har hærget kirken, og Gaudis originale tegninger og modeller er blevet ødelagt. Kan kirken blive færdig til Gaudis 100-års jubilæum i 2026? Og hvordan viderefører hans efterfølgere byggeriet trods udfordringerne?</desc>
-  </programme>
-  <programme start="20260701010500 +0000" stop="20260701020000 +0000" channel="dr2.dk">
-    <title>Verdenskrigens forældreløse børn</title>
-    <desc>Fransk dokumentar fra 2022.
-(Children of Chaos - What Became of WWII Orphans)
-Maj 1945. Det Tredje Riges territorium ligger i ruiner. Midt i det ubeskrivelige kaos strejfer 100.000 børn alene rundt blandt murbrokkerne. Forældreløse, fortabte eller overladt til sig selv. De har mirakuløst overlevet, men deres lidelser er langtfra forbi. Mareridtet vil fortsætte i mange år fremover. Nu fortæller de overlevende historien om børnenes ufatteligt grufulde oplevelser i årene efter 2. verdenskrig.</desc>
-  </programme>
-  <programme start="20260701020000 +0000" stop="20260701023000 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
-    <episode-num system="xmltv_ns">2025.96.0</episode-num>
-  </programme>
-  <programme start="20260701023000 +0000" stop="20260701030000 +0000" channel="dr2.dk">
-    <title>Deadline: Tesfayes frygt for fremtidens Danmark</title>
-    <desc>Mattias Tesfaye har takket nej til ministerkontoret. I stedet skal han som ny gruppeformand stå i spidsen for kampen om Socialdemokratiets fremtid. For med højrefløjens voksende vælgertække risikerer velfærdsstaten at knække, lyder det fra den toneangivende socialdemokrat. Men hvordan har han tænkt sig at slå højrefløjen og bevare den socialdemokratiske udgave af velfærdsstaten? Issa Mahmoud Jeppesen får besøg af Mattias Tesfaye og Dansk Folkepartis Mikkel Bjørn.</desc>
-    <episode-num system="xmltv_ns">2025.95.0</episode-num>
-  </programme>
-  <programme start="20260701030000 +0000" stop="20260701033000 +0000" channel="dr2.dk">
-    <title>Deadline: Gik aktivisterne på KU for langt?</title>
-    <desc>Fem studerende fra Københavns Universitet sidder på anklagebænken i byretten i disse dage. De deltog i en blokade på universitetet forrige år, som fik universitetet til at tilkalde politiet. Var det på sin plads eller en demokratisk skadelig overreaktion? Debat mellem den tiltalte og prorektor ved Københavns Universitet. 
-Vært: Issa Mahmoud Jeppesen.</desc>
-    <episode-num system="xmltv_ns">2025.94.0</episode-num>
-  </programme>
-  <programme start="20260701040000 +0000" stop="20260701050000 +0000" channel="dr2.dk">
-    <title>Den store dannelsesrejse (3:3)</title>
-    <desc>BBC-dokumentarserie fra 2024.
-(Rob &amp; Rylan's Grand Tour)
-Rob og Rylan ankommer til Rom i hestevogn. Her oplever de barokmaleren Caravaggios dramatiske kunst og forsøger at genskabe hans maleri 'David og Goliat'. Rylan klæder sig i 1700-tallets ekstravagante 'macaroni'-mode, mens Rob arrangerer en operaaften med kontratenorer. Rejsen afsluttes ved Caecilia Metellas gravmonument, hvor de reflekterer over, hvad turen har lært dem om kunst, dem selv - og hinanden.</desc>
-    <episode-num system="xmltv_ns">0.2.0</episode-num>
-  </programme>
-  <programme start="20260701050000 +0000" stop="20260701060000 +0000" channel="dr2.dk">
-    <title>Den klassiske musikquiz (7:8)</title>
-    <desc>Kan aftenens deltagere finde frem til operaer ud fra bare tre ledetråde? Kan de gætte klassisk musik ud fra rytmen alene? Og hvor svært er det at genkende stykker spillet bagfra? Frederik Cilius og Mathias Hammer er holdkaptajnerne, der styrer aftenens to hold gennem udfordringerne. Med sig har de Susanne Elmark, Jacob la Cour, Andrea Pellegrini og Søren Schauser. DR SymfoniOrkestret og dirigent Henrik Schaefer står for musikken, mens Phillip Faber er den oplagte vært, der forsøger at holde styr på løjerne.</desc>
-    <episode-num system="xmltv_ns">1.6.0</episode-num>
-  </programme>
-  <programme start="20260701060000 +0000" stop="20260701060500 +0000" channel="dr2.dk">
-    <title>Radioavisen</title>
-    <desc>Bliv opdateret på de seneste nyheder fra ind- og udland.</desc>
-  </programme>
-  <programme start="20260701060500 +0000" stop="20260701063000 +0000" channel="dr2.dk">
-    <title>Morgenandagten</title>
-    <desc>Morgenandagten fra Vor Frue Kirke, Københavns Domkirke.</desc>
-  </programme>
-  <programme start="20260701063000 +0000" stop="20260701100000 +0000" channel="dr2.dk">
-    <title>Seneste nyt fra TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260701100000 +0000" stop="20260701120000 +0000" channel="dr2.dk">
-    <title>Wimbledon: 2. runde (m/k), direkte</title>
-    <desc>.</desc>
-  </programme>
-  <programme start="20260701120000 +0000" stop="20260701133000 +0000" channel="dr2.dk">
-    <title>Wimbledon: 2. runde (m/k), direkte</title>
-    <desc>.</desc>
-  </programme>
-  <programme start="20260701133000 +0000" stop="20260701160000 +0000" channel="dr2.dk">
-    <title>Wimbledon: 2. runde (m/k), direkte</title>
-    <desc>.</desc>
-  </programme>
-  <programme start="20260701160000 +0000" stop="20260701190000 +0000" channel="dr2.dk">
-    <title>Wimbledon: 2. runde (m/k), direkte</title>
-    <desc>.</desc>
-  </programme>
-  <programme start="20260701190000 +0000" stop="20260701193000 +0000" channel="dr2.dk">
-    <title>Wimbledon</title>
-    <desc>.</desc>
-  </programme>
-  <programme start="20260701193000 +0000" stop="20260701200000 +0000" channel="dr2.dk">
-    <title>Wimbledon</title>
-    <desc>.</desc>
-  </programme>
-  <programme start="20260701200000 +0000" stop="20260701201500 +0000" channel="dr2.dk">
-    <title>TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260701201500 +0000" stop="20260701204500 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
-    <episode-num system="xmltv_ns">2025.97.0</episode-num>
-  </programme>
-  <programme start="20260701204500 +0000" stop="20260701210000 +0000" channel="dr2.dk">
-    <title>Troldspejlet (6:11) Den danske James Bond</title>
-    <desc>Det nye danske James Bond-spil er blevet et internationalt hit. Jakob Stegelmann dykker ned i James Bonds tidligere uheldige karriere som spilfigur og undersøger, hvad danske IO Interactive har gjort rigtigt for at bryde forbandelsen.</desc>
-    <episode-num system="xmltv_ns">0.5.0</episode-num>
-  </programme>
-  <programme start="20260701210000 +0000" stop="20260701224000 +0000" channel="dr2.dk">
-    <title>Året jeg begyndte at onanere og stoppede med at præstere</title>
-    <desc>Svensk komediedrama fra 2022.
-(Året jeg sluttade prestera och började onanere)
-Hanna er midt i livet og karrieren og vil have et barn til med Morten, men i stedet slår han op. Hanna gør, hvad hun kan for at få sit liv tilbage, hvilket fører til en række mindre katastrofer. En nat møder hun Liv, som giver hende mod til at begynde at lytte til sig selv og nyde alt, som livet har at byde på.
-Medvirkende: Katia Winter, Jesper Zuschlag, Henrik Dorsin m.fl.
-Instruktion: Erika Wasserman.</desc>
-  </programme>
-  <programme start="20260701224000 +0000" stop="20260701231000 +0000" channel="dr2.dk">
-    <title>Moderne Klassikere: Franz Ferdinand - Take Me Out</title>
-    <desc>Dette er historien om sangen der aldrig burde være blevet et hit. For små skramlede indiebands fra Skotland hører jo ikke hjemme på toppen af hitlisterne. Men der endte Franz Ferdinand i 2004. Mød bandet på hjemmebane i Glasgow hvor sanger Alex Kapranos spiller den første demo af Take Me Out og bandet fortæller, hvordan sangen med det mærkelige temposkift sendte dem rundt i hele verden.</desc>
-    <episode-num system="xmltv_ns">3.5.0</episode-num>
-  </programme>
-  <programme start="20260701231000 +0000" stop="20260701234500 +0000" channel="dr2.dk">
+  <programme start="20260701235500 +0000" stop="20260702003000 +0000" channel="dr2.dk">
     <title>I mørket blev vi venner</title>
     <desc>To koncerter med Peter Sommer på spillestedet VEGA er blevet til en utraditionel musikfilm, hvor koncertoptagelser flettes sammen med fiktive fortællinger i husets gange og sale. Filmen er en sanselig og poetisk rejse gennem håb, desperation og kærlighed - spejlet i VEGAs mytiske atmosfære. Et hus, hvor ansatte hvisker om ånder.</desc>
   </programme>
-  <programme start="20260701234500 +0000" stop="20260702003500 +0000" channel="dr2.dk">
+  <programme start="20260702003000 +0000" stop="20260702012500 +0000" channel="dr2.dk">
     <title>Discofeber (1:3)</title>
     <desc>BBC-dokumentarserie fra 2023.
 (Disco Inferno)
 ABBA, Bee Gees, Donna Summer og Village People. I midten af 1970'erne skød natklubberne op i New York. Her kunne latinamerikanere, sorte og queers føle sig sikre og komme væk fra problemerne med politiet. Det var her i undergrunden, at discoen startede nærmest som en utilsigtet bevægelse, der forenede minoriteterne. At kunne danse sammen skabte en følelse af frigørelse, frihed og håb. Her fortælles historien om det hotteste musikfænomen nogensinde.</desc>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
   </programme>
-  <programme start="20260702003500 +0000" stop="20260702013000 +0000" channel="dr2.dk">
+  <programme start="20260702012500 +0000" stop="20260702021500 +0000" channel="dr2.dk">
     <title>Imperiet Kardashian (1:3)</title>
     <desc>Britisk dokumentarserie fra 2023.
 (House of Kardashians)
 Kardashian imperiet begyndte med én kvinde. Kris Houghton. I 1960'erne drømmer hun om et liv i sus og dus i Beverly Hills. Hun gifter sig med den velhavende advokat Robert Kardashian og ser ud til at have opnået alt, hvad hun ønsker sig. Men efter ti års ægteskab har hun en affære med en yngre mand, og ægsteskabet med Robert ender i en grim skilsmisse. Kort tid efter gifter hun sig med den amerikanske OL-guldvinder Bruce Jenner. Nu tager hendes drømme fart.</desc>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
   </programme>
-  <programme start="20260702013000 +0000" stop="20260702020000 +0000" channel="dr2.dk">
+  <programme start="20260702021500 +0000" stop="20260702024500 +0000" channel="dr2.dk">
     <title>Danske katastrofer - Flystyrtet ved Dubai</title>
     <desc>Tirsdag den 14. marts 1972 er 106 charterturister fra Tjæreborg Rejser på vej hjem fra paradisøen Ceylon. Over det indiske ocean går det galt. Flyet fra Sterling Airways mister orienteringen og styrter til sidst ned i Oman bjergene på den arabiske halvø. I alt 112 mennesker mister livet. 
 Med beretninger fra en tidligere stewardesse og en pårørende, fortæller historikeren Rasmus Dahlberg om den værste danske flykatastrofe nogensinde.   
@@ -264,20 +29,18 @@ Der findes stadig rester efter det voldsomme flystyrt på bjerget nær Dubai.
 Sendt første gang 18.10.2017</desc>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
   </programme>
-  <programme start="20260702020000 +0000" stop="20260702023000 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+  <programme start="20260702024500 +0000" stop="20260702031500 +0000" channel="dr2.dk">
+    <title>Deadline: Har AI ødelagt skolegangen?</title>
+    <desc>På gader og stræder bliver nyudklækkede studenter i øjeblikket fejret for tre års veloverstået flid i gymnasiet. Men blandt landets gymnasielærere er begejstring mere afdæmpet. Flere undervisere oplever, at brugen af kunstig intelligens er så massiv, at eleverne ganske enkelt ikke  har lært det, de burde.
+
+Issa Mahmoud Jeppesen taler med den nyudklækkede student, læreren og ministeren.</desc>
     <episode-num system="xmltv_ns">2025.97.0</episode-num>
   </programme>
-  <programme start="20260702023000 +0000" stop="20260702030000 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+  <programme start="20260702031500 +0000" stop="20260702034500 +0000" channel="dr2.dk">
+    <title>Deadline: Rejefiskere og nazibomber</title>
+    <desc>Rejefiskerne på Rømø må ikke længere fange hesterejer. De er i livsfare pga. ueksploderede nazibomber ved Vadehavet, siger myndighederne. Og i øvrigt ødelægger de havbunden, mener Danmarks Naturfredningsforening. Nej, siger fiskerne - vi har fisket her i 80 år. Er det skrivebordsbureaukrater, der tramper på små lokalsamfund? Eller er vi endelig ved at tage hensynet til naturen alvorligt? 
+Debat mellem Danmarks Naturfredningsforening og Rømø Fiskeriforening med Christian Bennike for bordenden.</desc>
     <episode-num system="xmltv_ns">2025.96.0</episode-num>
-  </programme>
-  <programme start="20260702030000 +0000" stop="20260702033000 +0000" channel="dr2.dk">
-    <title>Deadline: Tesfayes frygt for fremtidens Danmark</title>
-    <desc>Mattias Tesfaye har takket nej til ministerkontoret. I stedet skal han som ny gruppeformand stå i spidsen for kampen om Socialdemokratiets fremtid. For med højrefløjens voksende vælgertække risikerer velfærdsstaten at knække, lyder det fra den toneangivende socialdemokrat. Men hvordan har han tænkt sig at slå højrefløjen og bevare den socialdemokratiske udgave af velfærdsstaten? Issa Mahmoud Jeppesen får besøg af Mattias Tesfaye og Dansk Folkepartis Mikkel Bjørn.</desc>
-    <episode-num system="xmltv_ns">2025.95.0</episode-num>
   </programme>
   <programme start="20260702040000 +0000" stop="20260702050000 +0000" channel="dr2.dk">
     <title>Danske drømme (1:10)</title>
@@ -306,23 +69,29 @@ I dette afsnit undersøger Morten Brink og Trine Laier, hvordan man ville redde 
   </programme>
   <programme start="20260702063000 +0000" stop="20260702100000 +0000" channel="dr2.dk">
     <title>Seneste nyt fra TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+    <desc>Mindst 11 er dræbt og mere end 30 er såret efter et russisk drone- og missilangreb har ramt Ukraines hovedstad Kyiv i nat. Det oplyser det ukrainske indenrigsministerium på beskedtjenesten Telegram.
+
+TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
   </programme>
   <programme start="20260702100000 +0000" stop="20260702120000 +0000" channel="dr2.dk">
-    <title>Wimbledon: 2. runde (m/k), direkte</title>
-    <desc>.</desc>
+    <title>Wimbledon: Taylor Fritz - Patrick Kypson, 2. runde (m), direkte</title>
+    <desc>Taylor Fritz så oprindeligt ud til at få en vanskelig åbning på Wimbledon, men efter Jack Drapers afbud har lodtrækningen formet sig anderledes. Nu møder den 28-årige amerikaner landsmanden Patrick Kypson i anden runde og er storfavorit til at spille sig videre i jagten på sin første Wimbledon-titel.
+Kommentator: Torben Schou.</desc>
   </programme>
   <programme start="20260702120000 +0000" stop="20260702133000 +0000" channel="dr2.dk">
-    <title>Wimbledon: 2. runde (m/k), direkte</title>
-    <desc>.</desc>
+    <title>Wimbledon: Katie Swan - Madison Keys, 2. runde (k), direkte</title>
+    <desc>Australian Open-vinderen fra 2025, Madison Keys, er blandt outsiderne til Wimbledon-titlen. I anden runde møder amerikaneren britiske Katie Swan, som har fået et wild card til årets turnering. Keys har gennem flere år været en fast del af verdenstoppen, men mangler fortsat det helt store resultat på græsset i London.
+Kommentator: Per Colstrup Vinkel.</desc>
   </programme>
   <programme start="20260702133000 +0000" stop="20260702160000 +0000" channel="dr2.dk">
-    <title>Wimbledon: 2. runde (m/k), direkte</title>
-    <desc>.</desc>
+    <title>Wimbledon: Alexander Zverev - Valentin Royer, 2. runde (m), direkte</title>
+    <desc>Alexander Zverev kommer til anden runde med masser af selvtillid efter triumfen ved French Open tidligere på sommeren. Nu venter franskmanden Valentin Royer, som får en gylden mulighed for at måle sig med en af verdens bedste spillere. Tyskeren er blandt de største favoritter til titlen og håber at fortsætte det høje niveau på græsset i London.
+Kommentator: Kasper Thrane.</desc>
   </programme>
   <programme start="20260702160000 +0000" stop="20260702190000 +0000" channel="dr2.dk">
-    <title>Wimbledon: 2. runde (m/k), direkte</title>
-    <desc>.</desc>
+    <title>Wimbledon: Jakub Mensik - Grigor Dimitrov, 2. runde (m), direkte</title>
+    <desc>Der er lagt op til et spændende generationsmøde på Bane 1, når den 20-årige tjekke Jakub Mensik møder den 35-årige bulgarer Grigor Dimitrov. Mensik har for alvor slået sit navn fast i verdenseliten det seneste år, mens Dimitrov fortsat viser, at erfaring og elegant allround-tennis kan række langt på græs.
+Kommentator: Anders Haahr Rasmussen.</desc>
   </programme>
   <programme start="20260702190000 +0000" stop="20260702193000 +0000" channel="dr2.dk">
     <title>Wimbledon</title>
@@ -350,7 +119,7 @@ Medvirkende: Helen Mirren, Ryan Reynolds, Daniel Brühl, m.fl.
 Instruktion: Simon Curtis.</desc>
   </programme>
   <programme start="20260702223000 +0000" stop="20260702232000 +0000" channel="dr2.dk">
-    <title>van Gogh af van Gogh</title>
+    <title>Van Gogh af van Gogh</title>
     <desc>Han er nok verdens mest kendte kunstner. Vincent van Gogh bliver opfattet som et ikon for kunst, sårbarhed og avantgardisme. Hans værker indtager en særplads i gallerier, bøger og film og bliver brugt på merchandise af alle slags. Men hvor meget ved vi egentlig om ham? Svaret findes måske i de billeder, han malede af sig selv. Nu vil et hold kunsthistorikere fortolke otte af van Goghs mest ikoniske selvportrætter og bringe os tættere på at forstå manden bag myten.
 Britisk dokumentar fra 2025.
 (Van Gogh by Vincent)</desc>
@@ -380,13 +149,16 @@ Tilrettelæggelse: Frits Bredal.</desc>
     <episode-num system="xmltv_ns">2025.98.0</episode-num>
   </programme>
   <programme start="20260703022805 +0000" stop="20260703030000 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <title>Deadline: Har AI ødelagt skolegangen?</title>
+    <desc>På gader og stræder bliver nyudklækkede studenter i øjeblikket fejret for tre års veloverstået flid i gymnasiet. Men blandt landets gymnasielærere er begejstring mere afdæmpet. Flere undervisere oplever, at brugen af kunstig intelligens er så massiv, at eleverne ganske enkelt ikke  har lært det, de burde.
+
+Issa Mahmoud Jeppesen taler med den nyudklækkede student, læreren og ministeren.</desc>
     <episode-num system="xmltv_ns">2025.97.0</episode-num>
   </programme>
   <programme start="20260703030000 +0000" stop="20260703033000 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <title>Deadline: Rejefiskere og nazibomber</title>
+    <desc>Rejefiskerne på Rømø må ikke længere fange hesterejer. De er i livsfare pga. ueksploderede nazibomber ved Vadehavet, siger myndighederne. Og i øvrigt ødelægger de havbunden, mener Danmarks Naturfredningsforening. Nej, siger fiskerne - vi har fisket her i 80 år. Er det skrivebordsbureaukrater, der tramper på små lokalsamfund? Eller er vi endelig ved at tage hensynet til naturen alvorligt? 
+Debat mellem Danmarks Naturfredningsforening og Rømø Fiskeriforening med Christian Bennike for bordenden.</desc>
     <episode-num system="xmltv_ns">2025.96.0</episode-num>
   </programme>
   <programme start="20260703040000 +0000" stop="20260703043100 +0000" channel="dr2.dk">
@@ -412,6 +184,7 @@ Siden 1889 har det raget 300 meter op i den parisiske himmel. Eiffeltårnet er e
   <programme start="20260703060500 +0000" stop="20260703063000 +0000" channel="dr2.dk">
     <title>Morgenandagten</title>
     <desc>Morgenandagten fra Vor Frue Kirke, Københavns Domkirke.</desc>
+    <episode-num system="xmltv_ns">2025.151.0</episode-num>
   </programme>
   <programme start="20260703063000 +0000" stop="20260703100000 +0000" channel="dr2.dk">
     <title>Seneste nyt fra TVA</title>
@@ -476,18 +249,12 @@ Fransk dokumentar fra 2025.
 ABBA, Bee Gees, Donna Summer og Village People. I midten af 1970'erne skød natklubberne op i New York. Her kunne latinamerikanere, sorte og queers føle sig sikre og komme væk fra problemerne med politiet. Det var her i undergrunden, at discoen startede nærmest som en utilsigtet bevægelse, der forenede minoriteterne. At kunne danse sammen skabte en følelse af frigørelse, frihed og håb. Her fortælles historien om det hotteste musikfænomen nogensinde.</desc>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
   </programme>
-  <programme start="20260704021500 +0000" stop="20260704031000 +0000" channel="dr2.dk">
+  <programme start="20260704021500 +0000" stop="20260704030500 +0000" channel="dr2.dk">
     <title>Europas vidundere I (2:4) Versailles</title>
     <desc>Fransk dokumentarserie fra 2022.
 (The Wonders of Europe)
 Det er Frankrigs mest berømte slot. I 1661 blev Ludvig 14. præsenteret for det dramatiske slot Vaux-le-Vicomte uden for Paris. Slottet gjorde så stort et indtryk på kongen, at han satte sig for at bygge verdens smukkeste slot - Versailles. Det tog de ypperste arkitekter og kunstnere over 50 år at bygge det verdenskendte monument med sin spejlsal, barokhave og slotskirke. Her dykker vi ned i den utrolige historie om et af Europas prægtigste bygningsværker.</desc>
     <episode-num system="xmltv_ns">0.1.0</episode-num>
-  </programme>
-  <programme start="20260704031000 +0000" stop="20260704040000 +0000" channel="dr2.dk">
-    <title>24 timer vi aldrig glemmer: Håndboldpigernes OL-triumf</title>
-    <desc>I 1996 deltager de danske håndboldkvinder for første gang i en OL-turnering, og de gør det med en ambition om at vinde guld. Men i finalen venter verdensmestrene fra Sydkorea, og i første halvleg bliver danskerne løbet over ende. Forspringet bliver indhentet, og i kampens sidste sekunder får Anja Andersen tilkæmpet sig et straffekast. Hvis hun scorer, er Danmark olympiske mestre. 
-Tilrettelæggelse: Jakob Thygesen.</desc>
-    <episode-num system="xmltv_ns">1.5.0</episode-num>
   </programme>
   <programme start="20260704040000 +0000" stop="20260704042500 +0000" channel="dr2.dk">
     <title>Sonja på Bornholm 1:4</title>
@@ -510,7 +277,7 @@ Medvirkende: Sonia Maria Sander Jacobsen, Jytte Abildstrøm, Freddy Fræk, Jespe
 Ide, manuskript og instruktion: Jytte Hauch-Fausbøll.</desc>
     <episode-num system="xmltv_ns">0.2.0</episode-num>
   </programme>
-  <programme start="20260704052000 +0000" stop="20260704055500 +0000" channel="dr2.dk">
+  <programme start="20260704052000 +0000" stop="20260704060000 +0000" channel="dr2.dk">
     <title>Sonja på Bornholm 4:4.</title>
     <desc>Dansk børneserie fra 1969. Sonja kan ikke lide katte, og hun kan ikke fordrage æg - men ellers kan hun godt lide at være på Bornholm. Sammen med mor og Frede og Heidi tager hun ud og bader. Det er første gang, lillesøster prøver det. Om aftenen skal de alle sammen fejre sankthans og lave bål på stranden.
 Medvirkende: Sonia Maria Sander Jacobsen, Jytte Abildstrøm, Freddy Fræk, Jesper Klein m.fl.
@@ -591,11 +358,6 @@ Juleaften 1944 i koncentrationslejren Ravensbrück forelsker to kvinder sig i hi
 Dansk videnskabsserie fra 2022 om kvantefysikkens uforklarligheder, som tager udgangspunkt i de ideer og tanker den danske fysiker Niels Bohr havde for 100 år siden, og som blev fundamentet til kvantemekanikken. En teori om de allermindste ting i universet.</desc>
     <episode-num system="xmltv_ns">0.4.0</episode-num>
   </programme>
-  <programme start="20260705033000 +0000" stop="20260705040000 +0000" channel="dr2.dk">
-    <title>Værtshushistorier: Kanalen</title>
-    <desc>Det første værthus i Thyborøn, - Kanalen, åbnede i 1978. Indtil da, var det så godt som umuligt for indbyggerne i den vestjyske by at købe sig en øl, eller et glas vin. Indre Mission har de sidste 100 år stået stærkt i det lille fiskersamfund og alkohol har ikke været en del af overbevisningen. Bent Bro fra bandet Tørfisk fortæller historien.</desc>
-    <episode-num system="xmltv_ns">0.5.0</episode-num>
-  </programme>
   <programme start="20260705040000 +0000" stop="20260705043000 +0000" channel="dr2.dk">
     <title>Kunstnerkolonien i Skagen (5:6)</title>
     <desc>De seks kunstnere arbejder hårdt på at blive færdige med deres værker, inden museumsdirektør og kurator, Michael Thouber, kommer på besøg i deres atelier. Kirsten Justesen færdiggør sin Skagen mapping af særligt udvalgte blade. Cathrine R. Davidsen leger med lys og skygge, når hun laver værker med kul og viskelæder. Og Frederik Næblerød har travlt med at hænge de bedste af sine mange malerier op på væggen for at vurdere, hvilke han vil vise til kuratoren.</desc>
@@ -609,8 +371,14 @@ ceremonimester? Apolonia Sokol besøger en gammel ven i de franske vinmarker for
 at finde kærlighedens sande nektar - en kærlighedseliksir.</desc>
     <episode-num system="xmltv_ns">0.2.0</episode-num>
   </programme>
-  <programme start="20260705050500 +0000" stop="20260705055500 +0000" channel="dr2.dk">
-    <title>van Gogh af van Gogh</title>
+  <programme start="20260705050000 +0000" stop="20260705050500 +0000" channel="dr2.dk">
+    <title>Tænkepauser: Håb</title>
+    <desc>Håbet er ikke lysegrønt. Det er spraglet, kulørt og foranderligt, og vi håber alle på noget forskelligt: Lenin håbede på kommunismen, Martin Luther King på et racefrit USA, kz-fangerne på at leve, og Jehovas Vidner håber på dommedag. Håbet røber, hvem vi er, og vi handler og håber, fordi vi tror, at der stadig er noget, der kan ændres i verden. Håbet er benzinen til vores handlingers motor, og kan være med til at ændre verdener. 
+En film af Rikke Louise Schjødt efter en bog af Bertel Nygaard.</desc>
+    <episode-num system="xmltv_ns">0.2.0</episode-num>
+  </programme>
+  <programme start="20260705050500 +0000" stop="20260705060000 +0000" channel="dr2.dk">
+    <title>Van Gogh af van Gogh</title>
     <desc>Han er nok verdens mest kendte kunstner. Vincent van Gogh bliver opfattet som et ikon for kunst, sårbarhed og avantgardisme. Hans værker indtager en særplads i gallerier, bøger og film og bliver brugt på merchandise af alle slags. Men hvor meget ved vi egentlig om ham? Svaret findes måske i de billeder, han malede af sig selv. Nu vil et hold kunsthistorikere fortolke otte af van Goghs mest ikoniske selvportrætter og bringe os tættere på at forstå manden bag myten.
 Britisk dokumentar fra 2025.
 (Van Gogh by Vincent)</desc>
@@ -667,15 +435,11 @@ Medvirkende: Trine Dyrholm, Victoria Carmen Sonne, Lisa Carlehed.
 Manuskript og instruktion: Marie Grahtø Sørensen.
 Produktion: Beo Starling i samarbejde med bl.a. New Danish Screen og DR.</desc>
   </programme>
-  <programme start="20260706002500 +0000" stop="20260706021000 +0000" channel="dr2.dk">
+  <programme start="20260706002500 +0000" stop="20260706021500 +0000" channel="dr2.dk">
     <title>Kenny Dalglish - Kongen af Liverpool</title>
     <desc>Han er en ægte fodboldlegende. Sir Kenny Dalglish, kendt som 'The King', er en af de største og mest indflydelsesrige britiske angribere efter 2. verdenskrig. Her følger vi hans 22-årige karriere - fra ungdomsårene i Celtic FC til ikonstatus i Liverpool FC, hvor han som spiller og manager vinder 27 trofæer. Vi hører også, hvordan to katastrofale stadionulykker i 1985 og 1989, hvor mange tilskuere omkommer, kommer til at præge resten af hans liv.
 Britisk dokumentar fra 2025.
 (Kenny Dalglish)</desc>
-  </programme>
-  <programme start="20260706021000 +0000" stop="20260706040500 +0000" channel="dr2.dk">
-    <title>Project Iceman</title>
-    <desc>Danske Anders Hofman har sat sig et vanvittigt mål: Han vil være den første person i verden til at gennemføre en Ironman i Antarktis. Men hvordan klarer man 3,8 km svømning, 180 km cykling og 42,2 km løb i dyb sne og bidende kulde, når man "bare" er konsulent med kontorjob? Efter et liv med udsatte drømme nægter Anders at lade andres begrænsninger definere ham. Han kaster sig ud i det umulige projekt for at bevise, at begrænsninger kun er opfattelser, og at vi kan meget mere.</desc>
   </programme>
   <programme start="20260706040500 +0000" stop="20260706050500 +0000" channel="dr2.dk">
     <title>Husker du... 1980</title>
@@ -697,6 +461,7 @@ En episk beretning om Vilhelm Erobrerens invasion af England i 1066, med kampsce
   <programme start="20260706060500 +0000" stop="20260706063000 +0000" channel="dr2.dk">
     <title>Morgenandagten</title>
     <desc>Morgenandagten fra Vor Frue Kirke, Københavns Domkirke.</desc>
+    <episode-num system="xmltv_ns">2025.153.0</episode-num>
   </programme>
   <programme start="20260706063000 +0000" stop="20260706100000 +0000" channel="dr2.dk">
     <title>Seneste nyt fra TVA</title>
@@ -733,6 +498,7 @@ En episk beretning om Vilhelm Erobrerens invasion af England i 1066, med kampsce
   <programme start="20260706201500 +0000" stop="20260706204500 +0000" channel="dr2.dk">
     <title>Deadline</title>
     <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <episode-num system="xmltv_ns">2025.99.0</episode-num>
   </programme>
   <programme start="20260706204500 +0000" stop="20260706213000 +0000" channel="dr2.dk">
     <title>The Sentinels (1:8)</title>
@@ -761,5 +527,256 @@ Produktion: Creative Alliance i samarbejde med bl.a. Det Danske Filminstitut og 
     <title>Kunstnerkolonien i Skagen (6:6)</title>
     <desc>Efter to uger skal det nu vise sig, om eksperimentet vil lykkes. Kunstnerne skal blive færdige, og værkerne skal samles til en fælles udstilling. Erik A. Frandsen vil lave sit endelige camera obscura-billede inspireret af Krøyer, og Cathrine er spændt på at blive vurderet af hendes gamle ven og kurator, Michael Thouber. Maria Torp glæder sig til at vise Kirsten Justesen portrættet, og spørgsmålet er, hvad Kirsten siger til gengivelsen af sig selv?</desc>
     <episode-num system="xmltv_ns">0.5.0</episode-num>
+  </programme>
+  <programme start="20260707002500 +0000" stop="20260707010500 +0000" channel="dr2.dk">
+    <title>I mørket blev vi venner</title>
+    <desc>To koncerter med Peter Sommer på spillestedet VEGA er blevet til en utraditionel musikfilm, hvor koncertoptagelser flettes sammen med fiktive fortællinger i husets gange og sale. Filmen er en sanselig og poetisk rejse gennem håb, desperation og kærlighed - spejlet i VEGAs mytiske atmosfære. Et hus, hvor ansatte hvisker om ånder.</desc>
+  </programme>
+  <programme start="20260707010500 +0000" stop="20260707020000 +0000" channel="dr2.dk">
+    <title>Mestermaleren Vermeer</title>
+    <desc>Hollandsk dokumentar fra 2023.
+(Close to Vermeer)
+Han er en af de største malere i historien. Alligevel ved man meget lidt om ham. Den hollandske barok-maler Johannes Vermeer er blandt andet kendt for det berømte kunstværk 'Pige med perleørering'. Han boede i Delft, fik 14 børn og døde som 43-årig. Men ingen ved hos hvem eller hvor, han lærte at male. Her dykker vi ned i den mystiske kunstners liv og unikke skyggeteknik i forbindelse med etableringen af verdens største Vermeer-udstilling på Rijksmuseum i Amsterdam.</desc>
+  </programme>
+  <programme start="20260707020000 +0000" stop="20260707023000 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <episode-num system="xmltv_ns">2025.99.0</episode-num>
+  </programme>
+  <programme start="20260707023000 +0000" stop="20260707030000 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <episode-num system="xmltv_ns">2025.98.0</episode-num>
+  </programme>
+  <programme start="20260707030000 +0000" stop="20260707033000 +0000" channel="dr2.dk">
+    <title>Deadline: Har AI ødelagt skolegangen?</title>
+    <desc>På gader og stræder bliver nyudklækkede studenter i øjeblikket fejret for tre års veloverstået flid i gymnasiet. Men blandt landets gymnasielærere er begejstring mere afdæmpet. Flere undervisere oplever, at brugen af kunstig intelligens er så massiv, at eleverne ganske enkelt ikke  har lært det, de burde.
+
+Issa Mahmoud Jeppesen taler med den nyudklækkede student, læreren og ministeren.</desc>
+    <episode-num system="xmltv_ns">2025.97.0</episode-num>
+  </programme>
+  <programme start="20260707040000 +0000" stop="20260707042900 +0000" channel="dr2.dk">
+    <title>Danske katastrofer - Hans Hedtofts' skibsforlis</title>
+    <desc>Fredag den 30. januar 1959 bliver det synkefri superskib, Hans Hedtoft, ramt af et isbjerg i en storm syd for Kap Farvel. I det frådende og iskolde hav er alt og alle fuldstændig hjælpeløse. Samtlige 95 ombordværende mister livet i det, der er blevet kaldt "Danmarks Titanic".
+Via beretninger fra en tidligere Grønlandsfarer og en pårørende, fortæller historikeren Rasmus Dahlberg om en helt usædvanlig skibskatastrofe. Et forlis der stadig har mange uafklarede spørgsmål. Hvor er skibet f.eks. i dag? Ingen ved det. 
+Sendt første gang 25.10.2017</desc>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+  </programme>
+  <programme start="20260707042900 +0000" stop="20260707043500 +0000" channel="dr2.dk">
+    <title>Tænkepauser: Vilje</title>
+    <desc>Hvis du tror, du har en fri vilje, kan du godt tro om igen. Viljen ligger til grund for alt. Det er viljen, der jager os alle rundt i manegen, evigt og altid mod nye mål. Til gengæld er det en illusion, at vi mennesker skulle være udstyret med en fri en af slagsen. Professor Søren R. Fauth giver os indsigt i den vilje, der er så styrende for alt, hvad du gør. Du vil blive overrasket over, hvad der styrer dig.
+En film af Bo Tengberg efter en bog af Søren R. Fauth.</desc>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+  </programme>
+  <programme start="20260707043500 +0000" stop="20260707052000 +0000" channel="dr2.dk">
+    <title>Reklamer til Tiden (4:8)</title>
+    <desc>Dansk dokumentarserie fra 2003. Reklamefilmene frister vores søde tand og vækker ølhunden. Vores dårlige samvittighed er vokset i takt med, at vi har fået flere og flere nydelsesmidler at vælge imellem. En hel reklameblok er helliget Dirch Passer, der glad og gerne stiller op i reklamefilm for alskens øl, cigaretter og slik. Hvide sandstrande, azurblåt hav og lækre piger har til gengæld solgt rigtig meget spiritus og chokolade.
+Vært: Liv Thomsen.</desc>
+    <episode-num system="xmltv_ns">0.3.0</episode-num>
+  </programme>
+  <programme start="20260707052000 +0000" stop="20260707060000 +0000" channel="dr2.dk">
+    <title>I mørket blev vi venner</title>
+    <desc>To koncerter med Peter Sommer på spillestedet VEGA er blevet til en utraditionel musikfilm, hvor koncertoptagelser flettes sammen med fiktive fortællinger i husets gange og sale. Filmen er en sanselig og poetisk rejse gennem håb, desperation og kærlighed - spejlet i VEGAs mytiske atmosfære. Et hus, hvor ansatte hvisker om ånder.</desc>
+  </programme>
+  <programme start="20260707060000 +0000" stop="20260707060500 +0000" channel="dr2.dk">
+    <title>Radioavisen</title>
+    <desc>Bliv opdateret på de seneste nyheder fra ind- og udland.</desc>
+  </programme>
+  <programme start="20260707060500 +0000" stop="20260707063000 +0000" channel="dr2.dk">
+    <title>Morgenandagten</title>
+    <desc>Morgenandagten fra Vor Frue Kirke, Københavns Domkirke.</desc>
+    <episode-num system="xmltv_ns">2025.154.0</episode-num>
+  </programme>
+  <programme start="20260707063000 +0000" stop="20260707100000 +0000" channel="dr2.dk">
+    <title>Seneste nyt fra TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260707100000 +0000" stop="20260707120000 +0000" channel="dr2.dk">
+    <title>Seneste nyt fra TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260707120000 +0000" stop="20260707143000 +0000" channel="dr2.dk">
+    <title>Wimbledon: Kvartfinale (m/k), direkte</title>
+    <desc>.</desc>
+  </programme>
+  <programme start="20260707143000 +0000" stop="20260707163000 +0000" channel="dr2.dk">
+    <title>Wimbledon: Kvartfinale (m/k), direkte</title>
+    <desc>.</desc>
+  </programme>
+  <programme start="20260707163000 +0000" stop="20260707173000 +0000" channel="dr2.dk">
+    <title>Wimbledon</title>
+    <desc>.</desc>
+  </programme>
+  <programme start="20260707173000 +0000" stop="20260707190000 +0000" channel="dr2.dk">
+    <title>Wimbledon</title>
+    <desc>.</desc>
+  </programme>
+  <programme start="20260707190000 +0000" stop="20260707193000 +0000" channel="dr2.dk">
+    <title>Signe Molde på udebane: Traktoroprøret - nu er det fandme nok!</title>
+    <desc>Signe Molde skal til traktordemonstration. For en flok landmænd har fået nok af regeringens mange klimakrav og afgifter. Men hvorfor vil de ikke være med til at redde vores klima? For at få svar på det følger Signe Molde deres talsmand René et par dage ... der for øvrigt skal en tur i retten, da han i afmagt over regeringens grønne afgifter hældte 40 tons kartofler ud på Storebæltsbroen.</desc>
+    <episode-num system="xmltv_ns">5.0.0</episode-num>
+  </programme>
+  <programme start="20260707193000 +0000" stop="20260707200000 +0000" channel="dr2.dk">
+    <title>Ferie, ferie, ferie: Charter</title>
+    <desc>Dansk serie fra 2017
+Livsstilseksperten Christine Feldthaus har en svaghed for charterferien. Sammen med veninden, Politiken-journalist Lotte Thorsen, husker hun barndommens første charterrejser, den eksotiske og ufattelige oplevelse af at være i udlandet for første gang, og fornemmelsen af, at en hel flok voksne gav slip og gik i kampdruk. I dag planlægger Feldthaus sine egne rejser, men charterferien har sat spor, der ikke lige lader sig slette. Få charterrejsens historie og den indflydelse den har haft på vores måde at holde ferie på.</desc>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+  </programme>
+  <programme start="20260707200000 +0000" stop="20260707201500 +0000" channel="dr2.dk">
+    <title>TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260707201500 +0000" stop="20260707204500 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <episode-num system="xmltv_ns">2025.100.0</episode-num>
+  </programme>
+  <programme start="20260707204500 +0000" stop="20260707212500 +0000" channel="dr2.dk">
+    <title>The Sentinels (3:8)</title>
+    <desc>Fransk actionthrillerserie fra 2025.
+(Les Sentinelles)
+Gabriels kone, Irène, starter sin egen efterforskning af sin mands skæbne. Den tyske spion Gruber afhøres om det rivaliserende tyske supersoldatprogram. Eliteenheden er på mission, da de hører om en tysk soldat med formidable kræfter.</desc>
+    <episode-num system="xmltv_ns">0.2.0</episode-num>
+  </programme>
+  <programme start="20260707212500 +0000" stop="20260707221000 +0000" channel="dr2.dk">
+    <title>The Sentinels (4:8)</title>
+    <desc>Fransk actionthrillerserie fra 2025.
+(Les Sentinelles)
+Hærens generalstab beordrer det tyske supermenneske elimineret. Han er nu Eliteenhedens primære fjende. Enheden begiver sig efter ham - uden at ane, at de snart står ansigt til ansigt med en fjende med utrolige kræfter.</desc>
+    <episode-num system="xmltv_ns">0.3.0</episode-num>
+  </programme>
+  <programme start="20260707221000 +0000" stop="20260707235000 +0000" channel="dr2.dk">
+    <title>Breaking</title>
+    <desc>Amerikansk autentisk drama fra 2022.
+"Jeg har en bombe". Det er ordlyden på en seddel, som eks-marineinfanteristen Brian Brown-Easley afleverer i en bank. Brian er vendt hjem fra tjeneste, plaget af dårligt mentalt helbred. Da hans invalidepension tilbageholdes, beslutter han at tage drastiske midler i brug. I banken tager han gidsler, men hans handlinger er dybest set et råb om hjælp.
+Medvirkende: John Boyega, Michael Kenneth Williams, Nicole Beharie m.fl.
+Instruktion: Abi Damaris Corbin.</desc>
+  </programme>
+  <programme start="20260707235000 +0000" stop="20260708004000 +0000" channel="dr2.dk">
+    <title>Fortidens fantastiske ingeniørkunst (9:10) Stenalderens hemmeligheder</title>
+    <desc>Britisk dokumentarserie fra 2021.
+(Ancient Engineering) 
+Hverken hjulet eller metalværktøj var opfundet, men alligevel kunne stenalderens ingeniører skabe ekstraordinære strukturer af sten. Fra underjordiske grave til spektakulære monumenter på Orkneyøerne. I bondestenalderen transporterede mennesker massive sten hundredvis af kilometer med muskelkraft og helt enkle redskaber. Stonehenge i Wiltshire i England er uden tvivl et mesterværk af forhistorisk ingeniørkunst.</desc>
+    <episode-num system="xmltv_ns">0.8.0</episode-num>
+  </programme>
+  <programme start="20260708004000 +0000" stop="20260708013000 +0000" channel="dr2.dk">
+    <title>Conquistadorernes storhed og fald (1:6) 1. En ny verden</title>
+    <desc>Amerikansk dokumentarserie fra 2023.
+(Conquistadors - The Rise and Fall)
+I 1469 bliver dronning Isabella I og kong Ferdinand II gift, og Spanien bliver forenet. En tid med enorm vækst og ekspansion begynder, men Spanien og Portugal strides om handelsruterne i Atlanterhavet.  
+En lille italiensk korttegner, Christoffer Columbus, drømmer om rigdom og anerkendelse ved at sejle mod vest til Asien. Det spanske monarki finansierer hans ekspedition, der er den spæde begyndelse på conquistadorernes æra.</desc>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+  </programme>
+  <programme start="20260708013000 +0000" stop="20260708020000 +0000" channel="dr2.dk">
+    <title>Værtshushistorier: Rosengårdens Bodega</title>
+    <desc>Rosengården er et gammelt københavnsk værtshus. Her fandt et opgør sted for 70 år siden, der endte med mord - skudhullerne sidder stadigvæk i væggen. På Rosengården mødte modstandsmanden Brandt og stikkeren hestetyven hinanden en forårsdag i 1944. Forfatteren Kaspar Colling Nielsen kender historien og fører os ind i mørket.</desc>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+  </programme>
+  <programme start="20260708020000 +0000" stop="20260708023000 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <episode-num system="xmltv_ns">2025.100.0</episode-num>
+  </programme>
+  <programme start="20260708023000 +0000" stop="20260708030000 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <episode-num system="xmltv_ns">2025.99.0</episode-num>
+  </programme>
+  <programme start="20260708030000 +0000" stop="20260708033000 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <episode-num system="xmltv_ns">2025.98.0</episode-num>
+  </programme>
+  <programme start="20260708040000 +0000" stop="20260708044400 +0000" channel="dr2.dk">
+    <title>I polarforskernes fodspor (1:3)</title>
+    <desc>Britisk dokumentarserie fra 2024.
+(Endurance: Race to the Pole)
+Antarktis. Jordens koldeste, mest forblæste og afsondrede kontinent. Her i denne utilgængelige vildmark vil de to eventyrere Ben og Dwayne tage 100 år tilbage i tiden og bære tøjet, spise maden og bruge det samme udstyr, som polarforskerne Scott, Shackleton og Amundsen gjorde i kapløbet om at nå først til Sydpolen i 1900-tallet. Tag med ud på et vildt eventyr, når de lægger den moderne verden bag sig for at finde ud af, hvordan deres helte gjorde det.</desc>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+  </programme>
+  <programme start="20260708044400 +0000" stop="20260708045000 +0000" channel="dr2.dk">
+    <title>Tænkepauser: Natur</title>
+    <desc>Mennesket er ikke naturens bedste ven - men muligvis den eneste. Separationen mellem natur og menneske er nået til et punkt, hvor vi enten må begære skilsmisse, fordi det er blevet for besværligt, eller indstille os på fredelig sameksistens og biodiversitet. Men det sidste er svært, for det går ud over vores egne behov. Hvad sker der, hvis vi giver stemmer til dyrene og lader dem reagere på vores trang til at kontrollere naturen?
+En film af Anders Morgenthaler efter en bog af Rasmus Ejrnæs</desc>
+    <episode-num system="xmltv_ns">0.5.0</episode-num>
+  </programme>
+  <programme start="20260708045000 +0000" stop="20260708060000 +0000" channel="dr2.dk">
+    <title>Mit liv som Lasse Hallström (1:2)</title>
+    <desc>Svensk dokumentarserie fra 2022.
+(My Life as Lasse Hallström)
+Lasse Hallström er en af Sveriges største filminstruktører med film bag sig som 'Hva' så, Gilbert Grape', 'Æblemostreglementet' og 'Mit liv som hund'. Gennem to programmer følger vi hans rejse fra opvæksten i Stockholm til et helt andet liv i USA.</desc>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+  </programme>
+  <programme start="20260708060000 +0000" stop="20260708060500 +0000" channel="dr2.dk">
+    <title>Radioavisen</title>
+    <desc>Bliv opdateret på de seneste nyheder fra ind- og udland.</desc>
+  </programme>
+  <programme start="20260708060500 +0000" stop="20260708063000 +0000" channel="dr2.dk">
+    <title>Morgenandagten</title>
+    <desc>Morgenandagten fra Vor Frue Kirke, Københavns Domkirke.</desc>
+  </programme>
+  <programme start="20260708063000 +0000" stop="20260708100000 +0000" channel="dr2.dk">
+    <title>Seneste nyt fra TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260708100000 +0000" stop="20260708120000 +0000" channel="dr2.dk">
+    <title>Seneste nyt fra TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260708120000 +0000" stop="20260708143000 +0000" channel="dr2.dk">
+    <title>Wimbledon: Kvartfinale (m/k), direkte</title>
+    <desc>.</desc>
+  </programme>
+  <programme start="20260708143000 +0000" stop="20260708163000 +0000" channel="dr2.dk">
+    <title>Wimbledon: Kvartfinale (m/k), direkte</title>
+    <desc>.</desc>
+  </programme>
+  <programme start="20260708163000 +0000" stop="20260708173000 +0000" channel="dr2.dk">
+    <title>Wimbledon</title>
+    <desc>.</desc>
+  </programme>
+  <programme start="20260708173000 +0000" stop="20260708190000 +0000" channel="dr2.dk">
+    <title>Wimbledon</title>
+    <desc>.</desc>
+  </programme>
+  <programme start="20260708190000 +0000" stop="20260708193000 +0000" channel="dr2.dk">
+    <title>Signe Molde på udebane: Flyt dig, klimafisse!</title>
+    <desc>De har kastet maling på et milliondyrt maleri, afbrudt Melodi Grand Prix og Cirkusrevyen, og skaber lange bilkøer, når de blokerer morgentrafikken. Alt sammen i klimaets navn. Men kan man virkelig ikke redde klimaet uden at være så irriterende? Det forsøger Signe Molde at få svar på, når hun skal i træningslejr og til vejprotest med Nødbremsen - Danmarks nok vildeste klimaaktivister.</desc>
+    <episode-num system="xmltv_ns">5.1.0</episode-num>
+  </programme>
+  <programme start="20260708193000 +0000" stop="20260708200000 +0000" channel="dr2.dk">
+    <title>Ferie, ferie, ferie: Camping</title>
+    <desc>Dansk serie fra 2017
+For sangeren Dario Campeotto bliver campingvognen et hyggeligt og praktisk hjem på mange års sommerturneer. Han har stadig en drøm om måske en dag at rulle en tur igen, men det bliver uden hustruen Gertrud, der føler, hun har aftjent sin værnepligt som husmor på stærkt begrænset plads. Sammen med Campeotto fortæller vi Campingferiens Danmarkshistorie. Det begyndte i 1920'erne med nogle bambusstænger og et par sække halm at sove på, og udviklede sig med store campingmesser, villatelte og campingvogne.</desc>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+  </programme>
+  <programme start="20260708200000 +0000" stop="20260708201500 +0000" channel="dr2.dk">
+    <title>TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260708201500 +0000" stop="20260708204500 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+  </programme>
+  <programme start="20260708204500 +0000" stop="20260708212500 +0000" channel="dr2.dk">
+    <title>The Sentinels (5:8)</title>
+    <desc>Fransk actionthrillerserie fra 2025.
+(Les Sentinelles)
+Irène følger et spor, der vedrører oberst Mirreau og synes at have forbindelse til en statshemmelighed. Samtidig opdager baronen, at Gisèle er flygtet. Gabriel vil til Paris for at se sin kone og sin lille søn.</desc>
+    <episode-num system="xmltv_ns">0.4.0</episode-num>
+  </programme>
+  <programme start="20260708212500 +0000" stop="20260708220500 +0000" channel="dr2.dk">
+    <title>The Sentinels (6:8)</title>
+    <desc>Fransk actionthrillerserie fra 2025.
+(Les Sentinelles)
+Eliteenheden får en ny opgave. De skal befri Mazauric, hjernen bag forskningen i Dyxenal, før han giver tyskerne vital viden. Samtidig får baronen besøg af den tyske spion Diane, som tilbyder at finde Gisèle i bytte for en tjeneste.</desc>
+    <episode-num system="xmltv_ns">0.5.0</episode-num>
+  </programme>
+  <programme start="20260708221000 +0000" stop="20260709001500 +0000" channel="dr2.dk">
+    <title>The Woman King</title>
+    <desc>Amerikansk actiondrama fra 2022.
+General Nanisca træner en gruppe kvindelige rekrutter i det afrikanske kongerige Dahomey i starten af 1800-tallet. Hun vil gøre dem til en elitestyrke af frygtløse krigere - og hun forbereder dem på at gå i kamp mod frygtelige fjender. Nemlig den skånselsløse leder af en rivaliserende stamme - og en hvid slavehandler, der er på jagt efter gratis arbejdskraft, som han vil bringe til Brasilien.
+Medvirkende: Viola Davis, Thuso Mbedu, Lashana Lynch m.fl.
+Instruktion: Gina Prince-Bythewood.</desc>
   </programme>
 </tv>
