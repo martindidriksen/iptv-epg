@@ -3,152 +3,31 @@
   <channel id="dr2.dk">
     <display-name>DR2</display-name>
   </channel>
-  <programme start="20260701235500 +0000" stop="20260702003000 +0000" channel="dr2.dk">
-    <title>I mørket blev vi venner</title>
-    <desc>To koncerter med Peter Sommer på spillestedet VEGA er blevet til en utraditionel musikfilm, hvor koncertoptagelser flettes sammen med fiktive fortællinger i husets gange og sale. Filmen er en sanselig og poetisk rejse gennem håb, desperation og kærlighed - spejlet i VEGAs mytiske atmosfære. Et hus, hvor ansatte hvisker om ånder.</desc>
-  </programme>
-  <programme start="20260702003000 +0000" stop="20260702012500 +0000" channel="dr2.dk">
-    <title>Discofeber (1:3)</title>
-    <desc>BBC-dokumentarserie fra 2023.
-(Disco Inferno)
-ABBA, Bee Gees, Donna Summer og Village People. I midten af 1970'erne skød natklubberne op i New York. Her kunne latinamerikanere, sorte og queers føle sig sikre og komme væk fra problemerne med politiet. Det var her i undergrunden, at discoen startede nærmest som en utilsigtet bevægelse, der forenede minoriteterne. At kunne danse sammen skabte en følelse af frigørelse, frihed og håb. Her fortælles historien om det hotteste musikfænomen nogensinde.</desc>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-  </programme>
-  <programme start="20260702012500 +0000" stop="20260702021500 +0000" channel="dr2.dk">
-    <title>Imperiet Kardashian (1:3)</title>
-    <desc>Britisk dokumentarserie fra 2023.
-(House of Kardashians)
-Kardashian imperiet begyndte med én kvinde. Kris Houghton. I 1960'erne drømmer hun om et liv i sus og dus i Beverly Hills. Hun gifter sig med den velhavende advokat Robert Kardashian og ser ud til at have opnået alt, hvad hun ønsker sig. Men efter ti års ægteskab har hun en affære med en yngre mand, og ægsteskabet med Robert ender i en grim skilsmisse. Kort tid efter gifter hun sig med den amerikanske OL-guldvinder Bruce Jenner. Nu tager hendes drømme fart.</desc>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-  </programme>
-  <programme start="20260702021500 +0000" stop="20260702024500 +0000" channel="dr2.dk">
-    <title>Danske katastrofer - Flystyrtet ved Dubai</title>
-    <desc>Tirsdag den 14. marts 1972 er 106 charterturister fra Tjæreborg Rejser på vej hjem fra paradisøen Ceylon. Over det indiske ocean går det galt. Flyet fra Sterling Airways mister orienteringen og styrter til sidst ned i Oman bjergene på den arabiske halvø. I alt 112 mennesker mister livet. 
-Med beretninger fra en tidligere stewardesse og en pårørende, fortæller historikeren Rasmus Dahlberg om den værste danske flykatastrofe nogensinde.   
-Der findes stadig rester efter det voldsomme flystyrt på bjerget nær Dubai. 
-Sendt første gang 18.10.2017</desc>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-  </programme>
-  <programme start="20260702024500 +0000" stop="20260702031500 +0000" channel="dr2.dk">
-    <title>Deadline: Har AI ødelagt skolegangen?</title>
-    <desc>På gader og stræder bliver nyudklækkede studenter i øjeblikket fejret for tre års veloverstået flid i gymnasiet. Men blandt landets gymnasielærere er begejstring mere afdæmpet. Flere undervisere oplever, at brugen af kunstig intelligens er så massiv, at eleverne ganske enkelt ikke  har lært det, de burde.
-
-Issa Mahmoud Jeppesen taler med den nyudklækkede student, læreren og ministeren.</desc>
-    <episode-num system="xmltv_ns">2025.97.0</episode-num>
-  </programme>
-  <programme start="20260702031500 +0000" stop="20260702034500 +0000" channel="dr2.dk">
-    <title>Deadline: Rejefiskere og nazibomber</title>
-    <desc>Rejefiskerne på Rømø må ikke længere fange hesterejer. De er i livsfare pga. ueksploderede nazibomber ved Vadehavet, siger myndighederne. Og i øvrigt ødelægger de havbunden, mener Danmarks Naturfredningsforening. Nej, siger fiskerne - vi har fisket her i 80 år. Er det skrivebordsbureaukrater, der tramper på små lokalsamfund? Eller er vi endelig ved at tage hensynet til naturen alvorligt? 
-Debat mellem Danmarks Naturfredningsforening og Rømø Fiskeriforening med Christian Bennike for bordenden.</desc>
-    <episode-num system="xmltv_ns">2025.96.0</episode-num>
-  </programme>
-  <programme start="20260702040000 +0000" stop="20260702050000 +0000" channel="dr2.dk">
-    <title>Danske drømme (1:10)</title>
-    <desc>Dansk dokumentarserie fra 1998. Danskerne får en ny monark og træder ind i EF. De beruser sig i velfærd, men i 1973 slutter året med oliekrise og tømmermænd. Danskerne har fået nok af de langhåredes revolution og sætter punktum for 60'ernes eksperimenter med et jordskredsvalg. Her fordobles antallet af partier i Folketinget, og de gamle partier reduceres med 60 mandater. Danskerne lærer at spare på energien og skrue ned for blusset. 
-Tilrettelæggelse: Leif Davidsen.</desc>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-  </programme>
-  <programme start="20260702050000 +0000" stop="20260702053000 +0000" channel="dr2.dk">
-    <title>Værtshushistorier: Drop Inn</title>
-    <desc>I 1970 er værtshuset Drop Inn centrum for Københavns bohemer - og stedet, hvor det storstilede eksperiment Thy-Lejren bliver født over en flok øl. Men for eksperimentets bagmand udvikler lejren sig katastrofalt.</desc>
-    <episode-num system="xmltv_ns">0.3.0</episode-num>
-  </programme>
-  <programme start="20260702053000 +0000" stop="20260702060000 +0000" channel="dr2.dk">
-    <title>Atombomberne over Danmark (4:6)</title>
-    <desc>En hemmelig polsk angrebsplan fra den kolde krig afslører, at Danmark skulle erobres på kun seks dage. Med brug af atomvåben. Men hvordan skulle planen udføres, og hvad ville der ske med danskerne, hvis planen blev til virkelighed? 
-I dette afsnit undersøger Morten Brink og Trine Laier, hvordan man ville redde den danske befolkning, inden bomberne faldt.</desc>
-    <episode-num system="xmltv_ns">0.3.0</episode-num>
-  </programme>
-  <programme start="20260702060000 +0000" stop="20260702060500 +0000" channel="dr2.dk">
-    <title>Radioavisen</title>
-    <desc>Bliv opdateret på de seneste nyheder fra ind- og udland.</desc>
-  </programme>
-  <programme start="20260702060500 +0000" stop="20260702063000 +0000" channel="dr2.dk">
-    <title>Morgenandagten</title>
-    <desc>Morgenandagten fra Vor Frue Kirke, Københavns Domkirke.</desc>
-  </programme>
-  <programme start="20260702063000 +0000" stop="20260702100000 +0000" channel="dr2.dk">
-    <title>Seneste nyt fra TVA</title>
-    <desc>Mindst 11 er dræbt og mere end 30 er såret efter et russisk drone- og missilangreb har ramt Ukraines hovedstad Kyiv i nat. Det oplyser det ukrainske indenrigsministerium på beskedtjenesten Telegram.
-
-TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260702100000 +0000" stop="20260702120000 +0000" channel="dr2.dk">
-    <title>Wimbledon: Taylor Fritz - Patrick Kypson, 2. runde (m), direkte</title>
-    <desc>Taylor Fritz så oprindeligt ud til at få en vanskelig åbning på Wimbledon, men efter Jack Drapers afbud har lodtrækningen formet sig anderledes. Nu møder den 28-årige amerikaner landsmanden Patrick Kypson i anden runde og er storfavorit til at spille sig videre i jagten på sin første Wimbledon-titel.
-Kommentator: Torben Schou.</desc>
-  </programme>
-  <programme start="20260702120000 +0000" stop="20260702133000 +0000" channel="dr2.dk">
-    <title>Wimbledon: Katie Swan - Madison Keys, 2. runde (k), direkte</title>
-    <desc>Australian Open-vinderen fra 2025, Madison Keys, er blandt outsiderne til Wimbledon-titlen. I anden runde møder amerikaneren britiske Katie Swan, som har fået et wild card til årets turnering. Keys har gennem flere år været en fast del af verdenstoppen, men mangler fortsat det helt store resultat på græsset i London.
-Kommentator: Per Colstrup Vinkel.</desc>
-  </programme>
-  <programme start="20260702133000 +0000" stop="20260702160000 +0000" channel="dr2.dk">
-    <title>Wimbledon: Alexander Zverev - Valentin Royer, 2. runde (m), direkte</title>
-    <desc>Alexander Zverev kommer til anden runde med masser af selvtillid efter triumfen ved French Open tidligere på sommeren. Nu venter franskmanden Valentin Royer, som får en gylden mulighed for at måle sig med en af verdens bedste spillere. Tyskeren er blandt de største favoritter til titlen og håber at fortsætte det høje niveau på græsset i London.
-Kommentator: Kasper Thrane.</desc>
-  </programme>
-  <programme start="20260702160000 +0000" stop="20260702190000 +0000" channel="dr2.dk">
-    <title>Wimbledon: Jakub Mensik - Grigor Dimitrov, 2. runde (m), direkte</title>
-    <desc>Der er lagt op til et spændende generationsmøde på Bane 1, når den 20-årige tjekke Jakub Mensik møder den 35-årige bulgarer Grigor Dimitrov. Mensik har for alvor slået sit navn fast i verdenseliten det seneste år, mens Dimitrov fortsat viser, at erfaring og elegant allround-tennis kan række langt på græs.
-Kommentator: Anders Haahr Rasmussen.</desc>
-  </programme>
-  <programme start="20260702190000 +0000" stop="20260702193000 +0000" channel="dr2.dk">
-    <title>Wimbledon</title>
-    <desc>.</desc>
-  </programme>
-  <programme start="20260702193000 +0000" stop="20260702200000 +0000" channel="dr2.dk">
-    <title>Wimbledon</title>
-    <desc>.</desc>
-  </programme>
-  <programme start="20260702200000 +0000" stop="20260702201500 +0000" channel="dr2.dk">
-    <title>TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260702201500 +0000" stop="20260702204500 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
-    <episode-num system="xmltv_ns">2025.98.0</episode-num>
-  </programme>
-  <programme start="20260702204500 +0000" stop="20260702223000 +0000" channel="dr2.dk">
-    <title>Kvinden i guld</title>
-    <desc>Amerikansk drama fra 2015.
-(Woman in Gold)
-Los Angeles, 1998. For tres år siden ødelagde nazisterne hendes familie og tvang hende til at flygte. Nu vil Maria Altmann have familiens retmæssige ejendom tilbage, deriblandt Klimts berømte maleri Kvinden i guld, som viser hendes tante Adele. Sammen med den uerfarne advokat Randy Schoenberg lægger hun sag an mod den østrigske stat. Baseret på virkelige hændelser.
-Medvirkende: Helen Mirren, Ryan Reynolds, Daniel Brühl, m.fl. 
-Instruktion: Simon Curtis.</desc>
-  </programme>
-  <programme start="20260702223000 +0000" stop="20260702232000 +0000" channel="dr2.dk">
-    <title>Van Gogh af van Gogh</title>
-    <desc>Han er nok verdens mest kendte kunstner. Vincent van Gogh bliver opfattet som et ikon for kunst, sårbarhed og avantgardisme. Hans værker indtager en særplads i gallerier, bøger og film og bliver brugt på merchandise af alle slags. Men hvor meget ved vi egentlig om ham? Svaret findes måske i de billeder, han malede af sig selv. Nu vil et hold kunsthistorikere fortolke otte af van Goghs mest ikoniske selvportrætter og bringe os tættere på at forstå manden bag myten.
-Britisk dokumentar fra 2025.
-(Van Gogh by Vincent)</desc>
-  </programme>
-  <programme start="20260702232000 +0000" stop="20260703000500 +0000" channel="dr2.dk">
+  <programme start="20260702233500 +0000" stop="20260703002000 +0000" channel="dr2.dk">
     <title>I polarforskernes fodspor (1:3)</title>
     <desc>Britisk dokumentarserie fra 2024.
 (Endurance: Race to the Pole)
 Antarktis. Jordens koldeste, mest forblæste og afsondrede kontinent. Her i denne utilgængelige vildmark vil de to eventyrere Ben og Dwayne tage 100 år tilbage i tiden og bære tøjet, spise maden og bruge det samme udstyr, som polarforskerne Scott, Shackleton og Amundsen gjorde i kapløbet om at nå først til Sydpolen i 1900-tallet. Tag med ud på et vildt eventyr, når de lægger den moderne verden bag sig for at finde ud af, hvordan deres helte gjorde det.</desc>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
   </programme>
-  <programme start="20260703001000 +0000" stop="20260703010500 +0000" channel="dr2.dk">
+  <programme start="20260703002000 +0000" stop="20260703012000 +0000" channel="dr2.dk">
     <title>Boris Johnson - Skandalernes premierminister (1:4)</title>
     <desc>Britisk dokumentarserie fra 2023.
 (The Rise and Fall of Boris Johnson)
 Er han en helt eller en skurk? Boris Johnsons historie er Storbritanniens historie. Men hvordan formede hans kaotiske barndom i Bruxelles hans politiske synspunkter? Her dykker vi ned i, hvordan rivaliseringen og sammenstødene i hans ungdom på Eton og Oxford har dikteret vigtige beslutninger, som han har truffet i jagten på magten.</desc>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
   </programme>
-  <programme start="20260703011000 +0000" stop="20260703015500 +0000" channel="dr2.dk">
+  <programme start="20260703012000 +0000" stop="20260703020500 +0000" channel="dr2.dk">
     <title>24 timer vi aldrig glemmer: Da terroren ramte Danmark i 1985</title>
     <desc>Den 22. juli 1985 blev Danmark ramt af det første terrorangreb i nyere tid. 27 mennesker blev såret og en mand brændte ihjel, da to bomber sprang foran det amerikanske luftfartsselskab North West Orient og den jødiske synagoge midt i København. Nu fortæller tidligere overrabiner Bent Melchior og andre vidner helt tæt på bomberne, hvad der skete den dag, Danmark mistede sin uskyld i forhold til den internationale terror. 
 Tilrettelæggelse: Frits Bredal.</desc>
   </programme>
-  <programme start="20260703020000 +0000" stop="20260703022805 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+  <programme start="20260703020500 +0000" stop="20260703023500 +0000" channel="dr2.dk">
+    <title>Deadline: Trumps nye kongedømme?</title>
+    <desc>USA fejrer i disse dage, at det er 250 år siden, at man rev sig løs fra den britiske trone og udråbte en selvstændig republik. Men præsident Trumps enerådige facon og billeder af sig selv iført kongekrone og gyldne kæder rejser spørgsmålet: Er nutidens Amerika på vej tilbage til enevælden? Adam Holm søger svaret i dagens udgave af Deadline.</desc>
     <episode-num system="xmltv_ns">2025.98.0</episode-num>
   </programme>
-  <programme start="20260703022805 +0000" stop="20260703030000 +0000" channel="dr2.dk">
+  <programme start="20260703023500 +0000" stop="20260703030000 +0000" channel="dr2.dk">
     <title>Deadline: Har AI ødelagt skolegangen?</title>
     <desc>På gader og stræder bliver nyudklækkede studenter i øjeblikket fejret for tre års veloverstået flid i gymnasiet. Men blandt landets gymnasielærere er begejstring mere afdæmpet. Flere undervisere oplever, at brugen af kunstig intelligens er så massiv, at eleverne ganske enkelt ikke  har lært det, de burde.
 
@@ -160,6 +39,11 @@ Issa Mahmoud Jeppesen taler med den nyudklækkede student, læreren og ministere
     <desc>Rejefiskerne på Rømø må ikke længere fange hesterejer. De er i livsfare pga. ueksploderede nazibomber ved Vadehavet, siger myndighederne. Og i øvrigt ødelægger de havbunden, mener Danmarks Naturfredningsforening. Nej, siger fiskerne - vi har fisket her i 80 år. Er det skrivebordsbureaukrater, der tramper på små lokalsamfund? Eller er vi endelig ved at tage hensynet til naturen alvorligt? 
 Debat mellem Danmarks Naturfredningsforening og Rømø Fiskeriforening med Christian Bennike for bordenden.</desc>
     <episode-num system="xmltv_ns">2025.96.0</episode-num>
+  </programme>
+  <programme start="20260703033000 +0000" stop="20260703040000 +0000" channel="dr2.dk">
+    <title>Deadline: Tesfayes frygt for fremtidens Danmark</title>
+    <desc>Mattias Tesfaye har takket nej til ministerkontoret. I stedet skal han som ny gruppeformand stå i spidsen for kampen om Socialdemokratiets fremtid. For med højrefløjens voksende vælgertække risikerer velfærdsstaten at knække, lyder det fra den toneangivende socialdemokrat. Men hvordan har han tænkt sig at slå højrefløjen og bevare den socialdemokratiske udgave af velfærdsstaten? Issa Mahmoud Jeppesen får besøg af Mattias Tesfaye og Dansk Folkepartis Mikkel Bjørn.</desc>
+    <episode-num system="xmltv_ns">2025.95.0</episode-num>
   </programme>
   <programme start="20260703040000 +0000" stop="20260703043100 +0000" channel="dr2.dk">
     <title>Sladderhistorie: Heksejagt</title>
@@ -191,20 +75,24 @@ Siden 1889 har det raget 300 meter op i den parisiske himmel. Eiffeltårnet er e
     <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
   </programme>
   <programme start="20260703100000 +0000" stop="20260703120000 +0000" channel="dr2.dk">
-    <title>Wimbledon: 3. runde (m/k), direkte</title>
-    <desc>.</desc>
+    <title>Wimbledon: Belinda Bencic - Anna Kalinskaya, 3. runde (k), direkte</title>
+    <desc>Schweizeren Belinda Bencic har noget at leve op til efter, at hun sidste år nåede semifinalen på Wimbledons græs. Den olympiske mester fra Tokyo 2021 står i tredje runde over for russeren Anna Kalinskaya.
+Kommentator: Tobias Boldt.</desc>
   </programme>
   <programme start="20260703120000 +0000" stop="20260703133000 +0000" channel="dr2.dk">
-    <title>Wimbledon: 3. runde (m/k), direkte</title>
-    <desc>.</desc>
+    <title>Wimbledon: Naomi Osaka - Daria Kasatkina , 3. runde (k), direkte</title>
+    <desc>Naomi Osaka har spillet sig frem til tredje runde ved Wimbledon, hvor australieren Daria Kasatkina venter. Den 28-årige japaner har tidligere vundet fire Grand Slam-titler, men har endnu ikke haft samme succes på græsset i London som på hardcourt. Spørgsmålet er, om Osaka for bare anden gang i karrieren kan spille sig længere i turneringen end 3. runde. 
+Kommentator: Anders Haahr Rasmussen.</desc>
   </programme>
   <programme start="20260703133000 +0000" stop="20260703160000 +0000" channel="dr2.dk">
-    <title>Wimbledon: 3. runde (m/k), direkte</title>
-    <desc>.</desc>
+    <title>Wimbledon: Jannik Sinner - Jenson Brooksby, 3. runde (m), direkte</title>
+    <desc>Den forsvarende mester Jannik Sinner måtte ud i fem sæt i sin åbningskamp i årets Wimbledon, men har siden fået bedre greb om turneringen. Nu møder verdensetteren amerikaneren Jenson Brooksby i tredje runde, hvor italieneren satser på at tage endnu et skridt mod en ny titel på Centre Court.
+Kommentator: Anders Haahr Rasmussen.</desc>
   </programme>
   <programme start="20260703160000 +0000" stop="20260703190000 +0000" channel="dr2.dk">
-    <title>Wimbledon: 3. runde (m/k), direkte</title>
-    <desc>.</desc>
+    <title>Wimbledon: Coco Gauff - Claire Liu, 3. runde (k), direkte</title>
+    <desc>Coco Gauff fortsætter jagten på sin første Wimbledon-titel, når hun møder landsmanden Claire Liu i tredje runde. Den 22-årige amerikaner vandt French Open sidste år og har etableret sig som en fast del af verdenstoppen, mens Liu jagter karrierens hidtil største resultat i London.
+Kommentator: Per Colstrup Vinkel.</desc>
   </programme>
   <programme start="20260703190000 +0000" stop="20260703193000 +0000" channel="dr2.dk">
     <title>Wimbledon</title>
@@ -544,8 +432,8 @@ Han er en af de største malere i historien. Alligevel ved man meget lidt om ham
     <episode-num system="xmltv_ns">2025.99.0</episode-num>
   </programme>
   <programme start="20260707023000 +0000" stop="20260707030000 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <title>Deadline: Trumps nye kongedømme?</title>
+    <desc>USA fejrer i disse dage, at det er 250 år siden, at man rev sig løs fra den britiske trone og udråbte en selvstændig republik. Men præsident Trumps enerådige facon og billeder af sig selv iført kongekrone og gyldne kæder rejser spørgsmålet: Er nutidens Amerika på vej tilbage til enevælden? Adam Holm søger svaret i dagens udgave af Deadline.</desc>
     <episode-num system="xmltv_ns">2025.98.0</episode-num>
   </programme>
   <programme start="20260707030000 +0000" stop="20260707033000 +0000" channel="dr2.dk">
@@ -683,8 +571,8 @@ En lille italiensk korttegner, Christoffer Columbus, drømmer om rigdom og anerk
     <episode-num system="xmltv_ns">2025.99.0</episode-num>
   </programme>
   <programme start="20260708030000 +0000" stop="20260708033000 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <title>Deadline: Trumps nye kongedømme?</title>
+    <desc>USA fejrer i disse dage, at det er 250 år siden, at man rev sig løs fra den britiske trone og udråbte en selvstændig republik. Men præsident Trumps enerådige facon og billeder af sig selv iført kongekrone og gyldne kæder rejser spørgsmålet: Er nutidens Amerika på vej tilbage til enevælden? Adam Holm søger svaret i dagens udgave af Deadline.</desc>
     <episode-num system="xmltv_ns">2025.98.0</episode-num>
   </programme>
   <programme start="20260708040000 +0000" stop="20260708044400 +0000" channel="dr2.dk">
@@ -757,6 +645,7 @@ For sangeren Dario Campeotto bliver campingvognen et hyggeligt og praktisk hjem 
   <programme start="20260708201500 +0000" stop="20260708204500 +0000" channel="dr2.dk">
     <title>Deadline</title>
     <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <episode-num system="xmltv_ns">2025.101.0</episode-num>
   </programme>
   <programme start="20260708204500 +0000" stop="20260708212500 +0000" channel="dr2.dk">
     <title>The Sentinels (5:8)</title>
@@ -765,7 +654,7 @@ For sangeren Dario Campeotto bliver campingvognen et hyggeligt og praktisk hjem 
 Irène følger et spor, der vedrører oberst Mirreau og synes at have forbindelse til en statshemmelighed. Samtidig opdager baronen, at Gisèle er flygtet. Gabriel vil til Paris for at se sin kone og sin lille søn.</desc>
     <episode-num system="xmltv_ns">0.4.0</episode-num>
   </programme>
-  <programme start="20260708212500 +0000" stop="20260708220500 +0000" channel="dr2.dk">
+  <programme start="20260708212500 +0000" stop="20260708221000 +0000" channel="dr2.dk">
     <title>The Sentinels (6:8)</title>
     <desc>Fransk actionthrillerserie fra 2025.
 (Les Sentinelles)
@@ -778,5 +667,130 @@ Eliteenheden får en ny opgave. De skal befri Mazauric, hjernen bag forskningen 
 General Nanisca træner en gruppe kvindelige rekrutter i det afrikanske kongerige Dahomey i starten af 1800-tallet. Hun vil gøre dem til en elitestyrke af frygtløse krigere - og hun forbereder dem på at gå i kamp mod frygtelige fjender. Nemlig den skånselsløse leder af en rivaliserende stamme - og en hvid slavehandler, der er på jagt efter gratis arbejdskraft, som han vil bringe til Brasilien.
 Medvirkende: Viola Davis, Thuso Mbedu, Lashana Lynch m.fl.
 Instruktion: Gina Prince-Bythewood.</desc>
+  </programme>
+  <programme start="20260709001500 +0000" stop="20260709011000 +0000" channel="dr2.dk">
+    <title>Discofeber (2:3)</title>
+    <desc>BBC-dokumentarserie fra 2023.
+(Disco Inferno)
+Discoen forenede black pride, kvindefrigørelse og LGBT-kultur og gjorde det muligt for sorte at slå igennem i popverdenen. Ved slutningen af 1970'erne var disco blevet mainstream og indtjente milliarder. Men da discobølgen toppede, trådte det oprindelige formål om kærlighed, inklusion og frihed i baggrunden. Det kom til at handle mindre om musik og mere om penge - og discoen blev et offer for sin egen succes.</desc>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+  </programme>
+  <programme start="20260709011000 +0000" stop="20260709020000 +0000" channel="dr2.dk">
+    <title>Imperiet Kardashian (2:3)</title>
+    <desc>Britisk dokumentarserie fra 2023.
+(House of Kardashians)
+I begyndelsen af 00'erne mener Kris, at et realityshow vil sikre familiens formue, men de er stadig ikke berømte nok. Hendes datter Kim arbejder for Paris Hilton og bliver selv kendt, da nogen lækker en sexvideo med hende. Dette fører til, at familiens navn og realityshow, når nye højder. Men succesen kommer med en pris. Presset ved at dele alt, tager hårdt på Kims privatliv. Og da hun forelsker sig i Kanye West, begynder hun at beskytte sin nye familie mod rampelyset.</desc>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+  </programme>
+  <programme start="20260709020000 +0000" stop="20260709023000 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <episode-num system="xmltv_ns">2025.101.0</episode-num>
+  </programme>
+  <programme start="20260709023000 +0000" stop="20260709030000 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <episode-num system="xmltv_ns">2025.100.0</episode-num>
+  </programme>
+  <programme start="20260709030000 +0000" stop="20260709033500 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <episode-num system="xmltv_ns">2025.99.0</episode-num>
+  </programme>
+  <programme start="20260709040000 +0000" stop="20260709050000 +0000" channel="dr2.dk">
+    <title>Danske drømme (2:10)</title>
+    <desc>Dansk dokumentarserie fra 1998. Kvinderne gør oprør, danner basisgrupper, tager på Femølejr og forvirrer manden. Imens står bilerne stille om søndagen. Poul Hartling forsøger med sin Venstreregering at styre Danmark gennem krisen, men må overlade magten til Anker Jørgensen. Danskerne flytter i kollektiv, og Leif Panduro fanger tidsånden med sine tv-spil. Der er røde faner og strejker i en tid, som er præget af splittelse og forvirring.
+Tilrettelæggelse: Leif Davidsen.</desc>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+  </programme>
+  <programme start="20260709050000 +0000" stop="20260709053000 +0000" channel="dr2.dk">
+    <title>1000 års kunsthistorie</title>
+    <desc>TV værten og kunsthistoriker Peter Kær tager seerne med på en rejse i den danske kunstskat. 
+I denne første udsendelse i serien rejser Peter Kær sammen med kunsthistoriker Poul Grinder-Hansen
+tilbage til middelalderen. Her skal vi høre historien om den store Jellinge sten. Et magisk gyldent alter og 
+så kommer vi tæt på kalkmalerierne i Undløse kirke.</desc>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+  </programme>
+  <programme start="20260709053000 +0000" stop="20260709060000 +0000" channel="dr2.dk">
+    <title>Atombomberne over Danmark (5:6)</title>
+    <desc>En hemmelig polsk angrebsplan fra den kolde krig afslører, at Danmark skulle erobres på kun seks dage. Med brug af atomvåben. Men hvordan skulle planen udføres, og hvad ville der ske med danskerne, hvis planen blev til virkelighed? 
+I dette afsnit undersøger Morten Brink, hvem der skulle angribe os, og hvor atomvåbnene lå klar i Polen.</desc>
+    <episode-num system="xmltv_ns">0.4.0</episode-num>
+  </programme>
+  <programme start="20260709060000 +0000" stop="20260709060500 +0000" channel="dr2.dk">
+    <title>Radioavisen</title>
+    <desc>Bliv opdateret på de seneste nyheder fra ind- og udland.</desc>
+  </programme>
+  <programme start="20260709060500 +0000" stop="20260709063000 +0000" channel="dr2.dk">
+    <title>Morgenandagten</title>
+    <desc>Morgenandagten fra Vor Frue Kirke, Københavns Domkirke.</desc>
+  </programme>
+  <programme start="20260709063000 +0000" stop="20260709100000 +0000" channel="dr2.dk">
+    <title>Seneste nyt fra TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260709100000 +0000" stop="20260709150000 +0000" channel="dr2.dk">
+    <title>Seneste nyt fra TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260709150000 +0000" stop="20260709170000 +0000" channel="dr2.dk">
+    <title>Wimbledon: Semifinale, damesingle, direkte</title>
+    <desc>.</desc>
+  </programme>
+  <programme start="20260709170000 +0000" stop="20260709180000 +0000" channel="dr2.dk">
+    <title>Wimbledon: Finale, mixed double, direkte</title>
+    <desc>.</desc>
+  </programme>
+  <programme start="20260709180000 +0000" stop="20260709183000 +0000" channel="dr2.dk">
+    <title>Wimbledon</title>
+    <desc>.</desc>
+  </programme>
+  <programme start="20260709183000 +0000" stop="20260709190000 +0000" channel="dr2.dk">
+    <title>Wimbledon</title>
+    <desc>.</desc>
+  </programme>
+  <programme start="20260709190000 +0000" stop="20260709193000 +0000" channel="dr2.dk">
+    <title>Signe Molde på udebane: Skrid med jeres vindmøller</title>
+    <desc>De er ikke sure. De gider bare ikke glo på flere grimme vindmøller eller solceller. Signe Molde skal til borgermøde med en slags oprørshær, der kæmper imod et storstilet energianlæg i Vestjylland. Men når nu de både kan tjene en masse penge OG gør noget godt for klimaet, hvordan kan de så være imod solceller og vindmøller?</desc>
+    <episode-num system="xmltv_ns">3.3.0</episode-num>
+  </programme>
+  <programme start="20260709193000 +0000" stop="20260709200000 +0000" channel="dr2.dk">
+    <title>Ferie, ferie, ferie: Eventyr</title>
+    <desc>Dansk serie fra 2017
+Entertainer Jacob Haugaard har rejst i hele verden og elsker at fortælle om sine ture. For ham er det en livsnødvendighed at tage ud og opleve andre steder og kulturer. Det har det også været for mange andre danskere gennem tiden, og vi møder mange af dem i udsendelsen, som giver et historisk rids over danskernes eventyrrejser. Dette program handler om de mennesker, der kan lide at tage på eventyr. Dem, der rejser let, tager langt væk og altid er på jagt efter det unikke.</desc>
+    <episode-num system="xmltv_ns">0.2.0</episode-num>
+  </programme>
+  <programme start="20260709200000 +0000" stop="20260709201500 +0000" channel="dr2.dk">
+    <title>TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260709201500 +0000" stop="20260709204500 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <episode-num system="xmltv_ns">2025.102.0</episode-num>
+  </programme>
+  <programme start="20260709204500 +0000" stop="20260709212500 +0000" channel="dr2.dk">
+    <title>The Sentinels (7:8)</title>
+    <desc>Fransk actionthrillerserie fra 2025.
+(Les Sentinelles)
+Eliteenheden er på vej for at befri Mazauric, da de Clermont bliver hårdt såret af en tysk patrulje. Djibouti og Gabriel fortsætter uden ham uden at ane, at de dermed nærmer sig den tyske supersoldat. På laboratoriet tester Marthe den nye rekrut Aria. Den unge kvinde, som er dømt til døden, får sin første dosis af det kampforstærkende serum.</desc>
+    <episode-num system="xmltv_ns">0.6.0</episode-num>
+  </programme>
+  <programme start="20260709212500 +0000" stop="20260709221000 +0000" channel="dr2.dk">
+    <title>The Sentinels (8:8)</title>
+    <desc>Fransk actionthrillerserie fra 2025.
+(Les Sentinelles)
+Gabriel og Djibouti er faldet i hænderne på tyskerne. Nu er de tvunget til at tage kampen op med deres hidtil mest skræmmende modstander - den tyske supersoldat.</desc>
+    <episode-num system="xmltv_ns">0.7.0</episode-num>
+  </programme>
+  <programme start="20260709221000 +0000" stop="20260710001500 +0000" channel="dr2.dk">
+    <title>12 Years a Slave</title>
+    <desc>Amerikansk Oscarbelønnet drama fra 2013.
+I 1841 er den sorte amerikaner Solomon Northup en fri mand med kone og børn, da han bedøves, bortføres og sælges som slave. Det bliver begyndelsen på 12 års helvede, hvor Solomon må kæmpe både for at holde sig i live og for at bevare sin værdighed.
+'12 Years a Slave' modtog tre Oscars, blandt andet for bedste film.
+Solomon Northup: Chiwetel Ejiofor
+Epps: Michael Fassbender
+Bass: Brad Pitt
+Instruktion: Steve McQueen</desc>
   </programme>
 </tv>

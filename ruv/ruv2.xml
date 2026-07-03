@@ -3,26 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260702183000 +0000" stop="20260702185000 +0000" channel="ruv2.is">
-    <title>Stofan</title>
-    <desc>Umfjallanir um leiki á HM karla í fótbolta.
-
-Upphitun fyrir 32-liða úrslit á HM karla í fótbolta.</desc>
-  </programme>
-  <programme start="20260702185000 +0000" stop="20260702210500 +0000" channel="ruv2.is">
-    <title>Spánn - Austurríki</title>
-    <desc>Leikir á HM karla í fótbolta.
-
-Leikur Spánar og Austurríkis í 32-liða úrslitum á HM karla í fótbolta.</desc>
-  </programme>
-  <programme start="20260702210500 +0000" stop="20260702214500 +0000" channel="ruv2.is">
-    <title>HM kvöld</title>
-    <desc>Samantekt frá leikjum dagsins á HM karla í fótbolta.</desc>
-  </programme>
-  <programme start="20260702214500 +0000" stop="20260702221000 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20260703173000 +0000" stop="20260703175000 +0000" channel="ruv2.is">
     <title>Stofan</title>
     <desc>Umfjallanir um leiki á HM karla í fótbolta.
@@ -76,8 +56,10 @@ Uppgjör á 16-liða úrslitum á HM karla í fótbolta.</desc>
 Upphitun fyrir 16-liða úrslit á HM karla í fótbolta.</desc>
   </programme>
   <programme start="20260706185000 +0000" stop="20260706210500 +0000" channel="ruv2.is">
-    <title>16-liða úrslit</title>
-    <desc>Leikir á HM karla í fótbolta.</desc>
+    <title>Bandaríkin - Belgía</title>
+    <desc>Leikir á HM karla í fótbolta.
+
+Leikur Bandaríkjanna og Belgíu í 16-liða úrslitum á HM karla i fótbolta.</desc>
   </programme>
   <programme start="20260706210500 +0000" stop="20260706212500 +0000" channel="ruv2.is">
     <title>HM kvöld</title>
@@ -122,6 +104,10 @@ Maddý ákveður að halda sundlaugarpartý og er harðákveðin í því að al
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
   <programme start="20260708190000 +0000" stop="20260708192300 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260709190000 +0000" stop="20260709192500 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
