@@ -3,146 +3,25 @@
   <channel id="dr2.dk">
     <display-name>DR2</display-name>
   </channel>
-  <programme start="20260703225500 +0000" stop="20260704005000 +0000" channel="dr2.dk">
-    <title>Sicario 2: Soldado</title>
-    <desc>Amerikansk actionthriller fra 2018.
-(Sicario: Day of the Soldado)
-I kampen mod narkokartellerne er der ingen regler. Da kartellerne begynder at smugle terrorister over den amerikanske grænse, tager agent Graver kontakt til den mystiske Alejandro, hvis familie blev myrdet i kartelkrigene. Alejandro kidnapper en kartelleders datter for at optrappe konflikten, men kartelbossen er villig til at ofre sin egen datter, og pludselig ligger hendes skæbne i Alejandro og Gravers hænder.
-Medvirkende: Josh Brolin, Benicio del Toro, Isabela Moner m.fl.
-Instruktion: Stefano Sollima.</desc>
-  </programme>
-  <programme start="20260704005000 +0000" stop="20260704014500 +0000" channel="dr2.dk">
-    <title>Bruce Lee - Dragen fra Hong Kong</title>
-    <desc>Han var familiens sorte får - og hele verdens kung-fu-stjerne. I 1973 blev Bruce Lee med filmen 'I dragens kløer' den første globale asiatiske filmstjerne. Filmen gjorde ham til en myte og et forbillede for samfundets svageste og blev kulminationen på hans utrættelig kamp mod et Hollywood, som ikke ville kendes ved ham. Her er historien om en mand, der banede vejen for sig selv og andre asiater - indtil det kostede ham livet. 
-Fransk dokumentar fra 2025.
-(Bruce Lee - Enter the Dragon)</desc>
-  </programme>
-  <programme start="20260704014500 +0000" stop="20260704024500 +0000" channel="dr2.dk">
-    <title>Discofeber (1:3)</title>
-    <desc>BBC-dokumentarserie fra 2023.
-(Disco Inferno)
-ABBA, Bee Gees, Donna Summer og Village People. I midten af 1970'erne skød natklubberne op i New York. Her kunne latinamerikanere, sorte og queers føle sig sikre og komme væk fra problemerne med politiet. Det var her i undergrunden, at discoen startede nærmest som en utilsigtet bevægelse, der forenede minoriteterne. At kunne danse sammen skabte en følelse af frigørelse, frihed og håb. Her fortælles historien om det hotteste musikfænomen nogensinde.</desc>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-  </programme>
-  <programme start="20260704024500 +0000" stop="20260704033500 +0000" channel="dr2.dk">
-    <title>Europas vidundere I (2:4) Versailles</title>
-    <desc>Fransk dokumentarserie fra 2022.
-(The Wonders of Europe)
-Det er Frankrigs mest berømte slot. I 1661 blev Ludvig 14. præsenteret for det dramatiske slot Vaux-le-Vicomte uden for Paris. Slottet gjorde så stort et indtryk på kongen, at han satte sig for at bygge verdens smukkeste slot - Versailles. Det tog de ypperste arkitekter og kunstnere over 50 år at bygge det verdenskendte monument med sin spejlsal, barokhave og slotskirke. Her dykker vi ned i den utrolige historie om et af Europas prægtigste bygningsværker.</desc>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-  </programme>
-  <programme start="20260704033500 +0000" stop="20260704040000 +0000" channel="dr2.dk">
-    <title>Explainer - Verdens vildeste Wimbledon</title>
-    <desc>Mod alle odds ender den danske tennisspiller, Frederik Løchte Nielsen, i 2012 midt på verdens mest ikoniske tennisbane - nemlig Centre Court ved Wimbledon. Her har nogle af historiens vildeste opgør udspillet sig mellem tidernes største tennisstjerner. Men Wimbledon er ikke bare tennis, det er også ældgamle traditioner. Traditioner som stadig lever i bedste velgående - både i den fine engelske tennisklub, men også i en baghave langt ude på landet i Jylland.</desc>
-    <episode-num system="xmltv_ns">2023.1.0</episode-num>
-  </programme>
-  <programme start="20260704040000 +0000" stop="20260704042500 +0000" channel="dr2.dk">
-    <title>Sonja på Bornholm 1:4</title>
-    <desc>Dansk børneserie fra 1969. Sonja får et brev fra sin veninde Julie, der er på sommerferie på Bornholm. Sonja kan blive feriebarn i Gudhjem, og det vil hun rigtig gerne. Sonjas mor har ikke råd til at sende hende afsted, men heldigvis vil mors kæreste Frede gerne betale færgebilletten.
-Medvirkende: Sonia Maria Sander Jacobsen, Jytte Abildstrøm, Freddy Fræk, Jesper Klein m.fl. 
-Ide, manuskript og instruktion: Jytte Hauch-Fausbøll.</desc>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-  </programme>
-  <programme start="20260704042500 +0000" stop="20260704045500 +0000" channel="dr2.dk">
-    <title>Sonja på Bornholm 2:4.</title>
-    <desc>Dansk børneserie fra 1969. Sonja får lov til at sidde bag på hr. Kragemoses cykel hele vejen til Gudhjem, hvor Julie bor hos sin onkel. Nu gælder det om at finde fru Ankers hus, hvor Sonja håber at kunne bo. Sonja smager også røgede sild for første gang - og synes at bornholmsk lyder underligt.
-Medvirkende: Sonia Maria Sander Jacobsen, Jytte Abildstrøm, Freddy Fræk, Jesper Klein m.fl.
-Ide, manuskript og instruktion: Jytte Hauch-Fausbøll.</desc>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-  </programme>
-  <programme start="20260704045500 +0000" stop="20260704052500 +0000" channel="dr2.dk">
-    <title>Sonja på Bornholm 3:4.</title>
-    <desc>Dansk børneserie fra 1969. Mor og Frede og lillesøster Heidi kommer pludselig også til Bornholm. De har telt med og bor på campingpladsen. Sonja leger og bader med sine legekammerater, og de støder ind i hr. Kragemose, der har fanget en ål. Om aftenen er mor og Frede og Heidi inviteret til aftensmad hos hr. og fru Anker - de skal have fisk.
-Medvirkende: Sonia Maria Sander Jacobsen, Jytte Abildstrøm, Freddy Fræk, Jesper Klein m.fl.
-Ide, manuskript og instruktion: Jytte Hauch-Fausbøll.</desc>
-    <episode-num system="xmltv_ns">0.2.0</episode-num>
-  </programme>
-  <programme start="20260704052500 +0000" stop="20260704060000 +0000" channel="dr2.dk">
-    <title>Sonja på Bornholm 4:4.</title>
-    <desc>Dansk børneserie fra 1969. Sonja kan ikke lide katte, og hun kan ikke fordrage æg - men ellers kan hun godt lide at være på Bornholm. Sammen med mor og Frede og Heidi tager hun ud og bader. Det er første gang, lillesøster prøver det. Om aftenen skal de alle sammen fejre sankthans og lave bål på stranden.
-Medvirkende: Sonia Maria Sander Jacobsen, Jytte Abildstrøm, Freddy Fræk, Jesper Klein m.fl.
-Ide, manuskript og instruktion: Jytte Hauch-Fausbøll.</desc>
-    <episode-num system="xmltv_ns">0.3.0</episode-num>
-  </programme>
-  <programme start="20260704060000 +0000" stop="20260704060500 +0000" channel="dr2.dk">
-    <title>Radioavisen</title>
-    <desc>Bliv opdateret på de seneste nyheder fra ind- og udland.</desc>
-  </programme>
-  <programme start="20260704060500 +0000" stop="20260704063000 +0000" channel="dr2.dk">
-    <title>Morgenandagten</title>
-    <desc>Morgenandagten fra Vor Frue Kirke, Københavns Domkirke.</desc>
-    <episode-num system="xmltv_ns">2025.152.0</episode-num>
-  </programme>
-  <programme start="20260704063000 +0000" stop="20260704100000 +0000" channel="dr2.dk">
-    <title>Seneste nyt fra TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260704100000 +0000" stop="20260704123000 +0000" channel="dr2.dk">
-    <title>Wimbledon: Alex de Minaur - Zachary Svajda, 3. runde (m), direkte</title>
-    <desc>Den femteseedede australier Alex de Minaur har endnu ikke afgivet et sæt i årets Wimbledon. Nu fortsætter jagten på et gennembrud i London, når han i tredje runde møder amerikaneren Zachary Svajda på Bane 3.
-Kommentator: Tobias Boldt.</desc>
-  </programme>
-  <programme start="20260704123000 +0000" stop="20260704140000 +0000" channel="dr2.dk">
-    <title>Wimbledon: Iga Swiatek - Alexandra Eala, 3. runde (k), direkte</title>
-    <desc>Den forsvarende Wimbledon-mester Iga Swiatek fortsætter jagten på endnu en titel på græsset i London, hvor hun nu møder Alexandra Eala fra Filippinerne. Dagens tredjerunde-kamp er det længste 21-årige Eala har nået, så Swiatek er favorit til at spille sig videre til ottendedelsfinalerne. 
-Kommentator: Anders Haahr Rasmussen.</desc>
-  </programme>
-  <programme start="20260704140000 +0000" stop="20260704160000 +0000" channel="dr2.dk">
-    <title>Wimbledon: Amanda Anisimova - Madison Keys, 3. runde (k), direkte</title>
-    <desc>Amanda Anisimova nåede hele vejen til Wimbledon-finalen sidste år og håber igen at spille med om titlen. I tredje runde venter landsmanden Madison Keys, der med Grand Slam-titlen fra Australian Open i 2025 har vist, at hun kan slå alle på de største scener.
-Kommentator: Anders Haahr Rasmussen.</desc>
-  </programme>
-  <programme start="20260704160000 +0000" stop="20260704190000 +0000" channel="dr2.dk">
-    <title>Wimbledon: Grigor Dimitrov - Matteo Berrettini, 3. runde (m), direkte</title>
-    <desc>Bulgaren Grigor Dimitrov og italieneren Matteo Berrettini har begge fundet topniveauet frem i årets Wimbledon. 35-årige Dimitrov og 30-årige Berrettini har leveret stærke præstationer i de første runder, og derfor er forventningerne høje til et seværdigt opgør i tredje runde.
-Kommentatorer: Frederik Lindved og Michael Mortensen.</desc>
-  </programme>
-  <programme start="20260704190000 +0000" stop="20260704193000 +0000" channel="dr2.dk">
-    <title>Wimbledon</title>
-    <desc>.</desc>
-  </programme>
-  <programme start="20260704193000 +0000" stop="20260704200000 +0000" channel="dr2.dk">
-    <title>Wimbledon</title>
-    <desc>.</desc>
-  </programme>
-  <programme start="20260704200000 +0000" stop="20260704201600 +0000" channel="dr2.dk">
-    <title>TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260704201500 +0000" stop="20260704225000 +0000" channel="dr2.dk">
-    <title>The Patriot</title>
-    <desc>Amerikansk actiondrama fra 2000.
-Året er 1776. Benjamin Martin er enkemand og bor i South Carolina sammen med sine syv børn. Han har set krig nok og ønsker nu kun at leve i fred. Men da en brutal og sadistisk britisk officer tager én af hans sønner til fange, myrder en anden af hans sønner for øjnene af ham og sætter ild på hans hus, sætter han sig i spidsen for en guerillahær for at sikre amerikansk uafhængighed.
-Medvirkende: Mel Gibson, Heath Ledger, Jason Isaacs m.fl.
-Instruktion: Roland Emmerich.</desc>
-  </programme>
-  <programme start="20260704225000 +0000" stop="20260705005000 +0000" channel="dr2.dk">
+  <programme start="20260704235500 +0000" stop="20260705015500 +0000" channel="dr2.dk">
     <title>Harriet</title>
     <desc>Amerikansk autentisk drama fra 2019.
 I 1849 er Minty slave i sydstaten Maryland. Da hendes slaveholder dør, lykkes det hende at flygte til friheden i staten Pennsylvania. Minty skifter navn til Harriet, men hun kan ikke affinde sig med at være fri, når der stadig er så mange slaver. Med livet som indsats begiver hun sig gang på gang til sydstaterne for at hjælpe sorte slaver på flugt - ikke mindst hendes egen familie.
 Medvirkende: Cynthia Erivo, Leslie Odom Jr., Janelle Monáe m.fl.
 Instruktion: Kasi Lemmons.</desc>
   </programme>
-  <programme start="20260705005000 +0000" stop="20260705022500 +0000" channel="dr2.dk">
+  <programme start="20260705015500 +0000" stop="20260705033000 +0000" channel="dr2.dk">
     <title>Nelly &amp; Nadine - forbudt kærlighed i KZ-lejren</title>
     <desc>Svensk dokumentarfilm fra 2022.
 (Nelly &amp; Nadine)
 Juleaften 1944 i koncentrationslejren Ravensbrück forelsker to kvinder sig i hinanden. En forbudt kærlighed mellem den mystiske Nadine Hwang og operasangerinden Nelly Mousset-Vos. Efter befrielsen genforenes de og tilbringer resten af deres liv sammen. I mange år er deres forhold hemmeligt, selv for den nærmeste familie. Men nu har Nellys barnebarn, Sylvie, besluttet at afdække deres bemærkelsesværdige kærlighedshistorie.</desc>
   </programme>
-  <programme start="20260705022500 +0000" stop="20260705031500 +0000" channel="dr2.dk">
-    <title>Fortidens fantastiske ingeniørkunst (8:10) Historiens største skibe</title>
-    <desc>Britisk dokumentarserie fra 2021.
-(Ancient Engineering) 
-Én opfindelse har givet mennesket mulighed for at udforske verden mere end nogen anden. Skibet. Det forbandt civilisationer på tværs af oceanerne. Over 90% af den moderne, globale handel foregår via havet. Oldtidens ingeniører arbejdede intenst på at perfektionere deres skibe, så de kunne klare længere rejser. Men hvilke historiske opfindelser førte i sidste ende til de teknologisk avancerede skibe, som vi ser i dag?</desc>
-    <episode-num system="xmltv_ns">0.7.0</episode-num>
+  <programme start="20260705033000 +0000" stop="20260705040000 +0000" channel="dr2.dk">
+    <title>Værtshushistorier: Kanalen</title>
+    <desc>Det første værthus i Thyborøn, - Kanalen, åbnede i 1978. Indtil da, var det så godt som umuligt for indbyggerne i den vestjyske by at købe sig en øl, eller et glas vin. Indre Mission har de sidste 100 år stået stærkt i det lille fiskersamfund og alkohol har ikke været en del af overbevisningen. Bent Bro fra bandet Tørfisk fortæller historien.</desc>
+    <episode-num system="xmltv_ns">0.5.0</episode-num>
   </programme>
-  <programme start="20260705031500 +0000" stop="20260705033500 +0000" channel="dr2.dk">
-    <title>På skuldrene af Bohr (5:6)</title>
-    <desc>I en kælder i København findes et hold, som kan teleportere 100 millioner atomer. Betyder det så, at vi en dag kan teleportere mennesker? Eller er det slet ikke meningen med teleportation? 
-Dansk videnskabsserie fra 2022 om kvantefysikkens uforklarligheder, som tager udgangspunkt i de ideer og tanker den danske fysiker Niels Bohr havde for 100 år siden, og som blev fundamentet til kvantemekanikken. En teori om de allermindste ting i universet.</desc>
-    <episode-num system="xmltv_ns">0.4.0</episode-num>
-  </programme>
-  <programme start="20260705040000 +0000" stop="20260705043000 +0000" channel="dr2.dk">
+  <programme start="20260705040000 +0000" stop="20260705042500 +0000" channel="dr2.dk">
     <title>Kunstnerkolonien i Skagen (5:6)</title>
     <desc>De seks kunstnere arbejder hårdt på at blive færdige med deres værker, inden museumsdirektør og kurator, Michael Thouber, kommer på besøg i deres atelier. Kirsten Justesen færdiggør sin Skagen mapping af særligt udvalgte blade. Cathrine R. Davidsen leger med lys og skygge, når hun laver værker med kul og viskelæder. Og Frederik Næblerød har travlt med at hænge de bedste af sine mange malerier op på væggen for at vurdere, hvilke han vil vise til kuratoren.</desc>
     <episode-num system="xmltv_ns">0.4.0</episode-num>
@@ -155,7 +34,7 @@ ceremonimester? Apolonia Sokol besøger en gammel ven i de franske vinmarker for
 at finde kærlighedens sande nektar - en kærlighedseliksir.</desc>
     <episode-num system="xmltv_ns">0.2.0</episode-num>
   </programme>
-  <programme start="20260705050000 +0000" stop="20260705050500 +0000" channel="dr2.dk">
+  <programme start="20260705050000 +0000" stop="20260705051000 +0000" channel="dr2.dk">
     <title>Tænkepauser: Håb</title>
     <desc>Håbet er ikke lysegrønt. Det er spraglet, kulørt og foranderligt, og vi håber alle på noget forskelligt: Lenin håbede på kommunismen, Martin Luther King på et racefrit USA, kz-fangerne på at leve, og Jehovas Vidner håber på dommedag. Håbet røber, hvem vi er, og vi handler og håber, fordi vi tror, at der stadig er noget, der kan ændres i verden. Håbet er benzinen til vores handlingers motor, og kan være med til at ændre verdener. 
 En film af Rikke Louise Schjødt efter en bog af Bertel Nygaard.</desc>
@@ -172,20 +51,23 @@ Britisk dokumentar fra 2025.
     <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
   </programme>
   <programme start="20260705100000 +0000" stop="20260705120000 +0000" channel="dr2.dk">
-    <title>Wimbledon: 4. runde (m/k), direkte</title>
-    <desc>.</desc>
+    <title>Seneste nyt fra TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
   </programme>
   <programme start="20260705120000 +0000" stop="20260705133000 +0000" channel="dr2.dk">
-    <title>Wimbledon: 4. runde (m/k), direkte</title>
-    <desc>.</desc>
+    <title>Wimbledon: Jessica Pegula - Iva Jovic, 4. runde (k), direkte</title>
+    <desc>Iva Jovic har fået sit store gennembrud på Wimbledons græs. Den 18-årige amerikaner havde aldrig vundet en kamp i hovedturneringen før i år, men skal nu forsøge at fortsætte eventyret mod landsmanden Jessica Pegula i ottendedelsfinalen.
+Kommentator: Per Colstrup Vinkel.</desc>
   </programme>
   <programme start="20260705133000 +0000" stop="20260705160000 +0000" channel="dr2.dk">
-    <title>Wimbledon: 4. runde (m/k), direkte</title>
-    <desc>.</desc>
+    <title>Wimbledon: Felix Auger-Aliassime - Alejandro Davidovich Fokina, 4. runde (m), direkte</title>
+    <desc>Felix Auger-Aliassime har fundet melodien på Wimbledons græs. Den 26-årige canadier har spillet sig sikkert frem til ottendedelsfinalen uden at afgive et sæt, men får nu sin hidtil største udfordring i årets turnering, når spanieren Alejandro Davidovich Fokina står på den anden side af nettet.
+Kommentator: Per Colstrup Vinkel.</desc>
   </programme>
   <programme start="20260705160000 +0000" stop="20260705190000 +0000" channel="dr2.dk">
-    <title>Wimbledon: 4. runde (m/k), direkte</title>
-    <desc>.</desc>
+    <title>Wimbledon: Belinda Bencic - Coco Gauff, 4. runde (k), direkte</title>
+    <desc>Coco Gauff jagter fortsat sit store gennembrud på Wimbledons græs. Den 22-årige amerikaner har endnu aldrig været i kvartfinalen i London og skal nu forsøge at besejre sidste års semifinalist, schweizeren Belinda Bencic, i kampen om en plads blandt de sidste otte.
+Kommentator: Anders Haahr Rasmussen.</desc>
   </programme>
   <programme start="20260705190000 +0000" stop="20260705193000 +0000" channel="dr2.dk">
     <title>Wimbledon</title>
@@ -793,5 +675,132 @@ Instruktion: Martin Campbell.</desc>
 Året er 1776. Benjamin Martin er enkemand og bor i South Carolina sammen med sine syv børn. Han har set krig nok og ønsker nu kun at leve i fred. Men da en brutal og sadistisk britisk officer tager én af hans sønner til fange, myrder en anden af hans sønner for øjnene af ham og sætter ild på hans hus, sætter han sig i spidsen for en guerillahær for at sikre amerikansk uafhængighed.
 Medvirkende: Mel Gibson, Heath Ledger, Jason Isaacs m.fl.
 Instruktion: Roland Emmerich.</desc>
+  </programme>
+  <programme start="20260711010000 +0000" stop="20260711015500 +0000" channel="dr2.dk">
+    <title>Paul Newman - Bag de blå øjne</title>
+    <desc>Paul Newman var en af sin generations største skuespillere. Han er kendt for sine azurblå øjne og roller i bl.a. 'Hajen', 'Butch Cassidy and The Sundance Kid' og 'Det handler om penge', for hvilken han modtog en Oscar. Bag blikket gemmer sig en ambitiøs skuespiller og instruktør, der blev uddannet fra Actors Studio. Kom bagom den karismatiske filmstjerne, der også var filantrop og politisk aktivist, og som værnede om sit privatliv.
+Fransk dokumentar fra 2021.
+(Paul Newman, derrière les yeux bleus)</desc>
+  </programme>
+  <programme start="20260711015500 +0000" stop="20260711025000 +0000" channel="dr2.dk">
+    <title>Discofeber (2:3)</title>
+    <desc>BBC-dokumentarserie fra 2023.
+(Disco Inferno)
+Discoen forenede black pride, kvindefrigørelse og LGBT-kultur og gjorde det muligt for sorte at slå igennem i popverdenen. Ved slutningen af 1970'erne var disco blevet mainstream og indtjente milliarder. Men da discobølgen toppede, trådte det oprindelige formål om kærlighed, inklusion og frihed i baggrunden. Det kom til at handle mindre om musik og mere om penge - og discoen blev et offer for sin egen succes.</desc>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+  </programme>
+  <programme start="20260711025000 +0000" stop="20260711034500 +0000" channel="dr2.dk">
+    <title>24 timer vi aldrig glemmer - Da Danmark bankede Sovjet</title>
+    <desc>En solbeskinnet grundlovsdag, onsdag den 5. juni 1985, står det danske dynamithold overfor sin hidtil største udfordring i Idrætsparken: Et topmotiveret sovjetisk landshold. Midt under den kolde krig er Sovjetunionens fodboldspillere landets bedste reklame: De er teknisk overlegne og holder aldrig op med at løbe. Mød bl.a. Klaus Berggreen og Per Frimann i historien om den dag, dansk fodbold ramte den absolutte verdenselite - og blev der. 
+Tilrettelæggelse: Janus Køster-Rasmussen.</desc>
+    <episode-num system="xmltv_ns">1.9.0</episode-num>
+  </programme>
+  <programme start="20260711040000 +0000" stop="20260711042000 +0000" channel="dr2.dk">
+    <title>Guldkorn 1980'erne: 1982</title>
+    <desc>DRs arkiver er en guldgrube af gamle TV-klip. De store historier har vi set igen og igen. Men hvad var det, der prægede helt almindelige danskeres hverdag i 1980'erne? Vi har været en tur i arkiverne og har fundet nogle af alle de små, store, sjove, alvorlige og underfundige øjeblikke, der gled hen over skærmen i 1982.</desc>
+    <episode-num system="xmltv_ns">2.2.0</episode-num>
+  </programme>
+  <programme start="20260711042000 +0000" stop="20260711060000 +0000" channel="dr2.dk">
+    <title>Det begyndte med Mathilde</title>
+    <desc>Dansk tv-drama fra 1978. En dramatiseret fortælling om Danmarks første kvindesagskvinde Mathilde Fibiger. Baseret på breve og dagbøger skildres hendes liv og holdninger fra 1850'erne, hvor hun udgiver den debatskabende brevroman 'Clara Raphael', og frem til 1872, hvor hun dør som kun 41-årig.
+Medvirkende: Anne Birch, John Hahn-Petersen, Brigitte Kolerus, Birthe Neumann m.fl.</desc>
+  </programme>
+  <programme start="20260711060000 +0000" stop="20260711060500 +0000" channel="dr2.dk">
+    <title>Radioavisen</title>
+    <desc>Bliv opdateret på de seneste nyheder fra ind- og udland.</desc>
+  </programme>
+  <programme start="20260711060500 +0000" stop="20260711063000 +0000" channel="dr2.dk">
+    <title>Morgenandagten</title>
+    <desc>Morgenandagten fra Vor Frue Kirke, Københavns Domkirke.</desc>
+  </programme>
+  <programme start="20260711063000 +0000" stop="20260711100000 +0000" channel="dr2.dk">
+    <title>Seneste nyt fra TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260711100000 +0000" stop="20260711120000 +0000" channel="dr2.dk">
+    <title>Seneste nyt fra TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260711120000 +0000" stop="20260711123000 +0000" channel="dr2.dk">
+    <title>Hatten rundt (6:12)</title>
+    <desc>Dansk underholdningsserie fra 1997. Grinene sidder løst hos publikum, der fodrer impro-holdet med sætninger som "Han skal besøge svigerfamilien for første gang" og "To pindsvin bliver forelskede og kysses og elsker".
+Medvirkende: Søren Østergaard, Torben Zeller, Søren Hauch-Fausbøll, Claus Bue, Niels Olsen, Gunner Frøberg, Frans Bak.</desc>
+    <episode-num system="xmltv_ns">0.5.0</episode-num>
+  </programme>
+  <programme start="20260711123000 +0000" stop="20260711130000 +0000" channel="dr2.dk">
+    <title>Der kan man se (1:16)</title>
+    <desc>Dansk satireserie fra 1996. Det ligger dybt i mennesket at gynge, og på landet var der ikke så meget andet at lave, da Hausgaard var barn. I København gyngede Clausen derimod med dyr - bl.a. hunden Ole, der også kunne synge. Hør ellers, hvad de to herrer synes om tango, østasiater og en reklame for hygiejnebind. 
+Medvirkende: Erik Clausen og Niels Hausgaard.</desc>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+  </programme>
+  <programme start="20260711130000 +0000" stop="20260711142500 +0000" channel="dr2.dk">
+    <title>Hotel Paradiso</title>
+    <desc>Dansk tv-teater fra 1972. Georges Feydeau og Maurice Desvallières komedie fra 1894 udspiller sig i 1800-tallets Paris og følger intriger, forviklinger og længsel efter erotik hos det bedre borgerskab.
+Medvirkende: Louis Miehe-Renard, Elin Reimer, Kirsten Walther, Per Pallesen m.fl.
+Instruktion: Preben Harris.</desc>
+  </programme>
+  <programme start="20260711142500 +0000" stop="20260711152500 +0000" channel="dr2.dk">
+    <title>Husker du... 1980</title>
+    <desc>- året er 1980.
+Mordet på John Lennon i New York, dansk økonomi på afgrundens rand og en bar Kirsten Norholt - er nogle af ingredienserne i det første program i DR TVs nye store serie "Husker du...". Serien består af optagelser fra DRs store arkiv og nye optagelser med folk, som har en øjenvidneskildring eller en holdning til noget, som skete i det år vi mindes. Her fortæller Ulf Pilgaard om Dirch Passers liv, og om den aften bag scenen i Tivolirevyen, hvor hjertet ikke kunne mere. Seerne kan også genopleve et rygestop-kursus gennem skærmen med hypnotisøren Ali Hamann og hits fra 1980.  
+Sendt første gang 09.10.04</desc>
+    <episode-num system="xmltv_ns">2.0.0</episode-num>
+  </programme>
+  <programme start="20260711152500 +0000" stop="20260711162500 +0000" channel="dr2.dk">
+    <title>Husker du... 1981</title>
+    <desc>- året er 1981.
+Charles og Dianas bryllup, rumfærgen Columbias jomfrurejse og Marius Andersens grønne badeværelse indgår alle i DR TV's nye store serie "Husker du...". Serien består af optagelser fra DRs store arkiv og nye optagelser med folk, som har en øjenvidneskildring eller en holdning til noget, som skete i det år vi mindes. Burger-kulturen holder for alvor sit indtog i 1981 og TV-kokken fra dengang Jan Hurtigkarl fortæller om sit forhold til fast-food, og så bliver der mulighed for at høre et par af årets hits.  
+Sendt første gang 16.10.04</desc>
+    <episode-num system="xmltv_ns">2.1.0</episode-num>
+  </programme>
+  <programme start="20260711162500 +0000" stop="20260711170000 +0000" channel="dr2.dk">
+    <title>Wimbledon: Finale, damesingle, direkte</title>
+    <desc>.</desc>
+  </programme>
+  <programme start="20260711170000 +0000" stop="20260711171500 +0000" channel="dr2.dk">
+    <title>Wimbledon</title>
+    <desc>.</desc>
+  </programme>
+  <programme start="20260711171500 +0000" stop="20260711173000 +0000" channel="dr2.dk">
+    <title>Wimbledon</title>
+    <desc>.</desc>
+  </programme>
+  <programme start="20260711173000 +0000" stop="20260711180000 +0000" channel="dr2.dk">
+    <title>Husker du - Highlights fra 90'erne</title>
+    <desc>1990'erne er det årti, hvor Danmark og danskerne på mange måder for alvor markerer sig i verden. Vi vender ryggen til EU, Bjarne Riis vinder Tour de France i 1996, fodboldlandsholdet kan synge 'We Are The Champions' og begrebet jernladies opstår. 'Riget', 'Festen' og dogme er tre ord, som kommer til at betyde meget for dansk film i 90'erne. Dansk film bliver sat på verdenskortet i en hidtil uset grad.
+Sendt første gang 13.02.2010</desc>
+  </programme>
+  <programme start="20260711180000 +0000" stop="20260711191500 +0000" channel="dr2.dk">
+    <title>Din koncert med DR Pigekoret</title>
+    <desc>DR Pigekoret synger dine favoritsange! Lad sommerstemningen og de lyse nætter strømme ind i din stue, når koret synger de sange, publikum selv har valgt.
+Charlotte Rowan dirigerer.
+Optaget i DR Koncerthuset, maj 2026.</desc>
+  </programme>
+  <programme start="20260711191500 +0000" stop="20260711195500 +0000" channel="dr2.dk">
+    <title>Store danskere - Harald Lander</title>
+    <desc>Harald Lander var den store danske balletmester. Men i 1951 måtte han forlade landet, beskyldt for at forgribe sig på de unge balletpiger. Det er en historie om magt, kærlighed og bristede drømme. Harald Lander 
+kunne være en hård lærermester, og der var mange der hadede ham. 
+Han gjorde dansk ballet til en af de bedste i verden, men Danmark var for lille for ham. 
+Tilrettelæggelse: Lone Leegaard.
+Sendt først gang 13.11.05</desc>
+  </programme>
+  <programme start="20260711200000 +0000" stop="20260711201500 +0000" channel="dr2.dk">
+    <title>TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260711201500 +0000" stop="20260711221000 +0000" channel="dr2.dk">
+    <title>Platoon</title>
+    <desc>Amerikansk krigsfilm fra 1986.
+Året er 1967, og unge Chris Taylor kastes ud i Vietnamkrigens barske realiteter, da han involveres i kampene på grænsen til Cambodia.
+Instruktøren Oliver Stone, der selv gjorde tjeneste i Vietnam, beretter intenst om det mareridt, der ventede de amerikanske soldater.
+Medvirkende: Tom Berenger, Willem Dafoe, Charlie Sheen, Forest Whitaker, Johnny Depp m.fl.
+Instruktion: Oliver Stone.</desc>
+  </programme>
+  <programme start="20260711221000 +0000" stop="20260712002500 +0000" channel="dr2.dk">
+    <title>First Man</title>
+    <desc>Amerikansk drama fra 2018.
+Den 20. juli 1969 bliver Neil Armstrong det første menneske på månen. I 1961 arbejder han som testpilot, da hans lille datter dør af cancer. Den sorgramte Neil bliver astronaut, og han og hans kone, Janet, flytter til Houston, hvor Neil hurtigt stiger i graderne. Men det ambitiøse rumprogram er langt fra ufarligt, og astronautteamet rammes af den ene tragedie efter den anden.
+Medvirkende: Ryan Gosling, Claire Foy, Jason Clarke m.fl.
+Instruktion: Damien Chazelle.</desc>
   </programme>
 </tv>
