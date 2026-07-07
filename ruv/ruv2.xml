@@ -3,31 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260706183000 +0000" stop="20260706185000 +0000" channel="ruv2.is">
-    <title>Stofan</title>
-    <desc>Umfjallanir um leiki á HM karla í fótbolta.
-
-Upphitun fyrir 16-liða úrslit á HM karla í fótbolta.</desc>
-  </programme>
-  <programme start="20260706185000 +0000" stop="20260706210500 +0000" channel="ruv2.is">
-    <title>Portúgal – Spánn</title>
-    <desc>Leikir á HM karla í fótbolta.
-
-Leikur Portúgal og Spánar í 16-liða úrslitum á HM karla í fótbolta.</desc>
-  </programme>
-  <programme start="20260706210500 +0000" stop="20260706212500 +0000" channel="ruv2.is">
-    <title>HM kvöld</title>
-    <desc>Samantekt frá leikjum dagsins á HM karla í fótbolta.</desc>
-  </programme>
-  <programme start="20260706212500 +0000" stop="20260706214800 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
-  <programme start="20260706215000 +0000" stop="20260706224700 +0000" channel="ruv2.is">
-    <title>Jörðin - með enskum þul</title>
-    <sub-title>(4 af 8)</sub-title>
-    <desc>Þriðja þáttaröð þessara stórbrotnu náttúrulífsþátta með David Attenborough um Jörðina, náttúru hennar og dýralíf á öllum árstíðum.</desc>
-  </programme>
   <programme start="20260707173000 +0000" stop="20260707181900 +0000" channel="ruv2.is">
     <title>KrakkaRÚV</title>
   </programme>
@@ -76,5 +51,14 @@ Maddý ákveður að halda sundlaugarpartý og er harðákveðin í því að al
   <programme start="20260712190000 +0000" stop="20260712192000 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260713190000 +0000" stop="20260713192300 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260713194000 +0000" stop="20260713203600 +0000" channel="ruv2.is">
+    <title>Jörðin - með enskum þul</title>
+    <sub-title>(5 af 8)</sub-title>
+    <desc>Þriðja þáttaröð þessara stórbrotnu náttúrulífsþátta með David Attenborough um Jörðina, náttúru hennar og dýralíf á öllum árstíðum.</desc>
   </programme>
 </tv>
