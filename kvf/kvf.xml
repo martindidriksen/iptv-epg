@@ -3,33 +3,6 @@
   <channel id="kvf.fo">
     <display-name>KVF</display-name>
   </channel>
-  <programme start="20260707170000 " stop="20260707173000 " channel="kvf.fo">
-    <title>Vinus og Vimús 4:8</title>
-    <sub-title>- føroysk barnasending</sub-title>
-  </programme>
-  <programme start="20260707173000 " stop="20260707180000 " channel="kvf.fo">
-    <title>Alt um djór</title>
-    <sub-title>- barnarøð frá BBC við føroyskari talu</sub-title>
-    <desc>Hesaferð um eitt djór, sum dugir væl at grava og so hoyrir tað serliga væl eisini.. ! Tað býr í Kalahari oyðimørkini í Afrika.</desc>
-  </programme>
-  <programme start="20260707180000 " stop="20260707185500 " channel="kvf.fo">
-    <title>Dagur og vika við 3-2</title>
-  </programme>
-  <programme start="20260707185500 " stop="20260707191000 " channel="kvf.fo">
-    <title>Veðrið</title>
-  </programme>
-  <programme start="20260707191000 " stop="20260707195000 " channel="kvf.fo">
-    <title>Gekkur</title>
-  </programme>
-  <programme start="20260707195000 " stop="20260707220000 " channel="kvf.fo">
-    <title>FIFA HM 2026: Sveis - Kolumbia</title>
-  </programme>
-  <programme start="20260707220000 " stop="20260707225500 " channel="kvf.fo">
-    <title>Dagur og vika við 3-2</title>
-  </programme>
-  <programme start="20260707225500 " stop="20260708170000 " channel="kvf.fo">
-    <title>Veðrið</title>
-  </programme>
   <programme start="20260708170000 " stop="20260708173000 " channel="kvf.fo">
     <title>Alt um djór</title>
     <sub-title>- barnarøð frá BBC við føroyskari talu</sub-title>
@@ -115,7 +88,7 @@
     <title>Veðrið</title>
   </programme>
   <programme start="20260710185000 " stop="20260710210000 " channel="kvf.fo">
-    <title>FIFA HM 2026:</title>
+    <title>FIFA HM 2026: Spania - Belgia</title>
   </programme>
   <programme start="20260710210000 " stop="20260710220000 " channel="kvf.fo">
     <title>Fantastiska søgan um gentuna, sum vildi flúgva</title>
@@ -253,8 +226,40 @@
     <title>Hajan &amp; Entisar</title>
     <desc>Tvær ungar gentur hava ein felags dreym. Tær vilja verða tónleikavideoframleiðarar. Tað eydnast, men kortini er ikki alt, sum tær høvdu hugsað sær. Fyri at dreymurin skal ganga út, skulu tær taka eina týdningarmikla avgerð. Hvat hevur størri týdning, viðgongd ella vinalag? Broadcast Company SVT.</desc>
   </programme>
-  <programme start="20260713205500 " stop="20260713215500 " channel="kvf.fo">
+  <programme start="20260713205500 " stop="20260714170000 " channel="kvf.fo">
     <title>Úr savninum: Í luftini - Klingra</title>
     <desc>Í luftini er sjónvarpsrøð við tónleiki og práti úr Kringvarpshøllini. Í sendingini tosa vit við fløguaktuellar tónleikarar, sum framføra nøkur løg av nýggjastu útgávuni. Hesa ferð er gestur. Sendingin er gjørd í samstarvi við Faroe Music Export.</desc>
+  </programme>
+  <programme start="20260714170000 " stop="20260714173000 " channel="kvf.fo">
+    <title>Vinus og Vimús 5:8</title>
+    <sub-title>- føroysk barnasending</sub-title>
+  </programme>
+  <programme start="20260714173000 " stop="20260714180000 " channel="kvf.fo">
+    <title>Alt um djór</title>
+    <sub-title>- barnarøð frá BBC við føroyskari talu</sub-title>
+  </programme>
+  <programme start="20260714180000 " stop="20260714182500 " channel="kvf.fo">
+    <title>Dagur og vika</title>
+  </programme>
+  <programme start="20260714182500 " stop="20260714184000 " channel="kvf.fo">
+    <title>Veðrið</title>
+  </programme>
+  <programme start="20260714184000 " stop="20260714192000 " channel="kvf.fo">
+    <title>Gekkur</title>
+  </programme>
+  <programme start="20260714192000 " stop="20260714195000 " channel="kvf.fo">
+    <title>Innanífrá við Anders Agger - barnahospice 1:3</title>
+    <sub-title>- vón og veðurmylnur</sub-title>
+    <desc>I Danmark eru tvey hospice fyri børn og ung, og tað hevur sína orsøk. Børn gerast sjúk, og familjur hava brúk fyri hjálp og linna. Í tríggjar mánaðir fylgir Anders Agger við lívinum á "Strandbakkehuset" í Rønde - har Sejr, Mathilde, Flora og familjur teirra stríðast.Tað eru børn, sum enda lívið á hospice, men tíbetur koma tey flestu heim aftur. Og kanska tí halda tey fast við, at vón er í "Strandbakkehuset."</desc>
+  </programme>
+  <programme start="20260714195000 " stop="20260714204000 " channel="kvf.fo">
+    <title>En villari verð 3:4</title>
+    <sub-title>- svensk røð frá 2022</sub-title>
+    <desc>Rewilding er eitt nýtt hugtak, men longu fyri 100 árum síðan varð bævurin settur út aftur í svensku náttúruna. Tiltakið við bævuri var væl eydnað, sama kann sigast um storkin í Skåne. Innan rewilding-rørsluna verður víst á, at  burðardygg ferðavinna er neyðug. Vit fylgja við Anders Lundin, m.a. tá hann kikar eftir pelikanum í Donauoyrini.</desc>
+  </programme>
+  <programme start="20260714204000 " stop="20260714214000 " channel="kvf.fo">
+    <title>Marglætishotell</title>
+    <sub-title>- Nusfjord Arctic Resort, Norra, bretsk sendirøð</sub-title>
+    <desc>Nusfjord Arctic Resort er ein 200 ára gomul varðveitt fiskimannabygd í Lofoten, og Monica og Rob uppliva saman við einum trúføstum hotelltoymi tær avbjóðingar, ið tað gevur at reka eitt luksushotell í ekstremum umstøðum. Vertir: Monica Galetti og Rob Rinder Sesong: 5 Partur: 3 Framleiðsluár: 2023</desc>
   </programme>
 </tv>

@@ -3,35 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260707173000 +0000" stop="20260707181900 +0000" channel="ruv2.is">
-    <title>KrakkaRÚV</title>
-  </programme>
-  <programme start="20260707173100 +0000" stop="20260707173800 +0000" channel="ruv2.is">
-    <title>Ævintýri Tulipop</title>
-    <desc>Ævintýri Tulipop er skemmtileg þáttaröð um litríkan vinahóp sem býr á töfraeyjunni Tulipop. Á hverjum degi gerast ný ævintýri á eyjunni sem sem geta haft áhrifaríkar afleiðingar í för með sér en vináttuböndin reynast ævinlega traust.
-
-Maddý ákveður að halda sundlaugarpartý og er harðákveðin í því að allt í partýinu skuli vera bleikt, þar með talin laugin í garðinum hennar. Gló kemur henni til aðstoðar og býr til bleika baðbombu fyrir laugina. Maddý er hæstánægð með útkomuna þar til í ljós kemur að baðbomban hefur ekki aðeins litað laugina hennar bleika...heldur alla Tulipop eyjuna!</desc>
-  </programme>
-  <programme start="20260707173800 +0000" stop="20260707180000 +0000" channel="ruv2.is">
-    <title>Hvolpasveitin IX</title>
-    <desc>Róbert og hressu hvolparnir í Hvolpasveitinni eru komin aftur og takast á við ný verkefni og nýja þorpara eins og þeim einum er lagið.</desc>
-  </programme>
-  <programme start="20260707180000 +0000" stop="20260707180700 +0000" channel="ruv2.is">
-    <title>Blæja III</title>
-    <desc>Þriðja þáttaröðin um hina vinsælu Blæju og Hælbein fjölskylduna. Daglegt líf fjölskyldunnar gengur sinn vanagang, en hins vegar er enginn dagur eins þegar Blæja og Bára eiga í hlut.</desc>
-  </programme>
-  <programme start="20260707180700 +0000" stop="20260707181400 +0000" channel="ruv2.is">
-    <title>Jasmín &amp; Jómbi</title>
-    <desc>Jasmín og Jómbi eru góðir vinir sem elska tónlist. Saman njóta þau tónanna sem óma um Hljómbæ.</desc>
-  </programme>
-  <programme start="20260707181500 +0000" stop="20260707182000 +0000" channel="ruv2.is">
-    <title>Rán - Rún</title>
-    <desc>Rán er ung og hress stelpa sem styttir sér stundir með ímynduðu vinkonu sinni. En hún Rún virðist raunverulegri en flestir.</desc>
-  </programme>
-  <programme start="20260707190000 +0000" stop="20260707192500 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20260708190000 +0000" stop="20260708192300 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
@@ -60,5 +31,9 @@ Maddý ákveður að halda sundlaugarpartý og er harðákveðin í því að al
     <title>Jörðin - með enskum þul</title>
     <sub-title>(5 af 8)</sub-title>
     <desc>Þriðja þáttaröð þessara stórbrotnu náttúrulífsþátta með David Attenborough um Jörðina, náttúru hennar og dýralíf á öllum árstíðum.</desc>
+  </programme>
+  <programme start="20260714180000 +0000" stop="20260714182500 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
 </tv>
