@@ -3,34 +3,6 @@
   <channel id="kvf.fo">
     <display-name>KVF</display-name>
   </channel>
-  <programme start="20260709170000 " stop="20260709173000 " channel="kvf.fo">
-    <title>Snipp snapp</title>
-    <sub-title>- føroysk sending til børn</sub-title>
-    <desc>VIT hava verið í Fuglafjarðar skúla og filmað 11 nýggjar Snipp Snapp-sendingar. Børn, sum ganga í 2. flokki í Fuglafjarðar skúla eru vertir hvørt mikukvøld.</desc>
-  </programme>
-  <programme start="20260709173000 " stop="20260709175500 " channel="kvf.fo">
-    <title>Mumi 10</title>
-    <sub-title>- ósjónliga barnið</sub-title>
-    <desc>Teknirøð við føroyskari talu til smábørn.</desc>
-  </programme>
-  <programme start="20260709175500 " stop="20260709182000 " channel="kvf.fo">
-    <title>Tríggir pápar 1:4</title>
-    <sub-title>- svensk røð frá 2022</sub-title>
-    <desc>Í fyrstani vórðu Jon, Linus og Jonas háðaðir í Svøríki. Men hóast tað, gjørdist tað sum frá leið so væl eydnað, at teir royna aftur! Jonas stríðist við at fáa gerandisdagin at ganga upp, - arbeiði, relatión, barn. Pápaleikluturin er krevjandi hjá honum, og tað vekir sár minni frá barnaárunum. Barnið hjá Jonas hevur framvegis ikki hitt abba sín.</desc>
-  </programme>
-  <programme start="20260709182000 " stop="20260709185000 " channel="kvf.fo">
-    <title>Tríggir pápar 2:4</title>
-    <sub-title>- svensk røð frá 2022</sub-title>
-    <desc>Í fyrstani vórðu Jon, Linus og Jonas háðaðir í Svøríki. Men hóast tað, gjørdist tað sum frá leið so væl eydnað, at teir royna aftur! Jonas stríðist við at fáa gerandisdagin at ganga upp, - arbeiði, relatión, barn. Pápaleikluturin er krevjandi hjá honum, og tað vekir sár minni frá barnaárunum. Barnið hjá Jonas hevur framvegis ikki hitt abba sín.</desc>
-  </programme>
-  <programme start="20260709185000 " stop="20260709195000 " channel="kvf.fo">
-    <title>Danski nasistalæknin í Buchenwald</title>
-    <sub-title>- donsk dokumentarsending</sub-title>
-    <desc>Abbi Jan og Kirsten gjørdi royndir við samkyndum fangum í týsku fangaleguni Buchenwald, og eftir seinna heimsbardaga byrjaði hann eitt nýtt lív í Argentina. Hann fór frá myrku fortíðini við familjuni í Danmark. Søgan um danska nasistalæknan Carl Værnet  er ein søga um óndskap og opportunismu, og um hvussu gerðirnar hjá einum manni kasta skuggar av skuld og skomm yvir hansara eftirkomarar.</desc>
-  </programme>
-  <programme start="20260709195000 " stop="20260710170000 " channel="kvf.fo">
-    <title>FIFA HM 2026: Frankaríki - Marokko</title>
-  </programme>
   <programme start="20260710170000 " stop="20260710173000 " channel="kvf.fo">
     <title>Mumi 10</title>
     <sub-title>- ósjónliga barnið</sub-title>
@@ -59,10 +31,10 @@
     <title>Dagur og vika</title>
     <sub-title>- við teksti</sub-title>
   </programme>
-  <programme start="20260710222500 " stop="20260711142000 " channel="kvf.fo">
+  <programme start="20260710222500 " stop="20260711144000 " channel="kvf.fo">
     <title>Veðrið</title>
   </programme>
-  <programme start="20260711142000 " stop="20260711180000 " channel="kvf.fo">
+  <programme start="20260711144000 " stop="20260711180000 " channel="kvf.fo">
     <title>Kappróður: Vestanstevna í Miðvági</title>
   </programme>
   <programme start="20260711180000 " stop="20260711183000 " channel="kvf.fo">
@@ -86,7 +58,8 @@
     <desc>Mikael Olsen hevur sjálvur goldið skurðviðgerðina fyri at fáa paraffinoljuna úr ørmunum. Hann heldur, at almenna heilsuverkið hevur uppgivið hann.</desc>
   </programme>
   <programme start="20260711203000 " stop="20260711205000 " channel="kvf.fo">
-    <title>Úr savninum: Í luftini við Leu</title>
+    <title>Í luftini við Leu</title>
+    <sub-title>- sending frá 2021</sub-title>
     <desc>Í luftini er sjónvarpsrøð við tónleiki og práti úr Kringvarpshøllini. Í sendingini tosa vit við fløguaktuellar tónleikarar, og tey framføra nøkur løg av nýggjastu útgávuni. Hesa ferð er Lea gestur. Sendingin er gjørd í samstarvi við Faroe Music Export.</desc>
   </programme>
   <programme start="20260711205000 " stop="20260712070000 " channel="kvf.fo">
@@ -189,7 +162,8 @@
     <desc>Tvær ungar gentur hava ein felags dreym. Tær vilja verða tónleikavideoframleiðarar. Tað eydnast, men kortini er ikki alt, sum tær høvdu hugsað sær. Fyri at dreymurin skal ganga út, skulu tær taka eina týdningarmikla avgerð. Hvat hevur størri týdning, viðgongd ella vinalag? Broadcast Company SVT.</desc>
   </programme>
   <programme start="20260713205500 " stop="20260714170000 " channel="kvf.fo">
-    <title>Úr savninum: Í luftini - Klingra</title>
+    <title>Í luftini - Klingra</title>
+    <sub-title>- sending frá 2023</sub-title>
     <desc>Í luftini er sjónvarpsrøð við tónleiki og práti úr Kringvarpshøllini. Í sendingini tosa vit við fløguaktuellar tónleikarar, sum framføra nøkur løg av nýggjastu útgávuni. Hesa ferð er gestur. Sendingin er gjørd í samstarvi við Faroe Music Export.</desc>
   </programme>
   <programme start="20260714170000 " stop="20260714174000 " channel="kvf.fo">
@@ -236,9 +210,48 @@
   <programme start="20260715185000 " stop="20260715210000 " channel="kvf.fo">
     <title>FIFA HM 2026:</title>
   </programme>
-  <programme start="20260715210000 " stop="20260715220000 " channel="kvf.fo">
+  <programme start="20260715210000 " stop="20260716170000 " channel="kvf.fo">
     <title>Leyslatin</title>
     <sub-title>- lívið er so hart (5:5)</sub-title>
     <desc>Claus leitar eftir friði í skóginum, men ein dagin er hann knappliga horvin! Ella kemur fyri seg eftir eina trupla tíð og fer saman við nýggja sjeikinum til tann allar seinasta fundin hjá Kriminalforsorgini. Noah verður enn einaferð latin úr fongslinum uttan at hava nakað stað at búgva. Sesong 2.</desc>
+  </programme>
+  <programme start="20260716170000 " stop="20260716173000 " channel="kvf.fo">
+    <title>Snipp snapp</title>
+    <sub-title>- føroysk sending til børn</sub-title>
+    <desc>VIT hava verið í Fuglafjarðar skúla og filmað 11 nýggjar Snipp Snapp-sendingar. Børn, sum ganga í 2. flokki í Fuglafjarðar skúla eru vertir hvørt mikukvøld, til nýggi jólakalendarin Snæfall 2 byrjar í desembur. Í Snipp Snapp eru eisini 11 spildurnýggir partar av Labbaliðnum.</desc>
+  </programme>
+  <programme start="20260716173000 " stop="20260716180000 " channel="kvf.fo">
+    <title>Mumi 11</title>
+    <sub-title>- teknirøð við føroyskari talu til smábørn</sub-title>
+  </programme>
+  <programme start="20260716180000 " stop="20260716183000 " channel="kvf.fo">
+    <title>Tríggir pápar 3:4</title>
+    <sub-title>- svensk røð frá 2022</sub-title>
+    <desc>Linus er vanur at taka sín part og er ikki bangin fyri at taka ábyrgd, tá tað er neyðugt. Og tað virkar ofta væl, men í ávísum støðum virka tað minni væl...</desc>
+  </programme>
+  <programme start="20260716183000 " stop="20260716190000 " channel="kvf.fo">
+    <title>Tríggir pápar 4:4</title>
+    <sub-title>- svensk røð frá 2022</sub-title>
+    <desc>Í síðsta parti av røðini fylgja vit við, tá pápar taka sonevnt pápa- retreat, sum leingi hevur verið bíðað eftir. Nú verður jogging-teknikkur, djúpar samtalur í spabað og nógv annað á skránni.</desc>
+  </programme>
+  <programme start="20260716190000 " stop="20260716194500 " channel="kvf.fo">
+    <title>Heks</title>
+    <sub-title>- donsk dokumentar</sub-title>
+    <desc>Danska Andrea Hejlskov er rithøvundur og sjálvlýst heks við gandakendum evnum og andaligum bondum til náttúruna. Hon flutti saman við manni og børnum sínum djúpt inn í svensku skógirnar í vón um at liva í tøttum sambandi við náttúruna. Tíggju ár seinni er hon flutt aftur til býin og stendur nú sum fráskild við vaksnum børnum. Hon hevur eitt innara stríð, sum ger tað torført hjá henni at skilja ímillum gandakendar ávaringar og psykiatrisk sjúkueyðkenni. Framleiðsluár: 2025 Framleitt fyri: TV 2 Danmark</desc>
+  </programme>
+  <programme start="20260716194500 " stop="20260716201400 " channel="kvf.fo">
+    <title>Til borðs við  Price 1:6</title>
+    <sub-title>- pasta</sub-title>
+    <desc>Price brøðurnir hava einaferð gjørt eina pitsu við bananum. Tað gera teir aldri aftur!! Harafturimóti gera teir í hesi pastusendingini teir mest fantastisku ektaðu italsku pastarættirnar sum t.d. tann fína "elegante pasta alla norma", kenda tortellini og tað skammiliga freistandi lasanjuslagið úr Marche-økinum: vincisgrassi.</desc>
+  </programme>
+  <programme start="20260716201400 " stop="20260716204500 " channel="kvf.fo">
+    <title>Loppan &amp; lærlingurin 1:8</title>
+    <sub-title>- kurvastólurin</sub-title>
+    <desc>Lærlingarnir Freja og Jonas sleppa rættiliga at royna seg, tá tey kappast um tey bestu keypini á marknaðinum í  Horsens. Tey fáa góða hjálp frá serkønum í endurnýtslu, men hvør dugir best at renovera, og hvør dugir best at selja vørurnar við mest vinningi?</desc>
+  </programme>
+  <programme start="20260716204500 " stop="20260716214500 " channel="kvf.fo">
+    <title>Loppan &amp; lærlingurin 2:8</title>
+    <sub-title>- hin við telefonlampuni</sub-title>
+    <desc>Lærlingarnir Janik og Freja kappast um at gera besta handilin á marknaðinum í Brørup. Teir fáa góða hjálp frá tveimum royndum endurnýtslukønum, men hvør dugir best at selja vøruna við størst vinningi?</desc>
   </programme>
 </tv>
