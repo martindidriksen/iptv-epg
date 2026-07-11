@@ -3,37 +3,6 @@
   <channel id="kvf.fo">
     <display-name>KVF</display-name>
   </channel>
-  <programme start="20260710170000 " stop="20260710173000 " channel="kvf.fo">
-    <title>Mumi 10</title>
-    <sub-title>- ósjónliga barnið</sub-title>
-    <desc>Teknirøð við føroyskari talu til smábørn.</desc>
-  </programme>
-  <programme start="20260710173000 " stop="20260710180000 " channel="kvf.fo">
-    <title>MORSA 10:12</title>
-    <sub-title>- føroysk barnarøð</sub-title>
-    <desc>Í nýggju barnarøðini Morsa fer Elisabeth á Bakka at vísa ymiska hárseting. Og vit vísa nýggju bretsku barnarøðina Katie, sum BBC hevur gjørt. Vertur: Jákup Wardum. Upptøka: Bjørg Mohr Andersen. Klipt: Bjørg Mohr Andersen og Sólfríð Maria í Rók. Lagt til rættis: Elin á Rógvi.</desc>
-  </programme>
-  <programme start="20260710180000 " stop="20260710182500 " channel="kvf.fo">
-    <title>Dagur og vika</title>
-  </programme>
-  <programme start="20260710182500 " stop="20260710185000 " channel="kvf.fo">
-    <title>Veðrið</title>
-  </programme>
-  <programme start="20260710185000 " stop="20260710210000 " channel="kvf.fo">
-    <title>FIFA HM 2026: Spania - Belgia</title>
-  </programme>
-  <programme start="20260710210000 " stop="20260710220000 " channel="kvf.fo">
-    <title>Fantastiska søgan um gentuna, sum vildi flúgva</title>
-    <sub-title>- do. dokumentar</sub-title>
-    <desc>Hon varð fødd av fátækum foreldrum, vaks upp í einum bakgarði í Randers, varð givið burtur til eina ferðandi sirkusprinsessu og endaði við at gerast vakrasta stjørnan í heimsins størsta sirkusi. Í dag er Norma Fox 95 ára gomul og býr í einum lítlum húsum í útjaðaranum av sirkusbýnum Sarasota í Florida. DR2 sigur ta ævintýraligu og syndarligu søguna um eina veruliga sirkusprinsessu, sum bert fá fólk í Danmark hava hoyrt um.</desc>
-  </programme>
-  <programme start="20260710220000 " stop="20260710222500 " channel="kvf.fo">
-    <title>Dagur og vika</title>
-    <sub-title>- við teksti</sub-title>
-  </programme>
-  <programme start="20260710222500 " stop="20260711144000 " channel="kvf.fo">
-    <title>Veðrið</title>
-  </programme>
   <programme start="20260711144000 " stop="20260711180000 " channel="kvf.fo">
     <title>Kappróður: Vestanstevna í Miðvági</title>
   </programme>
@@ -249,9 +218,46 @@
     <sub-title>- kurvastólurin</sub-title>
     <desc>Lærlingarnir Freja og Jonas sleppa rættiliga at royna seg, tá tey kappast um tey bestu keypini á marknaðinum í  Horsens. Tey fáa góða hjálp frá serkønum í endurnýtslu, men hvør dugir best at renovera, og hvør dugir best at selja vørurnar við mest vinningi?</desc>
   </programme>
-  <programme start="20260716204500 " stop="20260716214500 " channel="kvf.fo">
+  <programme start="20260716204500 " stop="20260717170000 " channel="kvf.fo">
     <title>Loppan &amp; lærlingurin 2:8</title>
     <sub-title>- hin við telefonlampuni</sub-title>
     <desc>Lærlingarnir Janik og Freja kappast um at gera besta handilin á marknaðinum í Brørup. Teir fáa góða hjálp frá tveimum royndum endurnýtslukønum, men hvør dugir best at selja vøruna við størst vinningi?</desc>
+  </programme>
+  <programme start="20260717170000 " stop="20260717173000 " channel="kvf.fo">
+    <title>Mumi 11</title>
+    <sub-title>- teknirøð við føroyskari talu til smábørn</sub-title>
+  </programme>
+  <programme start="20260717173000 " stop="20260717180000 " channel="kvf.fo">
+    <title>MORSA 11:12</title>
+    <sub-title>- føroysk barnarøð</sub-title>
+    <desc>Í nýggju barnarøðini Morsa fer Elisabeth á Bakka at vísa ymiska hárseting. Og vit vísa nýggju bretsku barnarøðina Katie, sum BBC hevur gjørt. Vertur: Jákup Wardum. Upptøka: Bjørg Mohr Andersen. Klipt: Bjørg Mohr Andersen og Sólfríð Maria í Rók. Lagt til rættis: Elin á Rógvi.</desc>
+  </programme>
+  <programme start="20260717180000 " stop="20260717182500 " channel="kvf.fo">
+    <title>Dagur og vika</title>
+  </programme>
+  <programme start="20260717182500 " stop="20260717183500 " channel="kvf.fo">
+    <title>Veðrið</title>
+  </programme>
+  <programme start="20260717183500 " stop="20260717200000 " channel="kvf.fo">
+    <title>Thomas Warberg - Tú hevur tað ikki frá mær</title>
+    <sub-title>- danskt skemt</sub-title>
+    <desc>Ger teg til reiðar til eina veruliga stuttliga framførslu frá einum av skørpastu skemtarunum í Danmark! Fimta solo-showið hjá Thomas Warberg hevur hugtikið bæði áskoðarar og ummælarar, sum hava givið tí fimmstjørnaði ummæli. Framleiðsluár: 2024 Aldursmark: 7 ár</desc>
+  </programme>
+  <programme start="20260717200000 " stop="20260717205500 " channel="kvf.fo">
+    <title>Marglætishotell</title>
+    <sub-title>- Phinda Game Reserve, Suðurafrika, bretsk sendirøð</sub-title>
+    <desc>Rob og Monica ferðast til Phinda Game Reserve í Suðurafrika á safari. Meðan tey hjálpa gestunum við at finna vill djór og geva eina hjálpandi hond á hotellinum, gongur tað upp fyri teimum, hvussu eitt fimmstjørnað hotell eisini kann vera við til at varðveita djórastovnar. Vertir: Monica Galetti og Rob Rinder Sesong: 5 Partur: 5 Framleiðsluár: 2023 Framleiðsla: BBC</desc>
+  </programme>
+  <programme start="20260717205500 " stop="20260717222500 " channel="kvf.fo">
+    <title>Jerry &amp; Marge Go Large</title>
+    <sub-title>- am. komediudrama frá 2022</sub-title>
+    <desc>Jerry Selbee er pensjoneraður og keðir seg. Men hansara áhugi fyri tølum og støddfrøði førir til, at hann uppdagar ein gloppa í lottospælinum hjá statinum Massachusetts. Hann vinnur eina stóra milliónaupphædd, sum hann saman við konu síni Marge vil brúka til at hjálpa nærumhvørvinum. Men skjótt blanda onnur seg upp í málið ? við tí fyri eyga at fáa lut í eydnuna hjá honum. Filmurin er grundaður á eina sanna søgu. Upprunaheiti: Jerry and Marge Go Large Framleiðsluár: 2022 Aldursmark: 11 ár</desc>
+  </programme>
+  <programme start="20260717222500 " stop="20260717225000 " channel="kvf.fo">
+    <title>Dagur og vika</title>
+    <sub-title>- við teksti</sub-title>
+  </programme>
+  <programme start="20260717225000 " stop="20260717235000 " channel="kvf.fo">
+    <title>Veðrið</title>
   </programme>
 </tv>
