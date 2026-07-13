@@ -3,14 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260711190000 +0000" stop="20260711192000 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
-  <programme start="20260712190000 +0000" stop="20260712192000 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20260713190000 +0000" stop="20260713192300 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
@@ -33,6 +25,24 @@
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
   <programme start="20260717190000 +0000" stop="20260717192300 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260718190000 +0000" stop="20260718192000 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260719173500 +0000" stop="20260719181500 +0000" channel="ruv2.is">
+    <title>Lokahátíð HM</title>
+    <desc>Lokahátið HM karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260719181500 +0000" stop="20260719185000 +0000" channel="ruv2.is">
+    <title>Stofan</title>
+    <desc>Umfjallanir um leiki á HM karla í fótbolta.
+
+Upphitun fyrir úrslitaleik á HM karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260719185000 +0000" stop="20260719191000 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
