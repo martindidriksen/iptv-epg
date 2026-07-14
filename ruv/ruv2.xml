@@ -3,15 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260713190000 +0000" stop="20260713192300 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
-  <programme start="20260713194000 +0000" stop="20260713203600 +0000" channel="ruv2.is">
-    <title>Jörðin - með enskum þul</title>
-    <sub-title>(5 af 8)</sub-title>
-    <desc>Þriðja þáttaröð þessara stórbrotnu náttúrulífsþátta með David Attenborough um Jörðina, náttúru hennar og dýralíf á öllum árstíðum.</desc>
-  </programme>
   <programme start="20260714180000 +0000" stop="20260714182500 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
@@ -45,5 +36,14 @@ Upphitun fyrir úrslitaleik á HM karla í fótbolta.</desc>
   <programme start="20260719185000 +0000" stop="20260719191000 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260720190000 +0000" stop="20260720192300 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260720194000 +0000" stop="20260720203700 +0000" channel="ruv2.is">
+    <title>Jörðin - með enskum þul</title>
+    <sub-title>(6 af 8)</sub-title>
+    <desc>Þriðja þáttaröð þessara stórbrotnu náttúrulífsþátta með David Attenborough um Jörðina, náttúru hennar og dýralíf á öllum árstíðum.</desc>
   </programme>
 </tv>
