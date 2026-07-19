@@ -3,31 +3,27 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260718190000 +0000" stop="20260718192000 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20260719173500 +0000" stop="20260719182000 +0000" channel="ruv2.is">
     <title>Lokahátíð HM</title>
     <desc>Lokahátið HM karla í fótbolta.</desc>
   </programme>
-  <programme start="20260719175500 +0000" stop="20260719185000 +0000" channel="ruv2.is">
+  <programme start="20260719182000 +0000" stop="20260719191500 +0000" channel="ruv2.is">
     <title>Stofan</title>
     <desc>Umfjallanir um leiki á HM karla í fótbolta.
 
 Upphitun fyrir úrslitaleik á HM karla í fótbolta.</desc>
   </programme>
-  <programme start="20260719185000 +0000" stop="20260719212500 +0000" channel="ruv2.is">
+  <programme start="20260719191600 +0000" stop="20260719215100 +0000" channel="ruv2.is">
     <title>Spánn - Argentína</title>
     <desc>Leikir á HM karla í fótbolta.
 
 Úrslitaleikur Spánar og Argentínu á HM karla í fótbolta.</desc>
   </programme>
-  <programme start="20260719212500 +0000" stop="20260719221000 +0000" channel="ruv2.is">
+  <programme start="20260719212800 +0000" stop="20260719221300 +0000" channel="ruv2.is">
     <title>HM kvöld</title>
     <desc>Samantekt frá leikjum dagsins á HM karla í fótbolta.</desc>
   </programme>
-  <programme start="20260719221000 +0000" stop="20260719223000 +0000" channel="ruv2.is">
+  <programme start="20260719221400 +0000" stop="20260719223400 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
@@ -65,6 +61,16 @@ Leikur Fylkis og Aftureldingar í undanúrslitum Mjólkurbikars karla í fótbol
 Leikur Þróttar og ÍBV í undanúrslitum Mjólkursbikar kvenna í fótbolta.</desc>
   </programme>
   <programme start="20260724201000 +0000" stop="20260724203300 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260725164000 +0000" stop="20260725191000 +0000" channel="ruv2.is">
+    <title>Fram - Grindavík/Njarðvík</title>
+    <desc>Beinar útsendingar frá bikarkeppni kvenna í fótbolta.
+
+Leikur Fram og Grindavíkur/Njarðvíkur í undanúrslitum Mjólkursbikar kvenna í fótbolta.</desc>
+  </programme>
+  <programme start="20260725191000 +0000" stop="20260725193000 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
