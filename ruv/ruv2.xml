@@ -3,30 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260719173500 +0000" stop="20260719182000 +0000" channel="ruv2.is">
-    <title>Lokahátíð HM</title>
-    <desc>Lokahátið HM karla í fótbolta.</desc>
-  </programme>
-  <programme start="20260719182000 +0000" stop="20260719191500 +0000" channel="ruv2.is">
-    <title>Stofan</title>
-    <desc>Umfjallanir um leiki á HM karla í fótbolta.
-
-Upphitun fyrir úrslitaleik á HM karla í fótbolta.</desc>
-  </programme>
-  <programme start="20260719191600 +0000" stop="20260719215100 +0000" channel="ruv2.is">
-    <title>Spánn - Argentína</title>
-    <desc>Leikir á HM karla í fótbolta.
-
-Úrslitaleikur Spánar og Argentínu á HM karla í fótbolta.</desc>
-  </programme>
-  <programme start="20260719212800 +0000" stop="20260719221300 +0000" channel="ruv2.is">
-    <title>HM kvöld</title>
-    <desc>Samantekt frá leikjum dagsins á HM karla í fótbolta.</desc>
-  </programme>
-  <programme start="20260719221400 +0000" stop="20260719223400 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20260720190000 +0000" stop="20260720192300 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
@@ -73,5 +49,13 @@ Leikur Fram og Grindavíkur/Njarðvíkur í undanúrslitum Mjólkursbikar kvenna
   <programme start="20260725191000 +0000" stop="20260725193000 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260726190000 +0000" stop="20260726192000 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260726210000 +0000" stop="20260726224500 +0000" channel="ruv2.is">
+    <title>A White, White Day (with English subtitles)</title>
+    <desc>The story of a man who recently lost his wife and decides to focus his energy on building a house for his daughter and grandchild, until his attention turns to a man he suspects had an affair with his wife. Suspicion turns to obsession and a series of events that will affect everyone involved deeply. Directed by Hlynur Pálmason. Main cast: Ingvar E. Sigurðsson, Hilmir Snær Guðnason and Ída Mekkín Hlynsdóttir. Not suitable for children under the age of 12.</desc>
   </programme>
 </tv>
