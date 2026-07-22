@@ -3,16 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260721191000 +0000" stop="20260721214000 +0000" channel="ruv2.is">
-    <title>Fylkir - Afturelding</title>
-    <desc>Keppnir í bikarkeppni karla í fótbolta.
-
-Leikur Fylkis og Aftureldingar í undanúrslitum Mjólkurbikars karla í fótbolta.</desc>
-  </programme>
-  <programme start="20260721214000 +0000" stop="20260721220300 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20260722190000 +0000" stop="20260722192300 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
@@ -57,5 +47,9 @@ Leikur Fram og Grindavíkur/Njarðvíkur í undanúrslitum Mjólkursbikar kvenna
     <title>Jörðin - með enskum þul</title>
     <sub-title>(7 af 8)</sub-title>
     <desc>Þriðja þáttaröð þessara stórbrotnu náttúrulífsþátta með David Attenborough um Jörðina, náttúru hennar og dýralíf á öllum árstíðum.</desc>
+  </programme>
+  <programme start="20260728190000 +0000" stop="20260728192300 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
 </tv>
