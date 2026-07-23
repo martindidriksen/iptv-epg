@@ -3,43 +3,6 @@
   <channel id="kvf.fo">
     <display-name>KVF</display-name>
   </channel>
-  <programme start="20260722170000 " stop="20260722172100 " channel="kvf.fo">
-    <title>Alt um djór</title>
-    <sub-title>- barnarøð frá BBC við føroyskari talu</sub-title>
-  </programme>
-  <programme start="20260722172100 " stop="20260722173000 " channel="kvf.fo">
-    <title>Brævkassin - Markus og Siriously Siri</title>
-    <sub-title>- fø. sending til tey ungu</sub-title>
-  </programme>
-  <programme start="20260722173000 " stop="20260722180000 " channel="kvf.fo">
-    <title>Snipp snapp</title>
-    <desc>Í "Snipp snapp" eru teknifilmar, ið eru ætlaðir smáum børnum. Hesaferð eru teknirøðirnar Labbaliðið, Sløkki Sam og Sára og Dunna. "Snipp snapp" er hvørt mikukvøld, hóskvøld og um vikuskiftið.</desc>
-  </programme>
-  <programme start="20260722180000 " stop="20260722182500 " channel="kvf.fo">
-    <title>Myndlist í Føroyum 6:11</title>
-    <sub-title>- føroysk røð frá 2002</sub-title>
-    <desc>Í 1933 málaði ein 15 ára gamal hegnigur leirvíksdrongur, Jóannis Kristiansen, eina vakra vatnlitamynd av heimbygdini. Sum ungur fór hann til Keypmannahavnar, og í 1944 kundi hann byrja á kunstakademinum. Sum frá leið gjørdist hann kendur í Føroyum sum Leirvíksmálarin. Hóast hann var útiseti burturav, so kendi hann seg tætt knýttan at føroyskari náttúru - serliga barndómsins landsløgum. Elinborg Lutzen úr Klaksvík er helst tað listafólkið, sum mest hevur víst okkum á tað mýtisku megina, ið býr í føroyska landslagnum. Við pennatekningum sínum tulkar hon ta føroysku náttúruna sum ævintýranna heimstaður. Í 1957-58 fór hon av álvara at arbeiða við grafikki. Hon skapti síni listarligu stórverk við linoskurðum. Í sendingini hoyra vit eisini um eitt nú Marionnu Matras og William Heinesen. Hugflogið hjá Williami var óavmarkað. Hann var skrivandi maður, og metti myndlistina sum eitt kærkomið ítriv, men gávuríkur sum hann var, hevur hann skapað stórverk eisini á hesum øki.</desc>
-  </programme>
-  <programme start="20260722182500 " stop="20260722191500 " channel="kvf.fo">
-    <title>Tokið til Hanoi ? lívið eftir kjakið 1:2</title>
-    <sub-title>- svensk dok. stuttrøð frá 2022</sub-title>
-    <desc>At gevast og ikki vera alment frammi longur, sleppa ósemjum og valdi  - hvussu kennist tað? Tveir floksformenn, Jonas Sjöstedt og Anna Kinberg Batra - um at leggja politikkin aftur um seg. Hvat hendir í roynd og veru nú, ið kjakið er av? 1. partur av 2.</desc>
-  </programme>
-  <programme start="20260722191500 " stop="20260722200500 " channel="kvf.fo">
-    <title>Tokið til Hanoi ? lívið eftir kjakið 2:2</title>
-    <sub-title>- svensk dok. stuttrøð frá 2022</sub-title>
-    <desc>At gevast og ikki vera alment frammi longur, sleppa ósemjum og valdi  - hvussu kennist tað? Tveir floksformenn, Jonas Sjöstedt og Anna Kinberg Batra - um at leggja politikkin aftur um seg. Hvat hendir í roynd og veru nú, ið kjakið er av? 1. partur av 2. Nú er tíð at skiljast. Anna Kinberg Batra fer heim úr Berlin og Jonas Sjöstedt fer við toki eystureftir til familjuna  í Hanoi. Halda teir báðir politikararnir, at tað  var ómakin vert?  2. partur av 2.</desc>
-  </programme>
-  <programme start="20260722200500 " stop="20260722210000 " channel="kvf.fo">
-    <title>Málið, sum skuldi tigast burt</title>
-    <sub-title>- svenskur dokumentarur</sub-title>
-    <desc>Ein av ætlanunum hjá statinum at gera samiska fólkið meira svenskt, var at tiga teirra egna mál burtur. Tá forboð varð sett fyri samiskum í skúlanum, góvust nógv foreldur at læra børnini málið. Í dag eru øll samisk mál hótt. Vón er nú millum ungar samar, sum gera alt fyri at krevja aftur tað, sum staturin stjól frá forfedrum teirra.</desc>
-  </programme>
-  <programme start="20260722210000 " stop="20260723170000 " channel="kvf.fo">
-    <title>Marglætishotell</title>
-    <sub-title>- The Lanesborough, bretsk sendirøð</sub-title>
-    <desc>Sjálvt tey bíligastu kømurini á The Lanesborough hava ein butlara, og fyri fyrstu ferð nakrantíð lata tey upp fyri at hyggja aftanfyri eksklusivu kulissurnar á hotellinum. Sesong: 4 Partur: 6 Framleiðsluár: 2021</desc>
-  </programme>
   <programme start="20260723170000 " stop="20260723173000 " channel="kvf.fo">
     <title>Snipp snapp</title>
     <desc>Í "Snipp snapp" eru teknifilmar, ið eru ætlaðir smáum børnum. Hesaferð eru teknirøðirnar Labbaliðið, Sløkki Sam og Sára og Dunna. "Snipp snapp" er hvørt mikukvøld, hóskvøld og um vikuskiftið.</desc>
@@ -299,8 +262,61 @@
     <sub-title>- føroyskur dokumentarur frá 2017</sub-title>
     <desc>Kjølbro bygdi upp ta størstu og mest fjølbroyttu vinnufyritøkuna í Føroya søgu. Tá hon var størst - í 1950 árunum ? hevði hann útvið 1200 fólk í arbeiði. Hann megnaði sum tann einasti at styrkja um sítt handilsvirksemi undir kreppunum í tríati- og fimtiárunum, tá so nógvar aðrar handilsfyritøkur máttu repa seglini ella snara lykilin um. Klaksvíkingurin var í áratíggju slóðbrótandi innan trolaravinnuna og handilsvinnuna, og hann var við til at menna Klaksvík til fremsta fiskivinnupláss í landinum. Stóra valdið elvdi tó eisini til misnøgd við Kjølbro familjuna, sum av álvara kom undan kavi undir Klaksvíksstríðnum. Um hetta mundið rindaði Kjølbro meira enn 10 miljónir krónur í lønum og hýrum. Almenna fíggjarlógin var 15 miljónir, umframt 10 miljónir í ríkisveiting. Fá ár seinni ridlaði alt, men fyritøkan var í roynd og veru ov stór at fara á húsagang. Danska stjórnin kom tí upp í leikin. Lagt til rættis: Ivan Hentze Niclasen. Upptøkur og klipt: Bjarni Árting Rubeksen.</desc>
   </programme>
-  <programme start="20260728221000 " stop="20260728231000 " channel="kvf.fo">
+  <programme start="20260728221000 " stop="20260729100000 " channel="kvf.fo">
     <title>Ólavsøkan verður sett</title>
+    <sub-title>- endursending</sub-title>
+  </programme>
+  <programme start="20260729100000 " stop="20260729120000 " channel="kvf.fo">
+    <title>Guðstænasta úr Havnar kirkju</title>
+    <sub-title>- Jonhard Jógvansson, prestur, prædikar</sub-title>
+  </programme>
+  <programme start="20260729120000 " stop="20260729130000 " channel="kvf.fo">
+    <title>Tingið verður sett</title>
+    <sub-title>- skrúðgonga, sangur á Tinghúsvøllinum og ólavsøkurøða løgmans</sub-title>
+  </programme>
+  <programme start="20260729130000 " stop="20260729143900 " channel="kvf.fo">
+    <title>Á ólavsøku 2026</title>
+    <sub-title>- endursending frá ólavsøkuaftan</sub-title>
+    <desc>Beinleiðis sending av Vaglinum í Havn við innsløgum og gestum í studio. Vit eru úti á gøtunum og lodda dýpið, hitta fólk og práta um leyst og fast í sambandi við ólavsøkuna. Jákup Dahl og Marin Eidesgaard eru vertir.</desc>
+  </programme>
+  <programme start="20260729143900 " stop="20260729150000 " channel="kvf.fo">
+    <title>Í luftini við Jasmin</title>
+    <sub-title>- sending frá 2021</sub-title>
+    <desc>Í luftini er sjónvarpsrøð við tónleiki og práti úr Kringvarpshøllini. Í sendingini tosa vit við fløguaktuellar tónleikarar, og tey framføra nøkur løg av nýggjastu útgávuni. Hesa ferð er Jasmin gestur. Sendingin er gjørd í samstarvi við Faroe Music Export.</desc>
+  </programme>
+  <programme start="20260729150000 " stop="20260729170000 " channel="kvf.fo">
+    <title>Guðstænasta úr Havnar kirkju</title>
+    <sub-title>- Jonhard Jógvansson, prestur, prædikar</sub-title>
+  </programme>
+  <programme start="20260729170000 " stop="20260729172500 " channel="kvf.fo">
+    <title>Alt um djór</title>
+    <sub-title>- barnarøð frá BBC við føroyskari talu</sub-title>
+  </programme>
+  <programme start="20260729172500 " stop="20260729180000 " channel="kvf.fo">
+    <title>Snipp snapp</title>
+    <desc>Í "Snipp snapp" eru teknifilmar, ið eru ætlaðir smáum børnum. Hesaferð eru teknirøðirnar Labbaliðið, Sára og Dunna og L fyri lomb.</desc>
+  </programme>
+  <programme start="20260729180000 " stop="20260729191000 " channel="kvf.fo">
+    <title>Reyðar baklyktir á vegnum</title>
+    <sub-title>- um Terja og Føstufressar, sending frá 2012</sub-title>
+    <desc>Útgávan hjá Terja &amp; Føstufressum í 1990 verður hildin at vera mest selda føroyska tónleikaverk, og er kosin at vera aldarinnar føroyska plátuútgáva. Kortini gingu tjúgu ár, áðrenn manningin savnaðist aftur at gera eina nýggja fløgu. Í sendingini fáa vit søguna um reynadreingin Terja, sum blaðungur fer at skriva sangir, og vinmenninar í grannalagnum kring Pedda við Steinsgøtu, ið longu sum smádreingir mannaðu orkestur og mentust til nakrar av dugnaligastu tónleikarunum í landinum. Vit eru í hølunum á teimum, nú teir hittast aftur og fara í studio at taka upp sangir til nýggja útgávu. Vit eru við teimum undir venjing og fyri og eftir stóru útgávukonsertina í Norðurlandahúsinum í fjør vár. Vit fáa eisini at vita, hvussu nakrir av kendastu sangunum hjá teimum eru vorðnir til. Sendingin varð fyrstu ferð send í apríl mánaða 2012 Suni Merkistein og Hans Petur Hansen løgdu til rættis.</desc>
+  </programme>
+  <programme start="20260729191000 " stop="20260729205500 " channel="kvf.fo">
+    <title>Tórshavnar Big Band: Minnist tú enn</title>
+    <sub-title>- konsert frá 2017</sub-title>
+    <desc>Tað var í sambandi við Mentanarnáttina á sumri 2017, at Tórshavnar Big Band hevði konsert í Norðurlandahúsinum og í Løkshøll við føroyskum sangum, sum eru vorðnir fólkaogn. Konsertin tók støði í sjónvarpssendirøðini "Minnist tú enn", sum Kringvarpið sendi fyri nøkrum árum síðani. Magnus Johannesen setti løgini út fyri orkestrið. Gestasangarar eru Kristina Bærentsen, Guðrun Sólja Jacobsen, Signar í Homrum, Sámal Ravnsfjall og Carlsen systrarnar. Sigurður Flosason stjórnar orkestrinum, og Suni Merkistein, sum gjørdi sendirøðina "Minnist tú enn" saman við Hans Peturi Hansen, er frásøgufólk á konsertini.</desc>
+  </programme>
+  <programme start="20260729205500 " stop="20260729214500 " channel="kvf.fo">
+    <title>Upp á gólv - Ólavsøkudagur</title>
+    <desc>Føroyskur dansur í Sjónleikarhúsinum í Havn. Kvæðini eru Ribolt er en greveson, Kristian Jacobsen skipar og Fruntatáttur, Anfinn Johannesen skipar. Upptøkan er frá 2025.</desc>
+  </programme>
+  <programme start="20260729214500 " stop="20260729224500 " channel="kvf.fo">
+    <title>Kendir føroyingar: Niels Juel Arge</title>
+    <sub-title>- føroyskur dokumentarur frá 2017</sub-title>
+    <desc>Í tretivu ár var Niels Juel Arge tann karismatiski stjórin á føroyska útvarpsloftmiðlinum. Kortini dámdi honum betur á dekkinum enn á brúnni. Hann var tann føddi frásøgumaðurin, sum vildi fortelja. Hann skapaði sjálvur føroysku útvarpsreportasjuna og ítróttafrásøgnina. Hann var røddin, sum allir føroyingar vuksu upp við í 60- og 70-árunum. Hann var virdur og avhildin. Hann ráddi fyri borgum á Bryggjubakka, og kravdi, at hini fylgdu honum. Tignin var so bjørt, at summi firnaðust honum. Hann var ímyndin av Útvarpi Føroya. Heilhugaður virkaði hann fyri einum føroyskum útvarpi, tó at umstøðurnar vóru smáar og politiski viljin lakur. Hann tók stig til eydnuspælið V4, sum fíggjaði eitt nútímans útvarp. Tá ið hann legði frá sær í 1990, var útvarpið so nógv framfarið, at tað var ikki at líkna við tann stovn, sum hann tók við leiðsluni á tretivu ár frammanundan.  Í sendingini fáa vit søguna um havnardrongin, sum kendi loftmiðilin sum sítt kall, og sum gjørdist kendasta røddin í landinum. Kona, børn og fyrrverandi útvarpsfólk siga okkum søguna um Niels Juel. Suni Merkistein og Hans Petur Hansen leggja til rættis.</desc>
+  </programme>
+  <programme start="20260729224500 " stop="20260729234500 " channel="kvf.fo">
+    <title>Tingið verður sett</title>
     <sub-title>- endursending</sub-title>
   </programme>
 </tv>
