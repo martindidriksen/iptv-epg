@@ -3,10 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260723190000 +0000" stop="20260723192300 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20260724174000 +0000" stop="20260724201000 +0000" channel="ruv2.is">
     <title>Þróttur - ÍBV</title>
     <desc>Beinar útsendingar frá bikarkeppni kvenna í fótbolta.
@@ -49,6 +45,10 @@ Leikur Fram og Grindavíkur/Njarðvíkur í undanúrslitum Mjólkursbikar kvenna
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
   <programme start="20260729190000 +0000" stop="20260729192300 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260730190000 +0000" stop="20260730192300 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>

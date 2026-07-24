@@ -3,120 +3,13 @@
   <channel id="ruv.is">
     <display-name>RÚV 1</display-name>
   </channel>
-  <programme start="20260723130000 +0000" stop="20260723132200 +0000" channel="ruv.is">
+  <programme start="20260724130000 +0000" stop="20260724132200 +0000" channel="ruv.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.
 
-Innbrotafaraldur geisar í miðborg Reykjavíkur</desc>
+Verðbólga líklegast yfir viðmiði kjarasamninga</desc>
   </programme>
-  <programme start="20260723132500 +0000" stop="20260723133500 +0000" channel="ruv.is">
-    <title>Heimaleikfimi</title>
-    <desc>Góð ráð og æfingar sem tilvalið er að gera heima. Íris Rut Garðarsdóttir sjúkraþjálfari hefur umsjón með leikfiminni.
-
-Áhersla æfinganna eru kvið- og bakæfingar sem eru gerðar sitjandi.</desc>
-  </programme>
-  <programme start="20260723133500 +0000" stop="20260723140700 +0000" channel="ruv.is">
-    <title>Gettu betur 1990</title>
-    <desc>Spurningakeppni framhaldsskólanna frá 1990. Spyrill: Steinunn Sigurðardóttir. Dómari: Sonja B. Jónsdóttir. Umsjón: Sigrún Sigurðardóttir. Stjórn útsendingar: Sigurður Jónasson.
-
-Í þessum þætti mætast lið Menntaskólans við Hamrahlíð og Verslunarskóla Íslands. Lið Menntaskólans við Hamrahlíð skipa Snorri Einarsson, Stefán Eiríksson og Jón Yngvi Jóhansson. Lið Verslunarskóla Íslands skipa Ellert Bjarnason, Jón Helgi Hreiðarsson og Sigtryggur Klemenz Hjartar.</desc>
-  </programme>
-  <programme start="20260723140900 +0000" stop="20260723150700 +0000" channel="ruv.is">
-    <title>Norræn hönnun - ástarsaga</title>
-    <sub-title>(5 af 5)</sub-title>
-    <desc>Heimildarþáttaröð um sögu norrænnar hönnunar á síðustu hundrað árum. Í þáttunum er meðal annars rætt við hönnuði og safnara sem veita innsýn í sögurnar á bak við heimsþekkta hönnunarmuni. Í hverjum þætti er fjallað um ákveðið tímabil á árunum 1925 til 2025. Þulur: Guðrún Sóley Gestsdóttir.</desc>
-  </programme>
-  <programme start="20260723151000 +0000" stop="20260723155100 +0000" channel="ruv.is">
-    <title>Stúdíó A</title>
-    <desc>Þættir frá 2014 þar sem íslenskar hljómsveitir og tónlistarmenn flytja lög í myndveri RÚV. Umsjónarmaður er Ólafur Páll Gunnarsson og upptöku stjórnaði Helgi Jóhannesson.
-
-Nýdönsk, Dimma, Kvika og Beebee and the Bluebirds.</desc>
-  </programme>
-  <programme start="20260723155500 +0000" stop="20260723165100 +0000" channel="ruv.is">
-    <title>Upp til agna</title>
-    <desc>Sænskir þættir um matarsóun og hvernig hægt er að sporna gegn henni. Þáttastjórnendurnir Anna Lundberg og Paul Svensson kynna áhorfendur fyrir óvæntum uppskriftum að dýrindis réttum sem búnir eru til úr hráefni sem annars hefði verið hent.</desc>
-  </programme>
-  <programme start="20260723165500 +0000" stop="20260723172900 +0000" channel="ruv.is">
-    <title>Risarnir</title>
-    <sub-title>(1 af 6)</sub-title>
-    <desc>Norskir heimildarþættir frá 2024. Hópur Norðmanna stefnir á að komast með nýstofnað landslið sitt í fótbolta á Heimsleika dvergvaxinna. Markmið liðsmanna er að vinna bug á fordómum í garð þeirra og sýna að hæðin sé engin hindrun þegar kemur að íþróttaiðkun. Undir stjórn þjálfarans Ole Martin Årst, fyrrverandi atvinnumanns í fótbolta, stefnir liðið á toppinn.</desc>
-  </programme>
-  <programme start="20260723173000 +0000" stop="20260723182000 +0000" channel="ruv.is">
-    <title>KrakkaRÚV</title>
-  </programme>
-  <programme start="20260723173000 +0000" stop="20260723173800 +0000" channel="ruv.is">
-    <title>Sögur snjómannsins 4</title>
-    <desc>Huggulegir þættir þar sem snjómaðurinn les úr sínum uppáhaldsbókum fyrir litlu mýsnar í bókabúðinni.</desc>
-  </programme>
-  <programme start="20260723173800 +0000" stop="20260723174200 +0000" channel="ruv.is">
-    <title>Eldhugar</title>
-    <desc>Stuttir þættir þar sem við kynnumst merkiskonum mannkynssögunnar. Sumar eru frægar, aðrar eru óþekktar en allar eru þær töffarar og eldhugar.</desc>
-  </programme>
-  <programme start="20260723174200 +0000" stop="20260723174500 +0000" channel="ruv.is">
-    <title>Ofurdýr í náttúrunni</title>
-    <desc>Ofurkraftar náttúrunnar lifna við! Sprenghlægileg og fróðleg þáttaröð fyrir krakka sem sýnir undur dýranna og hvers vegna við ættum að vernda heiminn þeirra.</desc>
-  </programme>
-  <programme start="20260723174500 +0000" stop="20260723181000 +0000" channel="ruv.is">
-    <title>Einu sinni var... Lífið</title>
-    <sub-title>(25 af 26)</sub-title>
-    <desc>Þessar þáttaraðir eru áhorfendum að góðu kunnar, enda eru þættirnir bæði afar fræðandi og skemmtilegir. Að þessu sinni fræðumst við um mannslíkamann.</desc>
-  </programme>
-  <programme start="20260723181000 +0000" stop="20260723181900 +0000" channel="ruv.is">
-    <title>Litlir uppfinningamenn I</title>
-    <desc>Í tilraunastofunni hjá Lísu gerist ýmislegt áhugavert. Ungir krakkar koma í heimsókn og hanna sínar eigin uppfinningar með henni og gera trylltar tilraunir.</desc>
-  </programme>
-  <programme start="20260723182000 +0000" stop="20260723184900 +0000" channel="ruv.is">
-    <title>Brúðkaupsljósmyndarar</title>
-    <desc>Sænsk þáttaröð þar sem fylgst er með brúðkaupsljósmyndurum mynda ástfangin pör á þessum miklu tímamótum.</desc>
-  </programme>
-  <programme start="20260723185000 +0000" stop="20260723185500 +0000" channel="ruv.is">
-    <title>Sumarlandabrot</title>
-    <desc>Stutt umfjöllun Sumarlandans sem var á flakki sumarið 2023 og hitti landann fyrir í sínu náttúrulega umhverfi, uppi á fjöllum, úti í garði, inni í skógi og allt um kring.</desc>
-  </programme>
-  <programme start="20260723190000 +0000" stop="20260723192300 +0000" channel="ruv.is">
-    <title>Fréttir</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
-  <programme start="20260723192500 +0000" stop="20260723193000 +0000" channel="ruv.is">
-    <title>Íþróttir</title>
-    <desc>Íþróttafréttir.</desc>
-  </programme>
-  <programme start="20260723193000 +0000" stop="20260723193500 +0000" channel="ruv.is">
-    <title>Veður</title>
-    <desc>Veðurfréttir.</desc>
-  </programme>
-  <programme start="20260723194000 +0000" stop="20260723202600 +0000" channel="ruv.is">
-    <title>Veislan</title>
-    <sub-title>(2 af 5)</sub-title>
-    <desc>Sverrir Þór Sverrisson, betur þekktur sem Sveppi, og Gunnar Karl Gíslason, Michelin-kokkur, ferðast um landið og kynnast matarmenningu þjóðarinnar. Í þriðju þáttaröð Veislunnar leiða þeir félagar áhorfendur í ævintýraferðir um hinar ýmsu eyjar.
-
-Hrísey er næsti áfangastaður Sverris Þórs og Gunnars Karls og þeir banka upp á hjá sveitungum í leit að hráefni fyrir veisluna. Þar er Gunnar Karl á heimavelli enda ættaður úr Eyjafirði. Saltfiskur frá fimmtu kynslóðinni, guðdómlegt krydd, 700 hænur, lögreglan í Hrísey og leynibar er bara brot af því besta sem Norðurland hefur upp á að bjóða. Já, og hver er þessi Sævar?</desc>
-  </programme>
-  <programme start="20260723203000 +0000" stop="20260723211300 +0000" channel="ruv.is">
-    <title>Hundaskólinn</title>
-    <sub-title>(2 af 6)</sub-title>
-    <desc>Norskir þættir þar örvæntingarfullir hundaeigendur frá aðstoð hundaþjálfarans Maren Teien Rørvik við hegðunarvandamálum hunda sinna.</desc>
-  </programme>
-  <programme start="20260723211500 +0000" stop="20260723220100 +0000" channel="ruv.is">
-    <title>Kjarnakona</title>
-    <sub-title>(6 af 8)</sub-title>
-    <desc>Bresk dramaþáttaröð frá 2026 byggð á samnefndri skáldsögu eftir Barböru Taylor Bradford. Emma Hart starfar sem húshjálp í Yorkshire í byrjun 20. aldar. Með mikilli seiglu vinnur hún sig upp úr fátækt og byggir upp alþjóðlegt viðskiptastórveldi. Aðalhlutverk: Jessica Reynolds, Emmett J. Scanlan og Lydia Leonard. Þættirnir eru ekki við hæfi barna yngri en 12 ára.</desc>
-  </programme>
-  <programme start="20260723220500 +0000" stop="20260723224900 +0000" channel="ruv.is">
-    <title>Sæluríki I</title>
-    <sub-title>(1 af 8)</sub-title>
-    <desc>Leikin norsk þáttaröð frá 2018 sem gerist í Stafangri við lok sjöunda áratugar síðustu aldar og segir frá breytingunum sem urðu í samfélaginu þegar olía fannst í sjónum úti fyrir bænum og norska olíuævintýrið hófst. Meðal leikenda eru Anne Regine Ellingsæter, Amund Harboe, Bart Edwards, Malene Wadel og Pia Tjelta.</desc>
-  </programme>
-  <programme start="20260723225000 +0000" stop="20260723234300 +0000" channel="ruv.is">
-    <title>Drottning alls fjandans</title>
-    <sub-title>(2 af 6)</sub-title>
-    <desc>Finnsk leikin þáttaröð um fasteignasalann Lindu. Eiginmaðurinn fer frá henni og skilur hana eftir í skuldasúpu. Til þess að viðhalda lífsstíl sínum neyðist Linda til að gerast drottning undirheimanna. Aðahlutverk: Laura Malmivaara, Katja Küttner og Minna Haapkylä. Þættirnir eru ekki við hæfi barna yngri en 12 ára.</desc>
-  </programme>
-  <programme start="20260724130000 +0000" stop="20260724132300 +0000" channel="ruv.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
-  <programme start="20260724132500 +0000" stop="20260724133300 +0000" channel="ruv.is">
+  <programme start="20260724132500 +0000" stop="20260724133400 +0000" channel="ruv.is">
     <title>Heimaleikfimi</title>
     <desc>Góð ráð og æfingar sem tilvalið er að gera heima. Íris Rut Garðarsdóttir sjúkraþjálfari hefur umsjón með leikfiminni.
 
@@ -132,11 +25,11 @@ Hrísey er næsti áfangastaður Sverris Þórs og Gunnars Karls og þeir banka 
 
 Að þessu sinni mætast lið Menntaskólans á Akureyri og Menntaskólans við Sund. Lið Menntaskólans á Akureyri skipa Magnús Teitsson, Finnur Friðriksson og Jón Pálmi Óskarsson. Lið Menntaskólans við Sund skipa Hrafnkell Kárason, Ármann Jakobsson og Sverrir Jakobsson.</desc>
   </programme>
-  <programme start="20260724142500 +0000" stop="20260724144900 +0000" channel="ruv.is">
+  <programme start="20260724142600 +0000" stop="20260724145000 +0000" channel="ruv.is">
     <title>Spaugstofan 2009-2010</title>
     <desc>Gamanþættir frá 2009-2010 þar sem leikararnir Karl Ágúst Úlfsson, Pálmi Gestsson, Sigurður Sigurjónsson og Örn Árnason bregða á leik, sprellfjörugir að vanda. Stjórn upptöku: Björn Emilsson.</desc>
   </programme>
-  <programme start="20260724145000 +0000" stop="20260724151800 +0000" channel="ruv.is">
+  <programme start="20260724145000 +0000" stop="20260724151900 +0000" channel="ruv.is">
     <title>Svikabrögð</title>
     <desc>Þáttaröð sem segir frá því hvernig venjulegt fólk getur orðið svikahröppum að bráð. Hvaða eiginleika hafa svikahrappar sem gera það að verkum að gagnrýnin hugsun verður að engu og þeir ná að svindla á okkur?</desc>
   </programme>
@@ -155,14 +48,14 @@ Framleiðandi: Stórveldið.</desc>
 
 Fjallað er um gerð stórmyndarinnar Englar alheimsins frá árinu 2000. Meðal þeirra sem fram koma eru Ingvar E. Sigurðsson, Björn Jörundur Friðbjörnsson, Halldóra Geirharðsdóttir, Sigvaldi Kárason, Hilmar Örn Hilmarsson, Einar Már Guðmundsson og Friðrik Þór Friðriksson.</desc>
   </programme>
-  <programme start="20260724163000 +0000" stop="20260724171000 +0000" channel="ruv.is">
+  <programme start="20260724163000 +0000" stop="20260724171100 +0000" channel="ruv.is">
     <title>Náttúran kallar</title>
     <sub-title>(1 af 6)</sub-title>
     <desc>Íslenskir heimildarþættir eftir Láru Zulima Ómarsdóttur. Hvernig er að búa í nánum tengslum við náttúruna? Hvað er það í náttúrunni sem kallar svo sterkt á suma? Lára kynnist viðmælendum sínum og fer með þeim á þeirra uppáhaldsstaði, þar á meðal leynistaði sem fáir þekkja. Hún sýnir svo bandaríska ljósmyndaranum og ævintýramanninum Chris Burkard þessar einstöku náttúrugersemar, en hann sérhæfir sig í ljósmyndun á köldum slóðum. Framleiðsla: Zulima ehf.
 
 Auður Guðbjörnsdóttir býr á bænum Búlandi sem stendur við beljandi Skaftá, efst í austanverðri Skaftártungu. Á þessum slóðum hafa stærstu náttúruhamfarir Íslandssögunnar rutt bæjum og breytt landi í árþúsundir. Auður lýsir hvernig er að búa á svo stórri og víðáttumikilli bújörð og sýnir okkur þá stórbrotnu náttúru sem landareignin hefur að geyma. Lára fer einnig með bandaríska ljósmyndarann og ævintýramanninn Chris Burkard um jörðina.</desc>
   </programme>
-  <programme start="20260724171000 +0000" stop="20260724172800 +0000" channel="ruv.is">
+  <programme start="20260724171100 +0000" stop="20260724173000 +0000" channel="ruv.is">
     <title>Móðurmál</title>
     <desc>Þættir um börn og ungmenni sem eiga annað móðurmál en íslensku og hafa hlotið Íslenskuverðlaun unga fólksins. Dagskrárgerð og umsjón: Hafsteinn Vilhelmsson.
 
@@ -171,17 +64,17 @@ Kenzo fæddist á Ítalíu árið 2012. Þegar hann var sex ára flutti hann til
   <programme start="20260724173000 +0000" stop="20260724181900 +0000" channel="ruv.is">
     <title>KrakkaRÚV</title>
   </programme>
-  <programme start="20260724173100 +0000" stop="20260724174800 +0000" channel="ruv.is">
+  <programme start="20260724173000 +0000" stop="20260724174700 +0000" channel="ruv.is">
     <title>Hönnunarstirnin IIII</title>
     <desc>Fjórða serían af Hönnunarstirnunum. Nico og Andrés eru mættir einu sinni enn með ný og skemmtileg verkefni og nýja keppendur.</desc>
   </programme>
-  <programme start="20260724174900 +0000" stop="20260724175800 +0000" channel="ruv.is">
+  <programme start="20260724174700 +0000" stop="20260724175600 +0000" channel="ruv.is">
     <title>Eilíft drama</title>
     <desc>Hvað gerist þegar besta vinkonan byrjar að hanga með einhverjum öðrum? Saga um vináttu sem rofnar og breytist. Þáttaröðin er á sænsku með íslenskum texta.
 
 Ella á besta kvöld lífs síns og verður skyndilega jafn vinsæl og Alexa. Kvöldið er ekki jafn gott hjá Olivíu. Hvernig gat Ella svikið hana svona?</desc>
   </programme>
-  <programme start="20260724175800 +0000" stop="20260724182000 +0000" channel="ruv.is">
+  <programme start="20260724175600 +0000" stop="20260724181900 +0000" channel="ruv.is">
     <title>Silfruskógur I</title>
     <desc>Bresk sjónvarpsþáttaröð úr heimi vísindaskáldskapar fyrir unglinga. Árið 1997 hurfu fjórir krakkar úr Silfruskógi. Tuttugu og þremur árum seinna ákveður strákur einn að komast að því hvað í raun og veru gerðist í skóginum þennan örlagaríka dag.
 
@@ -971,5 +864,110 @@ Kristján og Ásdís Rósa glíma við ofsavind, erfiða fjallvegi og fjallaskö
     <title>Ray rannsakar málið II</title>
     <sub-title>(4 af 6)</sub-title>
     <desc>Önnur þáttaröð þessara bresku spennuþátta um rannsóknarlögreglukonuna Rachitu Ray. Þegar hjúkrunarfræðingur og foringi alræmdra glæpasamtaka eru myrt í skotárás við sjúkrahús í Birmingham tekur Ray við rannsókn málsins. Í fyrstu lítur þetta út fyrir að vera átök glæpagengja en eftir því sem rannsókninni vindur áfram kemur í ljós að málið er mun margslungnara. Aðalhlutverk: Parminder Nagra, Gemma Whelan, Patrick Baladi og Jan Puleston-Davies. Þættirnir eru ekki við hæfi barna yngri en 12 ára.</desc>
+  </programme>
+  <programme start="20260730130000 +0000" stop="20260730132300 +0000" channel="ruv.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260730132500 +0000" stop="20260730133300 +0000" channel="ruv.is">
+    <title>Heimaleikfimi</title>
+    <desc>Góð ráð og æfingar sem tilvalið er að gera heima. Íris Rut Garðarsdóttir sjúkraþjálfari hefur umsjón með leikfiminni.
+
+Almennar æfingar. Bæði sitjandi og standandi.</desc>
+  </programme>
+  <programme start="20260730133500 +0000" stop="20260730142800 +0000" channel="ruv.is">
+    <title>Gettu betur 1991</title>
+    <desc>Spurningakeppni framhaldsskólanna frá 1991. Spyrill: Stefán Jón Hafstein. Dómari: Ragnheiður Erla Bjarnadóttir. Stigavörður Oddný Eir Ævarsdóttir. Dagskrárgerð: Andrés Indriðason.
+
+Að þessu sinni mætast lið Menntaskólans við Sund og Fjölbrautaskólans við Ármúla. Lið Menntaskólans við Sund skipa Jóhannes Reykdal, Friðrik Hermannsson og Friðjón R. Friðjónsson. Lið Fjölbrautaskólans við Ármúla skipa Ingunn Snædal, Stefán Broddi Guðjónsson og Svanur Sigurðsson.</desc>
+  </programme>
+  <programme start="20260730143000 +0000" stop="20260730151200 +0000" channel="ruv.is">
+    <title>Rafmagnslaus tilvera</title>
+    <sub-title>(1 af 6)</sub-title>
+    <desc>Sænsk þáttaröð frá 2019 þar sem tíu þátttakendur reyna að komast af í langvarandi rafmagnsleysi. Hversu vel erum við sem samfélag undirbúin fyrir óvænt neyðarástand, til dæmis af völdum náttúruhamfara?</desc>
+  </programme>
+  <programme start="20260730151500 +0000" stop="20260730155100 +0000" channel="ruv.is">
+    <title>Langvinnt covid og ME-sjúkdómurinn</title>
+    <desc>Heimildarþáttur um langvinnt covid, sjúkdómsástand sem milljónir einstaklinga víða um heim glíma við í kjölfar COVID-19 sjúkdómsins. Einkennin eru afar einstaklingsbundin, fjölbreytt og geta haft áhrif á mörg líffæri. Í mörgum tilfellum getur langvinnt covid leitt til ME, alvarlegs taugasjúkdóms sem engin lækning hefur enn fundist við. Í þættinum er fjallað um stöðuna hvað varðar læknavísindin, félagslegu úrræðin og reynslu einstaklinga af þessum sjúkdómum. Dagskrárgerð: Páll Kristinn Pálsson.</desc>
+  </programme>
+  <programme start="20260730155000 +0000" stop="20260730164800 +0000" channel="ruv.is">
+    <title>Upp til agna</title>
+    <desc>Sænskir þættir um matarsóun og hvernig hægt er að sporna gegn henni. Þáttastjórnendurnir Anna Lundberg og Paul Svensson kynna áhorfendur fyrir óvæntum uppskriftum að dýrindis réttum sem búnir eru til úr hráefni sem annars hefði verið hent.</desc>
+  </programme>
+  <programme start="20260730165000 +0000" stop="20260730172600 +0000" channel="ruv.is">
+    <title>Risarnir</title>
+    <sub-title>(2 af 6)</sub-title>
+    <desc>Norskir heimildarþættir frá 2024. Hópur Norðmanna stefnir á að komast með nýstofnað landslið sitt í fótbolta á Heimsleika dvergvaxinna. Markmið liðsmanna er að vinna bug á fordómum í garð þeirra og sýna að hæðin sé engin hindrun þegar kemur að íþróttaiðkun. Undir stjórn þjálfarans Ole Martin Årst, fyrrverandi atvinnumanns í fótbolta, stefnir liðið á toppinn.</desc>
+  </programme>
+  <programme start="20260730173000 +0000" stop="20260730181900 +0000" channel="ruv.is">
+    <title>KrakkaRÚV</title>
+  </programme>
+  <programme start="20260730173100 +0000" stop="20260730173900 +0000" channel="ruv.is">
+    <title>Sögur snjómannsins 4</title>
+    <desc>Huggulegir þættir þar sem snjómaðurinn les úr sínum uppáhaldsbókum fyrir litlu mýsnar í bókabúðinni.</desc>
+  </programme>
+  <programme start="20260730173900 +0000" stop="20260730174200 +0000" channel="ruv.is">
+    <title>Eldhugar</title>
+    <desc>Stuttir þættir þar sem við kynnumst merkiskonum mannkynssögunnar. Sumar eru frægar, aðrar eru óþekktar en allar eru þær töffarar og eldhugar.</desc>
+  </programme>
+  <programme start="20260730174300 +0000" stop="20260730174500 +0000" channel="ruv.is">
+    <title>Ofurdýr í náttúrunni</title>
+    <desc>Ofurkraftar náttúrunnar lifna við! Sprenghlægileg og fróðleg þáttaröð fyrir krakka sem sýnir undur dýranna og hvers vegna við ættum að vernda heiminn þeirra.</desc>
+  </programme>
+  <programme start="20260730174600 +0000" stop="20260730181100 +0000" channel="ruv.is">
+    <title>Einu sinni var... Lífið</title>
+    <sub-title>(26 af 26)</sub-title>
+    <desc>Þessar þáttaraðir eru áhorfendum að góðu kunnar, enda eru þættirnir bæði afar fræðandi og skemmtilegir. Að þessu sinni fræðumst við um mannslíkamann.</desc>
+  </programme>
+  <programme start="20260730181200 +0000" stop="20260730182000 +0000" channel="ruv.is">
+    <title>Litlir uppfinningamenn I</title>
+    <desc>Í tilraunastofunni hjá Lísu gerist ýmislegt áhugavert. Ungir krakkar koma í heimsókn og hanna sínar eigin uppfinningar með henni og gera trylltar tilraunir.</desc>
+  </programme>
+  <programme start="20260730182000 +0000" stop="20260730184800 +0000" channel="ruv.is">
+    <title>Brúðkaupsljósmyndarar</title>
+    <desc>Sænsk þáttaröð þar sem fylgst er með brúðkaupsljósmyndurum mynda ástfangin pör á þessum miklu tímamótum.</desc>
+  </programme>
+  <programme start="20260730185000 +0000" stop="20260730185500 +0000" channel="ruv.is">
+    <title>Sumarlandabrot</title>
+    <desc>Stutt umfjöllun Sumarlandans sem var á flakki sumarið 2023 og hitti landann fyrir í sínu náttúrulega umhverfi, uppi á fjöllum, úti í garði, inni í skógi og allt um kring.</desc>
+  </programme>
+  <programme start="20260730190000 +0000" stop="20260730192300 +0000" channel="ruv.is">
+    <title>Fréttir</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260730192500 +0000" stop="20260730193000 +0000" channel="ruv.is">
+    <title>Íþróttir</title>
+    <desc>Íþróttafréttir.</desc>
+  </programme>
+  <programme start="20260730193000 +0000" stop="20260730193500 +0000" channel="ruv.is">
+    <title>Veður</title>
+    <desc>Veðurfréttir.</desc>
+  </programme>
+  <programme start="20260730194000 +0000" stop="20260730202400 +0000" channel="ruv.is">
+    <title>Veislan</title>
+    <sub-title>(3 af 5)</sub-title>
+    <desc>Sverrir Þór Sverrisson, betur þekktur sem Sveppi, og Gunnar Karl Gíslason, Michelin-kokkur, ferðast um landið og kynnast matarmenningu þjóðarinnar. Í þriðju þáttaröð Veislunnar leiða þeir félagar áhorfendur í ævintýraferðir um hinar ýmsu eyjar.
+
+Vestfirðir eru stórfenglegir og þar má líka finna litlar perlur eins og eyjuna Vigur í Ísafjarðardjúpi. Þangað hafa Sverrir Þór og Gunnar Karl ekki komið áður. Himnesk flatbaka, nornaseiður á Hólmavík, Gvendarlaug hins góða, dásamleg íslensk kirsuber og yfirgefin síldarverksmiðja á Djúpavík er meðal þess sem kemur við sögu. Gunnar Karl töfrar fram gómsæta fiskisúpu að mestu úr hráefni úr nærsveitum.</desc>
+  </programme>
+  <programme start="20260730202500 +0000" stop="20260730210800 +0000" channel="ruv.is">
+    <title>Hundaskólinn</title>
+    <sub-title>(3 af 6)</sub-title>
+    <desc>Norskir þættir þar örvæntingarfullir hundaeigendur frá aðstoð hundaþjálfarans Maren Teien Rørvik við hegðunarvandamálum hunda sinna.</desc>
+  </programme>
+  <programme start="20260730211000 +0000" stop="20260730215600 +0000" channel="ruv.is">
+    <title>Kjarnakona</title>
+    <sub-title>(7 af 8)</sub-title>
+    <desc>Bresk dramaþáttaröð frá 2026 byggð á samnefndri skáldsögu eftir Barböru Taylor Bradford. Emma Hart starfar sem húshjálp í Yorkshire í byrjun 20. aldar. Með mikilli seiglu vinnur hún sig upp úr fátækt og byggir upp alþjóðlegt viðskiptastórveldi. Aðalhlutverk: Jessica Reynolds, Emmett J. Scanlan og Lydia Leonard. Þættirnir eru ekki við hæfi barna yngri en 12 ára.</desc>
+  </programme>
+  <programme start="20260730220000 +0000" stop="20260730224600 +0000" channel="ruv.is">
+    <title>Sæluríki I</title>
+    <sub-title>(2 af 8)</sub-title>
+    <desc>Leikin norsk þáttaröð frá 2018 sem gerist í Stafangri við lok sjöunda áratugar síðustu aldar og segir frá breytingunum sem urðu í samfélaginu þegar olía fannst í sjónum úti fyrir bænum og norska olíuævintýrið hófst. Meðal leikenda eru Anne Regine Ellingsæter, Amund Harboe, Bart Edwards, Malene Wadel og Pia Tjelta.</desc>
+  </programme>
+  <programme start="20260730225000 +0000" stop="20260730234500 +0000" channel="ruv.is">
+    <title>Drottning alls fjandans</title>
+    <sub-title>(3 af 6)</sub-title>
+    <desc>Finnsk leikin þáttaröð um fasteignasalann Lindu. Eiginmaðurinn fer frá henni og skilur hana eftir í skuldasúpu. Til þess að viðhalda lífsstíl sínum neyðist Linda til að gerast drottning undirheimanna. Aðahlutverk: Laura Malmivaara, Katja Küttner og Minna Haapkylä. Þættirnir eru ekki við hæfi barna yngri en 12 ára.</desc>
   </programme>
 </tv>
