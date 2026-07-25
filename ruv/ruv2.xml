@@ -3,23 +3,13 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260724174000 +0000" stop="20260724201000 +0000" channel="ruv2.is">
-    <title>Þróttur - ÍBV</title>
-    <desc>Beinar útsendingar frá bikarkeppni kvenna í fótbolta.
-
-Leikur Þróttar og ÍBV í undanúrslitum Mjólkursbikar kvenna í fótbolta.</desc>
-  </programme>
-  <programme start="20260724201000 +0000" stop="20260724203300 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20260725164000 +0000" stop="20260725191000 +0000" channel="ruv2.is">
     <title>Fram - Grindavík/Njarðvík</title>
     <desc>Beinar útsendingar frá bikarkeppni kvenna í fótbolta.
 
 Leikur Fram og Grindavíkur/Njarðvíkur í undanúrslitum Mjólkursbikar kvenna í fótbolta.</desc>
   </programme>
-  <programme start="20260725191000 +0000" stop="20260725193000 +0000" channel="ruv2.is">
+  <programme start="20260725191200 +0000" stop="20260725193200 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
@@ -51,5 +41,16 @@ Leikur Fram og Grindavíkur/Njarðvíkur í undanúrslitum Mjólkursbikar kvenna
   <programme start="20260730190000 +0000" stop="20260730192300 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260731190000 +0000" stop="20260731192300 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260731214000 +0000" stop="20260731222700 +0000" channel="ruv2.is">
+    <title>Vitjanir (with English subtitles)</title>
+    <sub-title>(1 af 8)</sub-title>
+    <desc>Icelandic drama series about Kristín, an emergency doctor who moves with her teenage daughter back to her parents' home in a small fishing village, following her own husband's affair. Kristín, who is grounded and rational, quickly realises she is out of her comfort zone communicating with her mother, a medium, and finds herself forced to look the ghosts of her past directly in the eye. Director: Eva Sigurðardóttir. Starring: Sara Dögg Ásgeirsdóttir, Helga E. Jónsdóttir, Katla Njálsdóttir, and Jói Jóhannsson. Not suitable for young children.
+
+Ghosts from the past encircle the emergency doctor Kristín as she moves with Lilja, her teenage daughter, back home to her parents in Hólmafjörður as she tries to recuperate after discovering her husband's affair. She starts work at the local healthcare centre and needs to prove to old friends that she is a competent manager and doctor.</desc>
   </programme>
 </tv>
