@@ -3,106 +3,6 @@
   <channel id="dr2.dk">
     <display-name>DR2</display-name>
   </channel>
-  <programme start="20260725235000 +0000" stop="20260726005500 +0000" channel="dr2.dk">
-    <title>Mit liv som Lasse Hallström (1:2)</title>
-    <desc>Svensk dokumentarserie fra 2022.
-(My Life as Lasse Hallström)
-Lasse Hallström er en af Sveriges største filminstruktører med film bag sig som 'Hva' så, Gilbert Grape', 'Æblemostreglementet' og 'Mit liv som hund'. Gennem to programmer følger vi hans rejse fra opvæksten i Stockholm til et helt andet liv i USA.</desc>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-  </programme>
-  <programme start="20260726005500 +0000" stop="20260726020000 +0000" channel="dr2.dk">
-    <title>Mit liv som Lasse Hallström (2:2)</title>
-    <desc>Svensk dokumentarserie fra 2022.
-(My Life as Lasse Hallström)
-Lasse Hallström er en af Sveriges største filminstruktører med film bag sig som 'Hva' så, Gilbert Grape', 'Æblemostreglementet' og 'Mit liv som hund'. Gennem to programmer følger vi hans rejse fra opvæksten i Stockholm til et helt andet liv i USA.</desc>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-  </programme>
-  <programme start="20260726020000 +0000" stop="20260726025000 +0000" channel="dr2.dk">
-    <title>Conquistadorernes storhed og fald (3:6) Aztekerne</title>
-    <desc>Amerikansk dokumentarserie fra 2023.
-(Conquistadors - The Rise and Fall)
-I 1517 har Spanien gjort sin indflydelse gældende i Caribien, hvor der er penge at tjene. Og fastlandet er endnu ikke udforsket. Den ambitiøse embedsmand Hernán Cortés hungrer efter magt og guld. Han vover sig langt ind i Mexicos indre. Men hvordan finder han en af de største civilisationer på det amerikanske kontinent? Og er han overhovedet i stand til at besejre aztekerne og kejser Moteczoma II?</desc>
-    <episode-num system="xmltv_ns">0.2.0</episode-num>
-  </programme>
-  <programme start="20260726025000 +0000" stop="20260726034500 +0000" channel="dr2.dk">
-    <title>Europas vidundere I (4:4) Alhambra</title>
-    <desc>Fransk dokumentarserie fra 2022.
-(The Wonders of Europe)
-Det er et af de mest besøgte monumenter i Europa. Det imponerende citadel: Alhambra. Det blev bygget i Middelalderen som forsvar mod de kristne og er et teknisk vidunder. Bag fæstningsmurene ligger en mosaik af overdådige paladser og haveanlæg og geniale påfund. Det var et tilflugtssted for sultanerne i Spanien, og da det faldt, blev det symbol på den kristne generobring. Det er dén unikke historie, der har gjort Alhambra til et af Europas vidundere.</desc>
-    <episode-num system="xmltv_ns">0.3.0</episode-num>
-  </programme>
-  <programme start="20260726034500 +0000" stop="20260726040000 +0000" channel="dr2.dk">
-    <title>På skuldrene af Bohr (2:6)</title>
-    <desc>Ved at bruge stråling og radioaktivt sukker kan læger og fysikere nu finde sygdomme, som før var usynlige. Alt sammen fordi to forskere for snart 100 år siden lavede forsøg med katte. Dansk videnskabsserie fra 2022 om kvantefysikkens uforklarligheder, som tager udgangspunkt i de ideer og tanker den danske fysiker Niels Bohr havde for 100 år siden, og som blev fundamentet til kvantemekanikken. En teori om de allermindste ting i universet.</desc>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-  </programme>
-  <programme start="20260726040000 +0000" stop="20260726043000 +0000" channel="dr2.dk">
-    <title>Kunstnerkolonien på Bornholm (2:8) - Kampen om det hvide lærred</title>
-    <desc>Kunstnerne indfinder sig på deres respektive atelier og den kunstneriske proces begynder. Julie Nord vil undersøge de underjordiske væsner på Bornholm, mens Michael Kvium kæmper med en malerblokering. Ursula Reuter gør sig klar til en kamp med lærredet. Gerne accompagneret af Beethoven.</desc>
-    <episode-num system="xmltv_ns">1.1.0</episode-num>
-  </programme>
-  <programme start="20260726043000 +0000" stop="20260726050000 +0000" channel="dr2.dk">
-    <title>Gift som aldrig før (6:6) Engle, dæmoner og et bryllup</title>
-    <desc>I sidste øjeblik falder Apolonia Sokols ritual på plads, netop som Ben og Chris
-ankommer med deres farverige følge på Rudolph Tegners Museum.
-Jakob og Stine ved ikke helt, hvad de har sagt ja til. De bliver blæst bagover af Noah
-Umur Kanbers ceremoni med både Gud, engle og dæmoner i provokerende
-sammensmeltning i Nikolaj Kunsthal.</desc>
-    <episode-num system="xmltv_ns">0.5.0</episode-num>
-  </programme>
-  <programme start="20260726050000 +0000" stop="20260726060000 +0000" channel="dr2.dk">
-    <title>Leonardo da Vinci - Renæssancemenneske (1:4)</title>
-    <desc>Amerikansk dokumentarserie fra 2024.
-(Ken Burns' Leonardo Da Vinci)
-Kunstner, forsker, opfinder og et visionært geni. Den italienske maler Leonardo da Vinci bliver født i 1452 i en toskansk landsby. Som ung flytter han til Firenze for at gå i lære som kunstner og håndværker. Han udviser et enestående talent, men har til tider svært ved at færdiggøre sine bestillingsopgaver.</desc>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-  </programme>
-  <programme start="20260726060000 +0000" stop="20260726095000 +0000" channel="dr2.dk">
-    <title>Seneste nyt fra TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260726095000 +0000" stop="20260726152500 +0000" channel="dr2.dk">
-    <title>Live fra VM i Middelalderkampsport</title>
-    <desc>Det er ikke rollespil. Det er VM i Middelalderkampsport. DR Sportens Oliver Bilberg Ravns og Mikkel Gøtzsche sender LIVE fra Spøttrup Borg, hvor riddere fra 30 nationer går løs på hinanden med sværd, økser og fuld rustning. Sammen med bl.a. Jan &amp; Morten, seje riddere og dansk middelalderhistorie lover vi en hårdtslående kampdag fra Spøttrup Borg.</desc>
-  </programme>
-  <programme start="20260726152500 +0000" stop="20260726172000 +0000" channel="dr2.dk">
-    <title>Jeg hedder stadig Trinity</title>
-    <desc>Italiensk westernkomedie fra 1971.
-(Continuavano a chiamarlo Trinità)
-Trinity og hans omfangsrige bror Bambino har forklædt sig som detektiver på hemmelig mission. De to plattenslagere bliver kontaktet af forbryderlederen James Parker, der tilbyder dem et pænt beløb for at vende det blinde øje til hans aktiviteter. Brødrene tager imod pengene, men da Parker indskærper, at de ikke må opsøge den lokale missionsstation, bliver deres nysgerrighed alligevel for stor, og snart er de på sporet af våbenhandel og munkenes guld.
-Medvirkende: Terence Hill, Bud Spencer, Harry Carey Jr. m.fl.
-Instruktion: E.B. Clucher.</desc>
-  </programme>
-  <programme start="20260726172000 +0000" stop="20260726180000 +0000" channel="dr2.dk">
-    <title>Kevin Costners vilde vesten (3:8)</title>
-    <desc>Amerikansk dokumentarserie fra 2025.
-(Kevin Costner's The West)
-Deres rejse forandrer det nordvestlige Nordamerika. I 1836 rejser missionærerne Narcissa og Marcus Whitman ad indianernes stier mod Oregon Country. Trods advarsler vil de udbrede deres tro til cayuse-folket, men har svært ved at tilpasse sig. Da et mæslingeudbrud i 1847 dræber knap halvdelen af cayuse-folket, spidser situationen til. Whitman-parret bliver dræbt, hvilket udløser den såkaldte Cayuse-krig - og baner vejen for den største folkevandring i USA.</desc>
-    <episode-num system="xmltv_ns">0.2.0</episode-num>
-  </programme>
-  <programme start="20260726180000 +0000" stop="20260726190000 +0000" channel="dr2.dk">
-    <title>Den klassiske musikquiz (1:8)</title>
-    <desc>En veloplagt Phillip Faber byder velkommen til en ny sæson med Frederik Cilius og Mathias Hammer i spidsen for aftenens to hold, der består af P2-vært Rie Koch, fløjtenist Isabella Hübener, fagottist  Magnus Koch og trompetist Victor Koch. DR SymfoniOrkestret under ledelse af Thomas Søndergård står for musikken. Hvor svært er det at genkende et stykke musik spillet bagfra? Kan man fremføre orkestermusik på plastikrør? Og er det overhovedet muligt ud fra dirigentens gestik at gennemskue, hvad han dirigerer, uden at orkestret spiller til?</desc>
-    <episode-num system="xmltv_ns">3.0.0</episode-num>
-  </programme>
-  <programme start="20260726190000 +0000" stop="20260726200000 +0000" channel="dr2.dk">
-    <title>Leonardo da Vinci - Renæssancemenneske (2:4)</title>
-    <desc>Amerikanske dokumentarserie fra 2024.
-(Ken Burns' Leonardo Da Vinci)
-I 1482 rejser Lenonardo da Vinci til Milano for at arbejde for hertugen af Milano, Ludovico Sforza. Her begynder han at nedskrive sine mange observationer om anatomi og fysik - og maler sit hovedværk: Den Sidste Nadver.</desc>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-  </programme>
-  <programme start="20260726200000 +0000" stop="20260726201500 +0000" channel="dr2.dk">
-    <title>TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260726201500 +0000" stop="20260726221000 +0000" channel="dr2.dk">
-    <title>Back to Black</title>
-    <desc>Britisk autentisk drama fra 2024.
-Hun bliver en af tidens største popstjerner, men dør som blot 27-årig. Allerede som teenager begynder Amy Winehouse at skrive sange. Hendes debutalbum, Frank, bliver en succes, men Amy beholder begge ben på jorden. Hun forelsker sig i Blake, men da parret går fra hinanden, begynder hun at bruge stoffer. Snart bliver Amy en superstjerne, men hendes misbrug og pressens nådesløse jagt tærer på hende.
-Medvirkende: Marisa Abela, Eddie Marsan, Jack O'Connell m.fl.
-Instruktion: Sam Taylor-Johnson.</desc>
-  </programme>
   <programme start="20260726221000 +0000" stop="20260727000500 +0000" channel="dr2.dk">
     <title>Parallelle mødre</title>
     <desc>Spansk drama fra 2021.
@@ -127,12 +27,18 @@ Tilrettelæggelse: Liv Thomsen.</desc>
     <title>Jenny - En historie om Lydmor</title>
     <desc>Et intimt portræt af en kompromisløs kunstner, der bruger sit eget liv som råstof til at tage ejerskab over sin egen fortælling. Med musik og ord som våben konfronterer hun fortidens spøgelser.</desc>
   </programme>
-  <programme start="20260727025500 +0000" stop="20260727035500 +0000" channel="dr2.dk">
+  <programme start="20260727025500 +0000" stop="20260727035000 +0000" channel="dr2.dk">
     <title>Fortidens fantastiske ingeniørkunst II (1:10) Colosseum</title>
     <desc>Britisk dokumentarserie fra 2022.
 (Ancient Engineering) 
 Fra sekstanter til seksløbere og fra mursten til mobiltelefoner. Arkitekter og ingeniører har i årtusinder udviklet vores verden. Serien afslører, hvordan fortidens opfindere stadig påvirker vores moderne verden. Første episode dykker ned i det største bevarede amfiteater fra Romerriget: Colosseum i Rom. Et teknisk og arkitektonisk mesterværk, der er næsten 2.000 år gammelt, og som er inspiration for vor tids moderne sportsstadioner.</desc>
     <episode-num system="xmltv_ns">1.0.0</episode-num>
+  </programme>
+  <programme start="20260727035000 +0000" stop="20260727040000 +0000" channel="dr2.dk">
+    <title>På skuldrene af H. C. Ørsted - Kan mennesket skabe som en Gud?</title>
+    <desc>For 15 år siden opdagede to russiske fysikere et nyt vidunder-materiale. Et stof der er 200 gange stærkere end stål, hårdt som diamant, og stadig kan bøjes. Det er blevet begyndelsen på en ny æra, hvor mennesket selv kan designe sine materialer helt ned i mindste skala. Hermed brydes de regler, der ellers altid har været i den virkelig verden.
+Dansk videnskabsserie fra 2020 med de største fysikere i verden.</desc>
+    <episode-num system="xmltv_ns">0.4.0</episode-num>
   </programme>
   <programme start="20260727040000 +0000" stop="20260727050000 +0000" channel="dr2.dk">
     <title>Husker du... 1982</title>
@@ -202,14 +108,14 @@ Sendt første gang 04.11.07</desc>
 Det er det mest luksuriøse grundstof på kloden. Guldet er blevet skabt i supernovaeksplosioner, og sandsynligvis først blevet fundet som guldklumper i vandløb. Mægtige civilisationer har jaget dets skønhed og rigdom. Ædelmetallet er sjældent, og begæret efter det har ført til store teknologiske landvindinger. Oplev, hvordan guld udvindes, forvandles til hverdagsgenstande og bliver brugt til at pryde templer og statuer.</desc>
     <episode-num system="xmltv_ns">1.1.0</episode-num>
   </programme>
-  <programme start="20260727180000 +0000" stop="20260727193000 +0000" channel="dr2.dk">
+  <programme start="20260727180000 +0000" stop="20260727192500 +0000" channel="dr2.dk">
     <title>How to Have Sex</title>
     <desc>Britisk drama fra 2023.
 Det skal være den bedste sommer nogensinde. De 16-årige piger Tara, Skye and Em tager på ferie på en græsk party-ø. Der skal festes igennem, og Tara er på mission for at miste sin status som jomfru. Hun drikker og danser sig igennem øens festområde, indtil hun møder nogle drenge, som hun håber vil give hende en uforglemmelig sommer.
 Medvirkende: Mia McKenna Bruce, Lara Peake, Sam Bottomley m.fl.
 Instruktion: Molly Manning Walker.</desc>
   </programme>
-  <programme start="20260727193000 +0000" stop="20260727200000 +0000" channel="dr2.dk">
+  <programme start="20260727193000 +0000" stop="20260727195000 +0000" channel="dr2.dk">
     <title>Signe Molde på udebane: Skrid med jeres vindmøller</title>
     <desc>De er ikke sure. De gider bare ikke glo på flere grimme vindmøller eller solceller. Signe Molde skal til borgermøde med en slags oprørshær, der kæmper imod et storstilet energianlæg i Vestjylland. Men når nu de både kan tjene en masse penge OG gør noget godt for klimaet, hvordan kan de så være imod solceller og vindmøller?</desc>
     <episode-num system="xmltv_ns">3.3.0</episode-num>
@@ -224,51 +130,51 @@ Instruktion: Molly Manning Walker.</desc>
 Vært: Clement Kjersgaard.</desc>
     <episode-num system="xmltv_ns">2025.111.0</episode-num>
   </programme>
-  <programme start="20260727204500 +0000" stop="20260727230000 +0000" channel="dr2.dk">
+  <programme start="20260727204500 +0000" stop="20260727225500 +0000" channel="dr2.dk">
     <title>Argentina, 1985</title>
     <desc>Argentinsk Oscarnomineret drama fra 2022.
 Den argentinske offentlige anklager Julio Strassera bevæger sig ind på farligt territorium. Han vil stille en række ledere af det tidligere militærdiktatur for retten. Snart modtager Julio trusler på livet. Der kommer bombetrusler mod retssalen og telefontrusler mod Julio og hans kolleger. Julio sender sin familie væk af hensyn til dens sikkerhed, men han nægter at give op. Det er på tide, at retfærdigheden sker fyldest.
 Medvirkende: Ricardo Darín, Gina Mastronicola, Francisco Bertín m.fl.
 Instruktion: Santiago Mitre.</desc>
   </programme>
-  <programme start="20260727230000 +0000" stop="20260727233000 +0000" channel="dr2.dk">
+  <programme start="20260727230000 +0000" stop="20260727232500 +0000" channel="dr2.dk">
     <title>Kunstnerkolonien på Bornholm (3:8) - Følelser kommer på lærredet</title>
     <desc>De seks kunstnere er for alvor kommet i gang og tager både ud i den bornholmske natur og tilbage i egen fortid for at finde inspiration til deres værker. Ursula Reuter indsamler ler til en helt ny kreation, og følelserne kommer for alvor i spil, når Michael Kvium lader sig inspirere af bornholmermaleren Oluf Høst -  en kunstner, der har påvirket Michael siden hans spæde barndom.</desc>
     <episode-num system="xmltv_ns">1.2.0</episode-num>
   </programme>
-  <programme start="20260727233000 +0000" stop="20260728000000 +0000" channel="dr2.dk">
+  <programme start="20260727233000 +0000" stop="20260727235500 +0000" channel="dr2.dk">
     <title>Der er et yndigt land - den nordsjællandske kyst</title>
     <desc>Når du lukker øjnene, hvad er det så for et Danmark, du ser? Er det brede bøge, grønne lunde og sejlernes tusindtal? Sådan malede guldaldermalerne Danmark - overdådigt, smukt, og struttende af stolthed og fædrelandsfølelse. Men hvor finder man egentlig de landskaber, som 1800-tallets malere kaldte det ægte danske? I fire programmer går dramatikeren Line Knutzon og kulturjournalisten Chris Pedersen vores kendte og elskede landskabsmalerier efter i sømmene. For findes maleriernes Danmark i virkeligheden - eller viser de snarere det Danmark, vi stadig drømmer om?
 I dette program tager Chris Pedersen og Line Knutzon til guldaldermalernes absolutte yndlingsmotiv, Nordsjælland, og undersøger, hvorfor kunstneren Johan Thomas Lundbye malede kysten, som han gjorde.   
 Sendt første gang 23.10.2018</desc>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
   </programme>
-  <programme start="20260728000000 +0000" stop="20260728003000 +0000" channel="dr2.dk">
+  <programme start="20260728000000 +0000" stop="20260728002000 +0000" channel="dr2.dk">
     <title>Rick Stein elsker mad (1:15)</title>
     <desc>Britisk dokumentarserie fra 2024.
 (Rick Stein's Food Stories)
 Cumbria er et af Englands mest populære kulinariske rejsemål med storslåede landskaber og en overflod af fantastiske lokale råvarer. Rick Stein begynder sin rundrejse i Lake District, hvor han nyder en traditionel gryderet med fårekød sammen med fåreavler og forfatter James Rebanks.  I Morecambe Bay smager han en anden cumbrisk delikatesse: konserverede smørrejer. Hjemme i Padstow får han besøg af sin søn Jack, og sammen laver de hans mors shepherd's pie.</desc>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
   </programme>
-  <programme start="20260728003000 +0000" stop="20260728010000 +0000" channel="dr2.dk">
+  <programme start="20260728003000 +0000" stop="20260728005000 +0000" channel="dr2.dk">
     <title>Rick Stein elsker mad (2:15)</title>
     <desc>Britisk dokumentarserie fra 2024.
 (Rick Stein's Food Stories)
 Det smukke Argyll på Skotlands vestkyst er stadig lidt af et overset paradis for madelskere. Kystlinjen er spækket med havbugter, der er hjemsted for de mest fantastisk skaldyr. Rick Stein fanger jomfruhummere med den tidligere lærer Mary Galloway. Møder kokken Pamela Brunton, hvis restaurant har Skotlands eneste grønne Michelin-stjerne.  Og hjemme i Padstow laver han tattie scones af frisklavet, lun kartoffelmos.</desc>
     <episode-num system="xmltv_ns">0.1.0</episode-num>
   </programme>
-  <programme start="20260728010000 +0000" stop="20260728020000 +0000" channel="dr2.dk">
+  <programme start="20260728010000 +0000" stop="20260728015000 +0000" channel="dr2.dk">
     <title>Den klassiske musikquiz (1:8)</title>
     <desc>En veloplagt Phillip Faber byder velkommen til en ny sæson med Frederik Cilius og Mathias Hammer i spidsen for aftenens to hold, der består af P2-vært Rie Koch, fløjtenist Isabella Hübener, fagottist  Magnus Koch og trompetist Victor Koch. DR SymfoniOrkestret under ledelse af Thomas Søndergård står for musikken. Hvor svært er det at genkende et stykke musik spillet bagfra? Kan man fremføre orkestermusik på plastikrør? Og er det overhovedet muligt ud fra dirigentens gestik at gennemskue, hvad han dirigerer, uden at orkestret spiller til?</desc>
     <episode-num system="xmltv_ns">3.0.0</episode-num>
   </programme>
-  <programme start="20260728020000 +0000" stop="20260728023000 +0000" channel="dr2.dk">
+  <programme start="20260728020000 +0000" stop="20260728022000 +0000" channel="dr2.dk">
     <title>Deadline: Clement møder Margrethe Vestager</title>
     <desc>Verden er ikke, hvad den var, og fortiden kan pludselig synes fjern. I disse sommerudgaver af Deadline undersøger vi gennem portrætsamtaler, hvor vi kommer fra - og hvor vi er på vej hen. Dagens gæst er Margrethe Vestager.
 Vært: Clement Kjersgaard.</desc>
     <episode-num system="xmltv_ns">2025.111.0</episode-num>
   </programme>
-  <programme start="20260728023000 +0000" stop="20260728030000 +0000" channel="dr2.dk">
+  <programme start="20260728023000 +0000" stop="20260728024500 +0000" channel="dr2.dk">
     <title>Deadline: En krig uden ansvar?</title>
     <desc>Morten Kromann er Afghanistan-veteran. Han føler sig svigtet af politikerne, som nu - hvor en udredning om Danmarks tyve år lange krigsdeltagelse ligger klar - har givet sig selv mulighed for at være anonyme.  
 Men tidligere formand for Udenrigspolitisk Nævn, Christian Friis Bach, forsvarer muligheden for anonymitet: Vi er nødt til at værne om fortroligheden i det politiske arbejde, siger han. 
@@ -276,7 +182,7 @@ Er fortrolighed vigtigere end at få vendt hver en sten i Afghanistan-krigen?
 Vært: Kaare Svejstrup.</desc>
     <episode-num system="xmltv_ns">2025.110.0</episode-num>
   </programme>
-  <programme start="20260728030000 +0000" stop="20260728033000 +0000" channel="dr2.dk">
+  <programme start="20260728030000 +0000" stop="20260728031500 +0000" channel="dr2.dk">
     <title>Deadline: Don Ø og Aamund</title>
     <desc>Flemming Østergaard og Asger Aamund har sat markante aftryk på dansk erhvervsliv. I dag ligger de store karrierer bag dem, og livet har ændret sig. Begge har mistet deres hustruer og forlader nu de store villaer.
 Hvordan ser de tilbage på magten, minderne og et liv i toppen af dansk erhvervsliv? Vært: Ulrik Rosenkvist Schultz</desc>
@@ -976,5 +882,134 @@ Instruktion: Mike Mills.</desc>
 (Black Coast Vanishings)
 Siden 1992 er seks personer forsvundet i den lille idylliske kystby Piha. Man har ikke fundet nogen lig, og sagen er endnu uopklaret. Politiet mener, at de alle er forsvundet i havet, men ikke alle køber den forklaring. Har de været udsat for en forbrydelse?</desc>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
+  </programme>
+  <programme start="20260802001000 +0000" stop="20260802005500 +0000" channel="dr2.dk">
+    <title>Forsvundet ved den sorte kyst (2:4)</title>
+    <desc>New Zealandsk dokumentar fra 2023.
+(Black Coast Vanishings)
+Flere kvinder afslører, at de er blevet jagtet af en flok mænd i årevis i skovene omkring Piha. Og politiet modtager et anonymt tip i Quentin Godwin-sagen fra en kvinde. Hun hævder at have viden om, hvad der skete med Quentin, der forsvandt i 1992.</desc>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+  </programme>
+  <programme start="20260802005500 +0000" stop="20260802015000 +0000" channel="dr2.dk">
+    <title>Kevin Spacey bag masken (1:2)</title>
+    <desc>Britisk to-delt dokumentar fra 2023.
+(Spacey Unmasked)
+Den amerikanske stjerne Kevin Spacey var engang en af de mest beundrede og respekterede skuespillere i verden. Denne to-delte serie dykker ned i oscar-vinderens liv - fra hans barndom og tidlige succes på Broadway til beskyldninger om upassende seksuel adfærd, der kulminerede i en retssag i 2023, hvor Spacey blev frikendt for anklager om seksuelle overgreb mod fire mænd.</desc>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+  </programme>
+  <programme start="20260802015000 +0000" stop="20260802024000 +0000" channel="dr2.dk">
+    <title>Conquistadorernes storhed og fald (4:6) Inkaerne</title>
+    <desc>Amerikansk dokumentarserie fra 2023.
+(Conquistadors - The Rise and Fall)
+I 1521 er Herán Cortés blevet den første guvernør af Ny Spanien - efter han har lagt aztekernes rige i ruiner. Fransicso Pizarro, en fattig, spansk bonde, drømmer også om guld og rigdomme. Modsat de fleste andre conquistadorer, der rejser mod nord, drager han mod syd. Her opdager han verdens største civilisation: inkaerne. I årtier gør de modstand mod Spanien, indtil de bliver overmandet af sygdom og død.</desc>
+    <episode-num system="xmltv_ns">0.3.0</episode-num>
+  </programme>
+  <programme start="20260802024000 +0000" stop="20260802033500 +0000" channel="dr2.dk">
+    <title>Europas vidundere II (1:4) Eiffeltårnet</title>
+    <desc>Fransk dokumentarserie fra 2023.
+(The Wonders of Europe)
+Det er et af de mest berømte monumenter i Europa. Hvert år strømmer næsten syv millioner besøgende til for at beundre Eiffeltårnet. Bag den ekstraordinære berømmelse ligger en historie om én mands ambition om at bygge et monument, der med sine over 305 meters højde skulle blive verdens højeste vartegn. Gustave Eiffel mødte mange udfordringer på vejen, men dette skulle ikke stoppe ham.</desc>
+    <episode-num system="xmltv_ns">1.0.0</episode-num>
+  </programme>
+  <programme start="20260802033500 +0000" stop="20260802035500 +0000" channel="dr2.dk">
+    <title>Alt forladt - Sindssygehospitalet</title>
+    <desc>Et gammelt sindssygehospital ved Vordingborg gemmer på mange menneskeskæbner. De to Urban Explorers Jan Elhøj og Morten Kirckhoff går på opdagelse i de gamle stuer og finder fastspændingsbælter og elektrochokmaskiner, der fortæller om en svunden tid.
+Tilrettelæggelse: Morten Steenstrup
+Sendt første gang 14.01.13</desc>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+  </programme>
+  <programme start="20260802040000 +0000" stop="20260802043000 +0000" channel="dr2.dk">
+    <title>Kunstnerkolonien på Bornholm (3:8) - Følelser kommer på lærredet</title>
+    <desc>De seks kunstnere er for alvor kommet i gang og tager både ud i den bornholmske natur og tilbage i egen fortid for at finde inspiration til deres værker. Ursula Reuter indsamler ler til en helt ny kreation, og følelserne kommer for alvor i spil, når Michael Kvium lader sig inspirere af bornholmermaleren Oluf Høst -  en kunstner, der har påvirket Michael siden hans spæde barndom.</desc>
+    <episode-num system="xmltv_ns">1.2.0</episode-num>
+  </programme>
+  <programme start="20260802043000 +0000" stop="20260802050000 +0000" channel="dr2.dk">
+    <title>Skeletter i skabet: Menneskesamlingen (1:3)</title>
+    <desc>Under Panum-bygningen i København ligger kasser med hundredvis af kranier og skeletter fra fremmede lande. Men hvad er historien bag - hvor kommer de fra og hvad blev de brugt til? Journalist Lotte Mathilde Nielsen får fat i nogle historiske protokoller, der beskriver kraniesamlingen og heri står blandt andet hvem der indsamlede en del af kranierne. Kranier, som blev anvendt i tidens store videnskabelige tendens: Racestudier.</desc>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+  </programme>
+  <programme start="20260802050000 +0000" stop="20260802060000 +0000" channel="dr2.dk">
+    <title>Jagten på Dilmun - de danske arkæologer og det forsvundne rige</title>
+    <desc>Fundet af det sagnomspundne rige, Dilmun, var en vaskeægte arkæologisk sensation, der gjorde danske Glob og hans makker Bibby verdensberømte. I mere end 70 år har danske arkæologer fra Moesgaard fortsat udgravningerne i Bahrain og Kuwait for sammen med lokale forskere at lære mere om Dilmun, det mere end 4000 år gamle avancerede kongerige.</desc>
+  </programme>
+  <programme start="20260802060000 +0000" stop="20260802100000 +0000" channel="dr2.dk">
+    <title>Seneste nyt fra TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260802100000 +0000" stop="20260802120000 +0000" channel="dr2.dk">
+    <title>Seneste nyt fra TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260802120000 +0000" stop="20260802123000 +0000" channel="dr2.dk">
+    <title>Der er et yndigt land - den jyske hede</title>
+    <desc>Når du lukker øjnene, hvad er det så for et Danmark, du ser? Er det brede bøge, grønne lunde og sejlernes tusindtal? Sådan malede guldaldermalerne Danmark - overdådigt, smukt, og struttende af stolthed og fædrelandsfølelse. Men hvor finder man egentlig de landskaber, som 1800-tallets malere kaldte det ægte danske?
+I fire programmer går dramatikeren Line Knutzon og kulturjournalisten Chris Pedersen vores kendte og elskede landskabsmalerier i sømmene. For findes maleriernes Danmark i virkeligheden - eller viser de snarere det Danmark, vi stadig drømmer om?
+I dette program tager Chris Pedersen og Line Knutzon på opdagelsesrejse til Himmelbjerget, hvor et ganske særligt billede blev malet i 1842, og de undersøger, om der stadig findes spor af det eksotiske Jylland i hedens hovedstad Herning.
+Sendt første gang 30.10.2018</desc>
+    <episode-num system="xmltv_ns">0.2.0</episode-num>
+  </programme>
+  <programme start="20260802123000 +0000" stop="20260802130000 +0000" channel="dr2.dk">
+    <title>1000 års kunsthistorie</title>
+    <desc>TV vært og kunsthistoriker Peter Kær tager seerne med på en rejse i den danske kunstskat. I seriens fjerde udsendelse sætter han fokus på realismen og symbolismen, en periode der byder på  malerier af L.A. Ring, Anna Ancher og Vilhelm Hammershøi. I salene på Statens Museum for Kunst  møder Peter Kær forskningschef Peter Nørgaard Larsen og seniorforsker Kasper Monrad, der fortæller, hvorfor de finder netop de tre udvalgte værker særligt betydningsfulde. Og så gemmer der sig et helt andet billede bag det ene af værkerne. Den historie bringer os igen på besøg hos konservatorerne.</desc>
+    <episode-num system="xmltv_ns">0.3.0</episode-num>
+  </programme>
+  <programme start="20260802130000 +0000" stop="20260802160500 +0000" channel="dr2.dk">
+    <title>Titanic</title>
+    <desc>Amerikansk Oscarbelønnet romantisk drama fra 1997.
+I april 1912 stævner den enorme luksusliner Titanic ud på sin skæbnesvangre jomfrurejse. Ombord forelsker den 17-årige overklassepige Rose sig i den fattige, fandenivoldske Jack, der har vundet sin billet i et spil kort. Ingen af dem aner, at 'skibet der ikke kan synke' har kurs mod katastrofen.
+James Camerons episke drama gjorde Leonardo DiCaprio og Kate Winslet til superstjerner og modtog hele 11 Oscars - deriblandt priserne for bedste film og instruktion.
+Medvirkende: Leonardo DiCaprio, Kate Winslet, Billy Zane m.fl.
+Instruktion: James Cameron.</desc>
+  </programme>
+  <programme start="20260802160500 +0000" stop="20260802164500 +0000" channel="dr2.dk">
+    <title>Kevin Costners vilde vesten (5:8)</title>
+    <desc>Amerikansk dokumentarserie fra 2025.
+(Kevin Costner's The West)
+I 1848 lokker Californien med en ny drøm. Muligheden for at blive rig uden at eje jord - blot ved at finde guld. Folk strømmer vestpå fra hele USA og verden - blandt dem den mexicanske bandit Joaquin Murrieta. Han danner en bande af lovløse, som plyndrer og spreder frygt i den nyetablerede stat. En gruppe California Rangers, ledet af dusørjægeren Harry Love, finder og dræber ham. Men legenden om Joaquin Murrieta nægter at dø.</desc>
+    <episode-num system="xmltv_ns">0.4.0</episode-num>
+  </programme>
+  <programme start="20260802164500 +0000" stop="20260802173000 +0000" channel="dr2.dk">
+    <title>Kevin Costners vilde vesten (6:8)</title>
+    <desc>Amerikansk dokumentarserie fra 2025.
+(Kevin Costner's The West)
+Da Kansas-territoriet åbnes for nybyggere i 1854, bliver det en slagmark i den nationale debat om slaveri. Bosættere fra begge sider af konflikten strømmer til for at afgøre, om området skal optages som en fri stat eller en slavestat. Abolitionisten John Brown går forrest i kampen mod indførelsen af slaveri og tyr til vold. Hans handlinger ryster landet - og et år efter hans død munder striden om slaveri ud i USA's blodigste konflikt: Borgerkrigen.</desc>
+    <episode-num system="xmltv_ns">0.5.0</episode-num>
+  </programme>
+  <programme start="20260802173000 +0000" stop="20260802180000 +0000" channel="dr2.dk">
+    <title>24 timer vi aldrig glemmer - Operation Bøllebank</title>
+    <desc>Der er døgn hvor en forholdsvis beskeden krigshandling får stor betydning. Hvor små marginaler afgør soldaters liv og død, og hvor 72 granater affyret en aprilnat får en afgørende rolle for en nations fremtidige engagement i krig. 
+Sådan et døgn er 29. april 1994 - et døgn hvor danske FN-soldater i Bosnien for første gang siden anden verdenskrig gik i kamp. En række danske soldater anført af Lars R. Møller og daværende forsvarsminister Hans Hækkerup fortæller om de 24 timer vi aldrig glemmer.
+Tilrettelæggelse: Jakob Kronborg Heick.</desc>
+    <episode-num system="xmltv_ns">1.10.0</episode-num>
+  </programme>
+  <programme start="20260802180000 +0000" stop="20260802190000 +0000" channel="dr2.dk">
+    <title>Den klassiske musikquiz (2:8)</title>
+    <desc>Phillip Faber er den veloplagte vært, der forsøger at holde styr på de to holdkaptajner Frederik Cilius og Mathias Hammer. Med sig har de Katrine Gislinge, Søren Schauser, John Kruse og Eva Marie Rasmussen. DR SymfoniOrkestret og dirigent Thomas Søndergård står for musikken. Hvor svært er det at genkende musik spillet bagfra? Kan man fremføre orkestermusik på plastikrør? Og er det overhovedet muligt at finde frem til et stykke musik efter bare en enkelt tone?</desc>
+    <episode-num system="xmltv_ns">3.1.0</episode-num>
+  </programme>
+  <programme start="20260802190000 +0000" stop="20260802195500 +0000" channel="dr2.dk">
+    <title>Leonardo da Vinci - Renæssancemenneske (3:4)</title>
+    <desc>Amerikanske dokumentarserie fra 2024.
+(Ken Burns' Leonardo Da Vinci)
+Leonardo da Vinci arbejder det meste af tiden som militæringeniør. Han designer fantasifulde flyvemaskiner, studerer lys, skygge og tyngdekraft, dissekerer lig i det skjulte og skriver afhandlinger om et utal af emner. Samtidig søger han efter den ideelle mæcen.</desc>
+    <episode-num system="xmltv_ns">0.2.0</episode-num>
+  </programme>
+  <programme start="20260802200000 +0000" stop="20260802201500 +0000" channel="dr2.dk">
+    <title>TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260802201500 +0000" stop="20260802221000 +0000" channel="dr2.dk">
+    <title>Long Shot</title>
+    <desc>Amerikansk romantisk komedie fra 2019.
+Den supertjekkede politiker Charlotte og den kaotiske journalist Fred har intet til fælles - bortset fra, at Charlotte i sin tid var Freds babysitter. De genforenes, da Charlotte beslutter sig for at stille op som præsidentkandidat. Ganske spontant hyrer Charlotte Fred som sin taleskriver. Fred er i den grad ude af sit rette element på de bonede gulve, og samtidig begynder der tilmed at stå gnister mellem ham og Charlotte.
+Medvirkende: Charlize Theron, Seth Rogen, June Diane Raphael m.fl.
+Instruktion: Jonathan Levine.</desc>
+  </programme>
+  <programme start="20260802221000 +0000" stop="20260803001500 +0000" channel="dr2.dk">
+    <title>The Iron Claw</title>
+    <desc>Amerikansk autentisk drama fra 2023.
+I starten af 1980'erne skubber den ambitiøse wrestler Fritz Von Erich sine tre sønner ind i wrestling-sporten. Han fylder dem med drømmen om storhed - alt imens han sætter dem op imod hinanden. Fritz regerer over sine sønner med jernhånd. Og de kæmper i lige så høj grad for hans kærlighed som for at blive wrestling-stjerner.
+Medvirkende: Zac Efron, Jeremy Allen White, Harris Dickinson m.fl.
+Instruktion: Sean Durkin.</desc>
   </programme>
 </tv>
