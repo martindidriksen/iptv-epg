@@ -3,17 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260731190000 +0000" stop="20260731192300 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
-  <programme start="20260731214000 +0000" stop="20260731222700 +0000" channel="ruv2.is">
-    <title>Vitjanir (with English subtitles)</title>
-    <sub-title>(1 af 8)</sub-title>
-    <desc>Icelandic drama series about Kristín, an emergency doctor who moves with her teenage daughter back to her parents' home in a small fishing village, following her own husband's affair. Kristín, who is grounded and rational, quickly realises she is out of her comfort zone communicating with her mother, a medium, and finds herself forced to look the ghosts of her past directly in the eye. Director: Eva Sigurðardóttir. Starring: Sara Dögg Ásgeirsdóttir, Helga E. Jónsdóttir, Katla Njálsdóttir, and Jói Jóhannsson. Not suitable for young children.
-
-Ghosts from the past encircle the emergency doctor Kristín as she moves with Lilja, her teenage daughter, back home to her parents in Hólmafjörður as she tries to recuperate after discovering her husband's affair. She starts work at the local healthcare centre and needs to prove to old friends that she is a competent manager and doctor.</desc>
-  </programme>
   <programme start="20260801190000 +0000" stop="20260801192000 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
@@ -42,5 +31,35 @@ Ghosts from the past encircle the emergency doctor Kristín as she moves with Li
   <programme start="20260806190000 +0000" stop="20260806192700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260807173000 +0000" stop="20260807181700 +0000" channel="ruv2.is">
+    <title>KrakkaRÚV</title>
+  </programme>
+  <programme start="20260807173100 +0000" stop="20260807174800 +0000" channel="ruv2.is">
+    <title>Hönnunarstirnin IIII</title>
+    <desc>Fjórða serían af Hönnunarstirnunum. Nico og Andrés eru mættir einu sinni enn með ný og skemmtileg verkefni og nýja keppendur.</desc>
+  </programme>
+  <programme start="20260807174800 +0000" stop="20260807175500 +0000" channel="ruv2.is">
+    <title>Eilíft drama</title>
+    <desc>Hvað gerist þegar besta vinkonan byrjar að hanga með einhverjum öðrum? Saga um vináttu sem rofnar og breytist. Þáttaröðin er á sænsku með íslenskum texta.
+
+Alexa fær Ellu til að gera svolítið hræðilegt. Olivia stendur með Ellu og kannski getur leyndarmálið fært þær nær hvor annarri aftur?</desc>
+  </programme>
+  <programme start="20260807175600 +0000" stop="20260807181700 +0000" channel="ruv2.is">
+    <title>Silfruskógur I</title>
+    <desc>Bresk sjónvarpsþáttaröð úr heimi vísindaskáldskapar fyrir unglinga. Árið 1997 hurfu fjórir krakkar úr Silfruskógi. Tuttugu og þremur árum seinna ákveður strákur einn að komast að því hvað í raun og veru gerðist í skóginum þennan örlagaríka dag.
+
+Hlutirnir verða sífellt undarlegri í búðunum. Drekafluga verður að horfast í augu við persónulega djöfla til að bjarga sér og vinum sínum.</desc>
+  </programme>
+  <programme start="20260807190000 +0000" stop="20260807192700 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260807214500 +0000" stop="20260807223500 +0000" channel="ruv2.is">
+    <title>Vitjanir (with English subtitles)</title>
+    <sub-title>(2 af 8)</sub-title>
+    <desc>Icelandic drama series about Kristín, an emergency doctor who moves with her teenage daughter back to her parents' home in a small fishing village, following her own husband's affair. Kristín, who is grounded and rational, quickly realises she is out of her comfort zone communicating with her mother, a medium, and finds herself forced to look the ghosts of her past directly in the eye. Director: Eva Sigurðardóttir. Starring: Sara Dögg Ásgeirsdóttir, Helga E. Jónsdóttir, Katla Njálsdóttir, and Jói Jóhannsson. Not suitable for young children.
+
+Kristín is worried that her mother is not taking her medication and Lilja feels an uncomfortable connection to the world of her grandmother. When Kristín takes part in a search &amp; rescue mission, she needs to work closely with Ragnar, a policeman who is also her ex.</desc>
   </programme>
 </tv>

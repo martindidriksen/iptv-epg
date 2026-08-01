@@ -3,44 +3,6 @@
   <channel id="kvf.fo">
     <display-name>KVF</display-name>
   </channel>
-  <programme start="20260730230500 " stop="20260731170000 " channel="kvf.fo">
-    <title>Veðrið</title>
-  </programme>
-  <programme start="20260731170000 " stop="20260731172500 " channel="kvf.fo">
-    <title>Mumi 13</title>
-    <sub-title>- teknirøð til smábørn</sub-title>
-  </programme>
-  <programme start="20260731172500 " stop="20260731173000 " channel="kvf.fo">
-    <title>Brævkassin - Danny og bussførari</title>
-    <sub-title>- fø. sending til tey ungu</sub-title>
-  </programme>
-  <programme start="20260731173000 " stop="20260731180000 " channel="kvf.fo">
-    <title>MORSA 1:11</title>
-    <sub-title>- føroysk barnarøð frá 2017</sub-title>
-  </programme>
-  <programme start="20260731180000 " stop="20260731182500 " channel="kvf.fo">
-    <title>Dagur og vika</title>
-  </programme>
-  <programme start="20260731182500 " stop="20260731184000 " channel="kvf.fo">
-    <title>Veðrið</title>
-  </programme>
-  <programme start="20260731184000 " stop="20260731192000 " channel="kvf.fo">
-    <title>Gekkur</title>
-  </programme>
-  <programme start="20260731192000 " stop="20260731205500 " channel="kvf.fo">
-    <title>The Great Escaper</title>
-    <sub-title>- bretskur filmur frá 2023</sub-title>
-    <desc>England, 2014. 89 ára gamli bretski Royal Navy-veteranurin frá seinna heimsbardaga, Bernard "Bernie" Jordan (Michael Caine), rýmir av røktarheiminum. Hann hevur eitt sterkt ynski um at vera við til 70 ára hátíðarhaldið fyri D-degnum í Normandí í Fraklandi. Á ferðini fær hann hjálp frá fremmandum, knýtir nýggj vinarbond og tekur eina kensluborna seinastu farvæl við ein fallnan vin. Samstundis ger søgan um rýmingina hann til eitt altjóða umrøðuevni. Filmurin byggir á veruligar hendingar. Upprunaheiti: The Great Escaper Framleiðsluár: 2023</desc>
-  </programme>
-  <programme start="20260731205500 " stop="20260731224000 " channel="kvf.fo">
-    <title>The Nice Guys</title>
-    <sub-title>- am. action-komedia frá 2016, óhósk. fyri børn</sub-title>
-    <desc>Í Los Angeles í 1970´unum verða teir báðir lurvutu privatdetektivarnir Holland March (Ryan Gosling) og Jackson Healy (Russell Crowe) tvingaðir at arbeiða saman um at leita eftir horvnu Amalie Kuttner. Men tað, sum í fyrstani sær út sum eitt einfalt mál, vísir seg at hava træðrir til valdmiklastu fólk í býnum. Og skjótt eru Healy og March har, teir als ikki grynna. Leikarar: Holland March: Ryan Gosling, Jackson Healy:Russell Crowe og Holly March: Angourie Rice Við eru eisini: Judith Kuttner: Kim Basinger. John Boy: Matt Bomer. Amelia: Margaret Qualley. Tally: Yaya DaCosta. Eldri maður: Keith David Handrit: Shane Black og Anthony Bagarozzi. Leikstj.: Shane Black. Upprunah.: The Nice Guys Framl. ár: 2016</desc>
-  </programme>
-  <programme start="20260731224000 " stop="20260801180000 " channel="kvf.fo">
-    <title>Dagur og vika</title>
-    <sub-title>- við teksti</sub-title>
-  </programme>
   <programme start="20260801180000 " stop="20260801183500 " channel="kvf.fo">
     <title>Við Jógvani á túri</title>
     <sub-title>- føroysk sending frá 2022</sub-title>
@@ -275,9 +237,45 @@
     <sub-title>- donsk tónleikasending frá 2024</sub-title>
     <desc>Størsti rokkbólkur í Danmark, D-A-D, heldur 40 ára dag í  2024. Henda dokumentarsendingin kavar niður í søguna um fýra ungar vinir, sum fóru undir ferðina við skateboarding, hashroyking og ko-punk, og sum varð fyrsti tónleikabólkur við egnari framsýning á tjóðsavninum. Framl.ár:2024</desc>
   </programme>
-  <programme start="20260806202500 " stop="20260806212500 " channel="kvf.fo">
+  <programme start="20260806202500 " stop="20260806232000 " channel="kvf.fo">
     <title>Horvnir arvingar 2:5</title>
     <sub-title>- krígsbarnið, donsk røð frá 2022</sub-title>
     <desc>Ernst náddi aldri at síggja pápa sín, sum doyði, tá  Shellhúsið varð bumbað undir øðrum veraldarbardaga. Men spurningurin er, um foreldrini hava fingið onnur børn, sum kunnu arva Ernst, sum nú er deyður og hevur ikki familju sjálvur. Mette Frisk vertur og Adam Jon Kronegh skjalavørður leita eftir arvingum eftir Ernst.</desc>
+  </programme>
+  <programme start="20260806232000 " stop="20260807170000 " channel="kvf.fo">
+    <title>Veðrið</title>
+  </programme>
+  <programme start="20260807170000 " stop="20260807173000 " channel="kvf.fo">
+    <title>Mumi 14</title>
+    <sub-title>- teknirøð til smábørn</sub-title>
+  </programme>
+  <programme start="20260807173000 " stop="20260807180000 " channel="kvf.fo">
+    <title>MORSA 2:11</title>
+    <sub-title>- føroysk barnarøð</sub-title>
+  </programme>
+  <programme start="20260807180000 " stop="20260807182500 " channel="kvf.fo">
+    <title>Dagur og vika</title>
+  </programme>
+  <programme start="20260807182500 " stop="20260807183000 " channel="kvf.fo">
+    <title>Veðrið</title>
+  </programme>
+  <programme start="20260807183000 " stop="20260807193000 " channel="kvf.fo">
+    <title>Dear England</title>
+    <sub-title>- bretsk sendirøð (1:4)</sub-title>
+    <desc>Gareth Southgate tekur við einum enskum landsliði í kreppu. Darvaður av sínum egna trauma eftir eitt brotsspark, tekur hann saman við sálarfrøðinginum Pippa Grange óvanligar arbeiðshættir í nýtslu fyri at broyta hugburðin í hópinum og sleppa undan tí felags óttanum fyri brotsspørkum. Upprunaheiti: Dear England Framleiðsluár: 2026</desc>
+  </programme>
+  <programme start="20260807193000 " stop="20260807211000 " channel="kvf.fo">
+    <title>The Farewell</title>
+    <sub-title>- amr. familjudrama frá 2019</sub-title>
+    <desc>Í eini stórari kinesiskari familju, har nakrir familjulimir eru fluttir til USA, fær omman Nai Nai staðfest ólekjandi krabbamein ? uttan sjálv at vita tað. Familjan ger av, av virðing fyri matriarkinum, at skipa fyri einum stórum brúdleypi sum loyniligt høvi at savnast við Nai Nai seinastu ferð. Henda lygn er torfør hjá barnabarni hennara, Billi, at halda. Upprunaheiti: The Farewell Leikarar: Billi Wang: Awkwafina, Haiyan Wang: Tzi Ma og Lu Jian: Diana Lin Framleiðsluár: 2019</desc>
+  </programme>
+  <programme start="20260807211000 " stop="20260807225500 " channel="kvf.fo">
+    <title>Infidel</title>
+    <sub-title>- amr. action-thriller frá 2019</sub-title>
+    <desc>Journalisturin Doug Rawlins (Jim Caviezel) verður boðin at luttaka í eini sjónvarpssamrøðu í Kairo. Har sigur hann eitthvørt umstrítt (kontroversielt), sum ger, at hann seinni verður tikin av Hizbollah, sum skal straffa hann fyri hesi úttalilsini. Hann endar í einum fongsli í Teheran í Íran, har hann verður dømdur til deyða fyri njósning. Nú er tað upp til konu Dougs, Liz (Claudia Karvan), at royna at fáa hann leysan. Við eru: Doug Rawlins: Jim Caviezel, Liz Rawlins: Claudia Karvan og Ramzi: Hal Ozsan. Framl.ár:2019 Aldursmark:15</desc>
+  </programme>
+  <programme start="20260807225500 " stop="20260807235500 " channel="kvf.fo">
+    <title>Dagur og vika</title>
+    <sub-title>- við teksti</sub-title>
   </programme>
 </tv>
