@@ -3,171 +3,6 @@
   <channel id="dr1.dk">
     <display-name>DR1</display-name>
   </channel>
-  <programme start="20260731232500 +0000" stop="20260801005500 +0000" channel="dr1.dk">
-    <title>Enemy</title>
-    <desc>Amerikansk thriller fra 2013.
-Den stilfærdige universitetslærer Adam bor sammen med sin kæreste Mary. En aften ser Adam en film, da han bemærker en birolleskuespiller, der ligner ham på en prik. Da han beslutter sig for at opspore sin dobbeltgænger, får det uventede følger.
-Medvirkende: Jake Gyllenhaal, Mélanie Laurent, Sarah Gadon m.fl.
-Instruktion: Denis Villeneuve.</desc>
-  </programme>
-  <programme start="20260801005500 +0000" stop="20260801014000 +0000" channel="dr1.dk">
-    <title>Drabschef Wisting: Kidnapningen (1:4)</title>
-    <desc>Norsk krimiserie fra 2024.
-Seksårige Clifford Greenwood forsvinder sporløst fra sit hotelværelse. Næste morgen findes en af hotellets ansatte død. Clifford er britisk statsborger, og politimanden William Wisting er under enormt pres for at opklare mordet og finde drengen, inden det er for sent.</desc>
-    <episode-num system="xmltv_ns">3.0.0</episode-num>
-  </programme>
-  <programme start="20260801014000 +0000" stop="20260801022500 +0000" channel="dr1.dk">
-    <title>Drabschef Wisting: Kidnapningen (2:4)</title>
-    <desc>Norsk krimiserie fra 2024.
-Cliffords familie modtager et krav om løsesum og en kryptisk besked. Sporene peger mod en tidligere forretningspartner til Cliffords bedstefar, hotelejeren Olav. Er Clifford blevet bortført som hævn? Wistings datter, Line, møder sin eks, Tommy, og opdager, at han er faldet i meget dårligt selskab.</desc>
-    <episode-num system="xmltv_ns">3.1.0</episode-num>
-  </programme>
-  <programme start="20260801022500 +0000" stop="20260801031000 +0000" channel="dr1.dk">
-    <title>Vores græske drømmehjem (3:6)</title>
-    <desc>Canadisk dokumentarserie fra 2023.
-(Home Greek Home)
-Den græske sommer er i fuld gang, og håndværkerne har rygende travlt. Den nystøbte beton slår revner i varmen, og der er desværre også masser af andre revner, der begynder at vise sig. Vil det lykkes Sarah at få de afslappede græske håndværkere i sving?</desc>
-    <episode-num system="xmltv_ns">0.2.0</episode-num>
-  </programme>
-  <programme start="20260801031000 +0000" stop="20260801034000 +0000" channel="dr1.dk">
-    <title>Husdrømme på Sicilien - vintagerejsen (6:6)</title>
-    <desc>Svensk livsstilsserie. 
-(Husdrömmar Sicilien - vintageresan)
-Marie og Susannes rejse nærmer sig sin afslutning. I det sidste stop inden Sicilien gør søstrene holdt i hektiske Napoli. Byen overrasker med en skjult verden nogle trappetrin under gadens mylder. Til sidst når de rejsens slutmål - Palazzo Cirillo på Sicilien. Nu skal der holdes hjemkomstfest med vennerne, men der venter også de to søstre en overraskelse.</desc>
-    <episode-num system="xmltv_ns">0.5.0</episode-num>
-  </programme>
-  <programme start="20260801042000 +0000" stop="20260801045000 +0000" channel="dr1.dk">
-    <title>Arkitektens sommerhus (1:6)</title>
-    <desc>Norsk boligserie fra 2018.
-(Arkitektens hytte)
-Den norske arkitekt, Jon Haug, er en af de mest erfarne skabere af sommerhuse. Han har tegnet tusindvis af fritidshuse, som er tilpasset de norske fjelde. Mange bruger hans prisvindende og fleksible systemhuse som helårsboliger - blandt andet ham selv. Vi besøger ham i hans private hjem i Bygdøy for at se, hvordan han selv har indrettet sig og høre, hvor han henter inspiration i sit arbejde.</desc>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-  </programme>
-  <programme start="20260801045000 +0000" stop="20260801053500 +0000" channel="dr1.dk">
-    <title>Welcome to Wrexham II (13:15)</title>
-    <desc>Familien betyder alt for spillerne og resten af Wrexham A.F.C. Vi kommer helt tæt på personerne bag kulisserne - samt forældre, børn og partnere til nøglefigurerne i klubben.</desc>
-    <episode-num system="xmltv_ns">1.12.0</episode-num>
-  </programme>
-  <programme start="20260801053500 +0000" stop="20260801060000 +0000" channel="dr1.dk">
-    <title>Welcome to Wrexham II (14:15)</title>
-    <desc>Mens oprykningen stadig er uafklaret, forsøger ejerne at løfte klubbens profil med hjælp fra venner og sponsorer.</desc>
-    <episode-num system="xmltv_ns">1.13.0</episode-num>
-  </programme>
-  <programme start="20260801060000 +0000" stop="20260801061500 +0000" channel="dr1.dk">
-    <title>TVA</title>
-    <desc>Efter hård kritik dropper det internationale fodboldforbund FIFA, sine planer om at sælge andele i forbundets turneringer til private aktører. Det siger Fifas præsident Infantino i en udtalelse til mediet Sky News.
-
-TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260801061500 +0000" stop="20260801070000 +0000" channel="dr1.dk">
-    <title>Familien Hardacre II (3:6)</title>
-    <desc>Britisk dramaserie fra 2026.
-(The Hardacres)
-Sam kæmper for sit liv. Mary frygter, at han har fået en dødelig influenza og sætter huset i karantæne. Joe er fast besluttet på at sætte sit præg på familiefirmaet. Liza sniger sig af sted for at holde et hemmeligt stævnemøde med Edward. Og Imelda giver Emma besked på at infiltrere Marys aftenundervisning.</desc>
-    <episode-num system="xmltv_ns">1.2.0</episode-num>
-  </programme>
-  <programme start="20260801070500 +0000" stop="20260801074500 +0000" channel="dr1.dk">
-    <title>Familien Hardacre II (4:6)</title>
-    <desc>Britisk dramaserie fra 2026.
-(The Hardacres)
-Sam og Mary beslutter at holde bal for tjenestefolkene. Liza og Edwards forhold blomstrer, men Ma stoler ikke på Edward. Hun beder Callum kigge ham efter i sømmene. Harry beslutter at skrive et brev til mr. Lewis for at fortælle ham om sine følelser.</desc>
-    <episode-num system="xmltv_ns">1.3.0</episode-num>
-  </programme>
-  <programme start="20260801075000 +0000" stop="20260801075500 +0000" channel="dr1.dk">
-    <title>P3 Essensen: AI overtager måske dit job hurtigere end du tror</title>
-    <desc>Det sker, mens du ser den her video. Kunstig intelligens, der erstatter mennesker i flere og flere jobs. Og med en udviklilng, der går så stærk, stiller P3 Essensen spørgsmålet: Bliver vi alle erstattet af AI i fremtiden?</desc>
-    <episode-num system="xmltv_ns">1.66.0</episode-num>
-  </programme>
-  <programme start="20260801075500 +0000" stop="20260801092500 +0000" channel="dr1.dk">
-    <title>Vera: Et familiemenneskes død</title>
-    <desc>Engelsk krimiserie fra 2014.
-(Vera: Death of a Family Man)
-Liget af en mand, John Shearwood, fiskes op af floden. Johns kone troede, at han var på golfferie i Irland. I stedet viser det sig, at han arbejdede som meddeler for toldvæsenet, der mistænker en af hans kolleger for smugling. Og det er blot én af Johns mange hemmeligheder.
-Vera Stanhope: Brenda Blethyn.
-Joe Ashworth: David Leon.
-Stella Shearwood: Maibritt Saerens.
-Instruktion: David Richards.</desc>
-    <episode-num system="xmltv_ns">3.3.0</episode-num>
-  </programme>
-  <programme start="20260801092500 +0000" stop="20260801100000 +0000" channel="dr1.dk">
-    <title>Christiania (1:3) En flok teenagere, der har fået en by</title>
-    <desc>En forladt kaserne, en håndfuld drømmere og en radikal idé om frihed. Sådan begynder historien om Christiania.</desc>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-  </programme>
-  <programme start="20260801100000 +0000" stop="20260801101500 +0000" channel="dr1.dk">
-    <title>TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260801101500 +0000" stop="20260801102500 +0000" channel="dr1.dk">
-    <title>I haven med Søren Ryge: Violfrøstjerner</title>
-    <desc>.</desc>
-    <episode-num system="xmltv_ns">2017.5.0</episode-num>
-  </programme>
-  <programme start="20260801102500 +0000" stop="20260801114500 +0000" channel="dr1.dk">
-    <title>Min søsters børn i Afrika</title>
-    <desc>Dansk familiefilm fra 2013. 
-Min søsters børn vinder en rejse til Afrika, men da forældrene ikke har ferie, må Onkel som altid træde til. I Afrika bor de ved siden af et dyrehospital, hvor de skal hjælpe dyrene. Idyllen bliver dog hurtigt brudt, da Fru Flinth også viser sig at være rejst til Afrika for at få fred for naboens børn. Men da hun bliver bortført af to krybskytter, må Onkel og børnene på en hæsblæsende jagt over den afrikanske savanne for at redde både Fru Flinth og de dyr, krybskytterne har stjålet.
-Medvirkende: Peter Mygind, Mille Dinesen, Thomas Levin m.fl.
-Manuskript: Martin Miehe-Renard og Michael Obel.
-Instruktion: Martin Miehe-Renard.
-Fotograf: Lars Reinholdt.
-Produktion: Obel Film i samarbejde med bl.a. DR.</desc>
-  </programme>
-  <programme start="20260801122300 +0000" stop="20260801163000 +0000" channel="dr1.dk">
-    <title>PostNord Danmark Rundt: Rudkøbing - Faaborg, 4. etape, direkte</title>
-    <desc>For første gang i løbets historie går starten på PostNord Danmark Rundt fra Langeland, der danner ramme om første del af den i alt 172,5 kilometer lange fjerde etape. Feltet bevæger sig fra det sydfynske øhav videre mod Fyn og den afgørende finale i Faaborg.
-Kommentatorer: Tobias Boldt og Jakob Fuglsang.</desc>
-  </programme>
-  <programme start="20260801163000 +0000" stop="20260801165000 +0000" channel="dr1.dk">
-    <title>TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260801165000 +0000" stop="20260801170000 +0000" channel="dr1.dk">
-    <title>Før søndagen: Åbent hjerte</title>
-    <desc>"Åbent hjerte" - Katrine Muff og Mathias Hammer introducerer og synger ugens salme.
-I "Før søndagen" synger Muff, Hammer og DRs kor fra den store danske sang- og salmeskat, der er opbygget gennem århundreder.</desc>
-    <episode-num system="xmltv_ns">0.38.0</episode-num>
-  </programme>
-  <programme start="20260801170000 +0000" stop="20260801180000 +0000" channel="dr1.dk">
-    <title>Alletiders Asien (6:7)</title>
-    <desc>Der ligger enorme tørre områder i Asiens hjerte. De strækker sig helt fra Arabien i vest til det østlige Kina. Det er ørken og tør græssteppe, hvor alt liv er presset til det yderste. Tag med til dette barske og nådesløse landskab, hvor et af verdens sjældneste dyr - Gobi-bjørnen - desperat leder efter vand. Den asiatiske løve må gøre hvad som helst for at finde føde, og unge socotra-skarver tyr til kannibalisme for at overleve
-BBC-dokumentarserie fra 2024.
-(Asia)</desc>
-    <episode-num system="xmltv_ns">0.5.0</episode-num>
-  </programme>
-  <programme start="20260801180000 +0000" stop="20260801190000 +0000" channel="dr1.dk">
-    <title>Alene i vildmarken (4:7) Kan man spise skæg?</title>
-    <desc>Ekstrem-eventyreren Rasmus fanger ingen fisk, og må lave sort suppe af planter kogt i aske.
-Vikingekrigeren Heidi spørger sin familie og venner til råds igennem et cirkelformet `tinge` af grene.
-Bueskytten Stefanie forsøger at bruge fiskeslim som hudcreme.</desc>
-    <episode-num system="xmltv_ns">9.3.0</episode-num>
-  </programme>
-  <programme start="20260801190000 +0000" stop="20260801195000 +0000" channel="dr1.dk">
-    <title>Robin Hood (4:10)</title>
-    <desc>Adventure-dramaserie fra 2025.
-Marian begynder at finde sig tilrette i Eleonoras hof. Samtidig lægger Rob og Broder Tuck en snedig plan. De vil stjæle selve det guld, der er udlovet på Robs hoved. Det kræver præcision og gode nerver. For hvis planen slår fejl, vil det betyde døden for Rob og hans mænd.
-Medvirkende: Sean Bean, Connie Nielsen m.fl.</desc>
-    <episode-num system="xmltv_ns">0.3.0</episode-num>
-  </programme>
-  <programme start="20260801195000 +0000" stop="20260801204500 +0000" channel="dr1.dk">
-    <title>Robin Hood (5:10)</title>
-    <desc>Adventure-dramaserie fra 2025.
-Rob kaster sig ud i en livsfarlig mission for at redde den dødsdømte familien Miller. Det gør sheriffen rasende, men cementerer de fredsløses venskab. I Westminster får Marian forfærdelige nyheder - hendes bror er blevet dræbt.</desc>
-    <episode-num system="xmltv_ns">0.4.0</episode-num>
-  </programme>
-  <programme start="20260801204500 +0000" stop="20260801210500 +0000" channel="dr1.dk">
-    <title>PostNord Danmark Rundt: Rudkøbing - Faaborg, 4. etape, højdepunkter</title>
-    <desc>Højdepunkter fra 4. etape af PostNord Danmark Rundt, der for første gang starter på Langeland. Den 172,5 kilometer lange etape går gennem det sydfynske øhav og videre til den afgørende finale i Faaborg. 
-Kommentatorer: Tobias Boldt og Jakob Fuglsang.</desc>
-  </programme>
-  <programme start="20260801210500 +0000" stop="20260801223500 +0000" channel="dr1.dk">
-    <title>Vera: Tidevandet vender</title>
-    <desc>Engelsk krimiserie fra 2015.
-(Vera: Changing Tides)
-En ung kvinde omkommer, da en ferielejr ved kysten raseres af en voldsom brand. Det bliver en sag for den erfarne og ligefremme kriminalinspektør Vera Stanhope. Hvem var den unge kvinde? Var branden en ulykke - eller mord?
-Vera Stanhope: Brenda Blethyn.</desc>
-    <episode-num system="xmltv_ns">4.0.0</episode-num>
-  </programme>
   <programme start="20260801223500 +0000" stop="20260802000500 +0000" channel="dr1.dk">
     <title>Uforglemt (3:3)</title>
     <desc>Britisk krimiserie fra 2015.
@@ -195,7 +30,7 @@ John Deeds fjender i advokatstanden rotter sig sammen for at skubbe både ham og
 Håndværkerne kæmper for at holde tidsplanen. Sarah rekrutterer sine sønner Harry og Edward til at hjælpe med byggeriet. Vil de i fællesskab formå at bygge deres familiedrøm på Skiathos?</desc>
     <episode-num system="xmltv_ns">0.3.0</episode-num>
   </programme>
-  <programme start="20260802032000 +0000" stop="20260802034500 +0000" channel="dr1.dk">
+  <programme start="20260802032000 +0000" stop="20260802041500 +0000" channel="dr1.dk">
     <title>Udsendelsesophør</title>
     <desc>.</desc>
   </programme>
@@ -216,7 +51,7 @@ Einar Hagem er en af Norges førende sommerhus-arkitekter. Hans udgangspunkt er,
     <desc>Wrexham A.F.C. spiller en række "venskabskampe" i USA, men får en kølig velkomst, da de vender tilbage til English Football League.</desc>
     <episode-num system="xmltv_ns">2.0.0</episode-num>
   </programme>
-  <programme start="20260802060000 +0000" stop="20260802062000 +0000" channel="dr1.dk">
+  <programme start="20260802060000 +0000" stop="20260802061500 +0000" channel="dr1.dk">
     <title>TVA</title>
     <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
   </programme>
@@ -1260,5 +1095,189 @@ Instruktion: Richard Donner.</desc>
     <desc>Norsk krimiserie fra 2024.
 Wisting er stadig uden spor - og under pres. Den dramatiske jagt bringer kun smerte. Cliffords forældre modtager en gådefuld besked, der fører dem til et grusomt fund. Kidnapperen forsøger at fortælle dem noget, men hvad?</desc>
     <episode-num system="xmltv_ns">3.2.0</episode-num>
+  </programme>
+  <programme start="20260808001500 +0000" stop="20260808010000 +0000" channel="dr1.dk">
+    <title>Drabschef Wisting: Kidnapningen (4:4)</title>
+    <desc>Norsk krimiserie fra 2024.
+Politiet sætter en menneskejagt i gang efter kidnapperen, som tydeligvis har et stærkt personligt motiv. Tiden er ved at løbe ud, og Wisting må grave i en tragisk hændelse fra en fjern fortid.</desc>
+    <episode-num system="xmltv_ns">3.3.0</episode-num>
+  </programme>
+  <programme start="20260808010000 +0000" stop="20260808023000 +0000" channel="dr1.dk">
+    <title>Dommer John Deed (14)</title>
+    <desc>Engelsk dramaserie fra 2005.
+(Judge John Deed)
+Jo Mills lader sig overtale til at være forsvarer for en mand, der har været på flugt i 16 år efter at være blevet anklaget for mordforsøg. Manden hævder, at fire politifolk trak en plastikpose ned over hans hoved og tvang ham til at skrive under på en tilståelse. Samtidig overvejer Jo, om hun skal adoptere den forældreløse Michael Hulsey, der er søn af en af hendes tidligere klienter.</desc>
+    <episode-num system="xmltv_ns">3.13.0</episode-num>
+  </programme>
+  <programme start="20260808023000 +0000" stop="20260808031500 +0000" channel="dr1.dk">
+    <title>Dronning af drømmeslottet (2:8)</title>
+    <desc>Britisk dokumentarserie fra 2025.
+(Queen of the Castle)
+Ann tager fat på at forvandle Lympne Castle til et førsteklasses bryllups- og eventsted. Men presset stiger, når flere historiske og forsømte områder skal renoveres, inden slottet kan åbne dørene for sit første eventyrlige bryllup.</desc>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+  </programme>
+  <programme start="20260808031500 +0000" stop="20260808035000 +0000" channel="dr1.dk">
+    <title>Udsendelsesophør</title>
+    <desc>.</desc>
+  </programme>
+  <programme start="20260808040500 +0000" stop="20260808043500 +0000" channel="dr1.dk">
+    <title>Arkitektens sommerhus (3:6)</title>
+    <desc>Norsk boligserie fra 2018.
+(Arkitektens hytte)
+Carl-Viggo Hølmebakk er en af Norges mest prisvindende arkitekter. Han skræddersyer sine sommerhuse til naturen, og indretter rummene med gammelt træ, der formes til perfektion og i samspil med limtræ, beton og glas. Vi besøger Carl-Viggo Hølmebakk i hans eget sommerhus, hvor han har tilbragt alle sommerferier i over 50 år.</desc>
+    <episode-num system="xmltv_ns">0.2.0</episode-num>
+  </programme>
+  <programme start="20260808043500 +0000" stop="20260808051500 +0000" channel="dr1.dk">
+    <title>Welcome to Wrexham III (2:8)</title>
+    <desc>Nye spillere går på banen. Men en uventet afsked overrasker holdet, mens de forsøger at finde fodfæste.</desc>
+    <episode-num system="xmltv_ns">2.1.0</episode-num>
+  </programme>
+  <programme start="20260808051500 +0000" stop="20260808060000 +0000" channel="dr1.dk">
+    <title>Welcome to Wrexham III (3:8)</title>
+    <desc>Wrexhams kvindehold er ved at tilpasse sig den bedste walisiske liga, mens herrerne forbereder sig på at møde Notts County, deres rivaler fra National League.</desc>
+    <episode-num system="xmltv_ns">2.2.0</episode-num>
+  </programme>
+  <programme start="20260808060000 +0000" stop="20260808061500 +0000" channel="dr1.dk">
+    <title>TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260808061500 +0000" stop="20260808065500 +0000" channel="dr1.dk">
+    <title>Søren Ryge: Kinoorglet</title>
+    <desc>I stumfilmens tid var de uundværlige, derefter gik de langsomt af mode. De store, mekaniske orgler, der underholdt publikum i biograferne og kunne spille som et helt orkester. I et forsamlingshus ved Vejle står der et, der stadig kan spille.</desc>
+    <episode-num system="xmltv_ns">2014.10.0</episode-num>
+  </programme>
+  <programme start="20260808065500 +0000" stop="20260808082500 +0000" channel="dr1.dk">
+    <title>Vera: Tidevandet vender</title>
+    <desc>Engelsk krimiserie fra 2015.
+(Vera: Changing Tides)
+En ung kvinde omkommer, da en ferielejr ved kysten raseres af en voldsom brand. Det bliver en sag for den erfarne og ligefremme kriminalinspektør Vera Stanhope. Hvem var den unge kvinde? Var branden en ulykke - eller mord?
+Vera Stanhope: Brenda Blethyn.</desc>
+    <episode-num system="xmltv_ns">4.0.0</episode-num>
+  </programme>
+  <programme start="20260808082500 +0000" stop="20260808092500 +0000" channel="dr1.dk">
+    <title>Dyrenes Danmark (1:4) Livet i mørket</title>
+    <desc>Mørket er ikke tomt - det er levende. Vicky Knudsen følger gråsælen ind i en verden, hvor lyset forsvinder, og nye sanser tager over. Her finder dyrene vej gennem vibrationer, kompas og usynlige signaler, der gør natten lige så tydelig som dagen. Et møde med en verden, der gemmer sig lige foran os, og som først viser sig, når vores synssans giver slip.</desc>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+  </programme>
+  <programme start="20260808092500 +0000" stop="20260808095500 +0000" channel="dr1.dk">
+    <title>Christiania (2:3) Nu skal de ud</title>
+    <desc>Freden sænker sig aldrig helt i det nye samfund. Fra et nyt politisk flertal er beskeden klar: Nu skal de ud.</desc>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+  </programme>
+  <programme start="20260808100000 +0000" stop="20260808101500 +0000" channel="dr1.dk">
+    <title>TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260808101500 +0000" stop="20260808104500 +0000" channel="dr1.dk">
+    <title>Spise med Price: 1600-tallet - En bid af Danmarkshistorien</title>
+    <desc>Det er magtfulde konger, store krige og endnu større måltider når Brødrene Price rejser tilbage til 1600-tallets Danmark og genskaber mageløse retter fra Danmarks første kogebog - tilberedt over åben ild og på datidens præmisser.
+Det er historisk nørderi, kulinarisk kærlighed og masser af gnist i køkkenet når James og Adam tar en bid af Danmarkshistorien - direkte fra 1600-tallets Danmark.</desc>
+  </programme>
+  <programme start="20260808104500 +0000" stop="20260808115000 +0000" channel="dr1.dk">
+    <title>Alene i vildmarken (4:7) Kan man spise skæg?</title>
+    <desc>Ekstrem-eventyreren Rasmus fanger ingen fisk, og må lave sort suppe af planter kogt i aske.
+Vikingekrigeren Heidi spørger sin familie og venner til råds igennem et cirkelformet `tinge` af grene.
+Bueskytten Stefanie forsøger at bruge fiskeslim som hudcreme.</desc>
+    <episode-num system="xmltv_ns">9.3.0</episode-num>
+  </programme>
+  <programme start="20260808115000 +0000" stop="20260808125000 +0000" channel="dr1.dk">
+    <title>Mille og dyrenes planet (2:2) Skovene</title>
+    <desc>Hvad gemmer der sig i verdens dybe skove? Mille Gori rejser til nogle af de skove i verden, der huser jordens mest ikoniske og truede dyr for at undersøge, hvad der skal til for, at de kan overleve og trives. Undervejs møder hun forskere og lokale, der kæmper for at bevare dyrenes levesteder og sikre en fremtid for både skovene og deres mange beboere.</desc>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+  </programme>
+  <programme start="20260808125000 +0000" stop="20260808141000 +0000" channel="dr1.dk">
+    <title>Min søsters børn vælter Nordjylland</title>
+    <desc>Dansk spillefilm fra 2010.
+Den anerkendte professor i børnepsykologi, Onkel Erik, får mulighed for at afprøve sine teorier om fri opdragelse og familie-sameksistens i Nordjylland, hvor han med hjælp fra sin søsters fem børn vil åbne et familie-teambuilding-center for kriseramte børnefamilier. Det viser sig ikke at være så nemt, som Onkel Erik og hans søsters børn havde håbet på. Der er nemlig stærke kræfter omkring det luksuriøse golfresort ved siden af, der modarbejder Onkels planer om at åbne centret.
+Medvirkende:
+Onkel Erik: Peter Mygind.
+Fru Flinth: Mille Dinesen.
+Svendsen: Søren Malling.
+Borgmesteren: Preben Kristensen.
+Amalie: Mathilde Høgh Kølben.
+Jan: Sebastian Kronby.
+Michael: Lasse Guldberg Kamper.
+Pusle: Frida Luna Roswall Mattson.
+Rumle Risom: Blob.
+m.fl.
+Manuskript: Michael Obel og Martin Miehe-Renard.
+Instruktion: Martin Miehe-Renard.
+Fotograf: Lars Reinholt.
+Scenograf: Peter de Neergaard.
+Musik: Søren Hyldgaard.
+Stills: Henrik Ohsten.
+Produktion: Obel Film A/S i samarbejde med bl.a. DR.</desc>
+  </programme>
+  <programme start="20260808141000 +0000" stop="20260808151000 +0000" channel="dr1.dk">
+    <title>Dyrenes Danmark (2:4) En verden af dufte</title>
+    <desc>For ulven er duft en hel fortælling. Den læser verden gennem næsen, som vi andre læser kort. Sammen med Vicky Knudsen udforsker vi naturens duftspor - fra usynlige territorier til duftbeskeder, der finder familie, fjender og føde. En rejse ind i en sans, der styrer jagt, overlevelse og sociale bånd. Her opdager vi, at verden lugter af langt mere, end vi mennesker kan sanse.</desc>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+  </programme>
+  <programme start="20260808151500 +0000" stop="20260808160000 +0000" channel="dr1.dk">
+    <title>Familien Hardacre II (5:6)</title>
+    <desc>Britisk dramaserie fra 2026.
+(The Hardacres)
+Marys undervisning bliver afbrudt af en uvelkommen gæst. Hun kaster alt sin energi ind i forberedelsen af høstfestivalen. Sam er rasende, da Joes seneste plan synes at gå i vasken. Ma lader sig overtale af Imelda til at deltage i et spil bridge. Alt er på højkant.</desc>
+    <episode-num system="xmltv_ns">1.4.0</episode-num>
+  </programme>
+  <programme start="20260808160000 +0000" stop="20260808163000 +0000" channel="dr1.dk">
+    <title>Giv os naturen tilbage II (5:8)</title>
+    <desc>Et nødråb fra naturen! En præst på Tuse Næs vil lave vild natur på kirkejorden, men naboerne er sure. Frank Erichsen træder ind i konflikten. I Rødding er det skæbnetime for den kommende nye bæk.</desc>
+    <episode-num system="xmltv_ns">1.4.0</episode-num>
+  </programme>
+  <programme start="20260808163000 +0000" stop="20260808165000 +0000" channel="dr1.dk">
+    <title>TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260808165000 +0000" stop="20260808170000 +0000" channel="dr1.dk">
+    <title>Før søndagen: Fred hviler over land og by</title>
+    <desc>"Fred hviler over land og by"- Katrine Muff og Mathias Hammer introducerer ugens salme, og DR Juniorkoret synger.
+I "Før søndagen" synger Muff, Hammer og DRs kor fra den store danske sang- og salmeskat, der er opbygget gennem århundreder.</desc>
+    <episode-num system="xmltv_ns">0.39.0</episode-num>
+  </programme>
+  <programme start="20260808165757 +0000" stop="20260808170500 +0000" channel="dr1.dk">
+    <title>Vilde vidunderlige Danmark - Kongeørnen</title>
+    <desc>I de jyske skove hersker en af verdens største ørne. I Lille Vildmose i Nordjylland får en kongeørn øje på en hare, og vi kommer i luften med ørnen, mens den jagter sit bytte.</desc>
+  </programme>
+  <programme start="20260808170500 +0000" stop="20260808180000 +0000" channel="dr1.dk">
+    <title>Alletiders Asien (7:7)</title>
+    <desc>Der lever mange fantastiske dyr i Asien. Men de er under pres som aldrig før. Heldigvis er der overalt på kontinentet mennesker, som vier deres liv til at redde dyrene. Deres mål er at sikre en fremtid, hvor der er plads til både mennesker og dyr. Tag med til Borneo, hvor den truede malajbjørn bliver genudsat i naturen. I Japan, hvor man opfostrer forældreløse hajfostre i en kunstig livmoder. Og i Nepal, hvor politiet forsøger at sætte en stopper for illegal handel med vilde dyr. 
+BBC-dokumentarserie fra 2024.
+(Asia)</desc>
+  </programme>
+  <programme start="20260808180000 +0000" stop="20260808190000 +0000" channel="dr1.dk">
+    <title>Alene i vildmarken (5:7) De troede, jeg var død</title>
+    <desc>Deltagerne gør deres sheltere klar til frost og sne.
+Bushcrafteren Niels bygger seng og sover så længe, at produktionen må tjekke, om han er i live.
+Vikingekrigeren Heidi er sulten og savner familien, men pludselig får hun endelig den store fangst.</desc>
+    <episode-num system="xmltv_ns">9.4.0</episode-num>
+  </programme>
+  <programme start="20260808190000 +0000" stop="20260808200500 +0000" channel="dr1.dk">
+    <title>Robin Hood (6:10)</title>
+    <desc>Adventure-dramaserie fra 2025.
+Dronning Eleonora ankommer til Nottingham. Hun har en skjult dagsorden og slår i al hemmelighed en handel af med Rob. Rob genforenes med Marian, men snart hører Marian nyheder, der slår en kile mellem dem.
+Medvirkende: Sean Bean, Connie Nielsen m.fl.</desc>
+    <episode-num system="xmltv_ns">0.5.0</episode-num>
+  </programme>
+  <programme start="20260808200500 +0000" stop="20260808210500 +0000" channel="dr1.dk">
+    <title>Robin Hood (7:10)</title>
+    <desc>Adventure-dramaserie fra 2025.
+Rob slår til igen. Men denne gang får det sheriffen til at fængsle Robs onkel og andre centrale saksere. Samtidig ankommer prins John til London. Eleonora rekrutterer Marian til at spionere mod ham.
+Medvirkende: Sean Bean, Connie Nielsen m.fl.</desc>
+    <episode-num system="xmltv_ns">0.6.0</episode-num>
+  </programme>
+  <programme start="20260808210500 +0000" stop="20260808223500 +0000" channel="dr1.dk">
+    <title>Vera: Gamle sår</title>
+    <desc>Engelsk krimiserie fra 2015.
+(Vera: Old Wounds)
+I 1984 forsvandt teenagepigen Carrie under den store engelske minearbejderstrejke. Nu dukker hendes halvt begravede lig op i en skov. Alle andre end pigens far troede, at den rebelske teenager var stukket af hjemmefra for at begynde på en frisk i London. Nu, mere end 30 år senere, sætter jagten på hendes morder ind.
+Vera Stanhope: Brenda Blethyn.</desc>
+    <episode-num system="xmltv_ns">4.1.0</episode-num>
+  </programme>
+  <programme start="20260808223500 +0000" stop="20260809000500 +0000" channel="dr1.dk">
+    <title>Uforglemt: Liget i kufferten (1:3)</title>
+    <desc>Britisk krimiserie fra 2016.
+(Unforgotten)
+Da en gammel kuffert fiskes op af en flod, viser den sig at indeholde et forrådnet lig. Nu venter der politifolkene Cassie Stuart og Sunny Khan et stort arbejde med at identificere afdøde og finde hans morder. Imens fortsætter advokaten Colin, sygeplejersken Marion, læreren Sara og politikvinden Tessa med deres daglige sysler. Ingen af dem aner, at de snart vil blive draget ind i en 26 år gammel drabssag.</desc>
   </programme>
 </tv>
