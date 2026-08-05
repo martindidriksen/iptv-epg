@@ -3,10 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260804190000 +0000" stop="20260804192700 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20260805190000 +0000" stop="20260805192700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
@@ -58,6 +54,14 @@ Kristín is worried that her mother is not taking her medication and Lilja feels
     <desc>EM í frjálsíþróttum á Englandi.</desc>
   </programme>
   <programme start="20260810210000 +0000" stop="20260810212700 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260811180000 +0000" stop="20260811180300 +0000" channel="ruv2.is">
+    <title>EM í frjálsíþróttum</title>
+    <desc>EM í frjálsíþróttum á Englandi.</desc>
+  </programme>
+  <programme start="20260811210000 +0000" stop="20260811212700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
