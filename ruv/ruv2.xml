@@ -3,24 +3,20 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260806190000 +0000" stop="20260806192700 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
-  <programme start="20260807173000 +0000" stop="20260807181700 +0000" channel="ruv2.is">
+  <programme start="20260807175900 +0000" stop="20260807184700 +0000" channel="ruv2.is">
     <title>KrakkaRÚV</title>
   </programme>
-  <programme start="20260807173100 +0000" stop="20260807174800 +0000" channel="ruv2.is">
+  <programme start="20260807175900 +0000" stop="20260807181600 +0000" channel="ruv2.is">
     <title>Hönnunarstirnin IIII</title>
     <desc>Fjórða serían af Hönnunarstirnunum. Nico og Andrés eru mættir einu sinni enn með ný og skemmtileg verkefni og nýja keppendur.</desc>
   </programme>
-  <programme start="20260807174800 +0000" stop="20260807175500 +0000" channel="ruv2.is">
+  <programme start="20260807181600 +0000" stop="20260807182400 +0000" channel="ruv2.is">
     <title>Eilíft drama</title>
     <desc>Hvað gerist þegar besta vinkonan byrjar að hanga með einhverjum öðrum? Saga um vináttu sem rofnar og breytist. Þáttaröðin er á sænsku með íslenskum texta.
 
 Alexa fær Ellu til að gera svolítið hræðilegt. Olivia stendur með Ellu og kannski getur leyndarmálið fært þær nær hvor annarri aftur?</desc>
   </programme>
-  <programme start="20260807175600 +0000" stop="20260807181700 +0000" channel="ruv2.is">
+  <programme start="20260807182400 +0000" stop="20260807184600 +0000" channel="ruv2.is">
     <title>Silfruskógur I</title>
     <desc>Bresk sjónvarpsþáttaröð úr heimi vísindaskáldskapar fyrir unglinga. Árið 1997 hurfu fjórir krakkar úr Silfruskógi. Tuttugu og þremur árum seinna ákveður strákur einn að komast að því hvað í raun og veru gerðist í skóginum þennan örlagaríka dag.
 
@@ -70,6 +66,14 @@ Kristín is worried that her mother is not taking her medication and Lilja feels
     <desc>EM í frjálsíþróttum á Englandi.</desc>
   </programme>
   <programme start="20260812205500 +0000" stop="20260812212200 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260813173000 +0000" stop="20260813210000 +0000" channel="ruv2.is">
+    <title>EM í frjálsíþróttum</title>
+    <desc>EM í frjálsíþróttum á Englandi.</desc>
+  </programme>
+  <programme start="20260813210000 +0000" stop="20260813212700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
