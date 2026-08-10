@@ -3,40 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260809175000 +0000" stop="20260809184000 +0000" channel="ruv2.is">
-    <title>KrakkaRÚV</title>
-  </programme>
-  <programme start="20260809175100 +0000" stop="20260809180800 +0000" channel="ruv2.is">
-    <title>Stundin okkar-Tökum á loft II</title>
-    <sub-title>(7 af 10)</sub-title>
-    <desc>Loft hefur tekið jarðormana í sátt og kynnist nú ævintýralegri tilvist þeirra í gegnum sjónaukann sinn og endurspeglar sjálft sig í þeim.
-
-Er regnboginn áþreifanlegur? Er hægt að fara undir hann? Hvernig verður hann til?... Loft svarar öllum þessum spurningum þegar það fer með krakkana í ferðalag inn í regnbogann.</desc>
-  </programme>
-  <programme start="20260809180800 +0000" stop="20260809182900 +0000" channel="ruv2.is">
-    <title>Víti í Vestmannaeyjum - Sagan öll</title>
-    <desc>Þáttaröð fyrir alla fjölskylduna byggð á samnefndri metsölubók eftir Gunnar Helgason. Jón fer til Vestmannaeyja með liðsfélögum sínum úr Fálkum til að keppa á stærsta og skemmtilegasta fótboltamóti ársins. Draumar hans hafa þó verið slæmir þar sem eldgos og undarlega vondur markmaður eru að trufla hann. Í raunveruleikanum er það þó Ívar, brjálaði boltaþjófurinn, sem er hans helsti óvinur. Samtímis þarf Rósa að berjast fyrir tilverurétti sínum hjá Fylki. Innan vallar eru þau öll andstæðingar en utan vallar þurfa þau að snúa bökum saman og berjast upp á líf eða dauða.
-
-Lokadagurinn er runninn upp. Hverjir komast í úrslitaleikinn? Hvar er Ívar? Getur skipstjórinn hjálpað? Og að endingu - fer að gjósa?</desc>
-  </programme>
-  <programme start="20260809182900 +0000" stop="20260809183900 +0000" channel="ruv2.is">
-    <title>Björgunarhundurinn Bessí</title>
-    <desc>Anne Dorothea á mjög sérstakan besta vin, björgunarhundinn Bessa!</desc>
-  </programme>
-  <programme start="20260809184000 +0000" stop="20260809185400 +0000" channel="ruv2.is">
-    <title>Soð á Austurlandi</title>
-    <desc>Ferða- og matreiðsluþáttur þar sem Kristinn Guðmundsson ferðast með vini sínum, Janusi Braga Jakobssyni, og eldar fyrir hann. Að þessu sinni fara þeir félagar um Austurland þar sem Kristinn þykist vera á heimavelli því faðir hans er fæddur og uppalinn á Eskifirði. Janus er aftur á móti nánast eins og algjör túristi. Þeir hitta alls kyns fólk og lenda í ýmsu skakkaföllum en alltaf lenda þeir á fótunum og fá sér í gogginn.
-
-Kristinn og Janus keyra í Mjóafjörð en það renna á þá tvær grímur þegar þeir uppgötva að þeir vita ekkert hvað þeir eru að gera þar. Þeir ákveða því að halda bara lengra áfram út fjörðinn þar til þeir koma að Dalatangavita og bjóða vitaverðinum upp á kvöldverð.</desc>
-  </programme>
-  <programme start="20260809190000 +0000" stop="20260809192000 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
-  <programme start="20260809194500 +0000" stop="20260809202400 +0000" channel="ruv2.is">
-    <title>Under the Rainbow (with English subtitles)</title>
-    <desc>A show celebrating Reykjavík Pride, highlighting queer life and culture. Presenter: Sigurður Þorri Gunnarsson. Director: Helgi Jóhannesson.</desc>
-  </programme>
   <programme start="20260810180000 +0000" stop="20260810210000 +0000" channel="ruv2.is">
     <title>EM í frjálsíþróttum</title>
     <desc>EM í frjálsíþróttum á Englandi.</desc>
@@ -147,5 +113,21 @@ Hallgrímur lærir að nota verndargrip Alberts. Brynhildur gerir við gamlan je
   <programme start="20260815212000 +0000" stop="20260815224900 +0000" channel="ruv2.is">
     <title>Agnes Joy (with English subtitles)</title>
     <desc>An Icelandic film from 2019. A suburban mother grapples with career dissatisfaction and family tensions while her marriage crumbles. The arrival of a mysterious new neighbor forces her to confront unexpected changes in her life. Starring: Katla Margrét Þorgeirsdóttir, Donna Cruz, Þorsteinn Bachmann and Björn Hlynur Haraldsson.</desc>
+  </programme>
+  <programme start="20260816062500 +0000" stop="20260816093500 +0000" channel="ruv2.is">
+    <title>EM í frjálsíþróttum</title>
+    <desc>EM í frjálsíþróttum á Englandi.</desc>
+  </programme>
+  <programme start="20260816183000 +0000" stop="20260816205500 +0000" channel="ruv2.is">
+    <title>EM í frjálsíþróttum</title>
+    <desc>EM í frjálsíþróttum á Englandi.</desc>
+  </programme>
+  <programme start="20260816205500 +0000" stop="20260816211500 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260816212000 +0000" stop="20260816225400 +0000" channel="ruv2.is">
+    <title>Í skóm drekans (with English subtitles)</title>
+    <desc>An Icelandic documentary from 2002. In 2000, Hrönn Sveinsdóttir, registered for an Icelandic beauty pageant to try and understand why people compete in beauty. Directors: Hrönn Sveinsdóttir and Árni Sveinsson.</desc>
   </programme>
 </tv>
