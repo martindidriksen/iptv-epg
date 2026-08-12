@@ -3,14 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260811180000 +0000" stop="20260811180300 +0000" channel="ruv2.is">
-    <title>EM í frjálsíþróttum</title>
-    <desc>EM í frjálsíþróttum á Englandi.</desc>
-  </programme>
-  <programme start="20260811210000 +0000" stop="20260811212700 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20260812162500 +0000" stop="20260812180000 +0000" channel="ruv2.is">
     <title>EM í sundi</title>
     <desc>EM í sundi í Frakklandi.</desc>
@@ -123,6 +115,10 @@ Hallgrímur lærir að nota verndargrip Alberts. Brynhildur gerir við gamlan je
     <desc>An Icelandic documentary from 2002. In 2000, Hrönn Sveinsdóttir, registered for an Icelandic beauty pageant to try and understand why people compete in beauty. Directors: Hrönn Sveinsdóttir and Árni Sveinsson.</desc>
   </programme>
   <programme start="20260817190000 +0000" stop="20260817192700 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260818190000 +0000" stop="20260818192700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
