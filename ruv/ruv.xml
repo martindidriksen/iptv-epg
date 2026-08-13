@@ -3,73 +3,6 @@
   <channel id="ruv.is">
     <display-name>RÚV 1</display-name>
   </channel>
-  <programme start="20260812072400 +0000" stop="20260812092400 +0000" channel="ruv.is">
-    <title>EM í sundi</title>
-    <desc>EM í sundi í Frakklandi.</desc>
-  </programme>
-  <programme start="20260812092900 +0000" stop="20260812121900 +0000" channel="ruv.is">
-    <title>EM í frjálsíþróttum</title>
-    <desc>EM í frjálsíþróttum á Englandi.</desc>
-  </programme>
-  <programme start="20260812123000 +0000" stop="20260812125800 +0000" channel="ruv.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.
-
-Fjölmargir streyma vestur til að freista þess að sjá almyrkva á sólu</desc>
-  </programme>
-  <programme start="20260812125800 +0000" stop="20260812130800 +0000" channel="ruv.is">
-    <title>Heimaleikfimi</title>
-    <desc>Góð ráð og æfingar sem tilvalið er að gera heima. Íris Rut Garðarsdóttir sjúkraþjálfari hefur umsjón með leikfiminni.
-
-Standandi æfingar við stól.</desc>
-  </programme>
-  <programme start="20260812130000 +0000" stop="20260812185000 +0000" channel="ruv.is">
-    <title>Almyrkvi í beinni</title>
-    <desc>Bein útsending helguð almyrkva á sólu. Við fræðumst um þennan sögulega atburð og tökum púlsinn á landsmönnum og ferðamönnum. Við fáum að vita hvernig almyrkvi verður og hvaða áhrif hann hefur, lítum til þjóðsagna og hvernig sólmyrkvar hafa birst í dægurmenningu heimsins. Gísli Einarsson og Edda Sif Pálsdóttir taka á móti gestum á þaki Útvarpshússins í Efstaleiti, Gréta Sigríður Einarsdóttir verður á Látrabjargi, Sigurður Þorri Gunnarsson á Hellissandi og Eva Björk Benediktsdóttir á Vestfjörðum. Anna Lilja Þórisdóttir tekur stöðuna á mannlífinu á höfuðborgarsvæðinu og Sebastian Óli Guðmundsson verður á Seltjarnarnesi.</desc>
-  </programme>
-  <programme start="20260812185200 +0000" stop="20260812185400 +0000" channel="ruv.is">
-    <title>Vikinglottó</title>
-    <desc>Vikinglottó-útdráttur vikunnar.</desc>
-  </programme>
-  <programme start="20260812190000 +0000" stop="20260812192700 +0000" channel="ruv.is">
-    <title>Fréttir</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
-  <programme start="20260812193000 +0000" stop="20260812193500 +0000" channel="ruv.is">
-    <title>Íþróttir</title>
-    <desc>Íþróttafréttir.</desc>
-  </programme>
-  <programme start="20260812193500 +0000" stop="20260812194000 +0000" channel="ruv.is">
-    <title>Veður</title>
-    <desc>Veðurfréttir.</desc>
-  </programme>
-  <programme start="20260812194000 +0000" stop="20260812200000 +0000" channel="ruv.is">
-    <title>Almyrkvi í beinni</title>
-    <desc>Bein útsending helguð almyrkva á sólu. Við fræðumst um þennan sögulega atburð og tökum púlsinn á landsmönnum og ferðamönnum. Við fáum að vita hvernig almyrkvi verður og hvaða áhrif hann hefur, lítum til þjóðsagna og hvernig sólmyrkvar hafa birst í dægurmenningu heimsins. Gísli Einarsson og Edda Sif Pálsdóttir taka á móti gestum á þaki Útvarpshússins í Efstaleiti, Gréta Sigríður Einarsdóttir verður á Látrabjargi, Sigurður Þorri Gunnarsson á Hellissandi og Eva Björk Benediktsdóttir á Vestfjörðum. Anna Lilja Þórisdóttir tekur stöðuna á mannlífinu á höfuðborgarsvæðinu og Sebastian Óli Guðmundsson verður á Seltjarnarnesi.</desc>
-  </programme>
-  <programme start="20260812200500 +0000" stop="20260812202700 +0000" channel="ruv.is">
-    <title>Sveitasæla og systralag</title>
-    <sub-title>(4 af 8)</sub-title>
-    <desc>Finnlands-sænskir þættir frá 2022. Vinkonurnar Tara og Malin verja sumri í sumarhúsi í sænsku sveitinni. Þar njóta þær náttúrunnar, elda mat og kryfja alls kyns málefni á borð við vináttu, líkamsímynd, átraskanir og kulnun.</desc>
-  </programme>
-  <programme start="20260812203000 +0000" stop="20260812211700 +0000" channel="ruv.is">
-    <title>Álfakroppurinn mjói</title>
-    <desc>Sænskur heimildarþáttur frá 2025. Fjallað er um skaðlegar útlitskröfur sem ungar stúlkur standa frammi fyrir. Skoðað er hvernig líkami kvenna hefur birst í dægurmenningu síðustu áratugi og hvaða áhrif samfélagsmiðlar hafa á líkamsímynd. Í þættinum er fjallað um átröskun. Hjálparsími Rauða krossins er opinn allan sólarhringinn - símanúmerið er 1717.</desc>
-  </programme>
-  <programme start="20260812212000 +0000" stop="20260812220200 +0000" channel="ruv.is">
-    <title>Hundarnir</title>
-    <sub-title>(6 af 8)</sub-title>
-    <desc>Sænsk leikin þáttaröð frá 2026. Lögfræðingar á lögmannsstofunni Matsson og Moradi takast á við stór og flókin mál þar sem mikið er í húfi. Nýliðinn Tilde stígur sín fyrstu skref inn í þennan harða og miskunnarlausa heim þar sem mörkin á milli réttlætis og góðs árangurs verða sífellt óljósari. Aðalhlutverk: Arvin Kananian, Björn Bengtsson og Kit Walker Johansson. Þættirnir eru ekki við hæfi barna yngri en 16 ára.</desc>
-  </programme>
-  <programme start="20260812220500 +0000" stop="20260812224900 +0000" channel="ruv.is">
-    <title>Ray rannsakar málið II</title>
-    <sub-title>(6 af 6)</sub-title>
-    <desc>Önnur þáttaröð þessara bresku spennuþátta um rannsóknarlögreglukonuna Rachitu Ray. Þegar hjúkrunarfræðingur og foringi alræmdra glæpasamtaka eru myrt í skotárás við sjúkrahús í Birmingham tekur Ray við rannsókn málsins. Í fyrstu lítur þetta út fyrir að vera átök glæpagengja en eftir því sem rannsókninni vindur áfram kemur í ljós að málið er mun margslungnara. Aðalhlutverk: Parminder Nagra, Gemma Whelan, Patrick Baladi og Jan Puleston-Davies. Þættirnir eru ekki við hæfi barna yngri en 12 ára.</desc>
-  </programme>
-  <programme start="20260812225000 +0000" stop="20260813001100 +0000" channel="ruv.is">
-    <title>Dagatalsdömur</title>
-    <desc>Heimildarmynd frá 2022 um danshóp sem samanstendur af konum 60 ára og eldri í Flórída. Hópurinn kemur fram á yfir 100 sýningum á ári og markmið þeirra er að brjóta upp staðalímyndina um gamlar konur og sýna heiminum að allir geta dansað.</desc>
-  </programme>
   <programme start="20260813072500 +0000" stop="20260813092500 +0000" channel="ruv.is">
     <title>EM í sundi</title>
     <desc>EM í sundi í Frakklandi.</desc>
@@ -78,21 +11,23 @@ Standandi æfingar við stól.</desc>
     <title>EM í frjálsíþróttum</title>
     <desc>EM í frjálsíþróttum á Englandi.</desc>
   </programme>
-  <programme start="20260813145000 +0000" stop="20260813151700 +0000" channel="ruv.is">
+  <programme start="20260813145300 +0000" stop="20260813152000 +0000" channel="ruv.is">
     <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.
+
+Almyrkvi á vestanverðu landinu</desc>
   </programme>
-  <programme start="20260813152000 +0000" stop="20260813154400 +0000" channel="ruv.is">
+  <programme start="20260813152400 +0000" stop="20260813154800 +0000" channel="ruv.is">
     <title>Pabbi upp á eigin spýtur</title>
     <sub-title>(2 af 5)</sub-title>
     <desc>Finnskir þættir um Nooa, trans mann sem þráir að eignast barn og ákveður að hefja tæknifrjóvgunarferli. Á sama tíma og hann glímir við tilfinningasveiflurnar sem fylgja hormónameðferðinni þarf hann að takast á við fordóma samfélagsins.</desc>
   </programme>
-  <programme start="20260813154500 +0000" stop="20260813161700 +0000" channel="ruv.is">
+  <programme start="20260813154900 +0000" stop="20260813162100 +0000" channel="ruv.is">
     <title>Risarnir</title>
     <sub-title>(4 af 6)</sub-title>
     <desc>Norskir heimildarþættir frá 2024. Hópur Norðmanna stefnir á að komast með nýstofnað landslið sitt í fótbolta á Heimsleika dvergvaxinna. Markmið liðsmanna er að vinna bug á fordómum í garð þeirra og sýna að hæðin sé engin hindrun þegar kemur að íþróttaiðkun. Undir stjórn þjálfarans Ole Martin Årst, fyrrverandi atvinnumanns í fótbolta, stefnir liðið á toppinn.</desc>
   </programme>
-  <programme start="20260813162500 +0000" stop="20260813180000 +0000" channel="ruv.is">
+  <programme start="20260813162800 +0000" stop="20260813180300 +0000" channel="ruv.is">
     <title>EM í sundi</title>
     <desc>EM í sundi í Frakklandi.</desc>
   </programme>
@@ -841,5 +776,146 @@ Víkingur þarf að horfast í augu við afleiðingar gærkvöldsins. Ebo frá G
     <title>Lífið eftir Benjamin</title>
     <sub-title>(5 af 6)</sub-title>
     <desc>Leiknir norskir þættir byggðir á sönnum atburðum. Vinirnir Benjamin og Elias eru 15 ára og horfa spenntir til framtíðar. Einn örlagaríkan janúardag árið 2001 breytir skelfilegur atburður öllu. Aðalhlutverk: Sam Ashraf, Emil Stenseth, Torbjørn Aamodt og Lee Boardman. Þættirnir eru ekki við hæfi barna yngri en 12 ára.</desc>
+  </programme>
+  <programme start="20260819130000 +0000" stop="20260819132700 +0000" channel="ruv.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260819133000 +0000" stop="20260819133900 +0000" channel="ruv.is">
+    <title>Heimaleikfimi</title>
+    <desc>Góð ráð og æfingar sem tilvalið er að gera heima. Íris Rut Garðarsdóttir sjúkraþjálfari hefur umsjón með leikfiminni.
+
+Almennar æfingar. Bæði sitjandi og standandi.</desc>
+  </programme>
+  <programme start="20260819134000 +0000" stop="20260819135700 +0000" channel="ruv.is">
+    <title>Kastljós</title>
+    <desc>Lifandi og fjölbreyttur þáttur um fréttir, menningu og dægurmál. Helstu fréttir dagsins eru krufðar og ljósi varpað á litríkt mannlíf um land allt. Umsjón: Bergsteinn Sigurðsson, Guðrún Sóley Gestsdóttir og Margrét Helga Erlingsdóttir. Ritstjóri: Sigríður Halldórsdóttir.</desc>
+  </programme>
+  <programme start="20260819140000 +0000" stop="20260819150100 +0000" channel="ruv.is">
+    <title>Gettu betur 1993</title>
+    <desc>Spurningakeppni framhaldsskólanna frá 1993. Spyrill: Stefán Jón Hafstein. Dómari: Álfheiður Ingadóttir. Sigavörður: Sólveig Samúelsdóttir. Dagskrárgerð: Andrés Indriðason.
+
+Í þessum þætti mætast lið Verzlunarskóla Íslands og Verkmenntaskólans á Akureyri. Lið Verzlunarskóla Íslands skipa Finnur Þór Birgisson, Haukur Eggertsson og Sigurður kári Kristjánsson. Lið Verkmenntaskólans á Akureyri skipa Pétur Maack Þorsteinsson, Rúnar Sigurpálsson og Tómas Hermannsson.</desc>
+  </programme>
+  <programme start="20260819150500 +0000" stop="20260819153300 +0000" channel="ruv.is">
+    <title>Tobias og sætabrauðið</title>
+    <sub-title>(1 af 4)</sub-title>
+    <desc>Sætabrauðsdrengurinn og ferðalangurinn Tobias Hamann-Pedersen leggur land undir fót og kannar köku- og sætabrauðsmenningu annarra landa.</desc>
+  </programme>
+  <programme start="20260819153500 +0000" stop="20260819160200 +0000" channel="ruv.is">
+    <title>Okkar á milli</title>
+    <desc>Sigmar Guðmundsson fær til sín góða gesti úr öllum áttum og ræðir við þá undir fjögur augu. Gestirnir eiga það sameiginlegt að hafa áhugaverða sögu að segja. Dagskrárgerð: Salóme Þorkelsdóttir.
+
+Sigmar ræðir við Sabine Leskopf sem á sér merkilega fjölskyldusögu. Afar hennar og amma létust í seinna stríði og fátæktin í kjölfar þess er kveikjan að því að Sabine nýtir allt sem hægt er að nýta. Fjölskyldusagan og flutningar á milli landa hefur kveikt mikinn áhuga á tungumálum og hversu mikilvægt er að geta tjáð sig á máli innfæddra til að komast áfram í samfélaginu. Og það hefur Sabine gert með því að vera málsvari innflytjenda og komast áfram í borgarpólitíkinni.</desc>
+  </programme>
+  <programme start="20260819160500 +0000" stop="20260819164700 +0000" channel="ruv.is">
+    <title>Uppskriftabókin</title>
+    <sub-title>(4 af 6)</sub-title>
+    <desc>Matreiðsluþættir þar sem Solla Eiríks heimsækir konur sem hafa áratugareynslu af matargerð. Hún kíkir í uppskriftabækur þeirra og lærir að elda rétti sem þær hafa matreitt á sinn einstaka hátt í fjölda ára. Í framhaldinu býður hún konunum heim til sín og endurgerir uppskriftirnar með aðstoð þeirra, en skiptir út dýraafurðum fyrir hráefni úr náttúrunni. Leikstjóri: Sunneva Ása Weisshappel. Framleiðsla: RVK Studios.
+
+
+
+Uppskriftirnar má finna hér: https://www.ruv.is/frettir/tag/uppskriftabokin
+
+Solla Eiríks heimsækir Margréti sem kennir okkur að búa til lifrarpylsu og rabbabaraperur. Einnig hittir hún þá Kristján og Atla hjá Vegangerðinni sem búa til tempeh úr íslensku byggi og Solla kennir okkur að búa til kasjúhnetukrem.</desc>
+  </programme>
+  <programme start="20260819165000 +0000" stop="20260819172600 +0000" channel="ruv.is">
+    <title>Hundaskólinn</title>
+    <sub-title>(5 af 6)</sub-title>
+    <desc>Norskir þættir þar örvæntingarfullir hundaeigendur frá aðstoð hundaþjálfarans Maren Teien Rørvik við hegðunarvandamálum hunda sinna.</desc>
+  </programme>
+  <programme start="20260819173000 +0000" stop="20260819182000 +0000" channel="ruv.is">
+    <title>KrakkaRÚV</title>
+  </programme>
+  <programme start="20260819173100 +0000" stop="20260819173800 +0000" channel="ruv.is">
+    <title>Karla og Regnbogaskólinn</title>
+    <desc>Karla er 8 ára kjúklingur, sem hefur það að markmiði að halda öllum ánægðum, svo lengi sem það kemur ekki niður á lífi hennar. Hún elskar skólann sinn og alla vini sína. Hún leggur hart að sér til að þóknast öllum, en stundum ganga hlutirnir ekki alveg eins og áætlað var. Í þessum þáttum eru félagsleg samskipti og tilfinningar þeim tengd könnuð út frá heimi krakkanna. Hvað er rétt og hvað er rangt? Getur maður átt fleiri en einn besta vin?</desc>
+  </programme>
+  <programme start="20260819173800 +0000" stop="20260819174900 +0000" channel="ruv.is">
+    <title>Krílin</title>
+    <desc>Leikföngin í Háaloftsbæ lifna við og breyta hversdagslegum hlutum í stórskemmtilegar uppfinningar. Krílin eru nefnilega snillingar í að nota ímyndunaraflið og um leið hvetja börn til þess að skapa og prófa sig áfram.</desc>
+  </programme>
+  <programme start="20260819174900 +0000" stop="20260819175500 +0000" channel="ruv.is">
+    <title>Lalli II</title>
+    <desc>Önnur þáttaröð um Lalla, sem færir ykkur allan heiminn þegar hann grípur litina sína. Hann er svo flinkur að teikna hann Lalli!</desc>
+  </programme>
+  <programme start="20260819175600 +0000" stop="20260819180100 +0000" channel="ruv.is">
+    <title>Eplabær</title>
+    <sub-title>(5 af 20)</sub-title>
+    <desc>Velkomin til Eplabæjar. Eplabær er svo daufur og óspennandi að hann hefur verið tekinn út af landakortum. En ef betur er að gáð fela jafnvel mestu leiðindin í sér ævintýri. Stundum getur ómerkilegasti staðurinn orðið vettvangur stórkostlegra uppátækja – ef ímyndunaraflið fær að ráða.</desc>
+  </programme>
+  <programme start="20260819180100 +0000" stop="20260819180800 +0000" channel="ruv.is">
+    <title>Leynilundur</title>
+    <desc>Flóra er níu ára og finnur gat í limgerðinu úti í garði. Hún skríður í gegn og er skyndilega stödd í skóginum endalausa – galdraheimi þar sem allt getur gerst. Þar ráfa um skrítnar og stórkostlegar verur. Þær lenda í ýmiss konar vandræðum og enginn getur hjálpað þeim – nema kannski Flóra sjálf?</desc>
+  </programme>
+  <programme start="20260819180900 +0000" stop="20260819182000 +0000" channel="ruv.is">
+    <title>Skrímslasjúkir snillingar</title>
+    <desc>Þegar afi ykkar er búin að þjálfa ykkur sem skrímslaveiðimenn, þá er ekkert annað í stöðunni en að veiða öll skrímslin! Það er þó eitt vandamál, krakkarnir elska skrímslin og vilja helst bara bjarga þeim. Það geta þau gert á meðan afi blundar, eða hvað?</desc>
+  </programme>
+  <programme start="20260819182000 +0000" stop="20260819184500 +0000" channel="ruv.is">
+    <title>Orðbragð I</title>
+    <desc>Orðbragð er skemmtiþáttur þar sem Bragi Valdimar Skúlason og Brynja Þorgeirsdóttir snúa upp á íslenska tungumálið, teygja það, toga og umfaðma, knúsa og blása í það lífi. Umsjónarmenn eru Bragi Valdimar Skúlason og Brynja Þorgeirsdóttir. Dagskrárgerð: Konráð Pálmason.
+
+Af hverju tala stjórnmálamenn og sérfræðingar oft svona óskiljanlega? Hið alræmda og óbærilega flókna stofnanamál fær á baukinn í þessum þætti. Við kíkjum einnig á úrelta bókstafi og hittum mann sem enn þrjóskast við að nota Z-u. Sumir bókstafir eru hvergi notaðir nema bara á Íslandi - en færri vita að það er fjöldi bókstafa sem við höfum hreinlega hent. Við sýnum ykkur beinið sem er uppruni orðatiltækisins „að taka einhvern á beinið“. Stefán Pálsson segir okkur hvort bókstafurinn Ð eigi að fá að lifa eða ekki. Við lógum einu útjöskuðu orði og kveðjum með flunkunýju lagi, sem ber heitið „Orðalag“.</desc>
+  </programme>
+  <programme start="20260819184500 +0000" stop="20260819185000 +0000" channel="ruv.is">
+    <title>Sumarlandabrot</title>
+    <desc>Stutt umfjöllun Sumarlandans sem var á flakki sumarið 2022 og hitti landann fyrir í sínu náttúrulega umhverfi, uppi á fjöllum, úti í garði, inni í skógi og allt um kring. Umsjón: Gísli Einarsson, Guðríður Helgadóttir, Hafsteinn Vilhelmsson, Elsa María Guðlaugs-Drífudóttir,  Þórgunnur Oddsdóttir, Sigrún Hermannsdóttir og Helga Margrét Höskuldsdóttir.</desc>
+  </programme>
+  <programme start="20260819185200 +0000" stop="20260819185400 +0000" channel="ruv.is">
+    <title>Vikinglottó</title>
+    <desc>Vikinglottó-útdráttur vikunnar.</desc>
+  </programme>
+  <programme start="20260819190000 +0000" stop="20260819192700 +0000" channel="ruv.is">
+    <title>Fréttir</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260819193000 +0000" stop="20260819193500 +0000" channel="ruv.is">
+    <title>Íþróttir</title>
+    <desc>Íþróttafréttir.</desc>
+  </programme>
+  <programme start="20260819193500 +0000" stop="20260819194000 +0000" channel="ruv.is">
+    <title>Veður</title>
+    <desc>Veðurfréttir.</desc>
+  </programme>
+  <programme start="20260819194500 +0000" stop="20260819200200 +0000" channel="ruv.is">
+    <title>Kastljós</title>
+    <desc>Lifandi og fjölbreyttur þáttur um fréttir, menningu og dægurmál. Helstu fréttir dagsins eru krufðar og ljósi varpað á litríkt mannlíf um land allt. Umsjón: Bergsteinn Sigurðsson, Guðrún Sóley Gestsdóttir og Margrét Helga Erlingsdóttir. Ritstjóri: Sigríður Halldórsdóttir.</desc>
+  </programme>
+  <programme start="20260819200500 +0000" stop="20260819200900 +0000" channel="ruv.is">
+    <title>Þjóðaratkvæðagreiðsla: Kynningarefni</title>
+    <desc>Kynningarefni frá já og nei fylkingum í aðdraganda þjóðaratkvæðagreiðslu um framhald viðræðna um aðild Íslands að Evrópusambandinu.
+
+Kynningarefni frá já og nei fylkingum í aðdraganda þjóðaratkvæðagreiðslu um framhald viðræðna um aðild Íslands að Evrópusambandinu.</desc>
+  </programme>
+  <programme start="20260819201000 +0000" stop="20260819201400 +0000" channel="ruv.is">
+    <title>Þjóðaratkvæðagreiðsla: Kynningarefni</title>
+    <desc>Kynningarefni frá já og nei fylkingum í aðdraganda þjóðaratkvæðagreiðslu um framhald viðræðna um aðild Íslands að Evrópusambandinu.</desc>
+  </programme>
+  <programme start="20260819201500 +0000" stop="20260819204300 +0000" channel="ruv.is">
+    <title>Með okkar augum</title>
+    <sub-title>(1 af 6)</sub-title>
+    <desc>Sextánda þáttaröð þessara margverðlaunuðu þátta sem vakið hafa athygli fyrir nýstárleg og frumleg efnistök. Fólk með þroskahömlun vinnur þættina með fagfólki í sjónvarpsgerð og miðlar þannig fjölbreytileika íslensks samfélags. Dagskrárgerð: Elín Sveinsdóttir.
+
+Í þessum þætti eigum við opinskátt viðtal við listakonuna Elínu Hall, heimsækjum stórkostlegt listasafn sem alþýðukúnstnerinn Hreinn Halldórsson hefur komið upp á Akureyri og kynnumst fjölhæfum sundmanni sem lætur ekkert stoppa sig. Við fjöllum um þátttöku fatlað fólks í listalífi landsins og atvinnumöguleika og síðast en ekki síst kynnum við til leiks kokkalandsliðið sem ætlar sér stóra hluti á HM í haust.</desc>
+  </programme>
+  <programme start="20260819204500 +0000" stop="20260819210900 +0000" channel="ruv.is">
+    <title>Sveitasæla og systralag</title>
+    <sub-title>(5 af 8)</sub-title>
+    <desc>Finnlands-sænskir þættir frá 2022. Vinkonurnar Tara og Malin verja sumri í sumarhúsi í sænsku sveitinni. Þar njóta þær náttúrunnar, elda mat og kryfja alls kyns málefni á borð við vináttu, líkamsímynd, átraskanir og kulnun.</desc>
+  </programme>
+  <programme start="20260819211000 +0000" stop="20260819215300 +0000" channel="ruv.is">
+    <title>Hundarnir</title>
+    <sub-title>(7 af 8)</sub-title>
+    <desc>Sænsk leikin þáttaröð frá 2026. Lögfræðingar á lögmannsstofunni Matsson og Moradi takast á við stór og flókin mál þar sem mikið er í húfi. Nýliðinn Tilde stígur sín fyrstu skref inn í þennan harða og miskunnarlausa heim þar sem mörkin á milli réttlætis og góðs árangurs verða sífellt óljósari. Aðalhlutverk: Arvin Kananian, Björn Bengtsson og Kit Walker Johansson. Þættirnir eru ekki við hæfi barna yngri en 16 ára.</desc>
+  </programme>
+  <programme start="20260819215500 +0000" stop="20260819232400 +0000" channel="ruv.is">
+    <title>Fórnarlömb kjarnorkunnar</title>
+    <desc>Heimildarmynd frá 2024 sem byggir á frásögnum eftirlifenda kjarnorkusprengjanna í Hiroshima og Nagasaki í lok seinni heimsstyrjaldarinnar. Leikstjórar: Megumi Inman og Benedict Sanderson. Myndin er ekki við hæfi barna yngri en 12 ára.</desc>
+  </programme>
+  <programme start="20260819232500 +0000" stop="20260820001300 +0000" channel="ruv.is">
+    <title>Fyrst á vettvang II</title>
+    <sub-title>(1 af 6)</sub-title>
+    <desc>Önnur þáttaröð bresku dramaþáttanna um lögregluþjóninn Chris sem tekst á við glæpi og ofbeldi á götum Liverpool-borgar á sama tíma og hann berst við djöfla í einkalífi sínu. Chris reynir af fremsta megni að koma sér á beinu brautina, en þegar hann kemst upp á kant við einn stærsta eiturlyfjasala borgarinnar hallar undan fæti hjá honum. Aðalhlutverk: Martin Freeman, Adelayo Adedayo og Romi Hyland-Rylands. Þættirnir eru ekki við hæfi barna yngi en 12 ára.</desc>
   </programme>
 </tv>

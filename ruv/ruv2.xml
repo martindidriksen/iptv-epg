@@ -3,18 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260812162500 +0000" stop="20260812180000 +0000" channel="ruv2.is">
-    <title>EM í sundi</title>
-    <desc>EM í sundi í Frakklandi.</desc>
-  </programme>
-  <programme start="20260812180000 +0000" stop="20260812205500 +0000" channel="ruv2.is">
-    <title>EM í frjálsíþróttum</title>
-    <desc>EM í frjálsíþróttum á Englandi.</desc>
-  </programme>
-  <programme start="20260812205500 +0000" stop="20260812212200 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20260813173000 +0000" stop="20260813210000 +0000" channel="ruv2.is">
     <title>EM í frjálsíþróttum</title>
     <desc>EM í frjálsíþróttum á Englandi.</desc>
@@ -119,6 +107,10 @@ Hallgrímur lærir að nota verndargrip Alberts. Brynhildur gerir við gamlan je
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
   <programme start="20260818190000 +0000" stop="20260818192700 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260819190000 +0000" stop="20260819192700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
