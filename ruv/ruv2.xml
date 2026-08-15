@@ -3,40 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260814173000 +0000" stop="20260814181600 +0000" channel="ruv2.is">
-    <title>KrakkaRÚV</title>
-  </programme>
-  <programme start="20260814173100 +0000" stop="20260814174800 +0000" channel="ruv2.is">
-    <title>Hönnunarstirnin IIII</title>
-    <desc>Fjórða serían af Hönnunarstirnunum. Nico og Andrés eru mættir einu sinni enn með ný og skemmtileg verkefni og nýja keppendur.</desc>
-  </programme>
-  <programme start="20260814174900 +0000" stop="20260814175500 +0000" channel="ruv2.is">
-    <title>Eilíft drama</title>
-    <desc>Hvað gerist þegar besta vinkonan byrjar að hanga með einhverjum öðrum? Saga um vináttu sem rofnar og breytist. Þáttaröðin er á sænsku með íslenskum texta.
-
-Skemmtileg verslunarferð endar ekki eins og Olivia bjóst við. Hefur Alexa aftur náð taki á Ellu?</desc>
-  </programme>
-  <programme start="20260814175600 +0000" stop="20260814181800 +0000" channel="ruv2.is">
-    <title>Silfruskógur I</title>
-    <desc>Bresk sjónvarpsþáttaröð úr heimi vísindaskáldskapar fyrir unglinga. Árið 1997 hurfu fjórir krakkar úr Silfruskógi. Tuttugu og þremur árum seinna ákveður strákur einn að komast að því hvað í raun og veru gerðist í skóginum þennan örlagaríka dag.
-
-Á meðan Drekafluga og Bea reyna átta sig á vandræðum sínum, fær Meg hjálp frá vinum sínum Fin &amp; Alice þegar þegar hún fer að fá óumbeðna athygli utan búðanna.</desc>
-  </programme>
-  <programme start="20260814183000 +0000" stop="20260814205500 +0000" channel="ruv2.is">
-    <title>EM í frjálsíþróttum</title>
-    <desc>EM í frjálsíþróttum á Englandi.</desc>
-  </programme>
-  <programme start="20260814205500 +0000" stop="20260814212200 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
-  <programme start="20260814220000 +0000" stop="20260814225000 +0000" channel="ruv2.is">
-    <title>Vitjanir (with English subtitles)</title>
-    <sub-title>(3 af 8)</sub-title>
-    <desc>Icelandic drama series about Kristín, an emergency doctor who moves with her teenage daughter back to her parents' home in a small fishing village, following her own husband's affair. Kristín, who is grounded and rational, quickly realises she is out of her comfort zone communicating with her mother, a medium, and finds herself forced to look the ghosts of her past directly in the eye. Director: Eva Sigurðardóttir. Starring: Sara Dögg Ásgeirsdóttir, Helga E. Jónsdóttir, Katla Njálsdóttir, and Jói Jóhannsson. Not suitable for young children.
-
-The secretary at the healthcare centre, who has used their position for years to sell alternative remedies, reject's Kristín's ban on the practice, with severe consequences. At the same time, the problems in Kristín's private life mount up.</desc>
-  </programme>
   <programme start="20260815072500 +0000" stop="20260815092000 +0000" channel="ruv2.is">
     <title>EM í sundi</title>
     <desc>EM í sundi í Frakklandi.</desc>
@@ -74,7 +40,7 @@ Hallgrímur lærir að nota verndargrip Alberts. Brynhildur gerir við gamlan je
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
-  <programme start="20260815212000 +0000" stop="20260815224900 +0000" channel="ruv2.is">
+  <programme start="20260815212000 +0000" stop="20260815224800 +0000" channel="ruv2.is">
     <title>Agnes Joy (with English subtitles)</title>
     <desc>An Icelandic film from 2019. A suburban mother grapples with career dissatisfaction and family tensions while her marriage crumbles. The arrival of a mysterious new neighbor forces her to confront unexpected changes in her life. Starring: Katla Margrét Þorgeirsdóttir, Donna Cruz, Þorsteinn Bachmann and Björn Hlynur Haraldsson.</desc>
   </programme>
@@ -109,5 +75,35 @@ Hallgrímur lærir að nota verndargrip Alberts. Brynhildur gerir við gamlan je
   <programme start="20260820190000 +0000" stop="20260820192700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260821173000 +0000" stop="20260821181700 +0000" channel="ruv2.is">
+    <title>KrakkaRÚV</title>
+  </programme>
+  <programme start="20260821173100 +0000" stop="20260821174800 +0000" channel="ruv2.is">
+    <title>Hönnunarstirnin IIII</title>
+    <desc>Fjórða serían af Hönnunarstirnunum. Nico og Andrés eru mættir einu sinni enn með ný og skemmtileg verkefni og nýja keppendur.</desc>
+  </programme>
+  <programme start="20260821174900 +0000" stop="20260821175600 +0000" channel="ruv2.is">
+    <title>Eilíft drama</title>
+    <desc>Hvað gerist þegar besta vinkonan byrjar að hanga með einhverjum öðrum? Saga um vináttu sem rofnar og breytist. Þáttaröðin er á sænsku með íslenskum texta.
+
+Olivia og Nico hrinda af stað nýju trendi í bekkjarspjallinu. Það er gott að hafa einhvern til þess að treysta á og skemmta sér með. Kannski þarf Olivia ekki á Ellu að halda eftir allt?</desc>
+  </programme>
+  <programme start="20260821175600 +0000" stop="20260821181800 +0000" channel="ruv2.is">
+    <title>Silfruskógur I</title>
+    <desc>Bresk sjónvarpsþáttaröð úr heimi vísindaskáldskapar fyrir unglinga. Árið 1997 hurfu fjórir krakkar úr Silfruskógi. Tuttugu og þremur árum seinna ákveður strákur einn að komast að því hvað í raun og veru gerðist í skóginum þennan örlagaríka dag.
+
+Krakkarnir leita eftir nýjum leiðum til dægrastyttingar í nýja umhverfi sínu á meðan Kaz leitar af leið út.</desc>
+  </programme>
+  <programme start="20260821190000 +0000" stop="20260821192700 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260821211500 +0000" stop="20260821220500 +0000" channel="ruv2.is">
+    <title>Vitjanir (with English subtitles)</title>
+    <sub-title>(4 af 8)</sub-title>
+    <desc>Icelandic drama series about Kristín, an emergency doctor who moves with her teenage daughter back to her parents' home in a small fishing village, following her own husband's affair. Kristín, who is grounded and rational, quickly realises she is out of her comfort zone communicating with her mother, a medium, and finds herself forced to look the ghosts of her past directly in the eye. Director: Eva Sigurðardóttir. Starring: Sara Dögg Ásgeirsdóttir, Helga E. Jónsdóttir, Katla Njálsdóttir, and Jói Jóhannsson. Not suitable for young children.
+
+Kristín is worried about Hanna, the nurse at the healthcare centre, when she notices Hanna has a bruise she is trying to hide. Kristín's husband appears in the village unannounced and tells her a secret that forces her to confront an uncomfortable truth.</desc>
   </programme>
 </tv>
