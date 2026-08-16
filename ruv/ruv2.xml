@@ -3,48 +3,7 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260815072500 +0000" stop="20260815092000 +0000" channel="ruv2.is">
-    <title>EM í sundi</title>
-    <desc>EM í sundi í Frakklandi.</desc>
-  </programme>
-  <programme start="20260815092000 +0000" stop="20260815121000 +0000" channel="ruv2.is">
-    <title>EM í frjálsíþróttum</title>
-    <desc>EM í frjálsíþróttum á Englandi.</desc>
-  </programme>
-  <programme start="20260815173000 +0000" stop="20260815182000 +0000" channel="ruv2.is">
-    <title>KrakkaRÚV</title>
-  </programme>
-  <programme start="20260815173100 +0000" stop="20260815175200 +0000" channel="ruv2.is">
-    <title>Ormhildarsaga</title>
-    <desc>Jöklarnir hafa hopað og allar þjóðsagnaverurnar úr gömlu bókunum eru komnar fram í dagsljósið. Ormhildur og Albert gamli leggja af stað í leiðangur með Guðrúnu og Brynhildi. Þau ætla að fremja galdraseið til að kveða vættirnar aftur inn í jöklana. Allt fer á hliðina þegar Albert er tekinn höndum og hópurinn hrapar í fjallinu. Á ferðalaginu uppgötvar Ormhildur að hún býr yfir leyndum hæfileika og kemst að því að töfraverurnar eru ekki allar þar sem þær eru séðar.
-
-Hallgrímur lærir að nota verndargrip Alberts. Brynhildur gerir við gamlan jeppa í verksmiðjunni. Kisi nær dularfullri flautu af ærslafullum púka. Ormhildur yfirbugar púkann og notar flautuna til að óska sér og hópnum í galdrahellinn. Smávegis mismæli senda þau í rangan helli. Álfur og önnur handbendi Hallgríms kljást við skeldýrin.</desc>
-  </programme>
-  <programme start="20260815175300 +0000" stop="20260815175800 +0000" channel="ruv2.is">
-    <title>Rán - Rún</title>
-    <desc>Rán er ung og hress stelpa sem styttir sér stundir með ímynduðu vinkonu sinni. En hún Rún virðist raunverulegri en flestir.</desc>
-  </programme>
-  <programme start="20260815175800 +0000" stop="20260815180900 +0000" channel="ruv2.is">
-    <title>Skrímslasjúkir snillingar</title>
-    <desc>Þegar afi ykkar er búin að þjálfa ykkur sem skrímslaveiðimenn, þá er ekkert annað í stöðunni en að veiða öll skrímslin! Það er þó eitt vandamál, krakkarnir elska skrímslin og vilja helst bara bjarga þeim. Það geta þau gert á meðan afi blundar, eða hvað?</desc>
-  </programme>
-  <programme start="20260815180900 +0000" stop="20260815182000 +0000" channel="ruv2.is">
-    <title>Strumparnir II</title>
-    <desc>Þættir um óteljandi ævintýri Strumpanna og Kjartans galdrakarls sem fara hér á kostum í Strumpabæ.</desc>
-  </programme>
-  <programme start="20260815184000 +0000" stop="20260815205500 +0000" channel="ruv2.is">
-    <title>EM í frjálsíþróttum</title>
-    <desc>EM í frjálsíþróttum á Englandi.</desc>
-  </programme>
-  <programme start="20260815205500 +0000" stop="20260815211500 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
-  <programme start="20260815212000 +0000" stop="20260815224800 +0000" channel="ruv2.is">
-    <title>Agnes Joy (with English subtitles)</title>
-    <desc>An Icelandic film from 2019. A suburban mother grapples with career dissatisfaction and family tensions while her marriage crumbles. The arrival of a mysterious new neighbor forces her to confront unexpected changes in her life. Starring: Katla Margrét Þorgeirsdóttir, Donna Cruz, Þorsteinn Bachmann and Björn Hlynur Haraldsson.</desc>
-  </programme>
-  <programme start="20260816062500 +0000" stop="20260816093500 +0000" channel="ruv2.is">
+  <programme start="20260816062400 +0000" stop="20260816093400 +0000" channel="ruv2.is">
     <title>EM í frjálsíþróttum</title>
     <desc>EM í frjálsíþróttum á Englandi.</desc>
   </programme>
@@ -105,5 +64,9 @@ Krakkarnir leita eftir nýjum leiðum til dægrastyttingar í nýja umhverfi sí
     <desc>Icelandic drama series about Kristín, an emergency doctor who moves with her teenage daughter back to her parents' home in a small fishing village, following her own husband's affair. Kristín, who is grounded and rational, quickly realises she is out of her comfort zone communicating with her mother, a medium, and finds herself forced to look the ghosts of her past directly in the eye. Director: Eva Sigurðardóttir. Starring: Sara Dögg Ásgeirsdóttir, Helga E. Jónsdóttir, Katla Njálsdóttir, and Jói Jóhannsson. Not suitable for young children.
 
 Kristín is worried about Hanna, the nurse at the healthcare centre, when she notices Hanna has a bruise she is trying to hide. Kristín's husband appears in the village unannounced and tells her a secret that forces her to confront an uncomfortable truth.</desc>
+  </programme>
+  <programme start="20260822182000 +0000" stop="20260822184300 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
 </tv>
