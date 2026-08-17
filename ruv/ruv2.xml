@@ -3,22 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260816062400 +0000" stop="20260816093400 +0000" channel="ruv2.is">
-    <title>EM í frjálsíþróttum</title>
-    <desc>EM í frjálsíþróttum á Englandi.</desc>
-  </programme>
-  <programme start="20260816183000 +0000" stop="20260816205500 +0000" channel="ruv2.is">
-    <title>EM í frjálsíþróttum</title>
-    <desc>EM í frjálsíþróttum á Englandi.</desc>
-  </programme>
-  <programme start="20260816205500 +0000" stop="20260816211500 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
-  <programme start="20260816212000 +0000" stop="20260816225400 +0000" channel="ruv2.is">
-    <title>Í skóm drekans (with English subtitles)</title>
-    <desc>An Icelandic documentary from 2002. In 2000, Hrönn Sveinsdóttir, registered for an Icelandic beauty pageant to try and understand why people compete in beauty. Directors: Hrönn Sveinsdóttir and Árni Sveinsson.</desc>
-  </programme>
   <programme start="20260817190000 +0000" stop="20260817192700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
@@ -66,6 +50,10 @@ Krakkarnir leita eftir nýjum leiðum til dægrastyttingar í nýja umhverfi sí
 Kristín is worried about Hanna, the nurse at the healthcare centre, when she notices Hanna has a bruise she is trying to hide. Kristín's husband appears in the village unannounced and tells her a secret that forces her to confront an uncomfortable truth.</desc>
   </programme>
   <programme start="20260822182000 +0000" stop="20260822184300 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260823190000 +0000" stop="20260823192000 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
