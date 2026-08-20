@@ -3,35 +3,6 @@
   <channel id="kvf.fo">
     <display-name>KVF</display-name>
   </channel>
-  <programme start="20260819170000 " stop="20260819173000 " channel="kvf.fo">
-    <title>Alt um djór</title>
-    <sub-title>- barnarøð frá BBC við føroyskari talu</sub-title>
-  </programme>
-  <programme start="20260819173000 " stop="20260819180000 " channel="kvf.fo">
-    <title>Snipp snapp</title>
-    <sub-title>- føroysk sending til børn</sub-title>
-    <desc>VIT hava verið í Fuglafjarðar skúla og filmað 11 nýggjar Snipp Snapp-sendingar. Børn, sum ganga í 2. flokki í Fuglafjarðar skúla eru vertir hvørt mikukvøld, til nýggi jólakalendarin Snæfall 2 byrjar í desembur. Í Snipp Snapp eru eisini 11 spildurnýggir partar av Labbaliðnum.</desc>
-  </programme>
-  <programme start="20260819180000 " stop="20260819183000 " channel="kvf.fo">
-    <title>Myndlist í Føroyum 9:11</title>
-    <sub-title>- føroysk røð frá 2002</sub-title>
-    <desc>Havið hevur alstóran týdning fyri Trónd Patursson. Hann hevur siglt um øll havsins høv, og føddur og uppvaksin nær mølini við sugguna í Kirkjubø hevur hann í sær stórhavsins andadrátt. Listarligu útbúgving sína fekk hann í Keypmannahavn, Voss og Oslo. Náttúran sæst ofta aftur í listini hjá honum. Hav og klettur og ørandi bjørg undir rekandi skýggjum hómast í tí at síggja tilvildarliga streyminum av rennandi litum. Hjá Maritu Nattestad eru litir og formar heilt óbundnir av nøkrum líkskapi við náttúruna. Málningar hennara skulu ikki lýsa hugløg, ið hava samband við landsløg ella ítøkilig myndevnir. Kvinnan á Skipanesi er hinvegin ein av okkara fáu abstrakt-ekspressionistisku málarum. Í sendingini hitta vit eisini Amariel Norðoy, sum er ein av teimum listamonnunum, ið gera nógv burturúr einum føstum tema. Eyðvitað verða myndirnar ikki eins kortini, sjálvt tað mest einfalda myndevnið kann verða til túsund ymiskar myndir. Amariel hevur útbúgving av listaakademiinum í Keypmannahavn, bæði á málaraskúla og grafiskum skúla. Eyðun av Reyni tekur støði í tí litríka koloristiska landslagsmálarínum, ið eyðkennir føroyska málningalist eftur kríggið. Myndamálið abstraherar frá tí ítøkiliga, tó er temað fram um onnur mangan bygdin við havið undir tí stóra fjallinum.</desc>
-  </programme>
-  <programme start="20260819183000 " stop="20260819191000 " channel="kvf.fo">
-    <title>Síðsta breiddarstig 1</title>
-    <sub-title>- eitt nýtt ævintýr</sub-title>
-    <desc>Emil Midé Erichsen ger av at fara nýggja ævintýrferð. Hann ætlar sær til seinasta breiddarstig, norðpólin, har hann fer at dokumentera avleiðingarnar av veðurlagsbroytingunum. Men næstan eins týdningarmikið: Tað skal tað vera eitt brøðraævintýr. Leiðari á ferðini er vinmaðurin Christian Liebergreen. Avbjóðingin er størri enn brøðurnir høvdu ímyndað sær. Sesong: 1. Partur: 1. Framl.ár: 2023 Framl.: Bermuda Framl. fyri: TV 2 DK</desc>
-  </programme>
-  <programme start="20260819191000 " stop="20260819201000 " channel="kvf.fo">
-    <title>Málið um Carlos 2:3</title>
-    <sub-title>- svensk dokumentarrøð frá 2022</sub-title>
-    <desc>Ein sunnudag seinnapart í mai  er Carlos, sum hevur menningartarn, á veg við súkklu til kioskina miðskeiðis í Strömsund. Síðan tá er hann sporleyt horvin. Skjótt eru 20 ár liðin, síðan Carlos hvarv. Bo-Göran Bodin tíðindamaður hevur lovað mammu Carlos at gera eina seinastu roynd at fáa greiðu á, hvat er hent. Kanningarrøð frá 2022. 2. partur av 3.</desc>
-  </programme>
-  <programme start="20260819201000 " stop="20260820170000 " channel="kvf.fo">
-    <title>The Day After Tomorrow</title>
-    <sub-title>- amr. spenningsfilmur frá 2004</sub-title>
-    <desc>Dramatiskar veðurlagsbroytingar venda øllum veðrinum á jørðini á høvdið. Tornadoir herja í Los Angeles, ein risastór flóðalda søkkir New York, og í norðaru pørtunum av heiminum fellur hitin brádliga so nógv, at samfeløgini frysta føst í einum íshellið. Í einari vónleysari roynd at finna horvna son sín, Sam (Jake Gyllenhaal), fer veðurlagsserfrøðingurin Jack Hall (Dennis Quaid) til New York. Men býurin er fullkomiliga oyðilagdur og lagdur undir ís av kuldanum. Fer Jack at finna son sín? Upprunaheiti: The Day After Tomorrow Leikarar: Jack Hall ? Dennis Quaid, Sam Hall ? Jake Gyllenhaal og Laura Chapman ? Emmy Rossum. Framleiðsluár: 2004 Aldursmark: 11 ár</desc>
-  </programme>
   <programme start="20260820170000 " stop="20260820173000 " channel="kvf.fo">
     <title>Snipp snapp</title>
     <sub-title>- føroysk sending til børn</sub-title>
@@ -272,7 +243,46 @@
     <title>Dagur og vika</title>
     <sub-title>- við teksti</sub-title>
   </programme>
-  <programme start="20260825214000 " stop="20260825224000 " channel="kvf.fo">
+  <programme start="20260825214000 " stop="20260826170000 " channel="kvf.fo">
     <title>Veðrið</title>
+  </programme>
+  <programme start="20260826170000 " stop="20260826173000 " channel="kvf.fo">
+    <title>Alt um djór</title>
+    <sub-title>- barnarøð frá BBC við føroyskari talu</sub-title>
+  </programme>
+  <programme start="20260826173000 " stop="20260826180000 " channel="kvf.fo">
+    <title>Snipp snapp</title>
+    <sub-title>- føroysk sending til børn</sub-title>
+    <desc>VIT hava verið í Fuglafjarðar skúla og filmað 11 nýggjar Snipp Snapp-sendingar. Børn, sum ganga í 2. flokki í Fuglafjarðar skúla eru vertir hvørt mikukvøld, til nýggi jólakalendarin Snæfall 2 byrjar í desembur. Í Snipp Snapp eru eisini 11 spildurnýggir partar av Labbaliðnum.</desc>
+  </programme>
+  <programme start="20260826180000 " stop="20260826183000 " channel="kvf.fo">
+    <title>Myndlist í Føroyum 10:11</title>
+    <sub-title>- føroysk røð frá 2002</sub-title>
+    <desc>Hóast tey flestu føroysku listafólkini arbeiða við einum abstraktum myndamáli, so benda formar og rørslur í málningunum og myndum annars javnan aftur á náttúruna. Í sendingini hitta vit millum onnur Astrid Andreasen úr Vestmanna, ið arbeiðir við ull. Við ljósa- og myrkamorreyðum, hvítum og plantulitaðum tógvi skapar hon mangan í sínum teppum eitt afturljóð av náttúruni. Jóna Rasmussen úr Havn roynir nýggjar leiðir í sínum grafikki. Ofta verða samansett grafisk tøkni brúkt til at gera eina mynd. Myndamál hennara er í stóran mun abstrakt. Sigrun Gunnarsdóttir Niclasen á Eiði hevur funnið seg sjálva í einum ímyndandi stíli, har hennara trúarliga sinni fær andarúm. Í symbol-løddum og surrealistiskum lýsingum tekur hon teir stóru tilveruspurningarnar upp til viðgerðar. Kári Svensson er heldur onki undantak. Ofta fær áskoðarin eina kenslu av bjargalendi við klettum, rókum og drongum. Olivur við Neyst úr Klaksvík hevur hinvegin førkað seg nærri tí bygda umhvørvinum. Í hansara málningum savnast linjur í húsaveggjum og tekjum í kubistiskari, stundum kaleidoskopiskari kompositión. Torbjørn Olsen úr Havn er tann málarin síðan Mikines, ið hevur gjørt mest við at mála andlitsmyndir. Í málningum hjá Torbirni er mangan ein djúpur litur, ið liggur sum botnur um allan flatan. Aðrir litir, ið verða settir omanyvir, fáa nakað av botnlitinum í seg. Hendan kolorisman kemur serliga fram í kraftfullu litkompositiónum, har myndevnið er útsýnið yvir Vestaravág. Lagt til rættis: Bárður Jákupsson. &amp;#12288;</desc>
+  </programme>
+  <programme start="20260826183000 " stop="20260826191000 " channel="kvf.fo">
+    <title>Bóndi søkir kærleika</title>
+    <sub-title>- donsk sendirøð (1:8)</sub-title>
+    <desc>Hin ungi Jonathan finnur sín innara gentleman fram, tá ið hann hittir genturnar fyri fyrstu ferð. Charlotte verður bilsin, tá ið tað vísir seg, at hon skal á eitt stevnumøti, sum pápi hennara hevur valt. Grísabóndin Lasse er klárur at hitta dreymakvinnuna, men hvørji virði er tað nú aftur, sum hon skal hava? Upprunaheiti: Landmand søger kærlighed Framleiðsluár: 2026</desc>
+  </programme>
+  <programme start="20260826191000 " stop="20260826195000 " channel="kvf.fo">
+    <title>Síðsta breiddarstig 2</title>
+    <sub-title>- trupla avgerðin</sub-title>
+    <desc>Emil, Theis og Alfred, ið hava avgjørt at fara til Norðpólin, eru nú farnir at venja til ferðina. Eisini fara teir á andadráttskeið og skulu sinnisvenja, so teir eru betur førir fyri at taka støðu, tá avbjóðingar stinga seg upp á ferðini. Leiðari á ferðini er vinmaðurin Christian Liebergreen. Avbjóðingin er størri enn brøðurnir høvdu ímyndað sær. Theis ivast, um hann megnar at ferðast við bólkinum alla túrin. Sesong: 1. Partur: 2. Framl.ár: 2023 Framl.: Bermuda Framl. fyri: TV 2 DK</desc>
+  </programme>
+  <programme start="20260826195000 " stop="20260826203000 " channel="kvf.fo">
+    <title>Ókendur arvingur: Sjómansins milliónir</title>
+    <sub-title>- norsk røð frá 2022</sub-title>
+    <desc>Kirkjan var tóm til jarðarferðina hjá Arna úr Oslo. Hevði hann veruliga ongan, ella er nakar, sum kann arva milliónirnar hjá honum? Sesong 2. Broadcast Company NRK</desc>
+  </programme>
+  <programme start="20260826203000 " stop="20260826205000 " channel="kvf.fo">
+    <title>Søgur fyri fleiri milliónir 1:5</title>
+    <sub-title>- nýggja vinnugreinin, donsk røð frá 2022</sub-title>
+    <desc>Stórir ávirkarar í Danmark vinna milliónir hvørt ár. Aftanfyri lønandi avtalurnar standa agentarnir.</desc>
+  </programme>
+  <programme start="20260826205000 " stop="20260826215000 " channel="kvf.fo">
+    <title>Málið um Carlos 3:3</title>
+    <sub-title>- svensk dokumentarrøð frá 2022</sub-title>
+    <desc>Ein sunnudag seinnapart í mai  er Carlos, sum hevur menningartarn, á veg við súkklu til kioskina miðskeiðis í Strömsund. Síðan tá er hann sporleyst horvin. Skjótt eru 20 ár liðin, síðan Carlos hvarv. Bo-Göran Bodin tíðindamaður hevur lovað mammu Carlos at gera eina seinastu roynd at fáa greiðu á, hvat er hent. Kanningarrøð frá 2022.</desc>
   </programme>
 </tv>
