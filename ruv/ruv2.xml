@@ -3,10 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260820190000 +0000" stop="20260820192700 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20260821173000 +0000" stop="20260821181700 +0000" channel="ruv2.is">
     <title>KrakkaRÚV</title>
   </programme>
@@ -56,5 +52,13 @@ Kristín is worried about Hanna, the nurse at the healthcare centre, when she no
   <programme start="20260826190000 +0000" stop="20260826192700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260827190000 +0000" stop="20260827192700 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260827194500 +0000" stop="20260827204500 +0000" channel="ruv2.is">
+    <title>Þjóðaratkvæðagreiðsla - umræður (með táknmálstúlkun)</title>
+    <desc>Umræðuþáttur vegna þjóðaratkvæðagreiðslunnar 29. ágúst um hvort hefja eigi á ný viðræður um aðild Íslands að ESB. Já- og nei-fylkingarnar mæta til að ræða um valkostina í atkvæðagreiðslunni.</desc>
   </programme>
 </tv>
