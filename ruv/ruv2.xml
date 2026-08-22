@@ -3,36 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260821173000 +0000" stop="20260821181700 +0000" channel="ruv2.is">
-    <title>KrakkaRÚV</title>
-  </programme>
-  <programme start="20260821173100 +0000" stop="20260821174800 +0000" channel="ruv2.is">
-    <title>Hönnunarstirnin IIII</title>
-    <desc>Fjórða serían af Hönnunarstirnunum. Nico og Andrés eru mættir einu sinni enn með ný og skemmtileg verkefni og nýja keppendur.</desc>
-  </programme>
-  <programme start="20260821174900 +0000" stop="20260821175600 +0000" channel="ruv2.is">
-    <title>Eilíft drama</title>
-    <desc>Hvað gerist þegar besta vinkonan byrjar að hanga með einhverjum öðrum? Saga um vináttu sem rofnar og breytist. Þáttaröðin er á sænsku með íslenskum texta.
-
-Olivia og Nico hrinda af stað nýju trendi í bekkjarspjallinu. Það er gott að hafa einhvern til þess að treysta á og skemmta sér með. Kannski þarf Olivia ekki á Ellu að halda eftir allt?</desc>
-  </programme>
-  <programme start="20260821175600 +0000" stop="20260821181800 +0000" channel="ruv2.is">
-    <title>Silfruskógur I</title>
-    <desc>Bresk sjónvarpsþáttaröð úr heimi vísindaskáldskapar fyrir unglinga. Árið 1997 hurfu fjórir krakkar úr Silfruskógi. Tuttugu og þremur árum seinna ákveður strákur einn að komast að því hvað í raun og veru gerðist í skóginum þennan örlagaríka dag.
-
-Krakkarnir leita eftir nýjum leiðum til dægrastyttingar í nýja umhverfi sínu á meðan Kaz leitar af leið út.</desc>
-  </programme>
-  <programme start="20260821190000 +0000" stop="20260821192700 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
-  <programme start="20260821211500 +0000" stop="20260821220500 +0000" channel="ruv2.is">
-    <title>Vitjanir (with English subtitles)</title>
-    <sub-title>(4 af 8)</sub-title>
-    <desc>Icelandic drama series about Kristín, an emergency doctor who moves with her teenage daughter back to her parents' home in a small fishing village, following her own husband's affair. Kristín, who is grounded and rational, quickly realises she is out of her comfort zone communicating with her mother, a medium, and finds herself forced to look the ghosts of her past directly in the eye. Director: Eva Sigurðardóttir. Starring: Sara Dögg Ásgeirsdóttir, Helga E. Jónsdóttir, Katla Njálsdóttir, and Jói Jóhannsson. Not suitable for young children.
-
-Kristín is worried about Hanna, the nurse at the healthcare centre, when she notices Hanna has a bruise she is trying to hide. Kristín's husband appears in the village unannounced and tells her a secret that forces her to confront an uncomfortable truth.</desc>
-  </programme>
   <programme start="20260822182000 +0000" stop="20260822184300 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
@@ -60,5 +30,34 @@ Kristín is worried about Hanna, the nurse at the healthcare centre, when she no
   <programme start="20260827194500 +0000" stop="20260827204500 +0000" channel="ruv2.is">
     <title>Þjóðaratkvæðagreiðsla - umræður (með táknmálstúlkun)</title>
     <desc>Umræðuþáttur vegna þjóðaratkvæðagreiðslunnar 29. ágúst um hvort hefja eigi á ný viðræður um aðild Íslands að ESB. Já- og nei-fylkingarnar mæta til að ræða um valkostina í atkvæðagreiðslunni.</desc>
+  </programme>
+  <programme start="20260828173500 +0000" stop="20260828175000 +0000" channel="ruv2.is">
+    <title>Stofan</title>
+    <desc>Umfjallanir um leiki í undankeppni HM karla í körfubolta.
+
+Upphitun fyrir leik Serbíu og Íslands í undankeppni HM karla í körfubolta.</desc>
+  </programme>
+  <programme start="20260828175000 +0000" stop="20260828195000 +0000" channel="ruv2.is">
+    <title>Serbía - Ísland</title>
+    <desc>Leikir í undankeppni HM karla í körfubolta.
+
+Leikur Serbíu og Íslands í undankeppni HM karla í körfubolta.</desc>
+  </programme>
+  <programme start="20260828195000 +0000" stop="20260828201000 +0000" channel="ruv2.is">
+    <title>Stofan</title>
+    <desc>Umfjallanir um leiki í undankeppni HM karla í körfubolta.
+
+Uppgjör á leik Serbíu og Íslands í undankeppni HM karla í körfubolta.</desc>
+  </programme>
+  <programme start="20260828201000 +0000" stop="20260828203700 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260828220500 +0000" stop="20260828225500 +0000" channel="ruv2.is">
+    <title>Vitjanir (with English subtitles)</title>
+    <sub-title>(5 af 8)</sub-title>
+    <desc>Icelandic drama series about Kristín, an emergency doctor who moves with her teenage daughter back to her parents' home in a small fishing village, following her own husband's affair. Kristín, who is grounded and rational, quickly realises she is out of her comfort zone communicating with her mother, a medium, and finds herself forced to look the ghosts of her past directly in the eye. Director: Eva Sigurðardóttir. Starring: Sara Dögg Ásgeirsdóttir, Helga E. Jónsdóttir, Katla Njálsdóttir, and Jói Jóhannsson. Not suitable for young children.
+
+Kristín has a lot to do when a group of people starts showing strange symptoms that bring her to suspect they have an infectious disease. At the same time, Ragnar is grappling with his feelings for Kristín.</desc>
   </programme>
 </tv>
