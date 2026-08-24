@@ -3,10 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260823190000 +0000" stop="20260823192000 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20260824190000 +0000" stop="20260824192700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
@@ -63,5 +59,17 @@ Kristín has a lot to do when a group of people starts showing strange symptoms 
   <programme start="20260829222000 +0000" stop="20260830010000 +0000" channel="ruv2.is">
     <title>Kosningavaka vegna þjóðaratkvæðagreiðslu (með táknmálstúlkun)</title>
     <desc>Fylgst með úrslitum þjóðaratkvæðagreiðslu um framhald viðræðna um aðild Íslands að Evrópusambandinu. Fylgst verður með kosningavökum og tölur greindar með sérfræðingum.</desc>
+  </programme>
+  <programme start="20260830120000 +0000" stop="20260830122000 +0000" channel="ruv2.is">
+    <title>Aukafréttatími (með táknmálstúlkun)</title>
+    <desc>
+
+
+
+Aukafréttatími vegna niðurstöðu þjóðaratkvæðagreiðslu um um framhald viðræðna um aðild Íslands að Evrópusambandinu.</desc>
+  </programme>
+  <programme start="20260830190000 +0000" stop="20260830192000 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
 </tv>
