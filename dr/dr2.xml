@@ -3,168 +3,7 @@
   <channel id="dr2.dk">
     <display-name>DR2</display-name>
   </channel>
-  <programme start="20260824235500 +0000" stop="20260825002500 +0000" channel="dr2.dk">
-    <title>Rick Stein elsker mad (8:15)</title>
-    <desc>Britisk dokumentarserie fra 2024.
-(Rick Stein's Food Stories)
-Suffolk er kendt som Storbritanniens spisekammer. Her besøger Rick Stein Acre Farm, der huser et mikrobageri, som bager surdejsbrød. Han møder også en gammel ven, der sælger frisk fisk direkte fra stranden. I Southwold lægger han vejen forbi en café, hvor man betaler, hvad man kan for sin frokost. Og han kaster sig ud i både en kraftig vintersuppe med masser af kalorier - og i at lave sushi: nigiri med bars og makiruller med krabbe og avocado.</desc>
-    <episode-num system="xmltv_ns">0.7.0</episode-num>
-  </programme>
-  <programme start="20260825002500 +0000" stop="20260825010000 +0000" channel="dr2.dk">
-    <title>Rick Stein elsker mad (9:15)</title>
-    <desc>Britisk dokumentarserie fra 2024.
-(Rick Stein's Food Stories)
-London er i dag førende på den britiske madscene. Det var her Rick Stein startede som kok. I Sohos Chinatown får han et sjældent kig bag kulisserne på den legendariske restaurant New Loon Fung, der er berømt for en særlig kantonesisk ret: dim sum. I Vestlondon oplever han magien ved at lave frisk mozzarella, og hjemme i Padstow kaster han sig over en klassiker fra det kinesiske køkken, der er på briternes topti: Chow mein med oksekød.</desc>
-    <episode-num system="xmltv_ns">0.8.0</episode-num>
-  </programme>
-  <programme start="20260825010000 +0000" stop="20260825020000 +0000" channel="dr2.dk">
-    <title>Den klassiske musikquiz (4:8)</title>
-    <desc>Phillip Faber er den veloplagte vært, der forsøger at holde styr på de to holdkaptajner Frederik Cilius og Mathias Hammer. Med sig har de Katrine Gislinge, Jacob la Cour, Lisbeth Sagen og Jesper Nordin. DR SymfoniOrkestret og dirigent Thomas Søndergård står for musikken. Hvor svært er det at genkende musik spillet bagfra? Kan man fremføre orkestermusik på plastikrør? Og er det muligt at finde frem til et stykke musik efter bare en enkelt tone?</desc>
-    <episode-num system="xmltv_ns">3.3.0</episode-num>
-  </programme>
-  <programme start="20260825020000 +0000" stop="20260825023000 +0000" channel="dr2.dk">
-    <title>Deadline: Krasniks liberale længsel</title>
-    <desc>For 25 år siden fik grundtonen her i Vesten en anden og mere dyster klang. Terrorangrebet d. 11. september 2001 var et vendepunkt for vores selvforståelse, men også begyndelsen på de liberale værdiers forfaldshistorie. Det beskriver Weekendavisens chefredaktør, Martin Krasnik, i en ny bog. Issa Mahmoud Jeppesen spørger ham, om der er gode grunde til, at folk vender ryggen til den liberalisme, han hylder i sin bog.</desc>
-    <episode-num system="xmltv_ns">2025.127.0</episode-num>
-  </programme>
-  <programme start="20260825023000 +0000" stop="20260825030000 +0000" channel="dr2.dk">
-    <title>Deadline: En regering, fire retninger?</title>
-    <desc>Sommerferien sluttede, og nu skulle sløret løftes for, hvad vi allesammen kunne forvente os af den nye regering. I stedet brugte de fire partier størstedelen af gårsdagens pressemøde på at præsentere politik, de allerede havde præsenteret. Så hvad var det, vi så i går? En regering samlet om et fælles projekt, eller fire partier der talte i hver sin retning? 
-Vært: Issa Mahmoud Jeppesen.</desc>
-    <episode-num system="xmltv_ns">2025.126.0</episode-num>
-  </programme>
-  <programme start="20260825030000 +0000" stop="20260825033000 +0000" channel="dr2.dk">
-    <title>Deadline: Pelle Dragsteds røde linjer</title>
-    <desc>Regeringen er klar til at bruge 17,4 mia. kroner om året på at halvere momsen på fødevarer og helt fjerne den for frugt og grønt. Det skyldes ikke mindst pres fra Enhedslisten. Men er det overhovedet en god idé?
-Og hvor meget blå politik og hvor mange skattelettelser vil Enhedslisten gå med til, før de vælter regeringen? Pelle Dragsted er gæst i dagens Deadline. 
-Vært: Christian Bennike.</desc>
-    <episode-num system="xmltv_ns">2025.125.0</episode-num>
-  </programme>
-  <programme start="20260825033000 +0000" stop="20260825040000 +0000" channel="dr2.dk">
-    <title>Deadline: Novochefens chok-kur</title>
-    <desc>Novo Nordisk har fyret tusinder - og nu skal resten af de ansatte arbejde hårdere og hurtigere.
-Sådan lyder det fra topdirektør Mike Doustdar, der tiltrådte for et år siden og med det samme satte virksomheden på chok-kur.
-Men risikerer han at kvæle alt det, der har gjort Novo til en succes? Og står den benhårde leder-type til et comeback i dansk erhvervsliv efter års fravær?
-Vært: Casper Schrøder.</desc>
-    <episode-num system="xmltv_ns">2025.124.0</episode-num>
-  </programme>
-  <programme start="20260825040000 +0000" stop="20260825044000 +0000" channel="dr2.dk">
-    <title>De skabte Danmark (3:4)</title>
-    <desc>Kemikeren.
-Historien er skabt af mennesker - ikke af ting og begreber, og perioden fra 1850 og frem til i dag har ændret det danske samfund mere end nogen anden periode i historien. I det tredje af fire programmer, hvor DR sætter fokus på industrialiseringen, fortælles hvordan det var synd at sige, at danskerne var særlig kloge før industrialiseringen. Vi opfandt stort set ingenting af værdi. I dag udvikler kemikeren nye fantastiske lægemidler, miljørigtige sprøjtemidler og tilsætningsstoffer til fødevarer. Kemikeren er Danmarks redning, og historiens mest udskældte profession og det hele startede med medicin i apotekerens baglokale.
-Sendt første gang 3.06.07.</desc>
-    <episode-num system="xmltv_ns">0.2.0</episode-num>
-  </programme>
-  <programme start="20260825044000 +0000" stop="20260825050000 +0000" channel="dr2.dk">
-    <title>Mens vi venter på at dø - Bygger vi et kontroltårn</title>
-    <desc>Med udgangspunkt i udtrykket "vi kan lige så godt have det sjovt, når vi alligevel er her" tager vennerne Jørgen Skouboe og John Dahl ud for at dyrke de små drengedrømme, som ellers så ofte drukner i hverdagens travle fornuftsrutiner. I denne uge bygger John og Jørgen et kontroltårn af jern, træ og en Fiat Uno, så de kan holde øje med hundene på stranden. Med sig har de sjove anekdoter, gode øl, fin tobak - og ikke mindst masser af vildt og fascinerende grej, som skal prøves af.
-Værter: Jørgen Skouboe og John Dahl.
-Sendt første gang 01.05.11</desc>
-    <episode-num system="xmltv_ns">0.2.0</episode-num>
-  </programme>
-  <programme start="20260825050000 +0000" stop="20260825055347 +0000" channel="dr2.dk">
-    <title>Europas vidundere II (4:4) Schönbrunn Slot</title>
-    <desc>Fransk dokumentarserie fra 2023.
-(The Wonders of Europe)
-Dens strålende gule facade leger næsten med solen, mens den enorme blomsterfyldte park indbyder til dagdrømme. Wiens Schönbrunn Slot er et farvestrålende og storslået symbol på Østrigs kejserlige arv. Det blev til en legendarisk residens, da Maria Theresia besteg tronen i det 18. århundrede. I hendes regeringstid blev slottet udvidet med hundredvis af rum, og her styrede hun over halvdelen af Europa i næsten 40 år.</desc>
-    <episode-num system="xmltv_ns">1.3.0</episode-num>
-  </programme>
-  <programme start="20260825055347 +0000" stop="20260825060000 +0000" channel="dr2.dk">
-    <title>Nul stjerner - Lokale traditioner</title>
-    <desc>.</desc>
-  </programme>
-  <programme start="20260825060000 +0000" stop="20260825060500 +0000" channel="dr2.dk">
-    <title>Radioavisen</title>
-    <desc>Bliv opdateret på de seneste nyheder fra ind- og udland.</desc>
-  </programme>
-  <programme start="20260825060500 +0000" stop="20260825063000 +0000" channel="dr2.dk">
-    <title>Morgenandagten</title>
-    <desc>Morgenandagten fra Vor Frue Kirke, Københavns Domkirke.</desc>
-  </programme>
-  <programme start="20260825063000 +0000" stop="20260825100000 +0000" channel="dr2.dk">
-    <title>Seneste nyt fra TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260825100000 +0000" stop="20260825151500 +0000" channel="dr2.dk">
-    <title>Seneste nyt fra TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260825151500 +0000" stop="20260825161500 +0000" channel="dr2.dk">
-    <title>Danske drømme (9:10)</title>
-    <desc>Dansk dokumentarserie fra 1999. Danmark kommer med på afbud til EM i fodbold på grund af krigen i Jugoslavien - og vinder guld i 1992. Danskerne siger først nej til EU ved en folkeafstemning - og så ja, da de får chancen igen i 1993. Politiet skyder med skarpt mod demonstranter, og den største politiske skandale i nyere tid oprulles - Tamilsagen. Socialdemokratiet vender derefter tilbage til magten med Poul Nyrup Rasmussen i spidsen.
-Tilrettelæggelse: Leif Davidsen.</desc>
-    <episode-num system="xmltv_ns">0.8.0</episode-num>
-  </programme>
-  <programme start="20260825161500 +0000" stop="20260825171000 +0000" channel="dr2.dk">
-    <title>Europas vidundere III (1:4) Sacré-Cæur</title>
-    <desc>Fransk dokumentarserie fra 2024.
-(The Wonders of Europe)
-Det er et af Paris' mest kendte vartegn. Den legendariske snehvide basilika: Sacré-Cæur er en af verdens mest besøgte seværdigheder. Det har taget over 40 år at fuldføre kirken, og byggeriet har ført til voldsomme sammenstød mellem katolikker og de antireligiøse. Sacré-Cæur voksede frem som lige dele troshandling og politisk farce. Og det er den uforlignelige historie, der gør Sacré-Cæur på Montmartre til et af Europas smukkeste vidundere.</desc>
-    <episode-num system="xmltv_ns">2.0.0</episode-num>
-  </programme>
-  <programme start="20260825171000 +0000" stop="20260825175000 +0000" channel="dr2.dk">
-    <title>Flugtrute: DDR-Danmark (1:2)</title>
-    <desc>Dansk dokumentarserie om et glemt kapitel i den kolde krig. 
-Hele verden fulgte de desperate flugtforsøg ved Berlinmuren. Men der var også en anden og dødsensfarlig flugtrute. Den gik over Østersøen - til Danmark. Tusindvis af østtyskere satte livet på spil i bølgerne. For mange blev danskerne deres redningsmænd. De fleste nåede aldrig så langt. Dette er historien om nogle af dem der forsøgte.
-Tilrettelæggelse: Jesper Clemmensen.
-Sendt første gang 8.11.09.</desc>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-  </programme>
-  <programme start="20260825175000 +0000" stop="20260825184500 +0000" channel="dr2.dk">
-    <title>Arrene fra apartheid (1:3)</title>
-    <desc>Da Nelson Mandela blev Sydafrikas første sorte præsident, blev der nedsat en sandhedskommission. Budskabet var, at der skulle gøres op med rædslerne fra apartheidtiden. Men i dag, 30 år senere, er sårene stadig ikke helet. Gerningsmændene holder fortsat deres hemmeligheder skjult, og ofrene søger stadig efter sandhed og retfærdighed. Hvad skete der egentlig, hvem bar ansvaret, og hvorfor er de ansvarlige stadig ikke blevet stillet til regnskab?  
-Tysk dokumentar fra 2026.
-(Free at Last: The Secrets of Apartheid)</desc>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-  </programme>
-  <programme start="20260825184500 +0000" stop="20260825193000 +0000" channel="dr2.dk">
-    <title>Jack the Ripper - Skrevet med blod (2:3)</title>
-    <desc>Tre kvinder er blevet brutalt myrdet i Østlondon. Mens frygten breder sig, pisker The Star stemningen yderligere op ved at døbe morderen "Læderforklædet". Det udløser en bølge af antisemitisk vold og kaster bydelen ud i kaos. Politiet kæmper for at genvinde kontrollen og redde efterforskningen. Men snart slår morderen til igen. Samtidig er Fred Best med til at forfalske et brev, der giver verden et navn, den aldrig glemmer: Jack the Ripper.
-Britisk dokumentarserie fra 2025.
-(Jack The Ripper - Written in Blood)</desc>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-  </programme>
-  <programme start="20260825193000 +0000" stop="20260825200000 +0000" channel="dr2.dk">
-    <title>Dronningeriget (4:4) Dorothea</title>
-    <desc>Dronning Dorothea tager sin rolle som forbillede og dydens og moralens vogter særdeles alvorligt. Og hun er ikke bange for at ofre både sine nærmeste og den gode stemning for på vegne af Gud for at gå forrest som et godt eksempel.</desc>
-    <episode-num system="xmltv_ns">1.3.0</episode-num>
-  </programme>
-  <programme start="20260825200000 +0000" stop="20260825200500 +0000" channel="dr2.dk">
-    <title>TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260825201500 +0000" stop="20260825204500 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
-  </programme>
-  <programme start="20260825204500 +0000" stop="20260825213500 +0000" channel="dr2.dk">
-    <title>Berlusconi: Fodbold, tv og magt (2:3)</title>
-    <desc>I 1991 begynder en ny storhedstid for AC Milan med den tidligere spiller Fabio Capello ved roret. Men kort tid efter truer en korruptionsskandale Berlusconi, klubbens ejer, og sætter både hans forretningsimperium og hans personlige eksistens på spil. Hans modsvar er at stille op som premierminister med løfter om lavere skatter og et frit marked. Den mest magtfulde og succesrige mand i italiensk fodbold er nu blevet Italiens mest magtfulde mand.
-Britisk dokumentarserie fra 2026.
-(Berlusconi)</desc>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-  </programme>
-  <programme start="20260825213500 +0000" stop="20260825222500 +0000" channel="dr2.dk">
-    <title>Mysteriet om den forsvundne svindlerdronning (1:3)</title>
-    <desc>Britisk dokumentarserie fra 2023.
-(The Mystery of the Crypto Queen)
-Det skulle være den største kryptovaluta nogensinde. Større end Bitcoin. I 2014 svirrer der rygter om en bulgarsk forretningskvinde ved navn Ruja Ignatova. Hun har to doktorgrader, en iq på 200 og har skabt OneCoin - den første kryptovaluta, der ikke kræver kompliceret hardware eller dybtgående viden. OneCoin vokser hurtigt i popularitet, men skeptikere er overbeviste om, at projektet er et globalt svindelnummer. Vil nogen tro dem?</desc>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-  </programme>
-  <programme start="20260825222500 +0000" stop="20260825225500 +0000" channel="dr2.dk">
-    <title>24 timer vi aldrig glemmer - Dødens triumf</title>
-    <desc>Der er dage hvor nogle dansetrin, noget beatmusik og et par bare bryster skaber forsider og debat her i landet. Vivi Flindt, Dinna Bjørn, Erik Aschengreen og Anders Koppel var med den 19. februar 1972 - den dag balletten Dødens Triumf havde premiere på Det Kongelige Teater. Det er 24 timer vi aldrig glemmer.
-Tilrettelæggelse: Jakob Kronborg Heick.</desc>
-    <episode-num system="xmltv_ns">1.14.0</episode-num>
-  </programme>
-  <programme start="20260825225500 +0000" stop="20260825235000 +0000" channel="dr2.dk">
-    <title>Kontinenterne (1:6) Afrika</title>
-    <desc>Tysk dokumentarserie fra 2023. 
-(Unsere Kontinente)
-Fra Afrika til Asien og fra Australien til Amerika. Serien udforsker, hvordan kontinentalpladerne og naturen har formet og påvirket vores forskellige kulturer. Første afsnit fokuserer bl.a. på Great Rift Valley i Østafrika, der er kendt som menneskehedens vugge. I Afrika begrænsede kæmpe floder handel og udveksling af ideer, og europæiske kolonialister forandrede kontinentet. Hvilke fremtidige udfordringer står Afrika overfor?</desc>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-  </programme>
-  <programme start="20260825235000 +0000" stop="20260826003000 +0000" channel="dr2.dk">
+  <programme start="20260825234500 +0000" stop="20260826003000 +0000" channel="dr2.dk">
     <title>Otte dage, der skabte Rom (2:8) Spartacus' oprør</title>
     <desc>Britisk dokumentarserie fra 2021.
 (8 Days That Made Rome)
@@ -183,8 +22,11 @@ Troels Kløvedal sejler med Vædderen, så langt det er muligt rundt om Grønlan
     <episode-num system="xmltv_ns">0.0.0</episode-num>
   </programme>
   <programme start="20260826020000 +0000" stop="20260826023000 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <title>Deadline: Vanopsalghs usynlige ånd</title>
+    <desc>Alex Vanopslagh har skrevet en bog om sin vision for Danmark.
+I "Den usynlige ånd" lovpriser han klassiske konservative værdier som pligt, autoritet og ansvar.
+Men kan man overhovedet forene de konservative idealer med liberale ideer om frihed og individuelle rettigheder? Og hvad er vejen frem for det blå Danmark? Christian Bennike spørger Alex Vanopslagh</desc>
+    <episode-num system="xmltv_ns">2025.128.0</episode-num>
   </programme>
   <programme start="20260826023000 +0000" stop="20260826030000 +0000" channel="dr2.dk">
     <title>Deadline: Krasniks liberale længsel</title>
@@ -196,6 +38,13 @@ Troels Kløvedal sejler med Vædderen, så langt det er muligt rundt om Grønlan
     <desc>Sommerferien sluttede, og nu skulle sløret løftes for, hvad vi allesammen kunne forvente os af den nye regering. I stedet brugte de fire partier størstedelen af gårsdagens pressemøde på at præsentere politik, de allerede havde præsenteret. Så hvad var det, vi så i går? En regering samlet om et fælles projekt, eller fire partier der talte i hver sin retning? 
 Vært: Issa Mahmoud Jeppesen.</desc>
     <episode-num system="xmltv_ns">2025.126.0</episode-num>
+  </programme>
+  <programme start="20260826033000 +0000" stop="20260826040000 +0000" channel="dr2.dk">
+    <title>Deadline: Pelle Dragsteds røde linjer</title>
+    <desc>Regeringen er klar til at bruge 17,4 mia. kroner om året på at halvere momsen på fødevarer og helt fjerne den for frugt og grønt. Det skyldes ikke mindst pres fra Enhedslisten. Men er det overhovedet en god idé?
+Og hvor meget blå politik og hvor mange skattelettelser vil Enhedslisten gå med til, før de vælter regeringen? Pelle Dragsted er gæst i dagens Deadline. 
+Vært: Christian Bennike.</desc>
+    <episode-num system="xmltv_ns">2025.125.0</episode-num>
   </programme>
   <programme start="20260826040000 +0000" stop="20260826045357 +0000" channel="dr2.dk">
     <title>Nicole Kidman - Australier i Hollywood</title>
@@ -308,8 +157,10 @@ Sataniske ritualer, blod og panik. I 1980 skriver psykiateren Lawrence Pazder og
     <episode-num system="xmltv_ns">2025.129.0</episode-num>
   </programme>
   <programme start="20260827023000 +0000" stop="20260827030000 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <title>Deadline: Vanopsalghs usynlige ånd</title>
+    <desc>Alex Vanopslagh har skrevet en bog om sin vision for Danmark.
+I "Den usynlige ånd" lovpriser han klassiske konservative værdier som pligt, autoritet og ansvar.
+Men kan man overhovedet forene de konservative idealer med liberale ideer om frihed og individuelle rettigheder? Og hvad er vejen frem for det blå Danmark? Christian Bennike spørger Alex Vanopslagh</desc>
     <episode-num system="xmltv_ns">2025.128.0</episode-num>
   </programme>
   <programme start="20260827030000 +0000" stop="20260827033500 +0000" channel="dr2.dk">
@@ -459,8 +310,11 @@ Det var en af de mest sofistikerede civilisationer i verdenshistorien. I 3000 å
     <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
   </programme>
   <programme start="20260828030000 +0000" stop="20260828033500 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <title>Deadline: Vanopsalghs usynlige ånd</title>
+    <desc>Alex Vanopslagh har skrevet en bog om sin vision for Danmark.
+I "Den usynlige ånd" lovpriser han klassiske konservative værdier som pligt, autoritet og ansvar.
+Men kan man overhovedet forene de konservative idealer med liberale ideer om frihed og individuelle rettigheder? Og hvad er vejen frem for det blå Danmark? Christian Bennike spørger Alex Vanopslagh</desc>
+    <episode-num system="xmltv_ns">2025.128.0</episode-num>
   </programme>
   <programme start="20260828040000 +0000" stop="20260828043500 +0000" channel="dr2.dk">
     <title>Kvissen (15:16)</title>
@@ -995,5 +849,162 @@ Rick Stein fortsætter med at gå på opdagelse i London. Her findes mad fra ove
 (Rick Stein's Food Stories)
 Kent er Englands ældste county - og kaldes for "Englands have". Her besøger Rick Stein en familiedrevet gård, hvor han høster saftige, søde kirsebær. I Ramsgate drager han ud på havet for at fiske efter sin yndlingsfisk, Dover-søtunge. Han hylder maleren Joseph Turner og briternes kærlighed til fish and chips i den trendy kystby Margate. Og tilbage i Padstow kaster han sig over køkkenet og laver en lækker red velvet-cupcake med chokolade og kirsebær.</desc>
     <episode-num system="xmltv_ns">0.10.0</episode-num>
+  </programme>
+  <programme start="20260901003000 +0000" stop="20260901010000 +0000" channel="dr2.dk">
+    <title>Scavenius og Kær på tur i kunsthistorien (1:4)</title>
+    <desc>En roadmovie, hvor Peter Kær rejser landet rundt i en gammel Volvo 210 med kunsthistoriker Bente Scavenius og ser på fantastisk kunst. Sammen dykker de ned i historierne bag værkerne og ser på hvad, der har inspireret kunstnerne, og hvordan de har inspireret hinanden.
+I første afsnit kigger Peter Kær og Bente Scavenius nærmere på landskabskunst og især den store tyske landskabsmaler Caspar David Friedrich.</desc>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+  </programme>
+  <programme start="20260901010000 +0000" stop="20260901020000 +0000" channel="dr2.dk">
+    <title>Den klassiske musikquiz (5:8)</title>
+    <desc>Phillip Faber er den veloplagte vært, der forsøger at holde styr på de to holdkaptajner Frederik Cilius og Mathias Hammer. Med sig har de Rie Koch, Isabella Hübener og brødrene Magnus Koch Jensen og Victor Koch Jensen. DR SymfoniOrkestret og dirigent Thomas Søndergård står for musikken. Kan man spille orkestermusik på slagtøjsinstrumenter? Hvor svært er det at genkende musik spillet bagfra? Og er det overhovedet muligt at finde frem til et stykke musik efter bare en enkelt tone?</desc>
+    <episode-num system="xmltv_ns">3.4.0</episode-num>
+  </programme>
+  <programme start="20260901020000 +0000" stop="20260901023000 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <episode-num system="xmltv_ns">2025.131.0</episode-num>
+  </programme>
+  <programme start="20260901023000 +0000" stop="20260901030000 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <episode-num system="xmltv_ns">2025.130.0</episode-num>
+  </programme>
+  <programme start="20260901030000 +0000" stop="20260901032500 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <episode-num system="xmltv_ns">2025.129.0</episode-num>
+  </programme>
+  <programme start="20260901032500 +0000" stop="20260901040000 +0000" channel="dr2.dk">
+    <title>Deadline: Vanopsalghs usynlige ånd</title>
+    <desc>Alex Vanopslagh har skrevet en bog om sin vision for Danmark.
+I "Den usynlige ånd" lovpriser han klassiske konservative værdier som pligt, autoritet og ansvar.
+Men kan man overhovedet forene de konservative idealer med liberale ideer om frihed og individuelle rettigheder? Og hvad er vejen frem for det blå Danmark? Christian Bennike spørger Alex Vanopslagh</desc>
+    <episode-num system="xmltv_ns">2025.128.0</episode-num>
+  </programme>
+  <programme start="20260901040000 +0000" stop="20260901044000 +0000" channel="dr2.dk">
+    <title>De skabte Danmark (4:4)</title>
+    <desc>Designeren.
+Historien er skabt af mennesker - ikke af ting og begreber, og perioden fra 1850 og frem til i dag har ændret det danske samfund mere end nogen anden periode i historien. I det sidste af fire programmer, hvor DR har sat fokus på industrialiseringen, fortælles, at det ikke er arkitekter
+som Wegner og Børge Mogensen Danmark er kendt for i udlandet, men festligt udsmykkede spånplademøbler. Og det samme gør sig gældende for dansk tøj. Det er ikke de smarte københavnske designere der redder æren og bruttonationalproduktet. Det er de ihærdige jyske købmænd som sørger for, at selv kineserne går i dansk tøj.
+Sendt første gang 10.06.07.</desc>
+  </programme>
+  <programme start="20260901044000 +0000" stop="20260901050000 +0000" channel="dr2.dk">
+    <title>Mens vi venter på at dø - Pelser vi haven</title>
+    <desc>Med udgangspunkt i udtrykket "vi kan lige så godt have det sjovt, når vi alligevel er her" tager vennerne Jørgen Skouboe og John Dahl ud for at dyrke de små drengedrømme, som ellers så ofte drukner i hverdagens travle fornuftsrutiner. I denne uge gør John og Jørgen en sur pligt til en fed oplevelse, når de beskærer haven med masser af fedt grej. Med sig har de sjove anekdoter, gode øl, fin tobak - og ikke mindst masser af vildt og fascinerende grej, som skal prøves af.
+Værter: Jørgen Skouboe og John Dahl
+Sendt første gang 29.05.11</desc>
+    <episode-num system="xmltv_ns">0.5.0</episode-num>
+  </programme>
+  <programme start="20260901050000 +0000" stop="20260901055500 +0000" channel="dr2.dk">
+    <title>Europas vidundere III (1:4) Sacré-Cæur</title>
+    <desc>Fransk dokumentarserie fra 2024.
+(The Wonders of Europe)
+Det er et af Paris' mest kendte vartegn. Den legendariske snehvide basilika: Sacré-Cæur er en af verdens mest besøgte seværdigheder. Det har taget over 40 år at fuldføre kirken, og byggeriet har ført til voldsomme sammenstød mellem katolikker og de antireligiøse. Sacré-Cæur voksede frem som lige dele troshandling og politisk farce. Og det er den uforlignelige historie, der gør Sacré-Cæur på Montmartre til et af Europas smukkeste vidundere.</desc>
+    <episode-num system="xmltv_ns">2.0.0</episode-num>
+  </programme>
+  <programme start="20260901055000 +0000" stop="20260901060000 +0000" channel="dr2.dk">
+    <title>RO PÅ med DR Symfoniorkestret: Solopgang</title>
+    <desc>Lad dagen begynde i et roligt tempo. Oplev solopgangen over skoven, mens DR Symfoniorkestret spiller Griegs stemningsfulde toner og skaber en blid start på morgenen.
+Grieg: Peer Gynt Suite nr. 1, Morgenstemning og Åses død.</desc>
+  </programme>
+  <programme start="20260901060000 +0000" stop="20260901060500 +0000" channel="dr2.dk">
+    <title>Radioavisen</title>
+    <desc>Bliv opdateret på de seneste nyheder fra ind- og udland.</desc>
+  </programme>
+  <programme start="20260901060500 +0000" stop="20260901063000 +0000" channel="dr2.dk">
+    <title>Morgenandagten</title>
+    <desc>Morgenandagten fra Vor Frue Kirke, Københavns Domkirke.</desc>
+  </programme>
+  <programme start="20260901063000 +0000" stop="20260901100000 +0000" channel="dr2.dk">
+    <title>Seneste nyt fra TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260901100000 +0000" stop="20260901151500 +0000" channel="dr2.dk">
+    <title>Seneste nyt fra TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260901151500 +0000" stop="20260901161500 +0000" channel="dr2.dk">
+    <title>Danske drømme (10:10)</title>
+    <desc>Dansk dokumentarserie fra 1999. Øst- og Vestdanmark bindes endeligt sammen af den faste forbindelse over Storebælt efter 100 års diskussion om projektet. Danskerne frygter de fremmede og er bange for at blive slugt af den store verden. Med endnu et tvivlende ja til EU og en pinsepakke i bagagen går Europas mest tilfredse folk med sindsro ind i det næste århundrede. 
+Tilrettelæggelse: Leif Davidsen.</desc>
+    <episode-num system="xmltv_ns">0.9.0</episode-num>
+  </programme>
+  <programme start="20260901161500 +0000" stop="20260901171000 +0000" channel="dr2.dk">
+    <title>Europas vidundere III (2:4) Mont-Saint-Michel</title>
+    <desc>Fransk dokumentarserie fra 2024.
+(The Wonders of Europe)
+Det har ligget ude i bølgerne i over tusind år. Det unikke bygningskompleks Mont-Saint-Michel har været kloster, fæstning og fængsel og er resultatet af en enestående arkitektonisk saga. Det har været angrebet af bretonerne, belejret af englænderne og været en farlig arbejdsplads. Det er den exceptionelle historie, fuld af gåder og overraskelser, der gør Mont-Saint-Michel til et af Europas mest fascinerende vidundere.</desc>
+    <episode-num system="xmltv_ns">2.1.0</episode-num>
+  </programme>
+  <programme start="20260901171000 +0000" stop="20260901175000 +0000" channel="dr2.dk">
+    <title>Flugtrute: DDR-Danmark (2:2)</title>
+    <desc>Dansk dokumentarserie om et glemt kapitel i den kolde krig. 
+Hele verden fulgte de desperate flugtforsøg ved Berlinmuren. Men der var også en anden og dødsensfarlig flugtrute. Den gik over Østersøen - til Danmark. Tusindvis af østtyskere satte livet på spil i bølgerne. For mange blev danskerne deres redningsmænd. De fleste nåede aldrig så langt. Dette er historien om nogle af dem der forsøgte.
+Tilrettelæggelse: Jesper Clemmensen.
+Sendt første gang 17.01.10</desc>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+  </programme>
+  <programme start="20260901175000 +0000" stop="20260901184500 +0000" channel="dr2.dk">
+    <title>Arrene fra apartheid (2:3)</title>
+    <desc>I 1970'erne er voldelig undertrykkelse normen i Sydafrika. Med udvidelsen af sikkerhedsstyrkerne og hemmelig overvågning udvikler landet sig til en politistat. Da fire unge anti-apartheid-aktivister, fra organisationen COSAS, lokkes i en fælde og dræbes af regimets sikkerhedspoliti, bliver sagen en af de få fra apartheidtiden, der stadig verserer ved domstolene. Vil familierne endelig opleve, at gerningsmændene stilles til ansvar - 42 år efter mordene?
+Tysk dokumentar fra 2026.
+(Free at Last: The Secrets of Apartheid)</desc>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+  </programme>
+  <programme start="20260901184500 +0000" stop="20260901193000 +0000" channel="dr2.dk">
+    <title>Jack the Ripper - Skrevet med blod (3:3)</title>
+    <desc>The Stars oplagstal stiger dag for, og avisen vil ikke lade historien om Jack the Ripper dø ud. Fred Best presses til at forfalske endnu et brev, der puster til hysteriet og leder politiets efterforskning på vildspor. Mens politiet famler i blinde, kræver morderen sit femte offer, Mary Jane Kelly. Men da drabene stopper, står The Star tilbage med ansvaret for en myte, som næsten 140 år senere stadig får verden til at huske navnet Jack the Ripper.
+Britisk dokumentarserie fra 2025.
+(Jack The Ripper - Written in Blood)</desc>
+    <episode-num system="xmltv_ns">0.2.0</episode-num>
+  </programme>
+  <programme start="20260901193000 +0000" stop="20260901200000 +0000" channel="dr2.dk">
+    <title>En hemmelighed under jorden (1:5) Min fars dobbeltliv</title>
+    <desc>I et almindeligt udseende hus i Rold Skov vokser Niels-Peder op i 1980´erne. Uden at vide at huset og hans far dækker over en dyb hemmelighed. Samtidig siger hjemmeværnsmanden Poul Erik ja til en opgave, som får betydning for resten af hans liv.</desc>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+  </programme>
+  <programme start="20260901200000 +0000" stop="20260901201500 +0000" channel="dr2.dk">
+    <title>TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260901201500 +0000" stop="20260901204500 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+  </programme>
+  <programme start="20260901204500 +0000" stop="20260901213500 +0000" channel="dr2.dk">
+    <title>Berlusconi: Fodbold, tv og magt (3:3)</title>
+    <desc>Berlusconi undviger nye anklager om korruption og bruger AC Milan til at fremme sine egne interesser. Men skandalerne og konflikterne synes at vokse år for år. Han bestrider valgnederlag, beskyldes for intimidering og sigtes for at have haft kendskab til bestikkelse - alt sammen som et uhyggeligt forspil til de politiske udviklinger, der i de følgende år vil udspille sig over hele verden. Samtidig bliver grænsen mellem fodbold og politik stadig mere udvisket.
+Britisk dokumentarserie fra 2026.
+(Berlusconi)</desc>
+    <episode-num system="xmltv_ns">0.2.0</episode-num>
+  </programme>
+  <programme start="20260901213500 +0000" stop="20260901222500 +0000" channel="dr2.dk">
+    <title>Mysteriet om den forsvundne svindlerdronning (2:3)</title>
+    <desc>Britisk dokumentarserie fra 2023.
+(The Mystery of the Crypto Queen)
+OneCoin fortsætter sin eksplosive vækst.  Men efterhånden deltager Ruja sjældnere i offentlige arrangementer. Investorerne får at vide, at hun er på barselsorlov - og hendes bror, Konstantin, har overtaget rollen som OneCoins frontfigur i hendes fravær. Men i 2019 bliver Konstantin arresteret af FBI i Los Angeles. Nu er det store spørgsmål: Hvor er Ruja? Og hvor er de milliarder af dollars, OneCoin har tjent?</desc>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+  </programme>
+  <programme start="20260901222500 +0000" stop="20260901232000 +0000" channel="dr2.dk">
+    <title>Kontinenterne (2:6) Asien</title>
+    <desc>Tysk dokumentarserie fra 2023. 
+(Unsere Kontinente)
+Asien er et kontinent fuld af ekstremer: det koldeste sted på jorden, den seismisk mest aktive region og med de højeste bjerge. Over fire milliarder mennesker bor i Asien, som af flere kaldes civilisationens vugge. Himalayas monsunregn skaber livliner i form af de mægtige floder Yangtze, Ganges og Mekong. Vandet er perfekt for den plante, der har fremmet menneskelig udvikling: risplanten. Hvordan har naturen formet kulturen på kontinentet?</desc>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+  </programme>
+  <programme start="20260901232000 +0000" stop="20260902000000 +0000" channel="dr2.dk">
+    <title>Otte dage, der skabte Rom (3:8) Julius Cæsar går i krig</title>
+    <desc>Britisk dokumentarserie fra 2021.
+(8 Days That Made Rome)
+Han er den mest kendte romer gennem tiden. Udstyret med et knivskarpt intellekt og en stålsat ambition om at drive det vidt. Tag med Bettany Hughes, når hun undersøger en af de mest berømte dage i romersk historie, da Julius Cæsar krydsede floden Rubicon i 49 f.v.t. - i spidsen for sin uovervindelige hær. Et blodigt felttog, der slavegjorte hundredtusinder gallere og sendte ham på direkte kollisionskurs med hans rivaler og republikkens idealer. 
+-</desc>
+    <episode-num system="xmltv_ns">0.2.0</episode-num>
+  </programme>
+  <programme start="20260902000000 +0000" stop="20260902010000 +0000" channel="dr2.dk">
+    <title>Flådens historie (7:7)</title>
+    <desc>Søkort, kold krig og vilde Sørøvere.
+I dette sidste afsnit fortæller Kløvedal bl.a. om Slaget ved Helgoland i 1864 og om sænkningen af den danske flåde i 1943. Tidligere udenrigsminister Uffe Ellemann-Jensen fortæller om sin oplevelse af den Kolde Krig, og hvordan den var tæt på at blive varm. Vi er med, da det moderne krigsskib Absalon hjemvender fra piratjagt i Adenbugten med Kronborg om styrbord, og ombord fortæller Kronprins Frederik om sin store kærlighed til havet.</desc>
   </programme>
 </tv>
