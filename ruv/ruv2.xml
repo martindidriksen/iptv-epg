@@ -3,35 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260828173500 +0000" stop="20260828175000 +0000" channel="ruv2.is">
-    <title>Stofan</title>
-    <desc>Umfjallanir um leiki í undankeppni HM karla í körfubolta.
-
-Upphitun fyrir leik Serbíu og Íslands í undankeppni HM karla í körfubolta.</desc>
-  </programme>
-  <programme start="20260828175200 +0000" stop="20260828195200 +0000" channel="ruv2.is">
-    <title>Serbía - Ísland</title>
-    <desc>Leikir í undankeppni HM karla í körfubolta.
-
-Leikur Serbíu og Íslands í undankeppni HM karla í körfubolta.</desc>
-  </programme>
-  <programme start="20260828200300 +0000" stop="20260828202300 +0000" channel="ruv2.is">
-    <title>Stofan</title>
-    <desc>Umfjallanir um leiki í undankeppni HM karla í körfubolta.
-
-Uppgjör á leik Serbíu og Íslands í undankeppni HM karla í körfubolta.</desc>
-  </programme>
-  <programme start="20260828202700 +0000" stop="20260828205400 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
-  <programme start="20260828215600 +0000" stop="20260828224600 +0000" channel="ruv2.is">
-    <title>Vitjanir (with English subtitles)</title>
-    <sub-title>(5 af 8)</sub-title>
-    <desc>Icelandic drama series about Kristín, an emergency doctor who moves with her teenage daughter back to her parents' home in a small fishing village, following her own husband's affair. Kristín, who is grounded and rational, quickly realises she is out of her comfort zone communicating with her mother, a medium, and finds herself forced to look the ghosts of her past directly in the eye. Director: Eva Sigurðardóttir. Starring: Sara Dögg Ásgeirsdóttir, Helga E. Jónsdóttir, Katla Njálsdóttir, and Jói Jóhannsson. Not suitable for young children.
-
-Kristín has a lot to do when a group of people starts showing strange symptoms that bring her to suspect they have an infectious disease. At the same time, Ragnar is grappling with his feelings for Kristín.</desc>
-  </programme>
   <programme start="20260829190000 +0000" stop="20260829192000 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
@@ -85,5 +56,16 @@ Uppgjör á leik Íslands og Tyrklands í undankeppni HM karla í körfubolta.</
   <programme start="20260903190000 +0000" stop="20260903192700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260904190000 +0000" stop="20260904192700 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260904230000 +0000" stop="20260904235000 +0000" channel="ruv2.is">
+    <title>Vitjanir (with English subtitles)</title>
+    <sub-title>(6 af 8)</sub-title>
+    <desc>Icelandic drama series about Kristín, an emergency doctor who moves with her teenage daughter back to her parents' home in a small fishing village, following her own husband's affair. Kristín, who is grounded and rational, quickly realises she is out of her comfort zone communicating with her mother, a medium, and finds herself forced to look the ghosts of her past directly in the eye. Director: Eva Sigurðardóttir. Starring: Sara Dögg Ásgeirsdóttir, Helga E. Jónsdóttir, Katla Njálsdóttir, and Jói Jóhannsson. Not suitable for young children.
+
+Kristín has been putting off an important conversation with Ragnar. Precisely when she intends to have the talk, a large explosion rocks the local school and takes her full attention. The explosion causes great tension at home for Hanna.</desc>
   </programme>
 </tv>
