@@ -3,185 +3,6 @@
   <channel id="dr1.dk">
     <display-name>DR1</display-name>
   </channel>
-  <programme start="20260828234000 +0000" stop="20260829011500 +0000" channel="dr1.dk">
-    <title>Kriminalinspektør Banks: Kold er graven</title>
-    <desc>Engelsk krimi fra 2011.
-(DCI Banks: Cold is the Grave)
-Et tilsyneladende banalt biltyveri ender som en drabssag, da tyven senere findes skudt. Det bliver en opgave for Annie Cabbot, for Alan Banks får andet at se til. Politichefen Rydells rebelske teenagedatter, Emily, er stukket af til London. Rydell vil have Banks til at hente hende hjem til Yorkshire. Men Emily er kommet i uheldigt selskab, og sagen udvikler sig særdeles dramatisk.
-Alan Banks: Stephen Tompkinson.
-Annie Cabbot: Andrea Lowe.
-Gerry Rydell: Colin Tierney.
-Instruktion: Marek Losey.</desc>
-    <episode-num system="xmltv_ns">0.3.0</episode-num>
-  </programme>
-  <programme start="20260829011500 +0000" stop="20260829021500 +0000" channel="dr1.dk">
-    <title>Bjerget (3:12)</title>
-    <desc>Hvem når til toppen af Stetind? Det kræver ikke kun en stærk fysik at komme hele vejen - det kræver også stærke alliancer. Men hvem kan man egentlig stole på?
-Norsk realityserie fra 2024.
-(Vokteren)</desc>
-    <episode-num system="xmltv_ns">0.2.0</episode-num>
-  </programme>
-  <programme start="20260829021500 +0000" stop="20260829030500 +0000" channel="dr1.dk">
-    <title>Naturfotografen II (5:10)</title>
-    <desc>Norsk naturserie fra 2022. 
-(Fotobonden)
-Endelig skal Maj-Lena og hyrdehundene konkurrere. Ambitionerne er høje, men der venter ubehagelige overraskelser.</desc>
-    <episode-num system="xmltv_ns">1.4.0</episode-num>
-  </programme>
-  <programme start="20260829040500 +0000" stop="20260829043500 +0000" channel="dr1.dk">
-    <title>Solens mad (3:6)</title>
-    <desc>Vi skal med på en rejse til madens og vinens Italien, vi skal på besøg hos nogle af de mange bønder i landet, som ikke går på kompromis med den gode smag og som tilhører den stadigt voksende bevægelse af producenter, der har en stor forståelse for, at miljø, klima og bæredygtighed er hjørnesten i alle produkter. 
-Overgødning og miljøgifte har ødelagt mange af Europas indsøer. I dag skal vi til Trasimeno-søen i Umbrien, den fjerdestørste indsø i Italien. Her lever fiskere og bønder side om side, begge parter meget bevidste om at bevare vandet og jorden her i landets grønne hjerte.
-Nordvision fra Sverige.</desc>
-  </programme>
-  <programme start="20260829043500 +0000" stop="20260829051500 +0000" channel="dr1.dk">
-    <title>Alene i vildmarken USA XI (2:12)</title>
-    <desc>Amerikansk overlevelseseksperiment fra 2024.
-(Alone XI)
-Deltagerne oplever allerede et væld af udfordringer i det ukendte terræn. Én mister en livsvigtig genstand, mens en anden begiver sig ud på sit livs jagt.</desc>
-    <episode-num system="xmltv_ns">10.1.0</episode-num>
-  </programme>
-  <programme start="20260829051500 +0000" stop="20260829060000 +0000" channel="dr1.dk">
-    <title>Alene i vildmarken USA XI (3:12)</title>
-    <desc>Amerikansk overlevelseseksperiment fra 2024.
-(Alone XI)
-Vinteren rykker tættere på, og sulten begynder for alvor at sætte ind. Efter flere dage uden mad kæmper deltagerne desperat for at finde føde.</desc>
-    <episode-num system="xmltv_ns">10.2.0</episode-num>
-  </programme>
-  <programme start="20260829060000 +0000" stop="20260829061500 +0000" channel="dr1.dk">
-    <title>TVA</title>
-    <desc>Det er nu et døgn siden, at flagene gik på halv i Norge, og meldingen kom om, at kong Harald er død, og at kronprins Haakon er landets nye konge.
-
-TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260829061500 +0000" stop="20260829070500 +0000" channel="dr1.dk">
-    <title>Belgravia: Det næste kapitel (3:8)</title>
-    <desc>Britisk dramaserie fra 2024.
-(Belgravia: The Next Chapter)
-Frederick og Clara rejser til Maywood til hertugens fødselsdag. Bag kulisserne bliver der lavet handelsaftaler, men hertugen og hertuginden har deres egne grunde til turen. Samtidig arbejder Clara på at forbedre Fredericks forhold til James, hans bror.</desc>
-    <episode-num system="xmltv_ns">1.2.0</episode-num>
-  </programme>
-  <programme start="20260829070500 +0000" stop="20260829075047 +0000" channel="dr1.dk">
-    <title>Belgravia: Det næste kapitel (4:8)</title>
-    <desc>Britisk dramaserie fra 2024.
-(Belgravia: The Next Chapter)
-Benene er slået væk under Frederick efter hans brors besøg, og han klør på med sit arbejde i støberiet. Samtidig finder Clara trøst i en ny gruppe venner, som hun har fået gennem dr. Ellerby.</desc>
-    <episode-num system="xmltv_ns">1.3.0</episode-num>
-  </programme>
-  <programme start="20260829075102 +0000" stop="20260829075500 +0000" channel="dr1.dk">
-    <title>Vilde haver - gør det selv: Sådan indsamler du blomsterfrø i naturen</title>
-    <desc>Der er et hav af smukke vilde planter, som Blåhat, Lancet-Vejbred, Fin Kløver, der vokser i naturen og som insekterne lever godt af. Du kan købe frø på nettet og i specialbutikker, men allerbedst er det at tage på en udflugt i naturen og selv samle frø ind. Katrine Turner der er havedesigner og biolog viser her nogle tips og tricks til hvordan.</desc>
-    <episode-num system="xmltv_ns">0.9.0</episode-num>
-  </programme>
-  <programme start="20260829075500 +0000" stop="20260829092500 +0000" channel="dr1.dk">
-    <title>Vera: Skygger på himlen</title>
-    <desc>Engelsk krimiserie fra 2015.
-(Vera: Shadows in the Sky)
-Havnearbejderen og familiemennesket Owen Thorne styrter i døden fra taget af et parkeringshus. Sprang han, eller blev han skubbet? Kriminalinspektør Vera Stanhope går på jagt efter svaret.
-Vera Stanhope: Brenda Blethyn.</desc>
-    <episode-num system="xmltv_ns">4.3.0</episode-num>
-  </programme>
-  <programme start="20260829092500 +0000" stop="20260829100000 +0000" channel="dr1.dk">
-    <title>Hvad tror danskerne på: Karma, overtro eller Gud?</title>
-    <desc>Tobias Hamann slås med at tilgive fortidens synder, Niels Hausgaard føler sig ikke ren nok til at kaste den første (lille) sten, og Natasha Brock forlod troen på Gud, og kompenserer nu med Tarotkort. DR og Epinion har stillet danskerne en lang række spørgsmål om noget af det, vi sjældent deler med hinanden. Bodil Jørgensen, Umut Sakarya, Hella Joof og Özlem Cekic m.fl. omsætter de kolde tal og statistikker til personlige samtaler og et indblik i deres egen tro eller mangel på samme.</desc>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-  </programme>
-  <programme start="20260829100000 +0000" stop="20260829101500 +0000" channel="dr1.dk">
-    <title>TVA</title>
-    <desc>Det er nu et døgn siden, at flagene gik på halv i Norge, og meldingen kom om, at kong Harald er død, og at kronprins Haakon er landets nye konge.
-
-TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260829101500 +0000" stop="20260829105500 +0000" channel="dr1.dk">
-    <title>Kontant: Flextrafik på slingrekurs</title>
-    <desc>Fjernsynskiggeri på mobilen i fuld fart, et barn der bliver sat af flere kilometer fra sit hjem og endda en flexchauffør, der ikke kan fremvise kørekort. Borgere kommer alvorligt til skade, og andre beskriver, hvordan de sidder med hjertet oppe i halsen, når de kører med Flextrafik. I to programmer undersøger Jacob Kragelund flexmarkedet, hvor næsten alle kan starte et vognmandsfirma og tjene penge på at transportere samfundets svageste. 
-www.dr.dk/kontant</desc>
-    <episode-num system="xmltv_ns">2025.8.0</episode-num>
-  </programme>
-  <programme start="20260829105500 +0000" stop="20260829114000 +0000" channel="dr1.dk">
-    <title>Kontant: De fynske flex-konger</title>
-    <desc>Chauffører fra flexgiganten LS Busser, der har millionkontrakter med de offentlige trafikselskaber, står frem og fortæller om misligholdte biler med defekte bremser, dokumentfalsk og farlig kørsel med blandt andet borgere med handicap, der er tvunget til at benytte Flextrafik. Jacob Kragelund konfronterer den bedrageridømte ejer og spørger, hvad der foregår.
-www.dr.dk/kontant</desc>
-    <episode-num system="xmltv_ns">2025.9.0</episode-num>
-  </programme>
-  <programme start="20260829114000 +0000" stop="20260829124000 +0000" channel="dr1.dk">
-    <title>Optur (3:6) - Over grænsen i Sønderjylland</title>
-    <desc>Optur tager på indkøbstur i dagens første opgave. De tre hold skal alle over grænsen og købe hurtigst muligt ind. Her møder Victor Lander og Mikkel Klint Thorius sønderjyden Per, som skal vise sig at blive en kæmpe hjælp i hele aftenens program. Anne Sofie Skovlund Nielsen og Christian Fuhlendorff ender ved et tilfælde helt ude på landet, mens Neel Rønholt og Jesper Ole Feit Andersen får hjælp fra over 100 højskoleelever til dagens sidste opgave.</desc>
-    <episode-num system="xmltv_ns">0.2.0</episode-num>
-  </programme>
-  <programme start="20260829124000 +0000" stop="20260829131000 +0000" channel="dr1.dk">
-    <title>Giv os naturen tilbage II (7:8)</title>
-    <desc>Af banen for Frank Erichsen! Vejrabatterne skal summe af liv. Transportministeren giver Frank en rasteplads, som kan blive forbillede for hele motorvejsnettet. Og pludselig dukker Søren Ryge op.</desc>
-    <episode-num system="xmltv_ns">1.6.0</episode-num>
-  </programme>
-  <programme start="20260829131000 +0000" stop="20260829141000 +0000" channel="dr1.dk">
-    <title>Vilde eventyr (1)</title>
-    <desc>Rane har overlevet de vildeste steder i verden, men biller og kryb er han ikke glad for. For Vicky er det direkte modsat. De to opdagere er landet midt på Centralasiens uendelige stepper. For i Kirgisistan lever der stadig et stolt nomadefolk, som de har gjort i århundreder. Hvordan kan steppefolkenes liv bruges som inspiration til vores eget? Og hvordan føles det egentlig at blive jagtet af en kongeørn?</desc>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-  </programme>
-  <programme start="20260829141000 +0000" stop="20260829151000 +0000" channel="dr1.dk">
-    <title>Boligfix for nul og niks: Fra livskrise til børnelatter</title>
-    <desc>Kan man lave magiske børneværelser med rutchebane, hemmelige Narnia-huler og bolchestriber for nul og niks? I dette program besøger Sif og Rolf den hårdtprøvede, sønderjyske familie bestående af Anna-Lena, Jacob og deres tre børn. For tre år siden blev parrets ældste søn kørt ned af en bil, og siden da har alt stået stille. Derfor har familiens to yngste børn aldrig haft et børneværelse, men det vil Sif og Rolf lave om på nu, og på bare fem dage og uden budget laver de den vildeste forvandling.</desc>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-  </programme>
-  <programme start="20260829151000 +0000" stop="20260829160000 +0000" channel="dr1.dk">
-    <title>Belgravia: Det næste kapitel (5:8)</title>
-    <desc>Britisk dramaserie fra 2024.
-(Belgravia: The Next Chapter)
-Claras fascination af Stephen Ellerbys verden vokser, og hun træffer en dristig beslutning, som foruroliger Davison. Samtidig er James truet på grund af sit privatliv - mens Frederick er fast besluttet på at få del i markisens nye projekt.</desc>
-    <episode-num system="xmltv_ns">1.4.0</episode-num>
-  </programme>
-  <programme start="20260829155500 +0000" stop="20260829163000 +0000" channel="dr1.dk">
-    <title>Søren Vester bygger sommerhus (2:8): I mit hoved er vi faktisk færdige</title>
-    <desc>Søren Vester får ikke just stående applaus hos familie og venner, når de ser "sommerhuset" i Agger. Det er stadig mere en ruin end et byggeprojekt, og masser af arbejde presser på. For hos familien Vester er ferie lig med sved og hårdt arbejde - heldigvis krydret med masser af gode grin. 
-Midt i nedrivningen besøger Søren en endnu større ruin for at hente nogle kæmpestore bjælker hjem til Agger. De skal have nyt liv i hans nye køkkenalrum... om et års tid.
-Det er lang vej endnu, men Hey! Den første mur bliver bygget! Så kan elektrikerparret Ole og Jesper være nok så uimponerede, for NU går det fremad!</desc>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-  </programme>
-  <programme start="20260829163000 +0000" stop="20260829165000 +0000" channel="dr1.dk">
-    <title>TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260829165500 +0000" stop="20260829170000 +0000" channel="dr1.dk">
-    <title>Før søndagen: Vi pløjed og vi så'de</title>
-    <desc>"Vi pløjed og vi så'de" - Katrine Muff og Mathias Hammer introducerer ugens salme, og DR Vokalensemblet synger.
-I "Før søndagen" synger Muff, Hammer og DRs kor fra den store danske sang- og salmeskat, der er opbygget gennem århundreder.</desc>
-    <episode-num system="xmltv_ns">0.42.0</episode-num>
-  </programme>
-  <programme start="20260829170000 +0000" stop="20260829173000 +0000" channel="dr1.dk">
-    <title>Drømmen om et liv på landet (2:6)</title>
-    <desc>Norsk dokumentarserie fra 2023.
-(Drømmen om et Småbruk)
-Realiteterne begynder at gå op for familien. Huset er i så dårlig stand, at de bliver nødt til at rive det ned. Samtidig tænker de på fremtidig indtægt og bygger et drivhus.</desc>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-  </programme>
-  <programme start="20260829173000 +0000" stop="20260829180000 +0000" channel="dr1.dk">
-    <title>Løvens hule junior (2:6) Aldrig mere hundebæ under skoene!</title>
-    <desc>I Løvens Hule Junior vil Lilje redde vores sko fra ulækre hundelorte. Melvin Kakooza spår, at Maries robot bliver en del af en milliardindustri, mens Regitze Mogensen er totalt i chok over Jens. Hvad har han mon solgt 10.000 af?</desc>
-    <episode-num system="xmltv_ns">2.1.0</episode-num>
-  </programme>
-  <programme start="20260829180000 +0000" stop="20260829193000 +0000" channel="dr1.dk">
-    <title>De frivillige</title>
-    <desc>Dansk komediedrama fra 2019.
-Jetsetteren Markus varetægtsfængsles. Han får nogle rockere på nakken og går i frivillig isolation blandt de svageste indsatte. I denne afdeling af fængslet har de et fængselskor med Niels som selvudnævnt korleder. Markus beslutter at blive en del af koret, men der går ikke længe, før han ligger i åben kamp om pladsen i toppen af hierarkiet. Det er en kamp, der udkæmpes med list, tyranni og højskolesange.
-Medvirkende: Jacob Lohmann, Anders Matthesen, Christopher Læssø m.fl.
-Instruktion: Frederikke Aspöck.</desc>
-  </programme>
-  <programme start="20260829193000 +0000" stop="20260829210000 +0000" channel="dr1.dk">
-    <title>Vera: Mørk vej</title>
-    <desc>Engelsk krimiserie fra 2016.
-(Vera: Dark Road)
-En kvinde findes død på heden i det øde Nordøstengland. Det bliver en sag for den erfarne og ligefremme kriminalinspektør Vera Stanhope. Hendes efterforskning blotlægger et tragisk liv præget af hemmeligheder og løgne. Men hvem slog kvinden ihjel?
-Vera Stanhope: Brenda Blethyn.</desc>
-    <episode-num system="xmltv_ns">5.0.0</episode-num>
-  </programme>
-  <programme start="20260829210000 +0000" stop="20260829223000 +0000" channel="dr1.dk">
-    <title>Uforglemt: Mordet på Hayley Reid (1:3)</title>
-    <desc>Britisk krimiserie fra 2018.
-(Unforgotten)
-Skelettet af en ung kvinde bliver fundet i midterrabatten af en motorvej. Hvem var kvinden, og hvordan kom hun af dage? Politifolkene Cassie Stuart og Sunny Khan går på jagt efter svarene. Samtidig, rundt omkring i England, går livet videre for fire gamle skolekammerater. Ingen af dem aner, at de snart kommer i politiets søgelys.</desc>
-    <episode-num system="xmltv_ns">2.0.0</episode-num>
-  </programme>
   <programme start="20260829223500 +0000" stop="20260830004500 +0000" channel="dr1.dk">
     <title>Det bli'r ikke bedre</title>
     <desc>Oscarbelønnet amerikansk komediedrama fra 1997.
@@ -203,10 +24,6 @@ Annies fortid er blevet afsløret. Den sender efterforskningen ud i ukendt terri
 Norsk realityserie fra 2024.
 (Vokteren)</desc>
     <episode-num system="xmltv_ns">0.3.0</episode-num>
-  </programme>
-  <programme start="20260830024500 +0000" stop="20260830032000 +0000" channel="dr1.dk">
-    <title>Udsendelsesophør</title>
-    <desc>.</desc>
   </programme>
   <programme start="20260830040000 +0000" stop="20260830043000 +0000" channel="dr1.dk">
     <title>Solens mad (4:6)</title>
@@ -230,7 +47,9 @@ Vildmarken sætter deltagerne under konstant pres - og en enkelt fejl kan koste 
   </programme>
   <programme start="20260830060000 +0000" stop="20260830061500 +0000" channel="dr1.dk">
     <title>TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+    <desc>I Island tælles der stadig stemmer efter lørdagens folkeafstemning om at gentage forhandlinger om EU-medlemskab. Og der er stort set dødt løb mellem ja- og nej siden.
+
+TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
   </programme>
   <programme start="20260830061500 +0000" stop="20260830070500 +0000" channel="dr1.dk">
     <title>Mennesket (3:5)</title>
@@ -256,17 +75,14 @@ Realiteterne begynder at gå op for familien. Huset er i så dårlig stand, at d
     <desc>Gudstjenesten transmitteres via fastmonterede kameraer i kirken.</desc>
     <episode-num system="xmltv_ns">2025.14.0</episode-num>
   </programme>
-  <programme start="20260830090000 +0000" stop="20260830094000 +0000" channel="dr1.dk">
+  <programme start="20260830091000 +0000" stop="20260830095500 +0000" channel="dr1.dk">
     <title>Huse med hemmeligheder - Fredet etageejendom i København</title>
     <desc>I en menneskealder har Poul og Margaretha ejet den fredede ejendom fra 1853 i Sølvgade. Arkitekt Ane Cortzen finder ud af, at der både skal gammelt håndværk og ny rumforskningsteknolgi til for at komme i mål med den omfattende renovering, som parret har givet sig i kast med. Husets historie hænger sammen med udryddelsen af kolera, så journalist Morten brink Iwersen må en tur i kloakken.</desc>
     <episode-num system="xmltv_ns">0.4.0</episode-num>
   </programme>
-  <programme start="20260830094000 +0000" stop="20260830100000 +0000" channel="dr1.dk">
-    <title>Syng med Puk og Claus</title>
-    <desc>I forlængelse af tv-serien "Demenskoret" inviterer Puk Elgård og Claus Christensen personer med en demensdiagnose til at synge sammen med dem. Håbet er, at også pårørende og plejepersonale vil synge med, så diagnosen for en stund viger for ægte sangglæde og fællesskabsfølelse. Hvert program indeholder stemmeopvarmning og 3 kendte danske sange.
-"I en lille båd der gynger." " Køb bananer." "Er du dus med himlens fugle."
-Sanghæftet kan hentes på dr.dk/demens</desc>
-    <episode-num system="xmltv_ns">0.2.0</episode-num>
+  <programme start="20260830095500 +0000" stop="20260830100000 +0000" channel="dr1.dk">
+    <title>Nul stjerner - Smager lokale delikatesser</title>
+    <desc>.</desc>
   </programme>
   <programme start="20260830100000 +0000" stop="20260830101500 +0000" channel="dr1.dk">
     <title>TVA</title>
@@ -286,7 +102,7 @@ Norsk realityserie fra 2024.
 (Vokteren)</desc>
     <episode-num system="xmltv_ns">0.5.0</episode-num>
   </programme>
-  <programme start="20260830122000 +0000" stop="20260830125000 +0000" channel="dr1.dk">
+  <programme start="20260830121500 +0000" stop="20260830125000 +0000" channel="dr1.dk">
     <title>Søren Vester bygger sommerhus (2:8): I mit hoved er vi faktisk færdige</title>
     <desc>Søren Vester får ikke just stående applaus hos familie og venner, når de ser "sommerhuset" i Agger. Det er stadig mere en ruin end et byggeprojekt, og masser af arbejde presser på. For hos familien Vester er ferie lig med sved og hårdt arbejde - heldigvis krydret med masser af gode grin. 
 Midt i nedrivningen besøger Søren en endnu større ruin for at hente nogle kæmpestore bjælker hjem til Agger. De skal have nyt liv i hans nye køkkenalrum... om et års tid.
@@ -298,7 +114,7 @@ Det er lang vej endnu, men Hey! Den første mur bliver bygget! Så kan elektrike
     <desc>Kvas er haveaffald, der normalt ender på genbrugsstationen. Men hvorfor ikke spare køreturen, og anvende dit kvas som fødekilder og skjulesteder for insekter og dyr i din have. I dette program viser havedesigner og biolog Katrine Turner, hvordan du selv kan lave et kvashegn og kvasbunker, så insekter og dyr får de bedste betingelser for at leve.</desc>
     <episode-num system="xmltv_ns">0.5.0</episode-num>
   </programme>
-  <programme start="20260830130000 +0000" stop="20260830151000 +0000" channel="dr1.dk">
+  <programme start="20260830125500 +0000" stop="20260830151000 +0000" channel="dr1.dk">
     <title>Det bli'r ikke bedre</title>
     <desc>Oscarbelønnet amerikansk komediedrama fra 1997.
 (As Good as It Gets)
@@ -324,7 +140,7 @@ Undervejs forsøger de at holde styr på velfærdsstat, køkkenmaskiner og mærk
     <title>TVA</title>
     <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
   </programme>
-  <programme start="20260830165800 +0000" stop="20260830170500 +0000" channel="dr1.dk">
+  <programme start="20260830170000 +0000" stop="20260830170500 +0000" channel="dr1.dk">
     <title>Vilde vidunderlige Danmark - Knopsvanen</title>
     <desc>En knopsvanehan er på jagt efter en mage. Og da knopsvaner ofte danner par for livet, er det vigtigt at finde den helt rette. Men for at gøre det, må han både igennem kamp og yndefuld parringsdans.</desc>
   </programme>
@@ -344,7 +160,7 @@ BBC-dokumentarserie fra 2025.
     <title>TVA</title>
     <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
   </programme>
-  <programme start="20260830191500 +0000" stop="20260830194500 +0000" channel="dr1.dk">
+  <programme start="20260830191000 +0000" stop="20260830194500 +0000" channel="dr1.dk">
     <title>Sportsmagasinet</title>
     <desc>Sportsmagasinet bringer dig helt tæt på de største danske sportsnavne, viser dig det bedste fra Superligaen og giver perspektiv på de største historier og begivenheder i både dansk og international sport.</desc>
   </programme>
@@ -360,7 +176,7 @@ Hvem er Arthur Knight? En kikset, intellektuel nørd? En Harvarduddannet lobbyis
     <desc>Jomfruen Andreas kommer på sin sværeste opgave hidtil, da han skal røre ved en kvinde på intime steder. Men først skal han på en date og tage det endelige opgør med det værste øjeblik i sit hidtidige datingliv.</desc>
     <episode-num system="xmltv_ns">0.2.0</episode-num>
   </programme>
-  <programme start="20260830210500 +0000" stop="20260830215000 +0000" channel="dr1.dk">
+  <programme start="20260830210000 +0000" stop="20260830215000 +0000" channel="dr1.dk">
     <title>Nattog mod døden (6:6)</title>
     <desc>Britisk thrillerserie fra 2024.
 (Nightsleeper)
@@ -378,14 +194,14 @@ Särsö samles til den årlige fest til ære for havet. Men efter Dannes død er
     <desc>Hvordan påvirker det unges forhold til sex at have været eksponeret for alle slags onlineporno i en tidlig alder? Hvad sker der med unges sexliv, grænser og intimitet, når virkeligheden begynder at ligne det, de har lært online? I en række interviews fortæller unge åbent om deres oplevelser med porno og seksuelle erfaringer.</desc>
     <episode-num system="xmltv_ns">0.1.0</episode-num>
   </programme>
-  <programme start="20260830232000 +0000" stop="20260831010000 +0000" channel="dr1.dk">
+  <programme start="20260830231500 +0000" stop="20260831005500 +0000" channel="dr1.dk">
     <title>Beck: På tynd is</title>
     <desc>Svensk krimi fra 2018.
 (Beck - Den tunna isen)
 Den afholdte træner for ishockeyklubbens juniorer findes knivmyrdet. Har mordet noget at gøre med hans sideprojekt - at lære unge flygtninge at stå på skøjter? Et virke, som langt fra alle i den lille forstad sætter pris på. Det bliver en sag for Martin Beck, der netop er vendt tilbage til politiet i en højere stilling.</desc>
     <episode-num system="xmltv_ns">5.1.0</episode-num>
   </programme>
-  <programme start="20260831010000 +0000" stop="20260831023000 +0000" channel="dr1.dk">
+  <programme start="20260831005500 +0000" stop="20260831023000 +0000" channel="dr1.dk">
     <title>Kriminalinspektør Banks:  Efterspil</title>
     <desc>Engelsk krimi fra 2010.
 (DCI Banks: Aftermath)
@@ -401,7 +217,7 @@ Instruktion: James Hawes.</desc>
     <desc>Nogle af Storbritanniens mest kendte antikvitetseksperter slår sig sammen med en række kendisser i jagten på antikviteter og loppemarkedsfund. Hvilket hold kan skabe den største fortjeneste?</desc>
     <episode-num system="xmltv_ns">11.19.0</episode-num>
   </programme>
-  <programme start="20260831033000 +0000" stop="20260831040000 +0000" channel="dr1.dk">
+  <programme start="20260831032500 +0000" stop="20260831040000 +0000" channel="dr1.dk">
     <title>Udsendelsesophør</title>
     <desc>.</desc>
   </programme>
@@ -1239,7 +1055,8 @@ Särsö forbereder sig på den store Live Aid-aften. Men under overfladen vokser
   </programme>
   <programme start="20260904192500 +0000" stop="20260904195500 +0000" channel="dr1.dk">
     <title>Kommissionen</title>
-    <desc>Ny sæson af DR's aktuelle satireflagskib, Kommissionen, hvor Simon Talbot og et skarpt hold af journalister og komikere undersøger magtens hykleri og de absurde men væsentlige detaljer i ugens vigtigste historier.  I denne nye sæson består Kommissionen af Adnan Al-Adhami, Jacob Weil, Helin Erdem, August Stenbroen, Cecilie Bau, Anders Hoppe, Michael 'MC' Christiansen og selvfølgelig Simon Talbot.</desc>
+    <desc>Ny sæson af DR's aktuelle satireflagskib, Kommissionen, hvor Simon Talbot og et skarpt hold af journalister og komikere undersøger magtens hykleri og de absurde men væsentlige detaljer i ugens vigtigste historier. 
+I denne nye sæson består Kommissionen af Adnan Al-Adhami, Jacob Weil, Helin Erdem, August Stenbroen, Cecilie Bau, Anders Hoppe, Michael 'MC' Christiansen og selvfølgelig Simon Talbot.</desc>
     <episode-num system="xmltv_ns">2025.7.0</episode-num>
   </programme>
   <programme start="20260904195500 +0000" stop="20260904214500 +0000" channel="dr1.dk">
@@ -1267,5 +1084,180 @@ Helen Morton: Caroline Catz.
 Winsome Jackman: Lorraine Burroughs.
 Instruktion: Mat King.</desc>
     <episode-num system="xmltv_ns">1.2.0</episode-num>
+  </programme>
+  <programme start="20260905011500 +0000" stop="20260905021500 +0000" channel="dr1.dk">
+    <title>Bjerget (5:12)</title>
+    <desc>Hvem kan man stole på, når alt er på spil? Da vogteren introducerer den vildeste udfordring, er det vigtigt at holde sine venner tæt - men sine fjender endnu tættere.
+Norsk realityserie fra 2024.
+(Vokteren)</desc>
+    <episode-num system="xmltv_ns">0.4.0</episode-num>
+  </programme>
+  <programme start="20260905021500 +0000" stop="20260905025500 +0000" channel="dr1.dk">
+    <title>Naturfotografen II (9:10)</title>
+    <desc>Norsk naturserie fra 2022. 
+(Fotobonden) 
+Jostein tager et opgør med noget, som har plaget dem, helt siden de fulgte drømmen og flyttede til Døli.</desc>
+    <episode-num system="xmltv_ns">1.8.0</episode-num>
+  </programme>
+  <programme start="20260905025500 +0000" stop="20260905033000 +0000" channel="dr1.dk">
+    <title>Udsendelsesophør</title>
+    <desc>.</desc>
+  </programme>
+  <programme start="20260905040000 +0000" stop="20260905043000 +0000" channel="dr1.dk">
+    <title>Solens mad (5:6)</title>
+    <desc>Vi skal igen på en rejse til madens og vinens Italien, vi skal på besøg hos nogle af de mange bønder i landet, som ikke går på kompromis med den gode smag og som tilhører den stadigt voksende bevægelse af producenter, der har en stor forståelse for, at miljø, klima og bæredygtighed er hjørnesten i alle produkter. 
+I dette femte afsnit skal vi besøge den lille by Madonna degli Angeli, en by på Sabinerbjerget nord for Rom. Her ligger en kro, hvor alle råvarer, der bruges i køkkenet, hentes fra små lokale producenter i byen og altså ikke har belastet miljøet med lange transporter. Der er dog én ting, der hentes udefra: Opvaskemidlet. 
+Nordvision fra Sverige.</desc>
+  </programme>
+  <programme start="20260905043000 +0000" stop="20260905051500 +0000" channel="dr1.dk">
+    <title>Alene i vildmarken USA XI (6:12)</title>
+    <desc>Amerikansk overlevelseseksperiment fra 2024.
+(Alone XI)
+Vildmarken tærer på deltagerne - og de lader alle til at være tæt på et sammenbrud. En deltager finder trøst i sandheden, mens en anden stadig bliver jagtet af et snedigt rovdyr.</desc>
+    <episode-num system="xmltv_ns">10.5.0</episode-num>
+  </programme>
+  <programme start="20260905051500 +0000" stop="20260905060000 +0000" channel="dr1.dk">
+    <title>Alene i vildmarken USA XI (7:12)</title>
+    <desc>Amerikansk overlevelseseksperiment fra 2024.
+(Alone XI)
+Lysten til at tage hjem vokser. Mens en deltager endelig får sin chance for storvildt, bliver en anden overrumplet af en falsk følelse af sikkerhed.</desc>
+    <episode-num system="xmltv_ns">10.6.0</episode-num>
+  </programme>
+  <programme start="20260905060000 +0000" stop="20260905061500 +0000" channel="dr1.dk">
+    <title>TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260905061500 +0000" stop="20260905070500 +0000" channel="dr1.dk">
+    <title>Belgravia: Det næste kapitel (5:8)</title>
+    <desc>Britisk dramaserie fra 2024.
+(Belgravia: The Next Chapter)
+Claras fascination af Stephen Ellerbys verden vokser, og hun træffer en dristig beslutning, som foruroliger Davison. Samtidig er James truet på grund af sit privatliv - mens Frederick er fast besluttet på at få del i markisens nye projekt.</desc>
+  </programme>
+  <programme start="20260905070500 +0000" stop="20260905080000 +0000" channel="dr1.dk">
+    <title>Belgravia: Det næste kapitel (6:8)</title>
+    <desc>Britisk dramaserie fra 2024.
+(Belgravia: The Next Chapter)
+Emily konfronterer Clara angående maleriet. Hun er bekymret for den skandale, det kan bibringe familien. Frederick går videre med sin investering i sølvminen, men Ross begynder at blive mistænksom over for markisen.</desc>
+  </programme>
+  <programme start="20260905080000 +0000" stop="20260905093000 +0000" channel="dr1.dk">
+    <title>Vera: Mørk vej</title>
+    <desc>Engelsk krimiserie fra 2016.
+(Vera: Dark Road)
+En kvinde findes død på heden i det øde Nordøstengland. Det bliver en sag for den erfarne og ligefremme kriminalinspektør Vera Stanhope. Hendes efterforskning blotlægger et tragisk liv præget af hemmeligheder og løgne. Men hvem slog kvinden ihjel?
+Vera Stanhope: Brenda Blethyn.</desc>
+    <episode-num system="xmltv_ns">5.0.0</episode-num>
+  </programme>
+  <programme start="20260905093000 +0000" stop="20260905100000 +0000" channel="dr1.dk">
+    <title>Eventyr i blinde (1:5) Rejsen begynder i Marseille</title>
+    <desc>Fem blinde danskere begynder deres rejse i storbyen Marseille, og allerede fra start begynder udfordringerne at melde sig, når de skal finde deres værelser på hotellet. Cæcilie drømmer om at opleve det pulserende madmarked, mens Edis vil invitere de andre til et slag petanque.</desc>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+  </programme>
+  <programme start="20260905100000 +0000" stop="20260905101500 +0000" channel="dr1.dk">
+    <title>TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260905101500 +0000" stop="20260905111500 +0000" channel="dr1.dk">
+    <title>Optur (4:6) - Høj bølgegang på Fyn</title>
+    <desc>Jagten på Andersen er gået ind på Fyn. Men, hvor mange kan man egentlig finde med efternavnet? Og hvor gemmer de sig henne? Holdene skal også improvisere over et H.C. Andersen eventyr, og så stævner de ud i det sydfynske øhav, hvor passagerne på udvalgte overfarter bliver vidne til både en kapring på åbent hav, et spil bølger og banko samt en bryllupsfest helt ud over det sædvanlige.</desc>
+    <episode-num system="xmltv_ns">0.3.0</episode-num>
+  </programme>
+  <programme start="20260905111500 +0000" stop="20260905113500 +0000" channel="dr1.dk">
+    <title>Alt forladt - Taarbæk fort</title>
+    <desc>Dansk dokumentar fra 2013
+Et sted i Dyrehaven ligger et glemt og forladt militært fort, som ingen har været inde i over 40 år. Myterne fortæller, at fortet er fyldt med gamle militære køretøjer. De to Urban Explorers Jan Elhøj og Morten Kirckhoff udforsker forladte steder og fotograferer dem, men her er de nødt til at få hjælp af en rendegraver, fordi der skal graves otte meter ned for at finde indgangen.
+Tilrettelæggelse: Morten Steenstrup
+Sendt første gang 08.01.13</desc>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+  </programme>
+  <programme start="20260905114000 +0000" stop="20260905124000 +0000" channel="dr1.dk">
+    <title>Vilde eventyr (2)</title>
+    <desc>Hedenske guder, bundløse moser og gigantiske rovdyr. Det er, hvad antropolog Rane Willerslev og biolog Vicky Knudsen har i vente, når de sætter deres ben i Estland. Landet, der på mange måder ligner Danmark, men som er meget, meget vildere. Tag med på en rejse tilbage i tiden gennem ufremkommelige urskove, isolerede øsamfund, før-kristne ritualer og naturens mystik.</desc>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+  </programme>
+  <programme start="20260905124000 +0000" stop="20260905134000 +0000" channel="dr1.dk">
+    <title>Gift ved første blik (1:7) High-risk, high-reward!</title>
+    <desc>Advokaten Line får hurtigt afklaret, om hendes mand mon vil have flere børn, imens Torben aka. Bubbi leder efter den brik, der mangler i sit puslespil. Hos Michael skal puderne have nogle bank. Jesper går all in og tænker: High-risk, high-reward. Alle par støttes af psykolog Trine Hjorth Bønnerup, der i år får selskab af psykologkollegaen Mattias Stølen Due.</desc>
+    <episode-num system="xmltv_ns">11.0.0</episode-num>
+  </programme>
+  <programme start="20260905134000 +0000" stop="20260905151000 +0000" channel="dr1.dk">
+    <title>De frivillige</title>
+    <desc>Dansk komediedrama fra 2019.
+Jetsetteren Markus varetægtsfængsles. Han får nogle rockere på nakken og går i frivillig isolation blandt de svageste indsatte. I denne afdeling af fængslet har de et fængselskor med Niels som selvudnævnt korleder. Markus beslutter at blive en del af koret, men der går ikke længe, før han ligger i åben kamp om pladsen i toppen af hierarkiet. Det er en kamp, der udkæmpes med list, tyranni og højskolesange.
+Medvirkende: Jacob Lohmann, Anders Matthesen, Christopher Læssø m.fl.
+Instruktion: Frederikke Aspöck.</desc>
+  </programme>
+  <programme start="20260905151000 +0000" stop="20260905160000 +0000" channel="dr1.dk">
+    <title>Belgravia: Det næste kapitel (7:8)</title>
+    <desc>Britisk dramaserie fra 2024.
+(Belgravia: The Next Chapter)
+Rygterne omkring Clara og Stephen florerer i Belgravia. Det føles, som om det kun er et spørgsmål om tid, før de når Frederick. Ross får ny information om markisen og øjner en mulighed.</desc>
+  </programme>
+  <programme start="20260905160000 +0000" stop="20260905163000 +0000" channel="dr1.dk">
+    <title>Søren Vester bygger sommerhus (3:8): Dansende tømrersvende i tanktops</title>
+    <desc>Der er dansende tømrersvende i tanktops på spærene i Agger, når Søren samler nogle af landets bedste hænder for at rette taget op og forvandle hans store genbrugsbjælker til spær i køkkenalrummet. Det kræver præcision, samarbejde og pandelamper for at nå i mål. 
+På trods af lange dage, og voksenmobning af entreprenør-vennen Bugge, er der overskud til morgensang og dannebrog i flagstangen, når snedkeren Freja fejrer sin 30-års fødselsdag sammen med gutterne.</desc>
+    <episode-num system="xmltv_ns">0.2.0</episode-num>
+  </programme>
+  <programme start="20260905163000 +0000" stop="20260905165000 +0000" channel="dr1.dk">
+    <title>TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260905165000 +0000" stop="20260905170000 +0000" channel="dr1.dk">
+    <title>Før søndagen: Du, som har tændt millioner af stjerner</title>
+    <desc>"Du, som har tændt millioner af stjerner" - Katrine Muff og Mathias Hammer introducerer ugens salme, og DR Børnekoret synger.
+I "Før søndagen" synger Muff, Hammer og DRs kor fra den store danske sang- og salmeskat, der er opbygget gennem århundreder.</desc>
+    <episode-num system="xmltv_ns">0.43.0</episode-num>
+  </programme>
+  <programme start="20260905165700 +0000" stop="20260905170500 +0000" channel="dr1.dk">
+    <title>Vilde vidunderlige Danmark - Husmåren</title>
+    <desc>Et af skovens mindre dyr er på jagt efter mad, og på denne dag bliver det med livet som indsats. Men husmåren vover pelsen og forsøger at stjæle æg fra musvågens rede.</desc>
+  </programme>
+  <programme start="20260905170500 +0000" stop="20260905173000 +0000" channel="dr1.dk">
+    <title>Drømmen om et liv på landet (3:6)</title>
+    <desc>Norsk dokumentarserie fra 2023.
+(Drømmen om et Småbruk)
+Hvis familien skal kunne forsørge sig af at dyrke økologiske grønsager, må markerne ordnes. Ida er bange for, at kvaliteten af jorden er for dårlig både ude og inde i drivhuset. Ungerne får hjælp af hunden Simba til at rydde sten væk.</desc>
+    <episode-num system="xmltv_ns">0.2.0</episode-num>
+  </programme>
+  <programme start="20260905173000 +0000" stop="20260905180000 +0000" channel="dr1.dk">
+    <title>Løvens hule junior (3:6) Ping-Pong for evigt</title>
+    <desc>I Løvens hule junior får Christian Stadil kuldegysninger over 12-årige Axel, der deler ud af sine skarpe investeringstips. Og kan Anna Munch og Melvin Kakooza overhovedet finde ud af at spille bordtennis?</desc>
+    <episode-num system="xmltv_ns">2.2.0</episode-num>
+  </programme>
+  <programme start="20260905180000 +0000" stop="20260905193000 +0000" channel="dr1.dk">
+    <title>Den store bagedyst (1:9) - Premierenerver og nye boller på suppen</title>
+    <desc>Det er 10 ekstra spændte deltagere, som i år indtager bagedystteltet. For første gang indfører Den store bagedyst nemlig 'Farezonen' - en elimineringsrunde, hvor deltagerne, som har klaret sig dårligst, skal dyste om at blive i konkurrencen. De fem mænd og fem kvinder skal i ugevis bage sig igennem temaer som Storbritannien, halloween, bær og pynteteknik, fødselsdag, og et ekstra overraskende tema. Igennem sæsonen kommer der masser af erfarne og kageglade gæster fra både ind- og udland. Allerede her i premiereprogrammet skal den første deltager forlade programmet.</desc>
+    <episode-num system="xmltv_ns">14.0.0</episode-num>
+  </programme>
+  <programme start="20260905193000 +0000" stop="20260905210000 +0000" channel="dr1.dk">
+    <title>Vera: Tirsdagsbarn</title>
+    <desc>Engelsk krimiserie fra 2016.
+(Vera: Tuesday's Child)
+Liget af en ung mand findes smidt i en hule i en skov, hvor teenagere kommer for at feste. Sporene fører kriminalinspektør Vera Stanhope til et tivoli - og til et lokalt præstepar.
+Vera Stanhope: Brenda Blethyn.</desc>
+    <episode-num system="xmltv_ns">5.1.0</episode-num>
+  </programme>
+  <programme start="20260905210000 +0000" stop="20260905223000 +0000" channel="dr1.dk">
+    <title>Uforglemt: Mordet på Hayley Reid (2:3)</title>
+    <desc>Britisk krimiserie fra 2018.
+(Unforgotten)
+Liget af teenagepigen Hayley er blevet fundet efter 18 år. Cassie Stuart og Sunny Khan afhører de fire gamle skolekammerater, der havde lejet feriehuset The Spinney omkring det tidspunkt, hvor Hayley forsvandt. Kvartettens forklaringerne synes at stemme overens - måske lidt endda for godt.</desc>
+  </programme>
+  <programme start="20260905223000 +0000" stop="20260905233000 +0000" channel="dr1.dk">
+    <title>Shetland IX (4:6)</title>
+    <desc>Britisk krimiserie fra 2024.
+Ude af sig selv foretager Patrick Harris et desperat nødopkald til kystvagten. Samtidig skaffer Tosh og Calder en kendelse til at ransage anlægget ved kysten. Netop som de afslører anlæggets virkelige formål, forsvinder den sårbare Astrid Jakobson.</desc>
+    <episode-num system="xmltv_ns">8.3.0</episode-num>
+  </programme>
+  <programme start="20260905233000 +0000" stop="20260906010000 +0000" channel="dr1.dk">
+    <title>Kriminalinspektør Banks: Onsdagsbarn</title>
+    <desc>Engelsk krimi fra 2014.
+(DCI Banks: Wednesday's Child)
+Katy Heath opsøges af en mand og en kvinde, der hævder, at de er socialarbejdere. Parret fortæller, at de er nødt til at tage hendes 11-årige søn Kyle med sig. Da Kyle ikke vender hjem igen, kontakter Katy politiet. Myndighederne kender ikke noget til det mystiske par. Kyle er tilsyneladende blevet bortført, men hvorfor? Kriminalinspektør Alan Banks går på jagt efter svaret.
+Alan Banks: Stephen Tompkinson.
+Annie Cabbot: Andrea Lowe.
+Helen Morton: Caroline Catz.
+Instruktion: Bill Eagles.</desc>
+    <episode-num system="xmltv_ns">2.0.0</episode-num>
   </programme>
 </tv>

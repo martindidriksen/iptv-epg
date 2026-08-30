@@ -3,31 +3,6 @@
   <channel id="kvf.fo">
     <display-name>KVF</display-name>
   </channel>
-  <programme start="20260829180000 " stop="20260829184000 " channel="kvf.fo">
-    <title>Tá røktin ikki røkkur</title>
-    <sub-title>- føroyskur dokumentarur</sub-title>
-    <desc>Eldraøkið er undir trýsti. Stórur tørvur er á røktarstarvsfólki, og tað hevur avleiðingar fyri bæði starvsfólk og búfólk. Um onki verður gjørt, fer trýstið at økjast, tí talið av eldri fer at vaksa nógv næstu árini. Í sendingini fylgja vit millum annað avvarandi og nøkrum av teimum, sum starvast í eldrarøktini.</desc>
-  </programme>
-  <programme start="20260829184000 " stop="20260829191500 " channel="kvf.fo">
-    <title>Úr savninum: Kendir føroyingar: Sámal Joensen-Mikines 1:2</title>
-    <sub-title>- føroysk dokumentar stuttrøð</sub-title>
-    <desc>Mong hildu Mikines vera eitt flogvit. Hann hevði gávur at gerast rithøvundur ella tónleikari, men hann gjørdist myndlistamaður. Og hann var errin av sínu støðu sum tann fyrsti professionelli  ? og størsti ? málarin, ið Føroyar høvdu fostrað. Hann málaði angistina, sorgina og saknin, sum føroyingar kendu í fyrru helvt av 20 øld. Málningarnir gjørdust partur av føroyska samleikanum. Hóast listarliga undangongu, so var Mikines í long tíðarskeið illa darvaður av sjúku. Hann var ringur av psoriasis, og húðin datt við jøvnum millumbilum av honum. Hartil hevði hann eitt trupult sinni, sum at enda fekk bilbugt við hann. Fyrri partur er um tíðarskeiðið fram til 1945, tá Mikines eftir kríggið flytur aftur til Føroyar. Lagt til rættis: Ivan Hentze Niclasen. Fotograferað og klipt: Hans Petur Hansen.</desc>
-  </programme>
-  <programme start="20260829191500 " stop="20260829202000 " channel="kvf.fo">
-    <title>Anne og Anders í Norðurlondum 4:6</title>
-    <sub-title>- Grønland</sub-title>
-    <desc>Kom við Anne Hjernøe og Anders Agger á ævintýrkenda ferð í Norðurlondum. Anne og Anders koma til Qeqertarsuaq á Diskooynni í rættari tíð. Veitsla er fyri nýggjum skúlanæmingum í fyrsta flokki. Og so vitja tey bæði ferðandi heimsins elstu arktisku granskingarstøð og síggja Grønland, sum á ymiskan hátt er í broyting.</desc>
-  </programme>
-  <programme start="20260829202000 " stop="20260829211000 " channel="kvf.fo">
-    <title>Ongan panikk</title>
-    <sub-title>- danskt undirhald (1:7)</sub-title>
-    <desc>Tú stendur aftan fyri eina læsta hurð, men tá hurðin verður latin upp, og tú fert inn, veitst tú ikki, hvat bíðar tær. Hví verður Rasmus Wallbridge so rørdur hjá parterapeutinum, og hvussu klárar Neel Rønholt eina ódn, tá sent verður beinleiðis? Í improvisatión má ein ikki siga nei ? kanska er tað tí, at fýra stuttligir og kendir danir hava sagt ja til at improvisera seg ígjøgnum heilt ørar støður. Luttakarar: Rasmus Wallbridge, Neel Rønholt, Jonas Mogensen og Johanne Milland. Vertur: Hadi Ka-Koush. Framleiðsluár: 2026 Framleitt fyri: TV 2 DANMARK</desc>
-  </programme>
-  <programme start="20260829211000 " stop="20260830070000 " channel="kvf.fo">
-    <title>Songbird</title>
-    <sub-title>- am. spenningsfilmur frá 2020, óhósk. fyri børn</sub-title>
-    <desc>Covid-23-virusið er broytt og heimurin er nú á fjórða ári við útihýsing. Amerikanarar, sum eru smittaðir, verða handtiknir og noyddir inn í sóttarhaldslegur, sum verða nevndar Q-sonur. Eitt av teimum fáu fólkunum, sum kann ferðast frítt, er Nico (KJ Apa), sum er mótstøðuførur móti tí vandamikla virusinum. Hann hittir Sara (Sofia Carson), sum hann verður forelskaður í. Tá myndugleikarnir halda, at Sara er vorðin smittað, má Nico royna at bjarga henni frá sóttarhaldinum. Upprunaheiti: Songbird Framleiðsluár: 2020 Aldursmark: 15</desc>
-  </programme>
   <programme start="20260830070000 " stop="20260830072400 " channel="kvf.fo">
     <title>MORSA 4:11</title>
     <sub-title>- føroysk barnarøð frá 2017</sub-title>
@@ -274,7 +249,36 @@
     <title>Dagur og vika</title>
     <sub-title>- við teksti</sub-title>
   </programme>
-  <programme start="20260904225500 " stop="20260904235500 " channel="kvf.fo">
+  <programme start="20260904225500 " stop="20260905180000 " channel="kvf.fo">
     <title>Veðrið</title>
+  </programme>
+  <programme start="20260905180000 " stop="20260905190000 " channel="kvf.fo">
+    <title>Anne og Anders í Norðurlondum 4:6</title>
+    <sub-title>- Grønland</sub-title>
+    <desc>Kom við Anne Hjernøe og Anders Agger á ævintýrkenda ferð í Norðurlondum. Anne og Anders koma til Qeqertarsuaq á Diskooynni í rættari tíð. Veitsla er fyri nýggjum skúlanæmingum í fyrsta flokki. Og so vitja tey bæði ferðandi heimsins elstu arktisku granskingarstøð og síggja Grønland, sum á ymiskan hátt er í broyting.</desc>
+  </programme>
+  <programme start="20260905190000 " stop="20260905195000 " channel="kvf.fo">
+    <title>Ongan panikk</title>
+    <sub-title>- danskt undirhald (2:7)</sub-title>
+    <desc>Hvat hendir, tá tú gevur Mia Lyhne eina lødda pistól? Og hvussu klárar Jesper Groth seg við einum skóm við tám í? Í ?Impro? er einki givið frammanundan, og tí kann alt ganga galið, tá fýra stuttligir danir brádliga hava verið ov leingi á innlandsísinum og royna at ræna ein banka í djóragrímum. Luttakarar: Sara Grünewald, Martin Høgsted, Mia Lyhne og Jesper Groth. Vertur: Hadi Ka-Koush. Framleiðsluár: 2026 Framleitt fyri: TV 2 DANMARK</desc>
+  </programme>
+  <programme start="20260905195000 " stop="20260905201500 " channel="kvf.fo">
+    <title>Úr savninum: Í luftini við Danny</title>
+    <desc>Í luftini er sjónvarpsrøð við tónleiki og práti úr Kringvarpshøllini. Í sendingini tosa vit við fløguaktuellar tónleikarar, og tey framføra nøkur løg av nýggjastu útgávuni. Hesa ferð er Danny gestur. Sendingin er gjørd í samstarvi við Faroe Music Export.</desc>
+  </programme>
+  <programme start="20260905201500 " stop="20260905215500 " channel="kvf.fo">
+    <title>Norðsjógvurin</title>
+    <sub-title>- norskur filmur frá 2021</sub-title>
+    <desc>Norska oljuævintýrið broytist í stórum, tá ein oljuboripallur knappliga søkkur í Norðsjónum. Norsku granskararnir varnast skjótt, at hetta bara er byrjanin til nakað enn álvarsligari, sum hevur við mongu árini við oljuutvinning at gera. Nú byrjar ein risastór bjarging, og mitt í ruðuleikanum er Sofia (Kristine Kujath Thorp). Hon arbeiðir við framkomnum undirvatnsrobottum og má royna at bjarga sjeikinum, sum er fangaður í einum oyðiløgdum oljuboripalli langt undir havskorpuni. Upprunaheiti:North Sea Framleiðsluár:2021 Aldursmark:11</desc>
+  </programme>
+  <programme start="20260905215500 " stop="20260905223500 " channel="kvf.fo">
+    <title>Villdjórahjarta 1:7</title>
+    <sub-title>- norsk røð frá 2022</sub-title>
+    <desc>Heidi er góð við eitt djór, sum onnur als ikki vilja vita av. Hjá henni fáa særdar dúgvur hjálp, men unnustin er misnøgdur við, at íbúðin er dúgvusjúkrahús. (1:7) Sesong 1. Broadcast Company NRK</desc>
+  </programme>
+  <programme start="20260905223500 " stop="20260905233500 " channel="kvf.fo">
+    <title>Villdjórahjarta 2:7</title>
+    <sub-title>- norsk røð frá 2022</sub-title>
+    <desc>Nýlagdir og hjálparleysir og onga mammu - Sherri hjálpir so nógvum íkornaungum, sum hon kann. Hon heldur als ikki, at avlíving er einasta loysn. (2:7) Sesong 1. Broadcast Company NRK</desc>
   </programme>
 </tv>
