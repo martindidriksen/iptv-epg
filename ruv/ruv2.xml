@@ -3,28 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260831190000 +0000" stop="20260831192000 +0000" channel="ruv2.is">
-    <title>Stofan</title>
-    <desc>Umfjallanir um leiki í undankeppni HM karla í körfubolta.
-
-Upphitun fyrir leik Íslands og Tyrklands í undankeppni HM karla í körfubolta.</desc>
-  </programme>
-  <programme start="20260831192000 +0000" stop="20260831212000 +0000" channel="ruv2.is">
-    <title>Ísland - Tyrkland</title>
-    <desc>Leikir í undankeppni HM karla í körfubolta.
-
-Leikur Íslands og Tyrklands í undankeppni HM karla í körfubolta.</desc>
-  </programme>
-  <programme start="20260831212000 +0000" stop="20260831214000 +0000" channel="ruv2.is">
-    <title>Stofan</title>
-    <desc>Umfjallanir um leiki í undankeppni HM karla í körfubolta.
-
-Uppgjör á leik Íslands og Tyrklands í undankeppni HM karla í körfubolta.</desc>
-  </programme>
-  <programme start="20260831214000 +0000" stop="20260831220700 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20260901190000 +0000" stop="20260901192700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
@@ -65,6 +43,16 @@ Leikur Þýskalands og Japan á HM kvenna í körfubolta.</desc>
 Leikur Ítalíu og Bandaríkjanna á HM kvenna í körfubolta.</desc>
   </programme>
   <programme start="20260906204000 +0000" stop="20260906210000 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260907183500 +0000" stop="20260907204000 +0000" channel="ruv2.is">
+    <title>Bandaríkin - Tékkland</title>
+    <desc>Leikir á HM kvenna í körfubolta.
+
+Leikur Bandaríkjanna og Tékklands á HM kvenna í körfubolta.</desc>
+  </programme>
+  <programme start="20260907204000 +0000" stop="20260907210700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
