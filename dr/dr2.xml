@@ -3,175 +3,23 @@
   <channel id="dr2.dk">
     <display-name>DR2</display-name>
   </channel>
-  <programme start="20260901234500 +0000" stop="20260902003000 +0000" channel="dr2.dk">
-    <title>Otte dage, der skabte Rom (3:8) Julius Cæsar går i krig</title>
-    <desc>Britisk dokumentarserie fra 2021.
-(8 Days That Made Rome)
-Han er den mest kendte romer gennem tiden. Udstyret med et knivskarpt intellekt og en stålsat ambition om at drive det vidt. Tag med Bettany Hughes, når hun undersøger en af de mest berømte dage i romersk historie, da Julius Cæsar krydsede floden Rubicon i 49 f.v.t. - i spidsen for sin uovervindelige hær. Et blodigt felttog, der slavegjorte hundredtusinder gallere og sendte ham på direkte kollisionskurs med hans rivaler og republikkens idealer. 
--</desc>
-    <episode-num system="xmltv_ns">0.2.0</episode-num>
-  </programme>
-  <programme start="20260902003000 +0000" stop="20260902013000 +0000" channel="dr2.dk">
-    <title>Flådens historie (7:7)</title>
-    <desc>Søkort, kold krig og vilde Sørøvere.
-I dette sidste afsnit fortæller Kløvedal bl.a. om Slaget ved Helgoland i 1864 og om sænkningen af den danske flåde i 1943. Tidligere udenrigsminister Uffe Ellemann-Jensen fortæller om sin oplevelse af den Kolde Krig, og hvordan den var tæt på at blive varm. Vi er med, da det moderne krigsskib Absalon hjemvender fra piratjagt i Adenbugten med Kronborg om styrbord, og ombord fortæller Kronprins Frederik om sin store kærlighed til havet.</desc>
-    <episode-num system="xmltv_ns">0.6.0</episode-num>
-  </programme>
-  <programme start="20260902013000 +0000" stop="20260902020500 +0000" channel="dr2.dk">
-    <title>Klostrets mørke hemmeligheder (1:4)</title>
-    <desc>I 1983 ankommer en kun 24-årig kvinde til Sostrup kloster på Djursland. Hun kommer med en ambition om at puste nyt liv i nonneklosteret, men metoderne er tilsyneladende kontroversielle, og piger helt ned til 14-årsalderen bliver draget af den nye unge søster.</desc>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-  </programme>
-  <programme start="20260902020500 +0000" stop="20260902023000 +0000" channel="dr2.dk">
-    <title>Deadline: Bondeoprør i Venstre?</title>
-    <desc>Traktordemonstrationer, internt mytteri og fjorde fyldt med fedtemøg har efterladt Venstres formand i et djævelsk krydspres. 
-Den nye gødskningslov har sendt landbruget på barrikaderne og hele fem folketingsmedlemmer i Venstre trodser nu partiet og Troels Lund Poulsens linje.
-Er Venstre ved at kappe båndende til landbruget - eller er landbruget ved at kappe båndene til Venstre?
-Vært: Issa Mahmoud Jeppesen.</desc>
-    <episode-num system="xmltv_ns">2025.132.0</episode-num>
-  </programme>
-  <programme start="20260902023000 +0000" stop="20260902030000 +0000" channel="dr2.dk">
-    <title>Deadline: Dansk folkemord?</title>
-    <desc>Var der tale om folkedrab, da tusindvis af grønlandske piger og kvinder fik opsat spiral af danske læger? Det er der kommet to forskellige juridiske svar på.
-Skal Danmark så for Den Internationale Domstol i Haag? Det spørgsmål stiller Christian Bennike til Grønlands regeringsleder, Jens-Frederik Nielsen, og forfatteren bag en af rapporterne, dr. jur. og fhv. direktør for institut for menneskerettigheder, Jonas Christoffersen.</desc>
-    <episode-num system="xmltv_ns">2025.131.0</episode-num>
-  </programme>
-  <programme start="20260902030000 +0000" stop="20260902032500 +0000" channel="dr2.dk">
-    <title>Deadline: Forstår vi Mellemøsten?</title>
-    <desc>I 23 år har Puk Damsgård dækket Mellemøsten i første række til krig og selvmordsbombere. Hun har altid haft blikket fæstnet på menneskene bag kaosset, men mens Mellemøsten brænder, er der blevet mindre plads til nuancerne i nyhedsdækningen, lyder hendes kritik. Nu har Damsgård forladt DR og sin live-position på balkonen for at skrive bøger og lave dokumentar. Sandra Brovall spørger hende, hvordan nyhederne svigter vores forståelse af Mellemøsten?</desc>
-    <episode-num system="xmltv_ns">2025.130.0</episode-num>
-  </programme>
-  <programme start="20260902032500 +0000" stop="20260902040000 +0000" channel="dr2.dk">
-    <title>Deadline: Zelenskyj under pres</title>
-    <desc>Udskriv valg - eller accepter, at Rusland holder Ukraines demokrati som gidsel. Sådan lyder det i en direkte henvendelse til Zelenskyj, der i en opsigtsvækkende video bliver udfordret af sin egen tidligere forsvarsminister, Mykhajlo Federov.
-Og Zelenskyj er ikke kun under pres fra sin tidligere forsvarsminister. I onsdags blev der åbnet endnu en korruptionssag mod en fra præsidentens inderkreds. Og i Tyskland mener anklagemyndigheden, at Ukraine stod bag angrebet på Nord Stream. Hvad betyder det for vores blik på Ukraine? 
-Vært: Issa Mahmoud Jeppesen.</desc>
-    <episode-num system="xmltv_ns">2025.129.0</episode-num>
-  </programme>
-  <programme start="20260902040000 +0000" stop="20260902045500 +0000" channel="dr2.dk">
-    <title>Pavarotti - Popstjerne i operaen</title>
-    <desc>"Jeg har bevist, at den klassiske musik ikke tilhører eliten." I 2007 døde verdens største og mest populære operasanger - den italienske tenor Luciano Pavarotti. Hans hjemby tog afsked med manden, som i fire årtier havde erobret alle slags publikummer, overstrålet andre store stemmer og gjort opera tilgængelig for millioner. Men hans succes skabte også misundelse, og medierne beskrev ham som en krævende diva. Alligevel fortsatte Pavarotti med at demokratisere operaen.
-Fransk dokumentar fra 2017.
-(Pavarotti - Birth of a Pop Star)</desc>
-  </programme>
-  <programme start="20260902045500 +0000" stop="20260902050000 +0000" channel="dr2.dk">
-    <title>Tænkepauser: Natur</title>
-    <desc>Mennesket er ikke naturens bedste ven - men muligvis den eneste. Separationen mellem natur og menneske er nået til et punkt, hvor vi enten må begære skilsmisse, fordi det er blevet for besværligt, eller indstille os på fredelig sameksistens og biodiversitet. Men det sidste er svært, for det går ud over vores egne behov. Hvad sker der, hvis vi giver stemmer til dyrene og lader dem reagere på vores trang til at kontrollere naturen?
-En film af Anders Morgenthaler efter en bog af Rasmus Ejrnæs</desc>
-    <episode-num system="xmltv_ns">0.5.0</episode-num>
-  </programme>
-  <programme start="20260902050000 +0000" stop="20260902060000 +0000" channel="dr2.dk">
-    <title>Den klassiske musikquiz (6:8)</title>
-    <desc>Phillip Faber er den veloplagte vært, der forsøger at holde styr på de to holdkaptajner Frederik Cilius og Mathias Hammer. Med sig har de Katrine Gislinge, Jacob la Cour, Lisbeth Sagen og Jesper Nordin. DR SymfoniOrkestret og dirigent Thomas Søndergård står for musikken. Er det muligt at genkende et stykke musik efter bare en enkelt tone? Kan man fremføre orkestermusik på plastikrør? Og hvor svært er det at identificere musik spillet bagfra?</desc>
-    <episode-num system="xmltv_ns">3.5.0</episode-num>
-  </programme>
-  <programme start="20260902060000 +0000" stop="20260902060500 +0000" channel="dr2.dk">
-    <title>Radioavisen</title>
-    <desc>Bliv opdateret på de seneste nyheder fra ind- og udland.</desc>
-  </programme>
-  <programme start="20260902060500 +0000" stop="20260902063000 +0000" channel="dr2.dk">
-    <title>Morgenandagten</title>
-    <desc>Morgenandagten fra Vor Frue Kirke, Københavns Domkirke.</desc>
-  </programme>
-  <programme start="20260902063000 +0000" stop="20260902100000 +0000" channel="dr2.dk">
-    <title>Seneste nyt fra TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260902100000 +0000" stop="20260902151500 +0000" channel="dr2.dk">
-    <title>Seneste nyt fra TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260902151500 +0000" stop="20260902161500 +0000" channel="dr2.dk">
-    <title>Husker du... 1987</title>
-    <desc>- året er 1987. 
-Mathias Rust lander med sit lille fly midt på den Røde Plads i Moskva og i Danmark bliver den højtråbende sømandsboss Preben Møller Hansen valgt ind i Folketinget. To danskere bliver anholdt i Polen for spionage og lille Pelle Hvenegaard bliver verdensberømt, da han spiller sammen med Max von Sydow i  filmen 'Pelle Erobreren'. Anker Jørgensen fælder en tåre, da han går som formand for socialdemokratiet og topmøder bringer Øst og Vest nærmere en afslutning af Den Kolde Krig.
-Sendt første gang 27.11.04</desc>
-    <episode-num system="xmltv_ns">2.7.0</episode-num>
-  </programme>
-  <programme start="20260902161500 +0000" stop="20260902172000 +0000" channel="dr2.dk">
-    <title>Husker du... 1988</title>
-    <desc>- året er 1988.
-Starten på TV2, postrøveriet i Købmagergade og en vovet AIDS-kampagne er nogle af begivenheder vi allesammen snakkede om i 1988. I aftenens program fortæller Chefkriminalinspektør Per Larsen om opklaringen af postrøveriet og Blekingegadebanden og Jens Gaardbo beretter om starten på TV2. Mød eller gense endvidere Claus Borre, Eddie the Eagle, Kim Schumacher og andre af de personer, som huskes for de store 
-og pudsige begivenheder det år
-Sendt første gang 04.12.2004</desc>
-    <episode-num system="xmltv_ns">2.8.0</episode-num>
-  </programme>
-  <programme start="20260902172000 +0000" stop="20260902180500 +0000" channel="dr2.dk">
-    <title>Smagen af Italien (3:6)</title>
-    <desc>Britisk madserie fra 2021.
-(Stanley Tucci: Searching for Italy)
-Den er kendt som et af verdens største mode-mekkaer. Denne gang er Stanley Tucci i Norditaliens største mode-og industriby Milano. Her nyder han den traditionelle aperitivo, møder ostemageren Paolo Ciapparelli, der laver Bitto Storico Ribelle-ost og bliver inspireret til at lave pizzoccheri. Stanleys kone Felicity slutter sig til ham i Como, hvor de indtager den klassiske milanesiske ret kalvekoteletter og risotto.</desc>
-    <episode-num system="xmltv_ns">0.2.0</episode-num>
-  </programme>
-  <programme start="20260902180500 +0000" stop="20260902193000 +0000" channel="dr2.dk">
-    <title>At klappe med een hånd</title>
-    <desc>Dansk finurlig kærlighedsfilm fra 2001.
-Da den meget velhavende Erik Svenssons kone dør efter mange års sygeleje, beslutter han at ændre sit liv. Han sælger sin virksomhed og er på vej til Spanien med sin kæreste, som på sigt også skal være hans arving, da han bliver opsøgt af sin advokat med en besked om, at han er far til en voksen datter - og dermed har en tvangsarving. Svensson hyrer bedemanden Anders som chauffør, og de tager til Esbjerg for at møde den mulige datter, Heidi, som bor alene med sin døve datter. Men den hjertelige Heidi lader sig ikke sådan imponere - til gengæld åbner hun både Svenssons og Anders' øjne for nye sider af tilværelsen.
-Medvirkende: 
-Erik Svensson: Jens Okking.
-Anders: Peter Gantzler.
-Heidi: Susanne Juhász.
-Lotte: Michelle Bjørn-Andersen.
-Helene: Ann Eleonora Jørgensen.
-Krøyer: Jesper Christensen.
-m.fl.
-Manuskript: Gert Duve Skovlund, Gert Fredholm og Mikael Olsen.
-Instruktion: Gert Fredholm.
-Foto: Lars Skree.
-Scenografi: Trine Padmo Olsen.
-Musik: Jon Bruland og Ole Arnfred.
-Produktion: Zentropa Entertainments i samarbejde med bl.a. DR.</desc>
-  </programme>
-  <programme start="20260902193000 +0000" stop="20260902200000 +0000" channel="dr2.dk">
-    <title>Ferie, ferie, ferie: Eventyr</title>
-    <desc>Dansk serie fra 2017
-Entertainer Jacob Haugaard har rejst i hele verden og elsker at fortælle om sine ture. For ham er det en livsnødvendighed at tage ud og opleve andre steder og kulturer. Det har det også været for mange andre danskere gennem tiden, og vi møder mange af dem i udsendelsen, som giver et historisk rids over danskernes eventyrrejser. Dette program handler om de mennesker, der kan lide at tage på eventyr. Dem, der rejser let, tager langt væk og altid er på jagt efter det unikke.</desc>
-    <episode-num system="xmltv_ns">0.2.0</episode-num>
-  </programme>
-  <programme start="20260902200000 +0000" stop="20260902201500 +0000" channel="dr2.dk">
-    <title>TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260902201500 +0000" stop="20260902204500 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
-    <episode-num system="xmltv_ns">2025.133.0</episode-num>
-  </programme>
-  <programme start="20260902204500 +0000" stop="20260902211500 +0000" channel="dr2.dk">
-    <title>Krigens døgn</title>
-    <desc>Forstå krigen mellem Ukraine og Rusland helt ned i detaljen. Med udgangspunkt i den seneste uges begivenheder zoomer vi sammen med Danmarks førende eksperter ind på krigens afgørende elementer.</desc>
-    <episode-num system="xmltv_ns">4.23.0</episode-num>
-  </programme>
-  <programme start="20260902211500 +0000" stop="20260902224000 +0000" channel="dr2.dk">
-    <title>Territoriet - kampen for regnskoven</title>
-    <desc>Kameraer er deres eneste våben mod motorsave, gravkøer og grådige bønder. Dybt inde i den brasilianske regnskov sætter Uru-eu-wau-wau-folket hver dag deres liv på spil mod skovrydning, ulovlig indtrængen og udnyttelse af deres fredede territorium. Her følger vi de indfødtes dagligdag og kampe for at beskytte det dyrebare økosystem, som år efter år svinder mere og mere ind. 
-Dansk-amerikansk prisvindende dokumentar fra 2022.
-(The Territory)
-(Dokumania)</desc>
-  </programme>
-  <programme start="20260902224000 +0000" stop="20260902233000 +0000" channel="dr2.dk">
-    <title>Fortidens fantastiske ingeniørkunst II (7:10) Ekstreme bygningsværker</title>
-    <desc>Britisk dokumentarserie fra 2022.
-(Ancient Engineering)
-I årtusinder har mennesket stræbt efter at bygge bedre, højere og mere imponerende. Ingeniører har kæmpet hårdt for at rykke grænserne. Underjordiske labyrinter af tunneler udgravet i totalt mørke, byer i golde ørkener og forskningsstationer på Antarktis. Oplev hvordan antikkens og ældgamle civilisationers ingeniører designede og opfandt konstruktioner, der lever videre i vores moderne bygningsværker</desc>
-    <episode-num system="xmltv_ns">1.6.0</episode-num>
-  </programme>
-  <programme start="20260902233000 +0000" stop="20260903002000 +0000" channel="dr2.dk">
+  <programme start="20260902233000 +0000" stop="20260903002500 +0000" channel="dr2.dk">
     <title>Kodeknækkerne (3:8)</title>
     <desc>Britisk dokumentarserie fra 2022.
 (Cracking the Code)
 Stillehavskrigen under 2. verdenskrig. Japans dygtigste flådestrateg admiral Yamamoto vil sænke USA's Stillehavsflåde. For at holde fjenden hen i uvished har Yamamoto sikret sig at al militær kommunikation er stærkt krypteret. Med en kompliceret og hemmelig kode, som japanernes fjender kalder JN-25. Kan kodebryderne knække den ubrydelige japanske kode, stoppe det japanske stormangreb og vende krigen til USA's fordel? De skal bryde JN-25.</desc>
     <episode-num system="xmltv_ns">0.2.0</episode-num>
   </programme>
-  <programme start="20260903002000 +0000" stop="20260903020000 +0000" channel="dr2.dk">
+  <programme start="20260903002500 +0000" stop="20260903020000 +0000" channel="dr2.dk">
     <title>Total tillid - Kinas masseovervågning</title>
     <desc>De er udsat for ekstrem overvågning. To kinesiske familier og en journalist kæmper mod landets overvågningsteknologi, magtmisbrug og censur. Kom med ind i det kinesiske overvågningssamfund. En skræmmende fortælling om big data, ansigtsgenkendelse og et uhyggeligt pointsystem, hvor borgere kan optjene og miste point alt efter deres opførsel og bidrag til samfundet. Når dette er nutiden, hvordan ser vores fremtid så ud? (Dokumania)
 Prisvindende dokumentar 2023.
 (Total Trust)</desc>
   </programme>
   <programme start="20260903020000 +0000" stop="20260903023000 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <title>Deadline: For muslimsk til Højskolesangbogen?</title>
+    <desc>Sangeren Isam B er i vælten for sine udtaler om, at muslimske hovedtørklæder faktisk er feministiske. Socialdemokraterne kræver, at hans sang, Ramadan i København, bliver fjernet fra Højskolesangbogen. 
+Er det et nødvendigt forsvar for den danske kultur og sangskat? Eller er det bare censur og cancel culture? Isam B møder Socialdemokratiets udlændingeordfører i Deadline med Christian Bennike for bordenden.</desc>
     <episode-num system="xmltv_ns">2025.133.0</episode-num>
   </programme>
   <programme start="20260903023000 +0000" stop="20260903030000 +0000" channel="dr2.dk">
@@ -182,11 +30,16 @@ Er Venstre ved at kappe båndende til landbruget - eller er landbruget ved at ka
 Vært: Issa Mahmoud Jeppesen.</desc>
     <episode-num system="xmltv_ns">2025.132.0</episode-num>
   </programme>
-  <programme start="20260903030000 +0000" stop="20260903033000 +0000" channel="dr2.dk">
+  <programme start="20260903030000 +0000" stop="20260903032500 +0000" channel="dr2.dk">
     <title>Deadline: Dansk folkemord?</title>
     <desc>Var der tale om folkedrab, da tusindvis af grønlandske piger og kvinder fik opsat spiral af danske læger? Det er der kommet to forskellige juridiske svar på.
 Skal Danmark så for Den Internationale Domstol i Haag? Det spørgsmål stiller Christian Bennike til Grønlands regeringsleder, Jens-Frederik Nielsen, og forfatteren bag en af rapporterne, dr. jur. og fhv. direktør for institut for menneskerettigheder, Jonas Christoffersen.</desc>
     <episode-num system="xmltv_ns">2025.131.0</episode-num>
+  </programme>
+  <programme start="20260903032500 +0000" stop="20260903040000 +0000" channel="dr2.dk">
+    <title>Deadline: Forstår vi Mellemøsten?</title>
+    <desc>I 23 år har Puk Damsgård dækket Mellemøsten i første række til krig og selvmordsbombere. Hun har altid haft blikket fæstnet på menneskene bag kaosset, men mens Mellemøsten brænder, er der blevet mindre plads til nuancerne i nyhedsdækningen, lyder hendes kritik. Nu har Damsgård forladt DR og sin live-position på balkonen for at skrive bøger og lave dokumentar. Sandra Brovall spørger hende, hvordan nyhederne svigter vores forståelse af Mellemøsten?</desc>
+    <episode-num system="xmltv_ns">2025.130.0</episode-num>
   </programme>
   <programme start="20260903040000 +0000" stop="20260903050000 +0000" channel="dr2.dk">
     <title>Danske drømme (8:10)</title>
@@ -319,8 +172,9 @@ I 1000 år har sporene efter mayacivilisationen været skjult i imponerende temp
     <episode-num system="xmltv_ns">2025.134.0</episode-num>
   </programme>
   <programme start="20260904023000 +0000" stop="20260904030000 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <title>Deadline: For muslimsk til Højskolesangbogen?</title>
+    <desc>Sangeren Isam B er i vælten for sine udtaler om, at muslimske hovedtørklæder faktisk er feministiske. Socialdemokraterne kræver, at hans sang, Ramadan i København, bliver fjernet fra Højskolesangbogen. 
+Er det et nødvendigt forsvar for den danske kultur og sangskat? Eller er det bare censur og cancel culture? Isam B møder Socialdemokratiets udlændingeordfører i Deadline med Christian Bennike for bordenden.</desc>
     <episode-num system="xmltv_ns">2025.133.0</episode-num>
   </programme>
   <programme start="20260904030000 +0000" stop="20260904033000 +0000" channel="dr2.dk">
@@ -499,7 +353,7 @@ Den er kendt som et af verdens største mode-mekkaer. Denne gang er Stanley Tucc
   </programme>
   <programme start="20260905120000 +0000" stop="20260905123000 +0000" channel="dr2.dk">
     <title>Tegnsprogsmagasinet Udsyn</title>
-    <desc>Et magasinprogram på tegnsprog, der zoomer ind på døves liv i en hørende verden. Og fortæller om det, der rører sig i tiden, sætter spørgsmål til debat og skildrer det nære og det sære.</desc>
+    <desc>For nogle måneder siden, fortalte Camilla og Fredrik her i Udsyn om deres store sorg ved at miste tre børn under graviditeten. På trods af deres tab, har de ikke givet op. De er fast besluttede på at kæmpe, indtil de får et barn - men hvordan kommer de videre?</desc>
     <episode-num system="xmltv_ns">2025.24.0</episode-num>
   </programme>
   <programme start="20260905123000 +0000" stop="20260905130000 +0000" channel="dr2.dk">
@@ -909,8 +763,9 @@ I andet afsnit kigger Peter kær og Bente Scavenius nærmere på en af verdens d
     <episode-num system="xmltv_ns">2025.134.0</episode-num>
   </programme>
   <programme start="20260908030000 +0000" stop="20260908033000 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <title>Deadline: For muslimsk til Højskolesangbogen?</title>
+    <desc>Sangeren Isam B er i vælten for sine udtaler om, at muslimske hovedtørklæder faktisk er feministiske. Socialdemokraterne kræver, at hans sang, Ramadan i København, bliver fjernet fra Højskolesangbogen. 
+Er det et nødvendigt forsvar for den danske kultur og sangskat? Eller er det bare censur og cancel culture? Isam B møder Socialdemokratiets udlændingeordfører i Deadline med Christian Bennike for bordenden.</desc>
     <episode-num system="xmltv_ns">2025.133.0</episode-num>
   </programme>
   <programme start="20260908040000 +0000" stop="20260908045500 +0000" channel="dr2.dk">
@@ -928,10 +783,11 @@ Det har ligget ude i bølgerne i over tusind år. Det unikke bygningskompleks Mo
     <episode-num system="xmltv_ns">2.1.0</episode-num>
   </programme>
   <programme start="20260908055000 +0000" stop="20260908060000 +0000" channel="dr2.dk">
-    <title>RO PÅ med DR Symfoniorkestret: Ved Vesterhavet</title>
-    <desc>Oplev Vesterhavets bølger skylle ind over stranden til lyden af Rakhmaninovs smukke Klaverkoncert nr. 2 spillet af DR Symfoniorkestret.
-Rakhmaninov: Klaverkoncert nr. 2, 2. sats.
-Kathia Buniatishvili, klaver.</desc>
+    <title>RO PÅ med DR Symfoniorkestret: En sommerdag</title>
+    <desc>Læn dig tilbage og find ro med DR Symfoniorkestret. Se ud over en solbeskinnet rapsmark med havet i horisonten, mens DR Symfoniorkestret spiller Mozarts blide klavermusik.
+Mozart: Klaverkoncert nr. 20, 2.sats.
+Rudolph Buchbinder, klaver.</desc>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
   </programme>
   <programme start="20260908060000 +0000" stop="20260908060500 +0000" channel="dr2.dk">
     <title>Radioavisen</title>
@@ -1030,5 +886,146 @@ Han er er en af verdenshistoriens største skikkelser. Roms første kejser Augus
     <title>Klostrets mørke hemmeligheder (2:4)</title>
     <desc>Moder Theresa er umiddelbart en succes på Sostrup, men under overfladen bliver nonnerne, ifølge tidligere søstre, holdt i et psykologisk jerngreb, og i 1993 dør en ældre dement nonne i klostergården.</desc>
     <episode-num system="xmltv_ns">0.1.0</episode-num>
+  </programme>
+  <programme start="20260909001000 +0000" stop="20260909005000 +0000" channel="dr2.dk">
+    <title>Galskab: Journal nr. 3072 - Digterens kæreste</title>
+    <desc>En kvinde bliver i 1882 indlagt på et sindssygehospital. Hun er skizofren. I journalen står der at hendes vanvid skyldes kærlighed til en fritænker. Fritænkeren er den store forfatter J.P. Jacobsen. De kunne aldrig få hinanden, fordi hun er dybt religiøs og han er ateist med andre planer. De delte de samme drømme, men hun bliver gal, og han en stor forfatter.
+Tilrettelæggelse: Søs Hoffmann og Lone Leegaard.</desc>
+  </programme>
+  <programme start="20260909005000 +0000" stop="20260909013000 +0000" channel="dr2.dk">
+    <title>Flugtrute: DDR-Danmark (1:2)</title>
+    <desc>Dansk dokumentarserie om et glemt kapitel i den kolde krig. 
+Hele verden fulgte de desperate flugtforsøg ved Berlinmuren. Men der var også en anden og dødsensfarlig flugtrute. Den gik over Østersøen - til Danmark. Tusindvis af østtyskere satte livet på spil i bølgerne. For mange blev danskerne deres redningsmænd. De fleste nåede aldrig så langt. Dette er historien om nogle af dem der forsøgte.
+Tilrettelæggelse: Jesper Clemmensen.
+Sendt første gang 8.11.09.</desc>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+  </programme>
+  <programme start="20260909013000 +0000" stop="20260909015000 +0000" channel="dr2.dk">
+    <title>Alt forladt - Civilbunkeren Regan Vest</title>
+    <desc>Dybt inde i Rold Skov i Nordjylland ligger det sted, hvor Kongehuset og den danske regering skulle overleve og styre Danmark, hvis atomkrigen brød ud. De to Urban Explorers Jan Elhøj og Morten Kirckhoff går på opdagelse i de mørke tunneler og forestiller sig livet under jorden efter ragnarok.
+Tilrettelæggelse: Morten Steenstrup
+Sendt første gang 28.01.13</desc>
+    <episode-num system="xmltv_ns">0.2.0</episode-num>
+  </programme>
+  <programme start="20260909015000 +0000" stop="20260909020000 +0000" channel="dr2.dk">
+    <title>På skuldrene af H. C. Ørsted - En computer som både er der, og ikke er der</title>
+    <desc>En ny type supercomputer bygger på noget helt uforståeligt: At dens allermindste dele både er der, og ikke er der på samme tid. Under kælderen på et universitet i København forsker et hold i at bygge de mikroskopiske dele til en ny type supercomputer. En såkaldt kvantecomputer.
+Dansk videnskabsserie fra 2020 med de største fysikere i verden.</desc>
+    <episode-num system="xmltv_ns">0.2.0</episode-num>
+  </programme>
+  <programme start="20260909020000 +0000" stop="20260909023000 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+  </programme>
+  <programme start="20260909023000 +0000" stop="20260909030000 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+  </programme>
+  <programme start="20260909030000 +0000" stop="20260909032500 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <episode-num system="xmltv_ns">2025.134.0</episode-num>
+  </programme>
+  <programme start="20260909032500 +0000" stop="20260909040000 +0000" channel="dr2.dk">
+    <title>Deadline: For muslimsk til Højskolesangbogen?</title>
+    <desc>Sangeren Isam B er i vælten for sine udtaler om, at muslimske hovedtørklæder faktisk er feministiske. Socialdemokraterne kræver, at hans sang, Ramadan i København, bliver fjernet fra Højskolesangbogen. 
+Er det et nødvendigt forsvar for den danske kultur og sangskat? Eller er det bare censur og cancel culture? Isam B møder Socialdemokratiets udlændingeordfører i Deadline med Christian Bennike for bordenden.</desc>
+    <episode-num system="xmltv_ns">2025.133.0</episode-num>
+  </programme>
+  <programme start="20260909040000 +0000" stop="20260909050000 +0000" channel="dr2.dk">
+    <title>Store danskere - Dan Turell</title>
+    <desc>Dan Turell er en af de få danske digtere, der formår at nå alle danskere. 
+Hvad enten det er ved abstrakte digte, Vangede Billeder, klummer eller med den navneløse journalist i Mord-bøgerne. 
+Onkel Danny er en grænseløs provokatør - men Dan Turell er meget mere end det. 
+Sendt først gang 30.12.2015</desc>
+  </programme>
+  <programme start="20260909050000 +0000" stop="20260909060000 +0000" channel="dr2.dk">
+    <title>Den klassiske musikquiz (7:8)</title>
+    <desc>Phillip Faber er den veloplagte vært, der forsøger at holde styr på de to holdkaptajner Frederik Cilius og Mathias Hammer. Med sig har de Nikolaj Koppel, Rie Koch, Adam Simonsen og Katrine Nordland. DR SymfoniOrkestret og dirigent Thomas Søndergård står for musikken. Hvor svært er det at genkende musik spillet bagfra? Kan man fremføre orkestermusik på plastikrør? Og er det overhovedet muligt at finde frem til et stykke musik efter bare en enkelt tone?</desc>
+    <episode-num system="xmltv_ns">3.6.0</episode-num>
+  </programme>
+  <programme start="20260909060000 +0000" stop="20260909060500 +0000" channel="dr2.dk">
+    <title>Radioavisen</title>
+    <desc>Bliv opdateret på de seneste nyheder fra ind- og udland.</desc>
+  </programme>
+  <programme start="20260909060500 +0000" stop="20260909063000 +0000" channel="dr2.dk">
+    <title>Morgenandagten</title>
+    <desc>Morgenandagten fra Vor Frue Kirke, Københavns Domkirke.</desc>
+  </programme>
+  <programme start="20260909063000 +0000" stop="20260909100000 +0000" channel="dr2.dk">
+    <title>Seneste nyt fra TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260909100000 +0000" stop="20260909151500 +0000" channel="dr2.dk">
+    <title>Seneste nyt fra TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260909151500 +0000" stop="20260909161500 +0000" channel="dr2.dk">
+    <title>Husker du... 1988</title>
+    <desc>- året er 1988.
+Starten på TV2, postrøveriet i Købmagergade og en vovet AIDS-kampagne er nogle af begivenheder vi allesammen snakkede om i 1988. I aftenens program fortæller Chefkriminalinspektør Per Larsen om opklaringen af postrøveriet og Blekingegadebanden og Jens Gaardbo beretter om starten på TV2. Mød eller gense endvidere Claus Borre, Eddie the Eagle, Kim Schumacher og andre af de personer, som huskes for de store 
+og pudsige begivenheder det år
+Sendt første gang 04.12.2004</desc>
+    <episode-num system="xmltv_ns">2.8.0</episode-num>
+  </programme>
+  <programme start="20260909161500 +0000" stop="20260909171500 +0000" channel="dr2.dk">
+    <title>Husker du... 1989</title>
+    <desc>- året er 1989.
+Om 100 år vil man stadig huske 1989. Jerntæppet smuldrer, Berlinmuren vælter og verden bliver aldrig den samme. I Danmark sker der også forandringer. Vi begynder at danse lambada, springe bungy jump og spille Lotto. Paven taber sin kalot i en vandpyt, og Schlüter påstår at der ikke er fejet noget ind under gulvtæppet. I aftenens program møder vi blandt andet Lars H.U.G. der var med Next Stop Sovjet i Moskva. Vi skal opleve D-A-D og se Fat Boys danse twist på Rådhuspladsen i København. 
+Sendt første gang 11.12.2004</desc>
+    <episode-num system="xmltv_ns">2.9.0</episode-num>
+  </programme>
+  <programme start="20260909171500 +0000" stop="20260909173500 +0000" channel="dr2.dk">
+    <title>Alt forladt - Civilbunkeren Regan Vest</title>
+    <desc>Dybt inde i Rold Skov i Nordjylland ligger det sted, hvor Kongehuset og den danske regering skulle overleve og styre Danmark, hvis atomkrigen brød ud. De to Urban Explorers Jan Elhøj og Morten Kirckhoff går på opdagelse i de mørke tunneler og forestiller sig livet under jorden efter ragnarok.
+Tilrettelæggelse: Morten Steenstrup
+Sendt første gang 28.01.13</desc>
+    <episode-num system="xmltv_ns">0.2.0</episode-num>
+  </programme>
+  <programme start="20260909174000 +0000" stop="20260909182500 +0000" channel="dr2.dk">
+    <title>Smagen af Italien (4:6)</title>
+    <desc>Britisk madserie fra 2021.
+(Stanley Tucci: Searching for Italy)
+Mad, museer og monumenter. Denne gang er Stanley Tucci i den antikke by Rom. Her går han på jagt efter byens fire fantastiske, traditionelle pastaretter; rigatoni all'amatriciana, carbonara, cacio e pepe og spaghetti alla gricia. Han smager på nogle af områdets lokale svinepølser og berømte oste som pecorino. Indtager et festmåltid baseret på kødaffald og lærer at lave en af hans livretter; stegte artiskokker.</desc>
+    <episode-num system="xmltv_ns">0.3.0</episode-num>
+  </programme>
+  <programme start="20260909182500 +0000" stop="20260909200000 +0000" channel="dr2.dk">
+    <title>Slingrevalsen</title>
+    <desc>Dansk komediedrama fra 1981.
+En gruppe mennesker, som alle er omkring de fyrre, har midt i livet gjort en del erfaringer med kærligheden og det at leve sammen. Men åbenbart er de ikke blevet klogere. De slingrer fortsat...   
+Medvirkende: Solbjørg Højfeldt, Kurt Dreyer, Ole Ernst, Anne-Stine Lier, Nikolaj Harris, Claus Nissen, Ulf Pilgård, Lisbeth Lundquist, Ove Sprogøe m.fl.
+Instruktion: Esben Høilund Carlsen.</desc>
+  </programme>
+  <programme start="20260909200000 +0000" stop="20260909201500 +0000" channel="dr2.dk">
+    <title>TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260909201500 +0000" stop="20260909204500 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+  </programme>
+  <programme start="20260909204500 +0000" stop="20260909211500 +0000" channel="dr2.dk">
+    <title>Krigens døgn</title>
+    <desc>Forstå krigen mellem Ukraine og Rusland helt ned i detaljen. Med udgangspunkt i den seneste uges begivenheder zoomer vi sammen med Danmarks førende eksperter ind på krigens afgørende elementer.</desc>
+  </programme>
+  <programme start="20260909211500 +0000" stop="20260909223500 +0000" channel="dr2.dk">
+    <title>Kong Harald: Et liv for Norge</title>
+    <desc>Som barn flygtede han fra krig. Som ung mand kæmpede han for kærligheden. Som monark bragte han det norske kongehus ind i vor tid. Et liv for Norge er nu forbi.
+Norsk dokumentar fra 2026.
+Originaltitel: Eit liv for Noreg.</desc>
+  </programme>
+  <programme start="20260909223500 +0000" stop="20260909232500 +0000" channel="dr2.dk">
+    <title>Fortidens fantastiske ingeniørkunst II (8:10) Skjulte vidundere</title>
+    <desc>Britisk dokumentarserie fra 2022.
+(Ancient Engineering)
+En stor del af oldtidens ingeniørkunst er blevet overset. En innovativ brønd bygget af træ for over 7.000 år siden, terrasselandbrug, avancerede vandingssystemer og persiske islagre i ørkenen er blot nogle eksempler. Fortidens ingeniører har sørget for rent drikkevand, bygget imponerende helligdomme og sørget for at mad kunne holde sig længere. Disse ukendte gennembrud danner grundlaget for vores moderne verden.</desc>
+    <episode-num system="xmltv_ns">1.7.0</episode-num>
+  </programme>
+  <programme start="20260909232500 +0000" stop="20260910001500 +0000" channel="dr2.dk">
+    <title>Kodeknækkerne (4:8)</title>
+    <desc>Britisk dokumentarserie fra 2022.
+(Cracking the Code)
+I 1900 udgraver den britiske arkæolog Arthur Evans Knossos på Kreta. Her finder han hundredvis af fragmenter af lertavler, der alle sammen er indgraveret med en 3000 år gammel, mystisk skrifttype. Det gådefulde skriftsystem fra oldtiden kalder han linear B, og både Evans og andre vier deres liv til at afkode det. Men det tager mere end 50 år at knække den gamle kode, og undervejs bliver flere af forskerne ramt af linear B's forbandelse.</desc>
+    <episode-num system="xmltv_ns">0.3.0</episode-num>
   </programme>
 </tv>
