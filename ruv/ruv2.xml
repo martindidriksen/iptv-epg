@@ -3,17 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260904190000 +0000" stop="20260904192700 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
-  <programme start="20260904230000 +0000" stop="20260904234800 +0000" channel="ruv2.is">
-    <title>Vitjanir (with English subtitles)</title>
-    <sub-title>(6 af 8)</sub-title>
-    <desc>Icelandic drama series about Kristín, an emergency doctor who moves with her teenage daughter back to her parents' home in a small fishing village, following her own husband's affair. Kristín, who is grounded and rational, quickly realises she is out of her comfort zone communicating with her mother, a medium, and finds herself forced to look the ghosts of her past directly in the eye. Director: Eva Sigurðardóttir. Starring: Sara Dögg Ásgeirsdóttir, Helga E. Jónsdóttir, Katla Njálsdóttir, and Jói Jóhannsson. Not suitable for young children.
-
-Kristín has been putting off an important conversation with Ragnar. Precisely when she intends to have the talk, a large explosion rocks the local school and takes her full attention. The explosion causes great tension at home for Hanna.</desc>
-  </programme>
   <programme start="20260905155000 +0000" stop="20260905175500 +0000" channel="ruv2.is">
     <title>Þýskaland - Japan</title>
     <desc>Leikir á HM kvenna í körfubolta.
@@ -85,5 +74,20 @@ Leikur í 8-liða úrslitum á HM kvenna í körfubolta.</desc>
   <programme start="20260910204000 +0000" stop="20260910210700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260911182000 +0000" stop="20260911212000 +0000" channel="ruv2.is">
+    <title>Afturelding - Breiðablik</title>
+    <desc>Leikur Aftureldingar og Breiðabliks í úrslitum Mjólkurbikars karla í fótbolta.</desc>
+  </programme>
+  <programme start="20260911212000 +0000" stop="20260911214700 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260911215000 +0000" stop="20260911224000 +0000" channel="ruv2.is">
+    <title>Vitjanir (with English subtitles)</title>
+    <sub-title>(7 af 8)</sub-title>
+    <desc>Icelandic drama series about Kristín, an emergency doctor who moves with her teenage daughter back to her parents' home in a small fishing village, following her own husband's affair. Kristín, who is grounded and rational, quickly realises she is out of her comfort zone communicating with her mother, a medium, and finds herself forced to look the ghosts of her past directly in the eye. Director: Eva Sigurðardóttir. Starring: Sara Dögg Ásgeirsdóttir, Helga E. Jónsdóttir, Katla Njálsdóttir, and Jói Jóhannsson. Not suitable for young children.
+
+Lilja is increasingly bad tempered with Kristín and it all comes to a head in the end. Hugrún realises she cannot give her mother the care she needs.</desc>
   </programme>
 </tv>
