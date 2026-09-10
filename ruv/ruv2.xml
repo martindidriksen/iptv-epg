@@ -3,22 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260909153500 +0000" stop="20260909174000 +0000" channel="ruv2.is">
-    <title>Púertó Ríkó - Kína</title>
-    <desc>Leikir á HM kvenna í körfubolta.
-
-Leikur Púertó Ríkó og Kína í umspili á HM kvenna í körfubolta.</desc>
-  </programme>
-  <programme start="20260909183500 +0000" stop="20260909204000 +0000" channel="ruv2.is">
-    <title>Ítalía - Ástralía</title>
-    <desc>Leikir á HM kvenna í körfubolta.
-
-Leikur Ítalíu og Ástralíu í umspili á HM kvenna í körfubolta.</desc>
-  </programme>
-  <programme start="20260909204000 +0000" stop="20260909210700 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20260910183500 +0000" stop="20260910204000 +0000" channel="ruv2.is">
     <title>8-liða úrslit</title>
     <desc>Leikir á HM kvenna í körfubolta.
@@ -75,6 +59,10 @@ Leikur í undanúrslitum á HM kvenna í körfubolta.</desc>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
   <programme start="20260915190000 +0000" stop="20260915192700 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260916190000 +0000" stop="20260916192700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
