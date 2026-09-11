@@ -3,16 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260910183500 +0000" stop="20260910204000 +0000" channel="ruv2.is">
-    <title>8-liða úrslit</title>
-    <desc>Leikir á HM kvenna í körfubolta.
-
-Leikur í 8-liða úrslitum á HM kvenna í körfubolta.</desc>
-  </programme>
-  <programme start="20260910204000 +0000" stop="20260910210700 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20260911182000 +0000" stop="20260911212000 +0000" channel="ruv2.is">
     <title>Afturelding - Breiðablik</title>
     <desc>Leikur Aftureldingar og Breiðabliks í úrslitum Mjólkurbikars karla í fótbolta.</desc>
@@ -63,6 +53,10 @@ Leikur í undanúrslitum á HM kvenna í körfubolta.</desc>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
   <programme start="20260916190000 +0000" stop="20260916192700 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260917190000 +0000" stop="20260917192700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
