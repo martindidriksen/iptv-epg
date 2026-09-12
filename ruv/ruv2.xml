@@ -3,36 +3,21 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260911182000 +0000" stop="20260911212000 +0000" channel="ruv2.is">
-    <title>Afturelding - Breiðablik</title>
-    <desc>Leikur Aftureldingar og Breiðabliks í úrslitum Mjólkurbikars karla í fótbolta.</desc>
-  </programme>
-  <programme start="20260911212000 +0000" stop="20260911214700 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
-  <programme start="20260911215000 +0000" stop="20260911224100 +0000" channel="ruv2.is">
-    <title>Vitjanir (with English subtitles)</title>
-    <sub-title>(7 af 8)</sub-title>
-    <desc>Icelandic drama series about Kristín, an emergency doctor who moves with her teenage daughter back to her parents' home in a small fishing village, following her own husband's affair. Kristín, who is grounded and rational, quickly realises she is out of her comfort zone communicating with her mother, a medium, and finds herself forced to look the ghosts of her past directly in the eye. Director: Eva Sigurðardóttir. Starring: Sara Dögg Ásgeirsdóttir, Helga E. Jónsdóttir, Katla Njálsdóttir, and Jói Jóhannsson. Not suitable for young children.
-
-Lilja is increasingly bad tempered with Kristín and it all comes to a head in the end. Hugrún realises she cannot give her mother the care she needs.</desc>
-  </programme>
-  <programme start="20260912162000 +0000" stop="20260912182500 +0000" channel="ruv2.is">
-    <title>Undanúrslit</title>
+  <programme start="20260912142000 +0000" stop="20260912162500 +0000" channel="ruv2.is">
+    <title>Frakkland - Þýskaland</title>
     <desc>Leikir á HM kvenna í körfubolta.
 
-Leikur í undanúrslitum á HM kvenna í körfubolta.</desc>
+Leikur Frakklands og Þýskalands í undanúrslitum á HM kvenna í kőrfubolta.</desc>
   </programme>
-  <programme start="20260912190000 +0000" stop="20260912192000 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
-  <programme start="20260912195000 +0000" stop="20260912215500 +0000" channel="ruv2.is">
-    <title>Undanúrslit</title>
+  <programme start="20260912175000 +0000" stop="20260912195500 +0000" channel="ruv2.is">
+    <title>Spánn - Bandaríkin</title>
     <desc>Leikir á HM kvenna í körfubolta.
 
-Leikur í undanúrslitum á HM kvenna í körfubolta.</desc>
+Leikur Spánar og Bandaríkjanna í undanúrslitum á HM kvenna í kőrfubolta.</desc>
+  </programme>
+  <programme start="20260912200100 +0000" stop="20260912202100 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
   <programme start="20260913175000 +0000" stop="20260913203000 +0000" channel="ruv2.is">
     <title>Úrslitaleikur</title>
@@ -59,5 +44,16 @@ Leikur í undanúrslitum á HM kvenna í körfubolta.</desc>
   <programme start="20260917190000 +0000" stop="20260917192700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260918190000 +0000" stop="20260918192700 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260918220000 +0000" stop="20260918225000 +0000" channel="ruv2.is">
+    <title>Vitjanir (with English subtitles)</title>
+    <sub-title>(8 af 8)</sub-title>
+    <desc>Icelandic drama series about Kristín, an emergency doctor who moves with her teenage daughter back to her parents' home in a small fishing village, following her own husband's affair. Kristín, who is grounded and rational, quickly realises she is out of her comfort zone communicating with her mother, a medium, and finds herself forced to look the ghosts of her past directly in the eye. Director: Eva Sigurðardóttir. Starring: Sara Dögg Ásgeirsdóttir, Helga E. Jónsdóttir, Katla Njálsdóttir, and Jói Jóhannsson. Not suitable for young children.
+
+Kristín's mother has not taken her medication for a long time and is in a state of mania. When she disappears, the search &amp; rescue team is called out and Kristín and Ragnar have to work together in the hope of finding Jóhanna.</desc>
   </programme>
 </tv>
