@@ -3,29 +3,13 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260912142000 +0000" stop="20260912162500 +0000" channel="ruv2.is">
-    <title>Frakkland - Þýskaland</title>
-    <desc>Leikir á HM kvenna í körfubolta.
-
-Leikur Frakklands og Þýskalands í undanúrslitum á HM kvenna í kőrfubolta.</desc>
-  </programme>
-  <programme start="20260912175000 +0000" stop="20260912195500 +0000" channel="ruv2.is">
-    <title>Spánn - Bandaríkin</title>
-    <desc>Leikir á HM kvenna í körfubolta.
-
-Leikur Spánar og Bandaríkjanna í undanúrslitum á HM kvenna í kőrfubolta.</desc>
-  </programme>
-  <programme start="20260912200100 +0000" stop="20260912202100 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20260913175000 +0000" stop="20260913203000 +0000" channel="ruv2.is">
-    <title>Úrslitaleikur</title>
+    <title>Bandaríkin - Frakkland</title>
     <desc>Leikir á HM kvenna í körfubolta.
 
-Úrslitaleikur á HM kvenna í körfubolta.</desc>
+Úrslitaleikur Bandaríkjanna og Frakklands á HM kvenna í körfubolta.</desc>
   </programme>
-  <programme start="20260913203000 +0000" stop="20260913205000 +0000" channel="ruv2.is">
+  <programme start="20260913203300 +0000" stop="20260913205300 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
@@ -55,5 +39,9 @@ Leikur Spánar og Bandaríkjanna í undanúrslitum á HM kvenna í kőrfubolta.<
     <desc>Icelandic drama series about Kristín, an emergency doctor who moves with her teenage daughter back to her parents' home in a small fishing village, following her own husband's affair. Kristín, who is grounded and rational, quickly realises she is out of her comfort zone communicating with her mother, a medium, and finds herself forced to look the ghosts of her past directly in the eye. Director: Eva Sigurðardóttir. Starring: Sara Dögg Ásgeirsdóttir, Helga E. Jónsdóttir, Katla Njálsdóttir, and Jói Jóhannsson. Not suitable for young children.
 
 Kristín's mother has not taken her medication for a long time and is in a state of mania. When she disappears, the search &amp; rescue team is called out and Kristín and Ragnar have to work together in the hope of finding Jóhanna.</desc>
+  </programme>
+  <programme start="20260919190000 +0000" stop="20260919192000 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
 </tv>
