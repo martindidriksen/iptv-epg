@@ -3,16 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260913175000 +0000" stop="20260913203000 +0000" channel="ruv2.is">
-    <title>Bandaríkin - Frakkland</title>
-    <desc>Leikir á HM kvenna í körfubolta.
-
-Úrslitaleikur Bandaríkjanna og Frakklands á HM kvenna í körfubolta.</desc>
-  </programme>
-  <programme start="20260913203300 +0000" stop="20260913205300 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20260914190000 +0000" stop="20260914192700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
@@ -41,6 +31,10 @@
 Kristín's mother has not taken her medication for a long time and is in a state of mania. When she disappears, the search &amp; rescue team is called out and Kristín and Ragnar have to work together in the hope of finding Jóhanna.</desc>
   </programme>
   <programme start="20260919190000 +0000" stop="20260919192000 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260920190000 +0000" stop="20260920192000 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
