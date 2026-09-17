@@ -3,140 +3,6 @@
   <channel id="dr2.dk">
     <display-name>DR2</display-name>
   </channel>
-  <programme start="20260915235000 +0000" stop="20260916003000 +0000" channel="dr2.dk">
-    <title>Flugtrute: DDR-Danmark (2:2)</title>
-    <desc>Dansk dokumentarserie om et glemt kapitel i den kolde krig. 
-Hele verden fulgte de desperate flugtforsøg ved Berlinmuren. Men der var også en anden og dødsensfarlig flugtrute. Den gik over Østersøen - til Danmark. Tusindvis af østtyskere satte livet på spil i bølgerne. For mange blev danskerne deres redningsmænd. De fleste nåede aldrig så langt. Dette er historien om nogle af dem der forsøgte.
-Tilrettelæggelse: Jesper Clemmensen.
-Sendt første gang 17.01.10</desc>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-  </programme>
-  <programme start="20260916003000 +0000" stop="20260916012000 +0000" channel="dr2.dk">
-    <title>24 timer vi aldrig glemmer - 11. september 2001</title>
-    <desc>Der er dage vi aldrig glemmer. Dage hvor vi husker, hvor vi var og hvad vi lavede. En af dem er 11. september 2001.
-11. september 2001 var ellers så normal som den overhovedet kunne blive. Daværende Statsminister, Poul Nyrup Rasmussen var på sit kontor på Marienborg, daværende chef for PET, Birgitte Stampe havde en frokostaftale, nyhedsværten, Reimer Bo skulle bare ind og lave en hurtig nyhedsudsendelse og danskeren Marie Billegrav skulle have haft bussen fra foden af de to tvillingetårne i New York. Men alle planer skulle vise sig at blive ændret den dag, for  kl. 8.46 amerikansk tid flyver et fly ind i World Trade Center.
-Tilrettelæggelse: Jakob Heick.
-Sendt første gang 04.10.09</desc>
-    <episode-num system="xmltv_ns">0.2.0</episode-num>
-  </programme>
-  <programme start="20260916012000 +0000" stop="20260916015000 +0000" channel="dr2.dk">
-    <title>Værtshushistorier: Café Viking</title>
-    <desc>En mandag i 2012 forandrer alt sig på  Nørrebroværtshuset Cafe Viking. Værtshusejer Jane Pedersen bliver afpresset af en ung fyr til at betale beskyttelsespenge til en lokal bande. Men den lille rødhårede dame nægter at ligge under for truslerne - også selvom hun ved, at det kan få fatale konsekvenser. Digteren Claus Høxbroe, fortæller historien</desc>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-  </programme>
-  <programme start="20260916015000 +0000" stop="20260916020000 +0000" channel="dr2.dk">
-    <title>På skuldrene af H. C. Ørsted - Kan mennesket skabe som en Gud?</title>
-    <desc>For 15 år siden opdagede to russiske fysikere et nyt vidunder-materiale. Et stof der er 200 gange stærkere end stål, hårdt som diamant, og stadig kan bøjes. Det er blevet begyndelsen på en ny æra, hvor mennesket selv kan designe sine materialer helt ned i mindste skala. Hermed brydes de regler, der ellers altid har været i den virkelig verden.
-Dansk videnskabsserie fra 2020 med de største fysikere i verden.</desc>
-    <episode-num system="xmltv_ns">0.4.0</episode-num>
-  </programme>
-  <programme start="20260916020000 +0000" stop="20260916023000 +0000" channel="dr2.dk">
-    <title>Deadline 2026: Hvor langt tør Putin gå?</title>
-    <desc>Når en russisk fregat affyrer signalblus mod en dansk militærhelikopter, vidner det ifølge danske politikere om et mere aggressivt og risikovilligt Rusland. Men hændelsen rejser et større spørgsmål: Hvor går grænsen? Og hvem forsvarer os, hvis Rusland overskrider den?</desc>
-    <episode-num system="xmltv_ns">2025.140.0</episode-num>
-  </programme>
-  <programme start="20260916023000 +0000" stop="20260916030000 +0000" channel="dr2.dk">
-    <title>Deadline: Danmark ifølge Roald Als</title>
-    <desc>Han er Danmarks nok mest kendte tegner, og i et halvt århundrede har hans streg formet synet på dansk politik. Nu udgiver Roald Als sin Danmarkshistorie. Men hænger han selv fast i fortiden? Det spørger Christian Bennike ham om i Deadline.</desc>
-    <episode-num system="xmltv_ns">2025.139.0</episode-num>
-  </programme>
-  <programme start="20260916030000 +0000" stop="20260916033000 +0000" channel="dr2.dk">
-    <title>Deadline: Hvorfor bliver børnene dummere?</title>
-    <desc>Danske børn bliver dummere - i hvert fald læser og regner de markant dårligere end for bare ti år siden. Hvordan kunne det gå så galt? Det spørger Christian Bennike børneminister Jacob Mark om i Deadline i dag.</desc>
-    <episode-num system="xmltv_ns">2025.138.0</episode-num>
-  </programme>
-  <programme start="20260916033000 +0000" stop="20260916040000 +0000" channel="dr2.dk">
-    <title>Deadline: Kan man slutte fred med Putin?</title>
-    <desc>Dmytro Kuleba har været en del af Zelenskys absolutte inderkreds og toneangivende for Ukraines håndtering af krigen. Og nu er beskeden fra det krigsramte lands tidligere udenrigsminister klar: Amerikanerne er ikke til at stole på, og hvis krigen skal slutte, må enten det nuværende Ukraine eller Rusland ophøre med at eksistere. Vært: Issa Mahmoud Jeppesen</desc>
-    <episode-num system="xmltv_ns">2025.137.0</episode-num>
-  </programme>
-  <programme start="20260916040000 +0000" stop="20260916050000 +0000" channel="dr2.dk">
-    <title>Store danskere - Tine Bryld</title>
-    <desc>I næsten 40 år var Tine Bryld de unge og de udstødtes talerør. Radioprogrammet "Tværs" gjorde hendes stemme til én af Danmarks mest kendte og elskede, men Tine Brylds engagement i samfundet - og ikke mindst i det enkelte menneske - rakte langt videre end hendes radiorådgivning. Måske fordi dét at hjælpe andre også hjalp hende selv. I programmet "Store Danskere" tegner vi et portræt af en kompleks kvinde, der aldrig skelnede mellem arbejde og privatliv, og som trivedes bedst på kanten af kaos.</desc>
-    <episode-num system="xmltv_ns">2014.1.0</episode-num>
-  </programme>
-  <programme start="20260916050000 +0000" stop="20260916060000 +0000" channel="dr2.dk">
-    <title>Historien om den norske kongefamilie (1:7)</title>
-    <desc>Norsk dokumentarserie.
-"Kronprinsen og frøken Haraldsen".
-Det var kærlighed ved første blik, da de mødte hinanden i 1959. Alligevel skulle de gennem ni års kamp med kongen og den norske regering, før de kunne sige ja til hinanden. Historien om kronprins Harald og købmandsdatteren Sonja er et drama fyldt af personlige og politiske dilemmaer.</desc>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-  </programme>
-  <programme start="20260916060000 +0000" stop="20260916060500 +0000" channel="dr2.dk">
-    <title>Radioavisen</title>
-    <desc>Bliv opdateret på de seneste nyheder fra ind- og udland.</desc>
-  </programme>
-  <programme start="20260916060500 +0000" stop="20260916063000 +0000" channel="dr2.dk">
-    <title>Morgenandagten</title>
-    <desc>Morgenandagten fra Vor Frue Kirke, Københavns Domkirke.</desc>
-  </programme>
-  <programme start="20260916063000 +0000" stop="20260916100000 +0000" channel="dr2.dk">
-    <title>Seneste nyt fra TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260916100000 +0000" stop="20260916151500 +0000" channel="dr2.dk">
-    <title>Seneste nyt fra TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260916151500 +0000" stop="20260916161500 +0000" channel="dr2.dk">
-    <title>Husker du... 1989</title>
-    <desc>- året er 1989.
-Om 100 år vil man stadig huske 1989. Jerntæppet smuldrer, Berlinmuren vælter og verden bliver aldrig den samme. I Danmark sker der også forandringer. Vi begynder at danse lambada, springe bungy jump og spille Lotto. Paven taber sin kalot i en vandpyt, og Schlüter påstår at der ikke er fejet noget ind under gulvtæppet. I aftenens program møder vi blandt andet Lars H.U.G. der var med Next Stop Sovjet i Moskva. Vi skal opleve D-A-D og se Fat Boys danse twist på Rådhuspladsen i København. 
-Sendt første gang 11.12.2004</desc>
-    <episode-num system="xmltv_ns">2.9.0</episode-num>
-  </programme>
-  <programme start="20260916161500 +0000" stop="20260916170500 +0000" channel="dr2.dk">
-    <title>Husker du... 1990</title>
-    <desc>Nu tager Husker du... på et nyt årti. Første program i denne omgang handler om1990. Årtiet starter optimistisk. Den kolde krig er slut og Apartheid afskaffes, men inden 1990 er omme spiller Saddam Hussein hasard med verdensfreden og udenlandske gidsler, heriblandt 34 danske, bliver tilbageholdt i Irak. Da truslen om atomragnarok er væk, begynder danskerne at fokusere på de nære ting som miljøet og familien. Ord som drivhusgasser og genanvendelighed kommer højt på dagsordenen - Det er fandme uhyggeligt du! 
-Sendt første gang 12.02.06.</desc>
-  </programme>
-  <programme start="20260916170500 +0000" stop="20260916172500 +0000" channel="dr2.dk">
-    <title>Alt forladt - Sindssygehospitalet</title>
-    <desc>Et gammelt sindssygehospital ved Vordingborg gemmer på mange menneskeskæbner. De to Urban Explorers Jan Elhøj og Morten Kirckhoff går på opdagelse i de gamle stuer og finder fastspændingsbælter og elektrochokmaskiner, der fortæller om en svunden tid.
-Tilrettelæggelse: Morten Steenstrup
-Sendt første gang 14.01.13</desc>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-  </programme>
-  <programme start="20260916172500 +0000" stop="20260916181000 +0000" channel="dr2.dk">
-    <title>Smagen af Italien (5:6)</title>
-    <desc>Britisk madserie fra 2021.
-(Stanley Tucci: Searching for Italy)
-Den betragtes som Syditaliens hovedstad og er ældre end Rom. Denne gang tager Stanley Tucci til Napoli, der er kendt for vulkanen Vesuv, eventyrlige øer, den berømte Amalfikyst og verdens bedste pizzaer. Her møder han pizzabageren Enzo, der er anerkendt i michelinguiden, hører om den bedste bøffelmozzarellaost og de misundelsesværdige sanmarzano-tomater, og smager egnsretter som kanin i lerpotte og pasta med zucchini.</desc>
-    <episode-num system="xmltv_ns">0.4.0</episode-num>
-  </programme>
-  <programme start="20260916181000 +0000" stop="20260916200000 +0000" channel="dr2.dk">
-    <title>Madame Ida</title>
-    <desc>Dansk spillefilm fra 2024.
-I starten af 1950'erne bliver 15-årige Cecilia gravid på det børnehjem, hvor hun er vokset op. For at skjule den uønskede graviditet bliver hun sendt ud for at bo hos Ida, der skal adoptere barnet. Ida bor i sit afsidesliggende palæ, som engang var samlingspunkt for højere samfundslag, men hvor hun nu har boet isoleret fra omverdenen i mange år, kun med selskab fra sin livslange tjenestepige Alma på 70 år. Hos Ida og Alma oplever Cecilia for første gang i sit liv et glimt af forældrekærlighed, og trods deres forskelle opstår der et stærkt bånd mellem de tre kvinder. Alt dette sættes dog på en alvorlig prøve efterhånden som fødslen nærmer sig.
-Medvirkende: Flora Ofelia Hoffmann Lindahl, Christine Albeck Børge, Karen-Lise Mynster, Sarah Boberg.
-Instruktion: Jacob Møller.</desc>
-  </programme>
-  <programme start="20260916200000 +0000" stop="20260916201500 +0000" channel="dr2.dk">
-    <title>TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260916201500 +0000" stop="20260916204500 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
-    <episode-num system="xmltv_ns">2025.141.0</episode-num>
-  </programme>
-  <programme start="20260916204500 +0000" stop="20260916211500 +0000" channel="dr2.dk">
-    <title>Krigens døgn</title>
-    <desc>Forstå krigen mellem Ukraine og Rusland helt ned i detaljen. Med udgangspunkt i den seneste uges begivenheder zoomer vi sammen med Danmarks førende eksperter ind på krigens afgørende elementer.</desc>
-    <episode-num system="xmltv_ns">4.25.0</episode-num>
-  </programme>
-  <programme start="20260916211500 +0000" stop="20260916221000 +0000" channel="dr2.dk">
-    <title>Kabul (1:6)</title>
-    <desc>Fransk dramaserie fra 2025.
-August 2021. Amerikanerne og deres NATO-allierede forbereder sig på at forlade Afghanistan. Mens Taleban overtager kontrollen med hovedstaden Kabul, udbryder der kaos. Familien Nazany er spredt ud over hele byen. De er alle potentielle mål for Taleban, men ikke alle har lyst til at flygte. Anklageren Zahara og hendes mand søger ly på den franske ambassade. Mens deres datter, reservelægen Amina, insisterer på at passe sit job på hospitalet.</desc>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-  </programme>
-  <programme start="20260916221000 +0000" stop="20260916235000 +0000" channel="dr2.dk">
-    <title>Armadillo</title>
-    <desc>Dansk dokumentar fra 2010
-I dette psykologiske drama følger vi en flok danske soldater i krig. Vi går helt tæt på de to unge soldater Mads og Daniel, som drager i krig for første gang. Daniel er den sarkastiske vovehals og Mads den følsomme idealist. I seks måneder står de ansigt til ansigt med fjenden. Angsten for den pludselige død og den stigende mistro til afghanerne gør dem mere og mere isolerede i det land og blandt de mennesker, de er sendt afsted for at hjælpe. Filmen går helt tæt på de menneskelige konsekvenser, når man som ung sendes i krig og idealerne møder virkeligheden.
-(Dokumania)</desc>
-  </programme>
   <programme start="20260916235000 +0000" stop="20260917004000 +0000" channel="dr2.dk">
     <title>Fortidens fantastiske ingeniørkunst II (9:10) Oldtidens vandveje</title>
     <desc>Britisk dokumentarserie fra 2022.
@@ -159,8 +25,8 @@ Dette er historien om de to iværksættere Kramme og Zeuthen og deres kamp for a
 Sendt første gang 15.06.2016</desc>
   </programme>
   <programme start="20260917020000 +0000" stop="20260917023000 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <title>Deadline: Siddique mod systemet</title>
+    <desc>Sikandar Siddiques boligsag er afgjort, og han er snart fortid i Københavns Borgerrepræsentation. Han har svindlet, mener kritikerne. Selv siger han, at han er et offer for zionismen og for det, han kalder "systemet." Men hvad er det for et system, som vil lukke munden på Sikandar Siddique? Christian Bennike spørger hovedpersonen selv i Deadline.</desc>
     <episode-num system="xmltv_ns">2025.141.0</episode-num>
   </programme>
   <programme start="20260917023000 +0000" stop="20260917030000 +0000" channel="dr2.dk">
@@ -172,6 +38,11 @@ Sendt første gang 15.06.2016</desc>
     <title>Deadline: Danmark ifølge Roald Als</title>
     <desc>Han er Danmarks nok mest kendte tegner, og i et halvt århundrede har hans streg formet synet på dansk politik. Nu udgiver Roald Als sin Danmarkshistorie. Men hænger han selv fast i fortiden? Det spørger Christian Bennike ham om i Deadline.</desc>
     <episode-num system="xmltv_ns">2025.139.0</episode-num>
+  </programme>
+  <programme start="20260917033000 +0000" stop="20260917040000 +0000" channel="dr2.dk">
+    <title>Deadline: Hvorfor bliver børnene dummere?</title>
+    <desc>Danske børn bliver dummere - i hvert fald læser og regner de markant dårligere end for bare ti år siden. Hvordan kunne det gå så galt? Det spørger Christian Bennike børneminister Jacob Mark om i Deadline i dag.</desc>
+    <episode-num system="xmltv_ns">2025.138.0</episode-num>
   </programme>
   <programme start="20260917040000 +0000" stop="20260917050000 +0000" channel="dr2.dk">
     <title>Danske drømme (10:10)</title>
@@ -197,6 +68,7 @@ I dette sidste afsnit kigger Peter kær og Bente Scavenius nærmere på maleren 
   <programme start="20260917060500 +0000" stop="20260917063000 +0000" channel="dr2.dk">
     <title>Morgenandagten</title>
     <desc>Morgenandagten fra Vor Frue Kirke, Københavns Domkirke.</desc>
+    <episode-num system="xmltv_ns">2025.216.0</episode-num>
   </programme>
   <programme start="20260917063000 +0000" stop="20260917100000 +0000" channel="dr2.dk">
     <title>Seneste nyt fra TVA</title>
@@ -236,7 +108,7 @@ Sol, sex og røde badedragter. Baywatch tryllebandt millioner af seere hver uge 
   </programme>
   <programme start="20260917180500 +0000" stop="20260917185500 +0000" channel="dr2.dk">
     <title>Optimistens guide til planeten II (1:6)</title>
-    <desc>Hvordan kan vi være optimistiske i 2025? Nikolaj Coster-Waldau rejser ud i verden for at møde mennesker, der forsøger at finde en ny balance mellem menneskelig udvikling og naturens bevarelse. I Danmark skal landbrugsjord blive til skov for at genoprettet havmiljøet. I Indien genoprettes mangroveskov for at beskytte kysterne mod klimaforandringer. Og i Amazonas viser achuar-folket, hvordan teknologi kan bruges til at skabe udvikling uden at ofre regnskoven.
+    <desc>Hvordan kan vi være optimistiske i 2025? Nikolaj Coster-Waldau rejser ud i verden for at møde mennesker, der forsøger at finde en ny balance mellem menneskelig udvikling og naturens bevarelse. I Danmark skal landbrugsjord blive til skov for at genoprette havmiljøet. I Indien genoprettes mangroveskov for at beskytte kysterne mod klimaforandringer. Og i Amazonas viser achuar-folket, hvordan teknologi kan bruges til at skabe udvikling uden at ofre regnskoven.
 Canadisk dokumentarserie fra 2025.
 (An Optimist's Guide to the Planet)</desc>
     <episode-num system="xmltv_ns">1.0.0</episode-num>
@@ -297,8 +169,8 @@ Sataniske ritualer, blod og panik. I 1980 skriver psykiateren Lawrence Pazder og
     <episode-num system="xmltv_ns">2025.142.0</episode-num>
   </programme>
   <programme start="20260918023000 +0000" stop="20260918030000 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <title>Deadline: Siddique mod systemet</title>
+    <desc>Sikandar Siddiques boligsag er afgjort, og han er snart fortid i Københavns Borgerrepræsentation. Han har svindlet, mener kritikerne. Selv siger han, at han er et offer for zionismen og for det, han kalder "systemet." Men hvad er det for et system, som vil lukke munden på Sikandar Siddique? Christian Bennike spørger hovedpersonen selv i Deadline.</desc>
     <episode-num system="xmltv_ns">2025.141.0</episode-num>
   </programme>
   <programme start="20260918030000 +0000" stop="20260918033000 +0000" channel="dr2.dk">
@@ -602,7 +474,7 @@ Sendt første gang 22.03.2017</desc>
     <desc>De lokale hjemmeværnsfolk, udvalgte journalister og embedsmænd fra København øver det, som ingen ønsker skal ske. Regeringen skal flyttes under jorden for at sikre demokratiet. I bunkeren træner de, hvad de skal gøre, hvis den kolde krig bliver varm.</desc>
     <episode-num system="xmltv_ns">0.2.0</episode-num>
   </programme>
-  <programme start="20260920175000 +0000" stop="20260920180100 +0000" channel="dr2.dk">
+  <programme start="20260920175000 +0000" stop="20260920180000 +0000" channel="dr2.dk">
     <title>RO PÅ med DR Symfoniorkestret: I klitterne</title>
     <desc>Mærk vinden ved Vesterhavets klitter og lad kroppen finde ro i det grønne åbne landskab til lyden af DR Symfoniorkestret og Mozarts Eine Kleine Nachtmusik.
 Mozart: Eine Kleine Nacht Musik, 2. sats.</desc>
@@ -650,7 +522,7 @@ Sol, sex og røde badedragter. Baywatch tryllebandt millioner af seere hver uge 
   </programme>
   <programme start="20260921011500 +0000" stop="20260921020500 +0000" channel="dr2.dk">
     <title>Optimistens guide til planeten II (1:6)</title>
-    <desc>Hvordan kan vi være optimistiske i 2025? Nikolaj Coster-Waldau rejser ud i verden for at møde mennesker, der forsøger at finde en ny balance mellem menneskelig udvikling og naturens bevarelse. I Danmark skal landbrugsjord blive til skov for at genoprettet havmiljøet. I Indien genoprettes mangroveskov for at beskytte kysterne mod klimaforandringer. Og i Amazonas viser achuar-folket, hvordan teknologi kan bruges til at skabe udvikling uden at ofre regnskoven.
+    <desc>Hvordan kan vi være optimistiske i 2025? Nikolaj Coster-Waldau rejser ud i verden for at møde mennesker, der forsøger at finde en ny balance mellem menneskelig udvikling og naturens bevarelse. I Danmark skal landbrugsjord blive til skov for at genoprette havmiljøet. I Indien genoprettes mangroveskov for at beskytte kysterne mod klimaforandringer. Og i Amazonas viser achuar-folket, hvordan teknologi kan bruges til at skabe udvikling uden at ofre regnskoven.
 Canadisk dokumentarserie fra 2025.
 (An Optimist's Guide to the Planet)</desc>
     <episode-num system="xmltv_ns">1.0.0</episode-num>
@@ -813,8 +685,8 @@ I dette sidste afsnit kigger Peter kær og Bente Scavenius nærmere på maleren 
     <episode-num system="xmltv_ns">2025.142.0</episode-num>
   </programme>
   <programme start="20260922030000 +0000" stop="20260922033500 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <title>Deadline: Siddique mod systemet</title>
+    <desc>Sikandar Siddiques boligsag er afgjort, og han er snart fortid i Københavns Borgerrepræsentation. Han har svindlet, mener kritikerne. Selv siger han, at han er et offer for zionismen og for det, han kalder "systemet." Men hvad er det for et system, som vil lukke munden på Sikandar Siddique? Christian Bennike spørger hovedpersonen selv i Deadline.</desc>
     <episode-num system="xmltv_ns">2025.141.0</episode-num>
   </programme>
   <programme start="20260922040000 +0000" stop="20260922045500 +0000" channel="dr2.dk">
@@ -896,9 +768,7 @@ En dokudrama-serie om Danmark under besættelsen, og hvilken pris modstandskampe
   </programme>
   <programme start="20260922204500 +0000" stop="20260922221000 +0000" channel="dr2.dk">
     <title>Cirkus i Afghanistan</title>
-    <desc>Zahra og Zalgai elsker cirkus. Her kan de lege, drømme og stadig være børn. Men de nærmer sig 14 år og under Talibans styre bliver deres verden stadig mindre. Snart venter voksenliv med ansvar, regler og en virkelighed, de ikke selv har valgt. 
-
-Dansk dokumentarfilm fra 2026 (If Luck Will Come).</desc>
+    <desc>Zahra og Zalgai elsker cirkus. Her kan de lege, drømme og stadig være børn. Men de nærmer sig 14 år og under Talibans styre bliver deres verden stadig mindre. Snart venter voksenliv med ansvar, regler og en virkelighed, de ikke selv har valgt. Dansk dokumentarfilm fra 2026 (If Luck Will Come).</desc>
   </programme>
   <programme start="20260922221000 +0000" stop="20260922234500 +0000" channel="dr2.dk">
     <title>Little Richard - Gud, sex og rock'n'roll</title>
@@ -912,5 +782,140 @@ Rockmusikken eksploderede, da Little Richard indtog scenen. På samme måde spr�
 (Unsere Kontinente)
 For 15.000 år siden blev Nordamerika i en periode landfast med Asien. Mammutter og rensdyr migrerede til det nordlige Canada, efterfulgt af mennesker, som levede som jægere og samlere. Inuitterne tilpassede sig den ekstreme kulde. Sydpå, i Yucatan, skabte mayaerne en unik civilisation. Og i Mexico formede vulkanerne menneskets udvikling i området. Hvad betyder den ekstreme natur for fortidens og nutidens kulturer på kontinentet?</desc>
     <episode-num system="xmltv_ns">0.4.0</episode-num>
+  </programme>
+  <programme start="20260923004000 +0000" stop="20260923012000 +0000" channel="dr2.dk">
+    <title>Otte dage, der skabte Rom (6:8) Neros fald</title>
+    <desc>Britisk dokumentarserie fra 2021.
+(8 Days That Made Rome)
+Han styrede et gigantisk rige, der havde spredt sig til tre kontinenter. Men noget gik helt galt i hans regeringstid. Tag med Bettany Hughes tilbage til 9. juni 68 e.v.t., der blev enden på Roms første dynasti, da den magtbegærlige kejser Neros grusomhed fik Rom til at gå sammen imod ham, hvilket førte til hans død. Det var en dag, der indvarslede hårde tider med borgerkrig og en række militære ledere, der derefter kæmpede om magten i Rom.</desc>
+    <episode-num system="xmltv_ns">0.5.0</episode-num>
+  </programme>
+  <programme start="20260923012000 +0000" stop="20260923020000 +0000" channel="dr2.dk">
+    <title>Galskab: Journal nr. 29.264 - Sofie</title>
+    <desc>I 1955 indlægges en 34 årig kvinde på Vordingborg sindssygehospital.
+Hun er ulykkeligt forelsket og deprimeret. Igennem 11 år får Sofie over 20 forskellige slags psykofarmaka. 
+Flere af stofferne viser sig senere at være farlige. Et af dem er LSD.   
+Tilrettelæggelse: Rasmus Holm.</desc>
+  </programme>
+  <programme start="20260923020000 +0000" stop="20260923023000 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <episode-num system="xmltv_ns">2025.144.0</episode-num>
+  </programme>
+  <programme start="20260923023000 +0000" stop="20260923030000 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <episode-num system="xmltv_ns">2025.143.0</episode-num>
+  </programme>
+  <programme start="20260923030000 +0000" stop="20260923032500 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <episode-num system="xmltv_ns">2025.142.0</episode-num>
+  </programme>
+  <programme start="20260923032500 +0000" stop="20260923040000 +0000" channel="dr2.dk">
+    <title>Deadline: Siddique mod systemet</title>
+    <desc>Sikandar Siddiques boligsag er afgjort, og han er snart fortid i Københavns Borgerrepræsentation. Han har svindlet, mener kritikerne. Selv siger han, at han er et offer for zionismen og for det, han kalder "systemet." Men hvad er det for et system, som vil lukke munden på Sikandar Siddique? Christian Bennike spørger hovedpersonen selv i Deadline.</desc>
+    <episode-num system="xmltv_ns">2025.141.0</episode-num>
+  </programme>
+  <programme start="20260923040000 +0000" stop="20260923044500 +0000" channel="dr2.dk">
+    <title>Astrid Lindgrens elskede film (1:2)</title>
+    <desc>Svensk dokumentarserie fra 2024.
+(Astrid Lindgrens älskade filmer)
+'Pippi Langstrømpe', 'Emil fra Lønneberg' og 'Ronja Røverdatter' - elskede klassikere, der har tryllebundet generationer. Astrid Lindgren skabte magiske universer, men hvordan blev de til film? Denne episode tager os med fra Lindgrens første skridt ind i filmverdenen til de store succeser og samarbejdet med instruktør Olle Hellbom. Tres år efter optagelserne sluttede, vækkes både replikker og minder til live.</desc>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+  </programme>
+  <programme start="20260923044500 +0000" stop="20260923054000 +0000" channel="dr2.dk">
+    <title>Historien om den norske kongefamilie (2:7)</title>
+    <desc>Norsk dokumentarserie.
+"Kongen er død - leve kongen".
+17. januar 1991 afgik kong Olav V ved døden. Her fortæller kong Harald og prinsesse Astrid om de sidste timer i hans liv. Familiens øvrige medlemmer, politikere og mange nordmænd husker stadig reaktionerne fra tiden, lige efter de mistede den populære konge.</desc>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+  </programme>
+  <programme start="20260923054000 +0000" stop="20260923060000 +0000" channel="dr2.dk">
+    <title>Guldkorn 1980'erne: 1988</title>
+    <desc>DRs arkiver er en guldgrube af gamle TV-klip. De store historier har vi set igen og igen. Men hvad var det, der prægede helt almindelige danskeres hverdag i 1980'erne? Vi har været en tur i arkiverne og har fundet nogle af alle de små, store, sjove, alvorlige og underfundige øjeblikke, der gled hen over skærmen i 1988.</desc>
+  </programme>
+  <programme start="20260923060000 +0000" stop="20260923060500 +0000" channel="dr2.dk">
+    <title>Radioavisen</title>
+    <desc>Bliv opdateret på de seneste nyheder fra ind- og udland.</desc>
+  </programme>
+  <programme start="20260923060500 +0000" stop="20260923063000 +0000" channel="dr2.dk">
+    <title>Morgenandagten</title>
+    <desc>Morgenandagten fra Vor Frue Kirke, Københavns Domkirke.</desc>
+  </programme>
+  <programme start="20260923063000 +0000" stop="20260923100000 +0000" channel="dr2.dk">
+    <title>Seneste nyt fra TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260923100000 +0000" stop="20260923151500 +0000" channel="dr2.dk">
+    <title>Seneste nyt fra TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260923151500 +0000" stop="20260923160500 +0000" channel="dr2.dk">
+    <title>Husker du... 1990</title>
+    <desc>Nu tager Husker du... på et nyt årti. Første program i denne omgang handler om1990. Årtiet starter optimistisk. Den kolde krig er slut og Apartheid afskaffes, men inden 1990 er omme spiller Saddam Hussein hasard med verdensfreden og udenlandske gidsler, heriblandt 34 danske, bliver tilbageholdt i Irak. Da truslen om atomragnarok er væk, begynder danskerne at fokusere på de nære ting som miljøet og familien. Ord som drivhusgasser og genanvendelighed kommer højt på dagsordenen - Det er fandme uhyggeligt du! 
+Sendt første gang 12.02.06.</desc>
+    <episode-num system="xmltv_ns">3.0.0</episode-num>
+  </programme>
+  <programme start="20260923160500 +0000" stop="20260923165500 +0000" channel="dr2.dk">
+    <title>Husker du... 1991</title>
+    <desc>Danmark er stadig delt af vand, men faste forbindelser er in, og der bygges broer og graves tunneler. Tidevandet bringer Grungen ind fra Seattle og danske bands rider med på bølgen Den ny teknologi boomer med mobil-telefoner på størrelse med mursten, computernørder siger farvel til Commodore 64'eren, og to unge danskere får Danmarks første dom for hacking. Mød også piloten Stefan G. Rasmussen, der nødlandede et SAS-fly i Sverige og major 
+Svend Bergstein, der guidede os igennem Golfkrigen med pegepind og papmachefigur. 
+Sendt første gang 19.02.06.</desc>
+  </programme>
+  <programme start="20260923165500 +0000" stop="20260923171500 +0000" channel="dr2.dk">
+    <title>Alt forladt - Scala-bygningen</title>
+    <desc>Den "gamle" Scala-bygning er nu revet ned, men før den blev det, nåede de to Urban Explorers Jan Elhøj og Morten Kirckhoff at udforske stedet og dokumentere det for eftertiden. Det bliver også en chance for at genopleve deres ungdom.
+Tilrettelæggelse: Morten Steenstrup
+Sendt første gang 04.02.13</desc>
+    <episode-num system="xmltv_ns">0.3.0</episode-num>
+  </programme>
+  <programme start="20260923171500 +0000" stop="20260923180000 +0000" channel="dr2.dk">
+    <title>Smagen af Italien (6:6)</title>
+    <desc>Britisk madserie fra 2021.
+(Stanley Tucci: Searching for Italy)
+Byen er rig, og maden er berømt. Denne gang er Stanley Tucci i den gamle universitetsby Bologna, der ligger i det rige Emilia-Romagna. Et frodigt område, der vrimler med kvæg og hvede. Her møder han stjernekokken Massimo Bottura, der viser ham, hvor man kan få guddommelig parmesanost og udsøgt ricotta. Han smager på den berømte bolognapølse, mortadella, og møder den gastronomiske superstjerne Giusti, der fremstiller balsamisk eddike.</desc>
+    <episode-num system="xmltv_ns">0.5.0</episode-num>
+  </programme>
+  <programme start="20260923180000 +0000" stop="20260923191500 +0000" channel="dr2.dk">
+    <title>Ballerup boulevard</title>
+    <desc>Dansk drama fra 1986.
+Pinky har sammen med to veninder dannet bandet Ballerup Boulevard, der skal spille til skoleballet. Alt tegner godt, indtil Pinkys mor bliver dømt for bedrageri og må sidde en måned i fængsel. Familien må flytte og er ved at falde fra hinanden. Som om det ikke var nok, begynder veninderne også at se skævt til Pinky, fordi hendes mor sidder bag tremmer. Og snart er bandet truet af opløsning.
+Medvirkende: Stine Bierlich, Anja Toft, Anja Kempinski, Morten Grunwald, Helle Hertz m.fl.
+Instruktion: Linda Wendel.</desc>
+  </programme>
+  <programme start="20260923191500 +0000" stop="20260923195500 +0000" channel="dr2.dk">
+    <title>Galskab: Soldaten fra vestfronten</title>
+    <desc>Den psykiske patient var dansksindet, og indkaldt til vestfronten på tysk side. Han oplever rædslerne i skyttegravene, og mareridtet over dem alle: et granatnedslag begraver ham levende. Kammeraterne graver ham ud, men resten af livet kæmper han med de psykiske traumer og med invaliderådet for at få erstatning. Det er Første Verdenskrig der for første gang tvinger systemet til at anerkende, at sjælen kan tage skade af noget udefra - ikke mindst krig.
+Tilrettelæggelse: Søs Hoffmann og Lone Leegaard.</desc>
+  </programme>
+  <programme start="20260923200000 +0000" stop="20260923201500 +0000" channel="dr2.dk">
+    <title>TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260923201500 +0000" stop="20260923204500 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+  </programme>
+  <programme start="20260923204500 +0000" stop="20260923211500 +0000" channel="dr2.dk">
+    <title>Krigens døgn</title>
+    <desc>Forstå krigen mellem Ukraine og Rusland helt ned i detaljen. Med udgangspunkt i den seneste uges begivenheder zoomer vi sammen med Danmarks førende eksperter ind på krigens afgørende elementer.</desc>
+  </programme>
+  <programme start="20260923211500 +0000" stop="20260923220500 +0000" channel="dr2.dk">
+    <title>Kabul (2:6)</title>
+    <desc>Fransk dramaserie fra 2025.
+Ængstelige flygtninge venter uden for den franske ambassade. Også Zahara er på flugt, og det samme er hendes søn, soldaten Fazal. Amina er vidne til Talebans brutalitet over for hendes patient Nooria. Giovanni forsøger at opretholde orden i den kaotiske lufthavn. Og Vera begiver sig ud på en uautoriseret mission for at finde general Hassan.</desc>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+  </programme>
+  <programme start="20260923220500 +0000" stop="20260923233000 +0000" channel="dr2.dk">
+    <title>Brændende stemme</title>
+    <desc>Brændende stemme følger Tamara, en irakisk-dansk kvinde, mor og aktivist, der fra sit liv i Danmark kæmper mod social kontrol og kvindeundertrykkelse. Drevet af egne erfaringer med vold og tavshed har hun gjort sin stemme til et våben for kvinder uden rettigheder. Samtidig balancerer hun rollen som mor, datter og aktivist, mens hun står over for både trusler og personlige tab.</desc>
+  </programme>
+  <programme start="20260923233000 +0000" stop="20260924002000 +0000" channel="dr2.dk">
+    <title>Fortidens fantastiske ingeniørkunst II (10:10) Brillante brobyggere</title>
+    <desc>Britisk dokumentarserie fra 2022.
+(Ancient Engineering) 
+Den længste er 160 km lang, og nogle når en højde på 300 meter. Broer. De strækker sig over floder, oceaner og sågar kontinenter. De er essentielle for rejser, kommunikation og handel - og militær strategi. Fra Helix-broen i Singapore over Vietnams Gyldne Bro til Gateshead Millennium-broen i Newcastle. Tekniske fremskridt i årtusinder har bidraget til udviklingen af de spektakulære broer, der kendetegner vores moderne tidsalder.</desc>
+    <episode-num system="xmltv_ns">1.9.0</episode-num>
   </programme>
 </tv>
