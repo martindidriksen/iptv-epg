@@ -3,31 +3,6 @@
   <channel id="kvf.fo">
     <display-name>KVF</display-name>
   </channel>
-  <programme start="20260919180000 " stop="20260919185500 " channel="kvf.fo">
-    <title>Eitt fótbóltslið sum TB</title>
-    <sub-title>- føroysk sending frá 2013</sub-title>
-    <desc>TB vann sítt fyrsta FM-heiti í 25 ár hin 19. september 1976 - fyri brátt 50 árum síðani. Í 1976 varð ein nýggjur kapittul í føroyskum fótbólti skrivaður. Aldursforsetin, sum ikki hevði verið á tindinum í eina fjórðingsøld, vann føroyameistaraheitið við nýggjari manning, sum spældi ógvuliga ágangandi og undirhaldandi fótbólt. Í fleiri ár var TB liðið, sum vann mest og gekk undan sum virðiligt umboð fyri tað vakra spælið. Spælarar sum Henrik Thomsen, tvíburðarnir Ásmundur og Tróndur Nolsøe og málmaðurin Gordon Hofgaard varskógvaðu nýggj brigdi í føroyskum fótbólti. Á Tvøroyri kyknaði upp sonn fótbóltsveking, sum savnaði fjøldina sum ongantíð fyrr. Í sendingini verður ljós varpað á søguna um eitt av bestu fótbóltsliðum í Føroyum nakrantíð. Suni Merkistein og Jógvan Eli Dam gjørdu sendingina.</desc>
-  </programme>
-  <programme start="20260919185500 " stop="20260919192000 " channel="kvf.fo">
-    <title>Gylta Gullið 2:5</title>
-    <sub-title>- føroysk dokumentarrøð frá 2013</sub-title>
-    <desc>Í øðrum parti eru vit umborð á nýggju Norðborg.  Jón Rasmussen er skipari. Christian Martin Rasmussen greiðir frá, hvussu alt vendist, tá sildin kom aftur fyrst í 90-unum, Tá vóru teir nærmast farnir á húsagang eins og onnur reiðarí í uppsjóvarvinnuni. Christian í Grótinum varð bygdur í Chili í 1998. Seinni keyptu teir framleiðsluskip og fyri 5 árum síðani bygdu teir hetta sera framkomna framleiðslu- og fiskiskipið, Norðborg. Vit fylgja framkomnu framleiðsluni umborð, har alt verður gagnnýtt, einki fer útaftur. Ein ótrúlig broyting hesi seinastu 50 árini í okkara nóta- og trolveiðu eftir uppsjóvarfiski. Lagt til rættis: Zacharias Hammer</desc>
-  </programme>
-  <programme start="20260919192000 " stop="20260919202000 " channel="kvf.fo">
-    <title>Anne og Anders í Evropa 1:6</title>
-    <sub-title>- stórleiki og afturgongd í Grikkalandi, do. røð frá 2022</sub-title>
-    <desc>Ferðin byrjar í Grikkalandi og í høvuðsstaðnum Athen, har Anne og Anders uppliva bæði stórleikatíð og afturgongd. Á oynni Tilos bíðar danska Ann-Marie og øll tann stóra grikska familjan.</desc>
-  </programme>
-  <programme start="20260919202000 " stop="20260919211000 " channel="kvf.fo">
-    <title>Ongan panikk</title>
-    <sub-title>- danskt undirhald (4:7)</sub-title>
-    <desc>Hvussu klárar Anders Lund Madsen seg sum landsliðsleikari og realityluttakari, og hvør hevur í veruleikanum myrt songkvinnuna? Tað eru bert hugflogið og skeivu heilarnir hjá teimum fýra luttakarunum, sum kunnu bjarga teimum ígjøgnum sendingina. Framleiðsluár: 2026 Framleitt fyri: TV 2 DANMARK</desc>
-  </programme>
-  <programme start="20260919211000 " stop="20260920070000 " channel="kvf.fo">
-    <title>Only The Brave</title>
-    <sub-title>- amr. filmur frá 2017</sub-title>
-    <desc>Arizona, 2007. Eric Marsh (Josh Brolin) úr brandliðnum í Prescott er frustreraður um innsatsin móti teimum árligu skógareldunum og fær tí loyvi frá borgarstjóranum at stovna sítt egna úrvalslið av brandmonnum. Liðið fær navnið Granite Mountain Hotshots. Brandmenninir mugu  knýta eitt tætt samanhald. Evnini hjá teimum verða veruliga sett upp á eina roynd undir Yarnell Hill-eldinum. Filmurin er grundaður á veruligar hendingar. Upprunaheiti: Only The Brave Framleiðsluár: 2017 Aldursmark: 11 ár</desc>
-  </programme>
   <programme start="20260920070000 " stop="20260920072800 " channel="kvf.fo">
     <title>MORSA 7</title>
     <sub-title>- føroysk barnarøð frá 2017</sub-title>
@@ -319,7 +294,44 @@
     <title>Dagur og vika</title>
     <sub-title>- við teksti</sub-title>
   </programme>
-  <programme start="20260925223500 " stop="20260925233500 " channel="kvf.fo">
+  <programme start="20260925223500 " stop="20260926150000 " channel="kvf.fo">
     <title>Veðrið</title>
+  </programme>
+  <programme start="20260926150000 " stop="20260926160000 " channel="kvf.fo">
+    <title>Undansending: Føroyar - Kasakstan</title>
+  </programme>
+  <programme start="20260926160000 " stop="20260926164500 " channel="kvf.fo">
+    <title>Fótbóltur: Føroyar - Kasakstan</title>
+    <sub-title>- fyrri hálvleikur</sub-title>
+  </programme>
+  <programme start="20260926164500 " stop="20260926170000 " channel="kvf.fo">
+    <title>Hálvleiksstudio</title>
+  </programme>
+  <programme start="20260926170000 " stop="20260926174500 " channel="kvf.fo">
+    <title>Fótbóltur: Føroyar - Kasakstan</title>
+    <sub-title>- seinni hálvleikur</sub-title>
+  </programme>
+  <programme start="20260926174500 " stop="20260926181500 " channel="kvf.fo">
+    <title>Eftir dystin</title>
+  </programme>
+  <programme start="20260926181500 " stop="20260926191500 " channel="kvf.fo">
+    <title>Gylta gullið 3:5</title>
+    <sub-title>- føroysk dokumentarrøð frá 2014</sub-title>
+    <desc>Í røðini verða styttri og longri brot úr føroysku uppisjóvarvinnuni lýst heilt frá byrjanini fyrst í fimti árunum og heilt fram til dagin í dag. Við livandi frásøgnum , hendingum, gomlum filmsbrotum, myndum og eini rúgvu av góðum filmsupptøkum seinastu 15 ? 20 árini. Vit eru við úti á fiskifeltinum, har flestu samrøðurnar verða gjørdar. Í 3. Parti eru vit norðan fyri Føroyar, í norskum og íslendskum sjógvi á silda- og lodnuveiðu við Krúnborg 2001. Ejler Jacobsen sáli,  sigur frá sínari spennandi og slógbrótandi tíð í uppisjóvarvinnuni. Beinta H. Jacobsen sigur frá hvussu tað var at vera skipara- og reiðarakona. Vit møta Tummas Thomsen úr Gøtu, sum byrjaði síðst í 60-unum í uppisjóvarvinnuni.  Hann fór longu tá, at fylgja hesu vinnu við filmstólinum. Henrik Old sigur frá, tá hann byrjaði í hesu vinnu í 1967 og hansara 35 árum á sjónum ? tey flestu sum skipari. Lagt til rættis: Zacharias Hammer</desc>
+  </programme>
+  <programme start="20260926191500 " stop="20260926201500 " channel="kvf.fo">
+    <title>Anne og Anders i Evropa 2:6</title>
+    <sub-title>- grannastríð í norðurfraklandi</sub-title>
+    <desc>Anne og Anders ferðast gjøgnum Normandíið og Bretagne - eitt horn í Fraklandi, har grannalagið ofta er undir trýsti, orsakað av øllum frá heimskríggi til Brexit. Men har er eisini bæði camenbert og calvados - og við strondina skeljadjór!</desc>
+  </programme>
+  <programme start="20260926201500 " stop="20260926210000 " channel="kvf.fo">
+    <title>Ongan panikk</title>
+    <sub-title>- danskt undirhald (5:7)</sub-title>
+    <desc>Mia Lyhne hevur havt pyjamasparty við Vingegaard, og Jonas Mogensen er á síni fyrstu blind-date. Tað er næstan ómøguligt ikki at fara í  panikk, tá alt skal finnast upp á staðnum og beint nú. Framleiðsluár: 2026 Framleitt fyri: TV 2 DANMARK</desc>
+  </programme>
+  <programme start="20260926210000 " stop="20260926220000 " channel="kvf.fo">
+    <title>Stillwater</title>
+    <sub-title>- am. krimidrama fra 2021</sub-title>
+    <desc>Oljuarbeiðarin Bill Baker (Matt Damon) ferðast til Fraklands at bjarga dóttur síni (Abigail Breslin), sum er ákærd fyri morð. Við hjálp frá fronsku kvinnuni Virginie (Camille Cottin), fer Bill undir at kanna málið sjálvur fyri at prógva, at dóttirin er ósek. Upprunaheiti: Stillwater Framleiðsluár: 2021 Aldursmark: 15</desc>
   </programme>
 </tv>
