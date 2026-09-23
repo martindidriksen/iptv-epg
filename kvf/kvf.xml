@@ -3,48 +3,6 @@
   <channel id="kvf.fo">
     <display-name>KVF</display-name>
   </channel>
-  <programme start="20260922170000 " stop="20260922173000 " channel="kvf.fo">
-    <title>Vinus og Vimús 7:10</title>
-    <sub-title>- ferðaklemm, før.barnasending frá 2024</sub-title>
-    <desc>7.partur 3.umfar: Vinus og Vimús hava gjørt sær ein spælibuss. Ferðaseðilin er eitt klemm. Men tá ið bussurin bakkar á hillina, dettur bókin á gólv. Tað er ein góð bók um eina moldvørpu. Og tá ið sangurin um hjólini á bussinum er liðugur, klívur Vinurin út aftur gjøgnum vindeygað, hesa ferð hevur hann fleiri stuttlig ljóðføri við. Vimús kemur aftur við fleiri ferðsluskeltum. Men tá Vinus skal koyra bussin avstað, vil bussurin ikki koyra! Hesa ferð fer Vinus heilt vist at tekna ein buss. Smáteknifilmarnir eru eisini við. Og so er bert eftir at siga: Góðan morgun dag gott kvøld góða nátt ? og farvæl! At brúka til bussspælið: Stórt pappstykki. Litir. Lítil pappstykkir til skeltið og hjólini á bussinum.</desc>
-  </programme>
-  <programme start="20260922173000 " stop="20260922180000 " channel="kvf.fo">
-    <title>Alt um djór</title>
-    <sub-title>- barnarøð frá BBC við føroyskari talu</sub-title>
-  </programme>
-  <programme start="20260922180000 " stop="20260922182500 " channel="kvf.fo">
-    <title>Dagur og vika</title>
-  </programme>
-  <programme start="20260922182500 " stop="20260922183000 " channel="kvf.fo">
-    <title>Veðrið</title>
-  </programme>
-  <programme start="20260922183000 " stop="20260922190000 " channel="kvf.fo">
-    <title>Ukrainar í Finnlandi</title>
-    <sub-title>- finsk sending frá 2022</sub-title>
-    <desc>Ukrainar í tíggjutúsundatali leita sær tryggleika í Finnlandi á vári í 2022. Men hvussu er kapasiteturin at taka ímóti teimum? Tey flestu ukrainsku flóttafólkini í Finnlandi búgva í privatum býli. Redaktørar: Kjell Lindroos, Louise Bergman og Linda Söderlund. Broadcast Company: YLE.</desc>
-  </programme>
-  <programme start="20260922190000 " stop="20260922195000 " channel="kvf.fo">
-    <title>Enter e-sport 4:4</title>
-    <sub-title>- norsk røð frá 2022</sub-title>
-    <desc>Endiliga kunnu heimsins bestu ´gamarar´ aftur stríðast um størsta heiðurin. Hvat er avgerandi fyri, hvør kann liva av ´gaming´ og hvør má geva upp? (4:4) Broadcast Company NRK</desc>
-  </programme>
-  <programme start="20260922195000 " stop="20260922202000 " channel="kvf.fo">
-    <title>Gud elskar børn 3:5</title>
-    <sub-title>- um tú svíkir Gud, missir tú familjuna, svensk røð frá 2022</sub-title>
-    <desc>Børn sum ikki ganga eftir reglunum í átrúnaðarligu skipanunum, ið foreldrini hava valt, eru í vanda fyri at missa alt, familjuna og síni nærmastu. Jonnah, sum vaks upp sum Jehovas vitne, varð útihýst, tí hon valdi ikki tann "rætta" drongin. Programmleiðari er Anna Lindman. 3. partur av 5: Um tú svíkir Gud, missir tú familju tína.</desc>
-  </programme>
-  <programme start="20260922202000 " stop="20260922212000 " channel="kvf.fo">
-    <title>Etingarólag 3:3</title>
-    <sub-title>- svensk dok.røð frá 2022</sub-title>
-    <desc>Um eitt ár skal tað vera lagt afturum. Vit fylgja fimm fólkum, sum eru á markinum ímillum at vera sunn og sjúk og sum stríðast við etingarólag. Tað, sum byrjar sum ein roynd at  liva sunt, plágar mong í dag, ikki einans tey sjúku, men eisini familjur, vinir og alt samfelagið. Tey allarflestu læra seg at liva við etingarólagi, og mong gerast heilt frísk.</desc>
-  </programme>
-  <programme start="20260922212000 " stop="20260922214500 " channel="kvf.fo">
-    <title>Dagur og vika</title>
-    <sub-title>- við teksti</sub-title>
-  </programme>
-  <programme start="20260922214500 " stop="20260923170000 " channel="kvf.fo">
-    <title>Veðrið</title>
-  </programme>
   <programme start="20260923170000 " stop="20260923173000 " channel="kvf.fo">
     <title>Alt um djór</title>
     <sub-title>- barnarøð frá BBC við føroyskari talu</sub-title>
@@ -317,7 +275,56 @@
     <title>Dagur og vika við 3-2</title>
     <sub-title>- við teksti</sub-title>
   </programme>
-  <programme start="20260928215500 " stop="20260928225500 " channel="kvf.fo">
+  <programme start="20260928215500 " stop="20260929153000 " channel="kvf.fo">
+    <title>Veðrið</title>
+  </programme>
+  <programme start="20260929153000 " stop="20260929160000 " channel="kvf.fo">
+    <title>Undansending: Moldova - Føroyar</title>
+  </programme>
+  <programme start="20260929160000 " stop="20260929164500 " channel="kvf.fo">
+    <title>Fótbóltur: Moldova - Føroyar</title>
+    <sub-title>- fyrri hálvleikur</sub-title>
+  </programme>
+  <programme start="20260929164500 " stop="20260929170000 " channel="kvf.fo">
+    <title>Hálvleiksstudio</title>
+  </programme>
+  <programme start="20260929170000 " stop="20260929174500 " channel="kvf.fo">
+    <title>Fótbóltur: Moldova - Føroyar</title>
+    <sub-title>- seinni hálvleikur</sub-title>
+  </programme>
+  <programme start="20260929174500 " stop="20260929180000 " channel="kvf.fo">
+    <title>Eftir dystin</title>
+  </programme>
+  <programme start="20260929180000 " stop="20260929182500 " channel="kvf.fo">
+    <title>Dagur og vika</title>
+  </programme>
+  <programme start="20260929182500 " stop="20260929183000 " channel="kvf.fo">
+    <title>Veðrið</title>
+  </programme>
+  <programme start="20260929183000 " stop="20260929190500 " channel="kvf.fo">
+    <title>Emil skrúvar niður</title>
+    <sub-title>- donsk dokumentarrøð (1:3)</sub-title>
+    <desc>Emil Millang avdúkar eina stóra verkætlan fyri konu síni, Ditte, sum nakað ivandi tekur ímóti tí, og hann byrjar við einari røð av teimum stóru postunum, sum veruliga gera mun í hansara roknskapi. Upprunaheiti: Emil skruer ned Framleiðsluár: 2026</desc>
+  </programme>
+  <programme start="20260929190500 " stop="20260929193500 " channel="kvf.fo">
+    <title>Lumpað á verkstaðnum?</title>
+    <desc>Hvussu skalt tú sum bileigari vita, um alt fer reiðiliga fram á bilverkstaðnum? Í sendingini verður ljós kastað á fýra bilar. Tað vísir, at bæði ósketni og fusk koma fyri, og í Finnlandi er eingin óheftur aktørur, sum hevur eftirlit við bilverkstøðunum. Broadcast Company: YLE.</desc>
+  </programme>
+  <programme start="20260929193500 " stop="20260929200000 " channel="kvf.fo">
+    <title>Gud elskar børn 4:5</title>
+    <sub-title>- tá Gud kemur fram um barnið, svensk røð frá 2022</sub-title>
+    <desc>Hvussu ber tað til, at foreldur velja Gud og samkomuna fram um síni egnu børn? Og hvussu er tað sum foreldur brádliga at koma eftir, at trúgvin, tú hevur valt, nívir barnið? Programmleiðari er Anna Lindman. 4. partur av 5: Tá Gud kemur fram um barnið.</desc>
+  </programme>
+  <programme start="20260929200000 " stop="20260929210000 " channel="kvf.fo">
+    <title>Konflikt</title>
+    <sub-title>- finsk spenningsrøð (1:6)</sub-title>
+    <desc>Mitt í midsummarfriðinum verður ein finsk hálvoyggj rakt av einum ræðuligum álopi. Avskorin frá umheiminum stríðist deildarleiðarin Annika og hennara toymi fyri lívinum, meðan forsetin verður trýstur av svikarum, og hóttanin um alheimsbardaga veksur. Upprunaheiti: Konflikti Framleiðsluár: 2024 Aldursmark: 15</desc>
+  </programme>
+  <programme start="20260929210000 " stop="20260929212500 " channel="kvf.fo">
+    <title>Dagur og vika</title>
+    <sub-title>- við teksti</sub-title>
+  </programme>
+  <programme start="20260929212500 " stop="20260929222500 " channel="kvf.fo">
     <title>Veðrið</title>
   </programme>
 </tv>
