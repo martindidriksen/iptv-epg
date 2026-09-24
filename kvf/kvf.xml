@@ -3,45 +3,6 @@
   <channel id="kvf.fo">
     <display-name>KVF</display-name>
   </channel>
-  <programme start="20260923170000 " stop="20260923173000 " channel="kvf.fo">
-    <title>Alt um djór</title>
-    <sub-title>- barnarøð frá BBC við føroyskari talu</sub-title>
-  </programme>
-  <programme start="20260923173000 " stop="20260923180000 " channel="kvf.fo">
-    <title>Snipp snapp</title>
-    <sub-title>- føroysk sending til børn</sub-title>
-    <desc>VIT hava verið í Fuglafjarðar skúla og filmað 11 nýggjar Snipp Snapp-sendingar. Børn, sum ganga í 2. flokki í Fuglafjarðar skúla eru vertir hvørt mikukvøld, til nýggi jólakalendarin Snæfall 2 byrjar í desembur. Í Snipp Snapp eru eisini 11 spildurnýggir partar av Labbaliðnum.</desc>
-  </programme>
-  <programme start="20260923180000 " stop="20260923190000 " channel="kvf.fo">
-    <title>Gylta gullið 3:5</title>
-    <sub-title>- føroysk dokumentarrøð frá 2014</sub-title>
-    <desc>Í røðini verða styttri og longri brot úr føroysku uppisjóvarvinnuni lýst heilt frá byrjanini fyrst í fimti árunum og heilt fram til dagin í dag. Við livandi frásøgnum , hendingum, gomlum filmsbrotum, myndum og eini rúgvu av góðum filmsupptøkum seinastu 15 ? 20 árini. Vit eru við úti á fiskifeltinum, har flestu samrøðurnar verða gjørdar. Í 3. Parti eru vit norðan fyri Føroyar, í norskum og íslendskum sjógvi á silda- og lodnuveiðu við Krúnborg 2001. Ejler Jacobsen sáli,  sigur frá sínari spennandi og slógbrótandi tíð í uppisjóvarvinnuni. Beinta H. Jacobsen sigur frá hvussu tað var at vera skipara- og reiðarakona. Vit møta Tummas Thomsen úr Gøtu, sum byrjaði síðst í 60-unum í uppisjóvarvinnuni.  Hann fór longu tá, at fylgja hesu vinnu við filmstólinum. Henrik Old sigur frá, tá hann byrjaði í hesu vinnu í 1967 og hansara 35 árum á sjónum ? tey flestu sum skipari. Lagt til rættis: Zacharias Hammer</desc>
-  </programme>
-  <programme start="20260923190000 " stop="20260923194500 " channel="kvf.fo">
-    <title>Bóndi søkir kærleika</title>
-    <sub-title>- donsk sendirøð (5:13)</sub-title>
-    <desc>Maia skal á eitt musikalskt stevnumøti við sínum sjeikum, og serliga ein teirra leggur alla orku í at spæla seg inn í hjarta hennara. Á garðinum hjá Lasse hevur ein av kvinnunum ein heilt serligan hátt at vera saman við grísunum, meðan genturnar hjá Jonathan kappast um uppmerksemi hansara. Upprunaheiti: Landmand søger kærlighed Framleiðsluár: 2026</desc>
-  </programme>
-  <programme start="20260923194500 " stop="20260923202500 " channel="kvf.fo">
-    <title>Síðsta breiddarstig 6</title>
-    <sub-title>- móti málinum</sub-title>
-    <desc>Eftir næstan tríggjar vikur nærkast endin á pólsævintýrinum. Men Emil, Alfred, Mikkel og liðið hjá teimum eru ikki komin á mál enn. Fyri framman hava tey framvegis mangar ísakaldar kilometrar eftir í einum øki av  Svalbard, har nógvar ísbjarnir halda til. Nú ið liðið nærkast málinum, kenna tey seg ikki einans kenna klótuna betur, men eisini seg sjálvan. Sesong: 1. Partur: 6. Framl. ár: 2023 Framl.: Bermuda Framl. fyri: TV 2 DANMARK</desc>
-  </programme>
-  <programme start="20260923202500 " stop="20260923205000 " channel="kvf.fo">
-    <title>Søgur fyri milliónir 5:5</title>
-    <sub-title>- annað stig, donsk røð frá 2022</sub-title>
-    <desc>Størstu ávirkararnir gerast í veruleikanum eitt "brand" í sjálvum sær. Mathilde Gøhler er tann størsti í Danmark og fer nú undir at byggja sítt lívsstílsimperii.</desc>
-  </programme>
-  <programme start="20260923205000 " stop="20260923211000 " channel="kvf.fo">
-    <title>Í luftini við Leu</title>
-    <sub-title>- sending frá 2021</sub-title>
-    <desc>Í luftini er sjónvarpsrøð við tónleiki og práti úr Kringvarpshøllini. Í sendingini tosa vit við fløguaktuellar tónleikarar, og tey framføra nøkur løg av nýggjastu útgávuni. Hesa ferð er Lea gestur. Sendingin er gjørd í samstarvi við Faroe Music Export.</desc>
-  </programme>
-  <programme start="20260923211000 " stop="20260924170000 " channel="kvf.fo">
-    <title>Porno 2022 4:5</title>
-    <sub-title>- norsk røð frá 2022, óhósk.fyri børn</sub-title>
-    <desc>Hvat sigur víðgongt porno um okkum menniskju? Emilie hittir sonevnd "furries" sum gera djóradrakt-porno. Broadcast Company NRK.</desc>
-  </programme>
   <programme start="20260924170000 " stop="20260924173000 " channel="kvf.fo">
     <title>Snipp snapp</title>
     <sub-title>- føroysk sending til børn</sub-title>
@@ -324,7 +285,42 @@
     <title>Dagur og vika</title>
     <sub-title>- við teksti</sub-title>
   </programme>
-  <programme start="20260929212500 " stop="20260929222500 " channel="kvf.fo">
+  <programme start="20260929212500 " stop="20260930170000 " channel="kvf.fo">
     <title>Veðrið</title>
+  </programme>
+  <programme start="20260930170000 " stop="20260930173000 " channel="kvf.fo">
+    <title>Alt um djór</title>
+    <sub-title>- barnarøð frá BBC við føroyskari talu</sub-title>
+  </programme>
+  <programme start="20260930173000 " stop="20260930180000 " channel="kvf.fo">
+    <title>Snipp snapp</title>
+    <sub-title>- føroysk sending til børn</sub-title>
+    <desc>VIT hava verið í Fuglafjarðar skúla og filmað 11 nýggjar Snipp Snapp-sendingar. Børn, sum ganga í 2. flokki í Fuglafjarðar skúla eru vertir hvørt mikukvøld, til nýggi jólakalendarin Snæfall 2 byrjar í desembur. Í Snipp Snapp eru eisini 11 spildurnýggir partar av Labbaliðnum.</desc>
+  </programme>
+  <programme start="20260930180000 " stop="20260930185500 " channel="kvf.fo">
+    <title>Gylta gullið 4:5</title>
+    <sub-title>- føroysk dokumentarrøð frá 2014</sub-title>
+    <desc>Í hesum parti eru vit í árunum frá 1970 og fram til kreppuna í nítiárunum. Sámal Jacobsen, bróðir Eiler Jacobsen, sála,  greiðir frá síni spenndi tíð á sjónum. Við í stovuni hjá Sámal hevur hann tveir av monnunum, sum hava verið við honum í 35 ár.  Teir vita frá nógvum at siga, fleiri spennandi søgum. Vit hitta  eisini Levi Joensen fyrrverandi skipara og sjómanstrúboðara. Ein sending við nógvum siðsøguligum tilfari í myndum og frásøgn. Lagt til rættis: Zacharias Hammer.</desc>
+  </programme>
+  <programme start="20260930185500 " stop="20260930193500 " channel="kvf.fo">
+    <title>Bóndi søkir kærleika</title>
+    <sub-title>- donsk sendirøð (6:13)</sub-title>
+    <desc>Tað gongur illa við nervunum hjá Rasmusi, tá ið hann fyri fyrstu ferð skal á speed-date við teimum fimm kvinnunum. Í Norðurjútlandi flyta sjeikarnir hjá Maiu inn, og hon hevur skipað fyri, at tey skulu sova í tjaldi. Kvinnurnar hjá Lasse skulu hitta vinir hansara, men norðurjútlandska dialektin ger samrøðuna trupula. Upprunaheiti: Landmand søger kærlighed Framleiðsluár: 2026</desc>
+  </programme>
+  <programme start="20260930193500 " stop="20260930201500 " channel="kvf.fo">
+    <title>Hvar skulu vit búgva?</title>
+    <sub-title>- donsk sendirøð</sub-title>
+    <desc>Betina og Rasmus hava áður verið við í sendingini, har tey sum nýggj foreldur leitaðu eftir einum húsi í Hillerød. Síðani tá er dóttir teirra, Emma, vorðin staðfest við cerebral paresu og hevur støðugt tørv á hjálp, og hennara mongu hjálpartól fylla nógv. Tí noyðist familjan aftur at leita eftir einum nýggjum heimi saman við Sara. Nicoline og Christoffer skulu skifta sína lítlu íbúð í Aarhus út við eina eitt sindur størri íbúð í Keypmannahavn. Tey hava biðið Dilsad um hjálp, tí bústaðarmarknaðurin í Keypmannahavn er ein frumskógur, har tað er torført at fylgja við, tá ein ikki býr í nærumhvørvinum. Framleiðsluár: 2026</desc>
+  </programme>
+  <programme start="20260930201500 " stop="20260930203500 " channel="kvf.fo">
+    <title>Úr savninum: Í luftini við Raske Drenge</title>
+  </programme>
+  <programme start="20260930203500 " stop="20260930210000 " channel="kvf.fo">
+    <title>Úr savninum: Í luftini við Son of Fortune</title>
+  </programme>
+  <programme start="20260930210000 " stop="20260930220000 " channel="kvf.fo">
+    <title>Porno 2022 5:5</title>
+    <sub-title>- norsk røð frá 2022, óhósk.fyri børn</sub-title>
+    <desc>Hvat ger porno við okkum? Emilie hittir reality-luttakarar, pornomótstøðufólk og ein transmann, sum heldur porno vera frígerandi. Og aftur vitjar hon Pierre. Broadcast Company NRK.</desc>
   </programme>
 </tv>
