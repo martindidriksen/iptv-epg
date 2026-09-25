@@ -3,176 +3,41 @@
   <channel id="ruv.is">
     <display-name>RÚV 1</display-name>
   </channel>
-  <programme start="20260924130000 +0000" stop="20260924132700 +0000" channel="ruv.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
-  <programme start="20260924132800 +0000" stop="20260924133700 +0000" channel="ruv.is">
-    <title>Heimaleikfimi</title>
-    <desc>Góð ráð og æfingar sem tilvalið er að gera heima. Íris Rut Garðarsdóttir sjúkraþjálfari hefur umsjón með leikfiminni.
-
-Standandi æfingar við stól.</desc>
-  </programme>
-  <programme start="20260924133700 +0000" stop="20260924140700 +0000" channel="ruv.is">
-    <title>Kastljós</title>
-    <desc>Lifandi og fjölbreyttur þáttur um fréttir, menningu og dægurmál. Helstu fréttir dagsins eru krufðar og ljósi varpað á litríkt mannlíf um land allt. Umsjón: Bergsteinn Sigurðsson, Guðrún Sóley Gestsdóttir, Margrét Helga Erlingsdóttir og Kristján Kristjánsson. Ritstjóri: Sigríður Halldórsdóttir.
-
-Viðtal við Kristrúnu Frostadóttur frá Allsherjarþingi SÞ í New York, viðtal við Ölmu Möller um rekstur SÁÁ og umræða umn nýjan milliríkjasamning Grænlands, Bandaríkjanna og Danmerkur.</desc>
-  </programme>
-  <programme start="20260924140700 +0000" stop="20260924150200 +0000" channel="ruv.is">
-    <title>Gettu betur 1996</title>
-    <desc>Spurningakeppni framhaldsskólanna frá 1996. Spyrill: Davíð Þór Jónsson. Dómari: Helgi Ólafsson. Stigavörður: Sólveig Samúelsdóttir. Dagskrárgerð: Andrés Indriðason.
-
-Í þessum þætti mætast lið Menntaskólans við Sund og Flensborgarskólans. Lið Menntaskólans við Sund skipa Eyjólfur Magnússon, Gestur Óskar Magnússon og Oddbergur Eiríksson. Lið Flensborgarskólans skipa Magnea Erna Auðunsdóttir, Guðmundur Sverrir Jónsson og Orri Þórðarson.</desc>
-  </programme>
-  <programme start="20260924150200 +0000" stop="20260924154100 +0000" channel="ruv.is">
-    <title>Hvað hrjáir þig?</title>
-    <desc>Norskir þættir þar sem tvö lið keppast á um að greina hvað amar að sjúklingum. Í öðru liðinu eru læknar en í hinu liðinu er „venjulegt“ fólk sem má nota internetið sér til aðstoðar.</desc>
-  </programme>
-  <programme start="20260924154200 +0000" stop="20260924161000 +0000" channel="ruv.is">
-    <title>Sambúð kynslóðanna</title>
-    <desc>Heimildarþáttur um ungmenni sem flytja inn á elliheimili í Helsinki. Þar fá þau að búa og borga lága leigu gegn því að umgangast eldri borgarana og veita þeim félagsskap.</desc>
-  </programme>
-  <programme start="20260924161200 +0000" stop="20260924165800 +0000" channel="ruv.is">
-    <title>George Clarke skoðar bandaríska hönnun</title>
-    <desc>Ný bresk heimildarþáttaröð þar sem arkitektinn og sjónvarpsmaðurinn George Clarke ferðast um Bandaríkin og kynnir sér einkenni bandarískrar hönnunnar.</desc>
-  </programme>
-  <programme start="20260924170100 +0000" stop="20260924172800 +0000" channel="ruv.is">
-    <title>Perlur sjónvarpsins</title>
-    <desc>Í safni sjónvarpsins er að finna efni allt frá stofnun þess en sjónvarpið hefur fylgt þjóðinni í sextíu ár. Helga Lára Þorsteinsdóttir og Viktoría Hermannsdóttir demba sér á kaf í safnkostinn og sýna þjóðinni valda gullmola. Áhugaverð, forvitnileg og óvenjuleg brot úr sjónvarpssögunni sem sum hafa nýlega verið gerð aðgengileg. Dagskrárgerð: Ragnheiður Thorsteinsson.
-
-Vissir þú að apar voru eitt sinn gæludýr á Íslandi og að hundahald var bannað í Reykjavík fram á níunda áratuginn? Helga Lára Þorsteinsdóttir og Viktoría Hermannsdóttir skoða myndefni tengt dýrum úr safni sjónvarpsins.</desc>
-  </programme>
-  <programme start="20260924172900 +0000" stop="20260924182100 +0000" channel="ruv.is">
-    <title>KrakkaRÚV</title>
-  </programme>
-  <programme start="20260924172900 +0000" stop="20260924173700 +0000" channel="ruv.is">
-    <title>Sögur snjómannsins 4</title>
-    <desc>Huggulegir þættir þar sem snjómaðurinn les úr sínum uppáhaldsbókum fyrir litlu mýsnar í bókabúðinni.</desc>
-  </programme>
-  <programme start="20260924173700 +0000" stop="20260924174100 +0000" channel="ruv.is">
-    <title>Eldhugar</title>
-    <desc>Stuttir þættir þar sem við kynnumst merkiskonum mannkynssögunnar. Sumar eru frægar, aðrar eru óþekktar en allar eru þær töffarar og eldhugar.</desc>
-  </programme>
-  <programme start="20260924174100 +0000" stop="20260924174400 +0000" channel="ruv.is">
-    <title>Ofurdýr í náttúrunni</title>
-    <desc>Ofurkraftar náttúrunnar lifna við! Sprenghlægileg og fróðleg þáttaröð fyrir krakka sem sýnir undur dýranna og hvers vegna við ættum að vernda heiminn þeirra.</desc>
-  </programme>
-  <programme start="20260924174400 +0000" stop="20260924180800 +0000" channel="ruv.is">
-    <title>Einu sinni var... Jörðin</title>
-    <desc>Þessar þáttaraðir eru áhorfendum að góðu kunnar, enda eru þættirnir bæði afar fræðandi og skemmtilegir en að þessu sinni fræðumst við um jörðina. Þáttunum er ætlað að hvetja yngri áhorfendur til að verða ábyrgir borgarar og hjálpa þeim að skilja umhverfi sitt, svo þeir geti lagt sitt af mörkum til að vernda það.</desc>
-  </programme>
-  <programme start="20260924180800 +0000" stop="20260924181100 +0000" channel="ruv.is">
-    <title>Ferðalagið</title>
-    <desc>Tveir strákar hjóla um landið og hafa meðferðis forláta tölvu sem segir þeim allt um þá staði sem þeir koma á. Leikið efni frá 2018.
-
-Handrit: Íris Stefanía Skúladóttir.
-
-Hlutverk ferðalanga: Jóhann Ingi Skúlason og Emil Örn Kristjánsson.
-
-Rödd tölvu: Íris Stefanía Skúladóttir.</desc>
-  </programme>
-  <programme start="20260924181100 +0000" stop="20260924182000 +0000" channel="ruv.is">
-    <title>Víkingaþrautin</title>
-    <desc>Fjórir krakkar eiga að vinna skólaverkefni um víkingatímabilið á Þjóðminjasafninu en leysa í staðinn ævafornan víking úr álögum. Krakkarnir þurfa að leysa sérstakar víkingaþrautir til að hjálpa víkingnum að komast til Valhallar - þangað sem fallnar víkingahetjur fara eftir að hafa dáið í bardaga.
-
-Í æsispennandi lokaþætti af Víkingaþrautinni þurfa krakkarnir að spila hinn forna leik víkinganna - hnefatafl - við sjálfan Loka. Víkingurinn óttast að hann muni aldrei komast til Valhallar.</desc>
-  </programme>
-  <programme start="20260924182100 +0000" stop="20260924182900 +0000" channel="ruv.is">
-    <title>Krakkafréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir settar fram á einfaldan og aðgengilegan hátt.
-
-Umsjón og handrit: Ari Páll Karlsson og Embla Bachmann. Ritstjórn: Ari Páll Karlsson.
-
-Krakkafréttakonan Katrín Rós fræddist um geitur á bænum Háafell í sumar🐐</desc>
-  </programme>
-  <programme start="20260924182900 +0000" stop="20260924185100 +0000" channel="ruv.is">
-    <title>Hugvit</title>
-    <desc>Heimildarþættir þar sem saga íslenskrar hönnunar er rakin, allt frá fyrstu brautryðjendum til yngri kynslóða. Í hverjum þætti er sjónum beint að áhrifamiklum hönnuðum og verkum þeirra, samhengi þeirra við samtímann og arfleifð. Dagskrárgerð: Jakob Halldórsson.
-
-Fjallað er um Halldór Hjálmarsson, innanhússarkitekt, sem mótaði fagurfræði og fagvitund greinarinnar.</desc>
-  </programme>
-  <programme start="20260924190000 +0000" stop="20260924192700 +0000" channel="ruv.is">
-    <title>Fréttir</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
-  <programme start="20260924193000 +0000" stop="20260924193500 +0000" channel="ruv.is">
-    <title>Íþróttir</title>
-    <desc>Íþróttafréttir.</desc>
-  </programme>
-  <programme start="20260924193500 +0000" stop="20260924194000 +0000" channel="ruv.is">
-    <title>Veður</title>
-    <desc>Veðurfréttir.</desc>
-  </programme>
-  <programme start="20260924194500 +0000" stop="20260924201000 +0000" channel="ruv.is">
-    <title>Kastljós</title>
-    <desc>Lifandi og fjölbreyttur þáttur um fréttir, menningu og dægurmál. Helstu fréttir dagsins eru krufðar og ljósi varpað á litríkt mannlíf um land allt. Umsjón: Bergsteinn Sigurðsson, Guðrún Sóley Gestsdóttir, Margrét Helga Erlingsdóttir og Kristján Kristjánsson. Ritstjóri: Sigríður Halldórsdóttir.</desc>
-  </programme>
-  <programme start="20260924201500 +0000" stop="20260924205700 +0000" channel="ruv.is">
-    <title>Úti III</title>
-    <sub-title>(6 af 6)</sub-title>
-    <desc>Ferðaþættir í umsjón Brynhildar Ólafsdóttur og Róberts Marshall. Að þessu sinni fara þau hjónin með gönguhóp um stórbrotið fjalllendi heima og erlendis. Það reynir á líkama, sál og samheldni í ólíkum tegundum útivistar.
-
-Hópur Íslendinga tekst á við stærstu áskorun þáttaraðarinnar: að þvera sjálfan Grænlandsjökul. Ferðin, sem þegar er talin ein sú erfiðasta sem hægt er að leggja upp í á norðurslóðum, verður að grimmri baráttu þegar hópurinn lendir í einhverjum verstu aðstæðum sem orðið hafa á jöklinum í marga áratugi.</desc>
-  </programme>
-  <programme start="20260924210000 +0000" stop="20260924212800 +0000" channel="ruv.is">
-    <title>Húsið okkar á Sikiley: Innkaupaferðin</title>
-    <sub-title>(4 af 6)</sub-title>
-    <desc>Sænsk þáttaröð frá 2023. Marie Olsson Nylander heldur í ævintýraferð með systur sinni þar sem þær ferðast frá Svíþjóð niður til Sikileyjar. Á leiðinni stoppa þær á ýmsum stöðum í leit að forngripum fyrir heimili Marie á Sikiley.</desc>
-  </programme>
-  <programme start="20260924213000 +0000" stop="20260924221100 +0000" channel="ruv.is">
-    <title>Lífsmörk</title>
-    <sub-title>(7 af 8)</sub-title>
-    <desc>Norsk leikin þáttaröð frá 2026. Sérnámslæknarnir Petra, Kissy, Samuel og Joakim fóta sig í nýju starfi á sjúkrahúsi. Saman takast þau á við langa og krefjandi vinnudaga sem tengir þau órjúfanlegum böndum. Aðalhlutverk: Elpida Stojcevska, Sofia Tjelta og Deniz Kaya. Þættirnir eru ekki við hæfi barna yngri en 12 ára.</desc>
-  </programme>
-  <programme start="20260924221500 +0000" stop="20260924225800 +0000" channel="ruv.is">
-    <title>Pabbahelgar</title>
-    <sub-title>(3 af 6)</sub-title>
-    <desc>Íslensk þáttaröð um Karen, 38 ára hjónabandsráðgjafa og þriggja barna móður, sem stendur frammi fyrir erfiðum ákvörðunum þegar hún kemst að því að eiginmaður hennar hefur verið henni ótrúr. Hún á erfitt með að fyrirgefa eiginmanninum en það versta sem hún getur hugsað sér eru svokallaðar pabbahelgar. Leikstjórn: Nanna Kristín Magnúsdóttir og Marteinn Þórsson. Aðalhlutverk: Nanna Kristín Magnúsdóttir og Sveinn Ólafur Gunnarsson. Framleiðsla: Zik Zak kvikmyndir og Ungar kvikmyndafélag. Þættirnir eru ekki við hæfi barna yngri en 16 ára.
-
-Karen ákveður að kalla konuna sem setti líf hennar á hvolf á sinn fund en situr í kjölfarið eftir enn ringlaðri og óöruggari með sjálfa sig.</desc>
-  </programme>
-  <programme start="20260924230000 +0000" stop="20260924235500 +0000" channel="ruv.is">
-    <title>Greifinn af Monte Cristo</title>
-    <sub-title>(2 af 8)</sub-title>
-    <desc>Leikin þáttaröð frá 2024 byggð á samnefndri skáldsögu eftir Alexandre Dumas. Sjómaðurinn Edmond Dantè er svikinn af þremur mönnum og ranglega fangelsaður á eyju við strendur Marseille. Mörgum árum síðar tekst honum að flýja fangelsið og leitar uppi fjársjóð sem samfangi hans sagði honum frá. Hann hefur nýtt líf undir dulnefninu greifinn af Monte Cristo og er staðráðinn í að ná fram hefndum á mönnunum sem sviku hann. Aðalhlutverk: Sam Claflin, Mikkel Boe Følsgaard og Ana Girardot. Þættirnir eru ekki við hæfi barna yngri en 12 ára.</desc>
-  </programme>
-  <programme start="20260924235500 +0000" stop="20260925004000 +0000" channel="ruv.is">
-    <title>Kennarinn III</title>
-    <sub-title>(6 af 8)</sub-title>
-    <desc>Þriðja þáttaröð þessara pólsku spennuþátta um menntaskólakennarann Pawel Zawadzki. Þegar nemandi deyr í siglingu á vegnum skólans beinast spjótin að skipstjóranum, Bogdan, sem er faðir Pawels. Pawel er sannfærður um sakleysi föður síns en rannsóknin dregur ýmis leyndarmál fram í dagsljósið. Aðalhlutverk: Maciej Stuhr, Katarzyna Dabrowska og Roma Gasiorowska. Þættirnir eru ekki við hæfi barna yngri en 16 ára.</desc>
-  </programme>
   <programme start="20260925130000 +0000" stop="20260925132700 +0000" channel="ruv.is">
     <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.
+
+Segist ekki hafa þrýst á Guðmund Inga</desc>
   </programme>
-  <programme start="20260925133000 +0000" stop="20260925133900 +0000" channel="ruv.is">
+  <programme start="20260925133100 +0000" stop="20260925134100 +0000" channel="ruv.is">
     <title>Heimaleikfimi</title>
     <desc>Góð ráð og æfingar sem tilvalið er að gera heima. Íris Rut Garðarsdóttir sjúkraþjálfari hefur umsjón með leikfiminni.
 
 Áhersla æfinganna eru kvið- og bakæfingar sem eru gerðar sitjandi.</desc>
   </programme>
-  <programme start="20260925134000 +0000" stop="20260925140500 +0000" channel="ruv.is">
+  <programme start="20260925134100 +0000" stop="20260925140800 +0000" channel="ruv.is">
     <title>Kastljós</title>
-    <desc>Lifandi og fjölbreyttur þáttur um fréttir, menningu og dægurmál. Helstu fréttir dagsins eru krufðar og ljósi varpað á litríkt mannlíf um land allt. Umsjón: Bergsteinn Sigurðsson, Guðrún Sóley Gestsdóttir, Margrét Helga Erlingsdóttir og Kristján Kristjánsson. Ritstjóri: Sigríður Halldórsdóttir.</desc>
+    <desc>Lifandi og fjölbreyttur þáttur um fréttir, menningu og dægurmál. Helstu fréttir dagsins eru krufðar og ljósi varpað á litríkt mannlíf um land allt. Umsjón: Bergsteinn Sigurðsson, Guðrún Sóley Gestsdóttir, Margrét Helga Erlingsdóttir og Kristján Kristjánsson. Ritstjóri: Sigríður Halldórsdóttir.
+
+Hvernig er hægt að koma í veg fyrir að allt fari í bál og brand á vinnumarkaði? Þær Ásta Fjeldsted forstjóri Festi og Halla Gunnarsdóttir formaður VR glímdu við þessa spurningu í Kastljósi í kvöld. Einnig var rætt við Elizu Reid, fyrrverandi forsetafrú, um samband Kanada og Bandaríkjanna í skugga tollastríðs. Þá litum við í heimsókn til karla í skúrum í Hafnarfirði.</desc>
   </programme>
-  <programme start="20260925140500 +0000" stop="20260925145900 +0000" channel="ruv.is">
+  <programme start="20260925140800 +0000" stop="20260925150200 +0000" channel="ruv.is">
     <title>Gettu betur 1996</title>
     <desc>Spurningakeppni framhaldsskólanna frá 1996. Spyrill: Davíð Þór Jónsson. Dómari: Helgi Ólafsson. Stigavörður: Sólveig Samúelsdóttir. Dagskrárgerð: Andrés Indriðason.
 
 Í þessum þætti mætast lið Menntaskólans í Reykjavík og Fjölbrautaskólans við Ármúla. Lið Menntaskólans í Reykjavík skipa Arnór Hauksson, Guðmundur Ragnar Björnsson, Kjartan Bjarni Björgvinsson. Lið Fjölbrautaskólans við Ármúla skipa Valur Freyr Steinarsson, Örn Arnarson og Hjalti Vignisson.</desc>
   </programme>
-  <programme start="20260925150000 +0000" stop="20260925152700 +0000" channel="ruv.is">
+  <programme start="20260925150300 +0000" stop="20260925153100 +0000" channel="ruv.is">
     <title>Manndómsár Mikkos</title>
     <desc>Finnskir þættir um Mikko Peltola sem setur sér það markmið að klára sex líkamlega krefjandi þrautir á einu ári. Hann spreytir sig meðal annars á kajakróðri, hlaupi, skíðagöngu, hjólreiðum og klettaklifri.</desc>
   </programme>
-  <programme start="20260925153000 +0000" stop="20260925155800 +0000" channel="ruv.is">
+  <programme start="20260925153300 +0000" stop="20260925160100 +0000" channel="ruv.is">
     <title>Í garðinum með Gurrý III</title>
     <desc>Þáttaröð í umsjón Guðríðar Helgadóttur garðyrkjufræðings þar sem hún sýnir áhorfendum réttu handtökin við garðyrkjustörfin. Dagskrárgerð: Björn Emilsson.
 
 Í þessum þætti kíkir Gurrý í matjurtagarðinn þar sem hún setti niður kartöflur og grænmeti fyrr í vor, fær Björgvin Örn Eggertsson skógfræðing til að hjálpa sér við að fella ösp og sýnir hvernig best er að fara að þegar baunum er sáð í pott. Hún heimsækir einnig Jón Þóri Guðmundsson garðyrkjufræðing og Katrínu Eddu Snjólaugsdóttur sem eiga fjölbreytilegan garð á Akranesi. Að lokum sýnir hún hvernig kryddjurtir geta verið fyrirtaks pottaplöntur.</desc>
   </programme>
-  <programme start="20260925160000 +0000" stop="20260925165800 +0000" channel="ruv.is">
+  <programme start="20260925160100 +0000" stop="20260925170000 +0000" channel="ruv.is">
     <title>Óvæntur arfur</title>
     <desc>Sænskir þættir þar sem þáttarstjórnendurnir Kattis Ahlström og Niklas Källner leita uppi fólk sem á rétt á arfi en veit ekki af því.</desc>
   </programme>
@@ -182,26 +47,26 @@ Karen ákveður að kalla konuna sem setti líf hennar á hvolf á sinn fund en 
 
 Í þættinum er fjallað um mannamyndir og upphafsár ljósmyndunar á Íslandi. Við skoðum feril íslensku frumkvöðlanna, Sigfúsar Eymundssonar, Nicoline Weywadt og Önnu Schiöth. Það kemur á óvart að á Austfjörðum lagði fjöldi kvenna stund á ljósmyndun. Á Akureyri merkti Anna Schiöth ljósmyndir sínar eiginmanni sínum Henrik. Mannamyndir á nýrri öld gefa okkur innsýn inn í hvernig arfleifð mannamynda hefur viðhaldist og þróast.</desc>
   </programme>
-  <programme start="20260925173000 +0000" stop="20260925182000 +0000" channel="ruv.is">
+  <programme start="20260925172900 +0000" stop="20260925182000 +0000" channel="ruv.is">
     <title>KrakkaRÚV</title>
   </programme>
-  <programme start="20260925173100 +0000" stop="20260925174900 +0000" channel="ruv.is">
+  <programme start="20260925173000 +0000" stop="20260925174800 +0000" channel="ruv.is">
     <title>Hönnunarstirnin IIII</title>
     <desc>Fjórða serían af Hönnunarstirnunum. Nico og Andrés eru mættir einu sinni enn með ný og skemmtileg verkefni og nýja keppendur.</desc>
   </programme>
-  <programme start="20260925174900 +0000" stop="20260925175800 +0000" channel="ruv.is">
+  <programme start="20260925174800 +0000" stop="20260925175700 +0000" channel="ruv.is">
     <title>Eilíft drama II</title>
     <desc>Önnur þáttaröð af Eilífu drama. Hvað gerist þegar besta vinkonan byrjar að hanga með einhverjum öðrum? Saga um vináttu sem rofnar og breytist. Þáttaröðin er á sænsku með íslenskum texta.
 
 Olivia fær nóg af Ellu og tekur afdrífaríka ákvörðun.</desc>
   </programme>
-  <programme start="20260925175800 +0000" stop="20260925181400 +0000" channel="ruv.is">
+  <programme start="20260925175700 +0000" stop="20260925181400 +0000" channel="ruv.is">
     <title>Kameljón I</title>
     <desc>Fjórir efnilegir knattspyrnuiðkendur. Einn draumur. Ekkert er sjálfgefið. Sumir berjast fyrir því að falla inn í hópinn, aðrir fyrir því að valda ekki vonbrigðum. Serían er á norsku með íslenskum texta.
 
 Kamal og Leon ákveða að verða atvinnumenn í fótbolta saman.</desc>
   </programme>
-  <programme start="20260925181500 +0000" stop="20260925182000 +0000" channel="ruv.is">
+  <programme start="20260925181400 +0000" stop="20260925181900 +0000" channel="ruv.is">
     <title>Sögur - stuttmyndir</title>
     <desc>Þrjár leiknar stuttmyndir, skrifaðar af ungum höfundum á aldrinum 9-12 ára. Handrit að myndunum voru valin í handritasamkeppni Sagna. Leikstjórn og framleiðsla: Anna Karín Lárusdóttir.
 
@@ -999,12 +864,156 @@ Ragnhildur Steinunn skyggnist inn í líf listamannsins Munda vonda (Guðmundar 
     <title>Sjónvarp í 60 ár</title>
     <desc>Í tilefni af því að 60 ár eru liðin síðan Ríkisútvarpið hóf sjónvarpsútsendingar verður boðið upp á lifandi afmælisþátt þar sem saga sjónvarpsins, ógleymanleg augnablik og sameiginlegar minningar þjóðarinnar fléttast saman við tónlist og skemmtun.</desc>
   </programme>
-  <programme start="20260930212000 +0000" stop="20260930220500 +0000" channel="ruv.is">
+  <programme start="20260930212000 +0000" stop="20260930220800 +0000" channel="ruv.is">
     <title>Kiljan</title>
     <desc>Þáttur sem er löngu orðinn ómissandi í bókmenntaumræðunni í landinu. Egill og bókelskir félagar hans fjalla sem fyrr um forvitnilegar bækur af ýmsum toga og úr öllum áttum. Umsjón: Egill Helgason. Dagskrárgerð: Jón Víðir Hauksson.</desc>
   </programme>
   <programme start="20260930221000 +0000" stop="20261001000400 +0000" channel="ruv.is">
     <title>Tár úr steini</title>
     <desc>Kvikmynd eftir Hilmar Oddsson frá 1995 byggð á lífi Jóns Leifs tónskálds á tímum seinni heimsstyrjaldar. Tónskáldið Jón Leifs á bjarta framtíð fyrir sér þegar hann verður ástfanginn af gyðingastúlkunni Annie Riethof, sem er eftirsóttur píanóleikari. Draumur Jóns um frægð og frama snýst upp í baráttu um líf og dauða í landi sem er óðum að breytast í helvíti á jörð. Eftir að foreldrar Annie eru handteknir og fluttir til útrýmingabúðanna í Dachau er Leifsfjölskyldunni nauðugur einn kostur að flýja land en frelsið reynist dýru verði keypt. Aðalhlutverk: Þröstur Leó Gunnarsson, Ruth Ólafsdóttir, Winfried Wagner.</desc>
+  </programme>
+  <programme start="20261001130000 +0000" stop="20261001132700 +0000" channel="ruv.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20261001133000 +0000" stop="20261001133900 +0000" channel="ruv.is">
+    <title>Heimaleikfimi</title>
+    <desc>Góð ráð og æfingar sem tilvalið er að gera heima. Íris Rut Garðarsdóttir sjúkraþjálfari hefur umsjón með leikfiminni.
+
+Styrkjandi æfingar fyrir fótleggi. Sitjandi.</desc>
+  </programme>
+  <programme start="20261001134000 +0000" stop="20261001140500 +0000" channel="ruv.is">
+    <title>Kastljós</title>
+    <desc>Lifandi og fjölbreyttur þáttur um fréttir, menningu og dægurmál. Helstu fréttir dagsins eru krufðar og ljósi varpað á litríkt mannlíf um land allt. Umsjón: Bergsteinn Sigurðsson, Guðrún Sóley Gestsdóttir, Margrét Helga Erlingsdóttir og Kristján Kristjánsson. Ritstjóri: Sigríður Halldórsdóttir.</desc>
+  </programme>
+  <programme start="20261001140500 +0000" stop="20261001145500 +0000" channel="ruv.is">
+    <title>Gettu betur 1997</title>
+    <desc>Spurningakeppni framhaldsskólanna frá 1997. Spyrill: Davíð Þór Jónsson. Dómari og spurningahöfundur: Ragnheiður Erla Bjarnadóttir. Stigavörður: Katrín Jakobsdóttir. Dagskrárgerð: Andrés Indriðason.
+
+Í þessum þætti mætast lið Menntaskólans í Reykjavík og Fjölbrautaskólans við Ármúla. Lið Menntaskólans í Reykjavík skipa Viðar Pálsson, Arnór Hauksson og Sverrir Guðmundsson. Lið Fjölbrautaskólans við Ármúla skipa Þorbjörn Atli Sveinsson, Stefán Þorgrímsson og Hjalti Þór Vignisson.</desc>
+  </programme>
+  <programme start="20261001145500 +0000" stop="20261001151200 +0000" channel="ruv.is">
+    <title>Krullur</title>
+    <desc>Stuttir heimildarþættir frá Noregi um tilfinningaflækjur Ariane, ungrar norskrar konu sem er dökk á hörund og með krullað hár. Á að leyfa afróinu að njóta sín? Má annað fólk koma við hárið? Á hún að vera stolt af krullunum eða bara alls ekki?</desc>
+  </programme>
+  <programme start="20261001151500 +0000" stop="20261001160100 +0000" channel="ruv.is">
+    <title>George Clarke skoðar bandaríska hönnun</title>
+    <desc>Ný bresk heimildarþáttaröð þar sem arkitektinn og sjónvarpsmaðurinn George Clarke ferðast um Bandaríkin og kynnir sér einkenni bandarískrar hönnunnar.</desc>
+  </programme>
+  <programme start="20261001161000 +0000" stop="20261001165700 +0000" channel="ruv.is">
+    <title>Kappsmál</title>
+    <sub-title>(6 af 13)</sub-title>
+    <desc>Skemmtiþáttur um íslenska tungu í umsjón Bjargar Magnúsdóttur og Braga Valdimars Skúlasonar þar sem þátttakendur etja kappi í fjölbreyttum leikjum og þrautum, meðal annars í taugatrekkjandi stöfunarkeppni og í sérhannaðri útgáfu af hengimanni. Framleiðsla: Skot í samstarfi við RÚV.
+
+Keppendur í þessum þætti eru Eydís Blöndal, Áslaug Hulda Jónsdóttir, Bryndís Björgvinsdóttir og Sigmundur Ernir Rúnarsson.</desc>
+  </programme>
+  <programme start="20261001170000 +0000" stop="20261001172700 +0000" channel="ruv.is">
+    <title>Landinn</title>
+    <desc>Þáttur um mannlífið í landinu. Landinn leitar uppi skemmtilegt fólk í bæjum og sveitum og skoðar áhugaverða staði landshorna á milli. Ritstjóri er Gísli Einarsson. Aðrir umsjónarmenn: Edda Sif Pálsdóttir, Hafsteinn Vilhelmsson, Þórdís Claessen og Amanda Guðrún Bjarnadóttir. Dagskrárgerð: Jóhannes Jónsson, Björgvin Kolbeinsson, Benedikt Nikulás Anes Ketilsson, Adelina Antal og Hjalti Stefánsson.</desc>
+  </programme>
+  <programme start="20261001173000 +0000" stop="20261001181700 +0000" channel="ruv.is">
+    <title>KrakkaRÚV</title>
+  </programme>
+  <programme start="20261001173100 +0000" stop="20261001173900 +0000" channel="ruv.is">
+    <title>Sögur snjómannsins 4</title>
+    <desc>Huggulegir þættir þar sem snjómaðurinn les úr sínum uppáhaldsbókum fyrir litlu mýsnar í bókabúðinni.</desc>
+  </programme>
+  <programme start="20261001173900 +0000" stop="20261001174200 +0000" channel="ruv.is">
+    <title>Eldhugar</title>
+    <desc>Stuttir þættir þar sem við kynnumst merkiskonum mannkynssögunnar. Sumar eru frægar, aðrar eru óþekktar en allar eru þær töffarar og eldhugar.</desc>
+  </programme>
+  <programme start="20261001174300 +0000" stop="20261001174600 +0000" channel="ruv.is">
+    <title>Ofurdýr í náttúrunni</title>
+    <desc>Ofurkraftar náttúrunnar lifna við! Sprenghlægileg og fróðleg þáttaröð fyrir krakka sem sýnir undur dýranna og hvers vegna við ættum að vernda heiminn þeirra.</desc>
+  </programme>
+  <programme start="20261001174600 +0000" stop="20261001180900 +0000" channel="ruv.is">
+    <title>Einu sinni var... Jörðin</title>
+    <desc>Þessar þáttaraðir eru áhorfendum að góðu kunnar, enda eru þættirnir bæði afar fræðandi og skemmtilegir en að þessu sinni fræðumst við um jörðina. Þáttunum er ætlað að hvetja yngri áhorfendur til að verða ábyrgir borgarar og hjálpa þeim að skilja umhverfi sitt, svo þeir geti lagt sitt af mörkum til að vernda það.</desc>
+  </programme>
+  <programme start="20261001181000 +0000" stop="20261001181300 +0000" channel="ruv.is">
+    <title>Ferðalagið</title>
+    <desc>Tveir strákar hjóla um landið og hafa meðferðis forláta tölvu sem segir þeim allt um þá staði sem þeir koma á. Leikið efni frá 2018.
+
+Handrit: Íris Stefanía Skúladóttir.
+
+Hlutverk ferðalanga: Jóhann Ingi Skúlason og Emil Örn Kristjánsson.
+
+Rödd tölvu: Íris Stefanía Skúladóttir.</desc>
+  </programme>
+  <programme start="20261001181400 +0000" stop="20261001181900 +0000" channel="ruv.is">
+    <title>Ævintýrajóga</title>
+    <desc>Jóga fyrir alla krakka í ævintýraheimi með dýrum og náttúru.
+
+
+
+Ævintýrajóga hvetur börn til hreyfingar og að vera meðvituð um líkama sinn og líðan. Það gefur þeim verkfæri sem auðveldar þeim að líða vel í eigin líkama og takast á við daglegt líf.  Jógakennari: Þóra Rós Guðbjartsdóttir. Framleiðsla: Erla Hrund Hafsteinsdóttir.
+
+Hvað segja lungun?
+
+Með því að anda hægt og rólega hjálpar það okkur að hugsa skýrar og gefa líkamanum og heilanum smá ró.</desc>
+  </programme>
+  <programme start="20261001182000 +0000" stop="20261001182500 +0000" channel="ruv.is">
+    <title>Krakkafréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir settar fram á einfaldan og aðgengilegan hátt.
+
+Umsjón og handrit: Ari Páll Karlsson og Embla Bachmann. Ritstjórn: Ari Páll Karlsson.</desc>
+  </programme>
+  <programme start="20261001182500 +0000" stop="20261001184800 +0000" channel="ruv.is">
+    <title>Hugvit</title>
+    <desc>Heimildarþættir þar sem saga íslenskrar hönnunar er rakin, allt frá fyrstu brautryðjendum til yngri kynslóða. Í hverjum þætti er sjónum beint að áhrifamiklum hönnuðum og verkum þeirra, samhengi þeirra við samtímann og arfleifð. Dagskrárgerð: Jakob Halldórsson.
+
+Fjallað er um Ragnar Kjartansson, hönnuð og listamann í Glit, þar sem hönnun og list mætast.</desc>
+  </programme>
+  <programme start="20261001185000 +0000" stop="20261001185300 +0000" channel="ruv.is">
+    <title>Lag dagsins</title>
+    <desc>Íslensk tónlistarmyndbönd.</desc>
+  </programme>
+  <programme start="20261001190000 +0000" stop="20261001192700 +0000" channel="ruv.is">
+    <title>Fréttir</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20261001193000 +0000" stop="20261001193500 +0000" channel="ruv.is">
+    <title>Íþróttir</title>
+    <desc>Íþróttafréttir.</desc>
+  </programme>
+  <programme start="20261001193500 +0000" stop="20261001194000 +0000" channel="ruv.is">
+    <title>Veður</title>
+    <desc>Veðurfréttir.</desc>
+  </programme>
+  <programme start="20261001194500 +0000" stop="20261001201000 +0000" channel="ruv.is">
+    <title>Kastljós</title>
+    <desc>Lifandi og fjölbreyttur þáttur um fréttir, menningu og dægurmál. Helstu fréttir dagsins eru krufðar og ljósi varpað á litríkt mannlíf um land allt. Umsjón: Bergsteinn Sigurðsson, Guðrún Sóley Gestsdóttir, Margrét Helga Erlingsdóttir og Kristján Kristjánsson. Ritstjóri: Sigríður Halldórsdóttir.</desc>
+  </programme>
+  <programme start="20261001201500 +0000" stop="20261001204000 +0000" channel="ruv.is">
+    <title>Miðstöðin</title>
+    <sub-title>(1 af 25)</sub-title>
+    <desc>Siggi Gunnars stýrir lifandi þætti um dægurmenningu og tekur stöðuna á því sem við horfum á, hlustum á og tölum um. Góðir gestir, skoðanir, húmor og leikgleði í fyrirrúmi. Stjórn upptöku: Þórunn Guðjónsdóttir.</desc>
+  </programme>
+  <programme start="20261001204500 +0000" stop="20261001211300 +0000" channel="ruv.is">
+    <title>Húsið okkar á Sikiley: Innkaupaferðin</title>
+    <sub-title>(5 af 6)</sub-title>
+    <desc>Sænsk þáttaröð frá 2023. Marie Olsson Nylander heldur í ævintýraferð með systur sinni þar sem þær ferðast frá Svíþjóð niður til Sikileyjar. Á leiðinni stoppa þær á ýmsum stöðum í leit að forngripum fyrir heimili Marie á Sikiley.</desc>
+  </programme>
+  <programme start="20261001211500 +0000" stop="20261001215900 +0000" channel="ruv.is">
+    <title>Lífsmörk</title>
+    <sub-title>(8 af 8)</sub-title>
+    <desc>Norsk leikin þáttaröð frá 2026. Sérnámslæknarnir Petra, Kissy, Samuel og Joakim fóta sig í nýju starfi á sjúkrahúsi. Saman takast þau á við langa og krefjandi vinnudaga sem tengir þau órjúfanlegum böndum. Aðalhlutverk: Elpida Stojcevska, Sofia Tjelta og Deniz Kaya. Þættirnir eru ekki við hæfi barna yngri en 12 ára.</desc>
+  </programme>
+  <programme start="20261001220000 +0000" stop="20261001224200 +0000" channel="ruv.is">
+    <title>Pabbahelgar</title>
+    <sub-title>(4 af 6)</sub-title>
+    <desc>Íslensk þáttaröð um Karen, 38 ára hjónabandsráðgjafa og þriggja barna móður, sem stendur frammi fyrir erfiðum ákvörðunum þegar hún kemst að því að eiginmaður hennar hefur verið henni ótrúr. Hún á erfitt með að fyrirgefa eiginmanninum en það versta sem hún getur hugsað sér eru svokallaðar pabbahelgar. Leikstjórn: Nanna Kristín Magnúsdóttir og Marteinn Þórsson. Aðalhlutverk: Nanna Kristín Magnúsdóttir og Sveinn Ólafur Gunnarsson. Framleiðsla: Zik Zak kvikmyndir og Ungar kvikmyndafélag. Þættirnir eru ekki við hæfi barna yngri en 16 ára.
+
+Á meðan Karen leitar í félagsskap, djamm og drykkju, sem leiðir ekkert gott af sér, reynir Matti að finna sig í sínu nýja lífi.</desc>
+  </programme>
+  <programme start="20261001224500 +0000" stop="20261001233800 +0000" channel="ruv.is">
+    <title>Greifinn af Monte Cristo</title>
+    <sub-title>(3 af 8)</sub-title>
+    <desc>Leikin þáttaröð frá 2024 byggð á samnefndri skáldsögu eftir Alexandre Dumas. Sjómaðurinn Edmond Dantè er svikinn af þremur mönnum og ranglega fangelsaður á eyju við strendur Marseille. Mörgum árum síðar tekst honum að flýja fangelsið og leitar uppi fjársjóð sem samfangi hans sagði honum frá. Hann hefur nýtt líf undir dulnefninu greifinn af Monte Cristo og er staðráðinn í að ná fram hefndum á mönnunum sem sviku hann. Aðalhlutverk: Sam Claflin, Mikkel Boe Følsgaard og Ana Girardot. Þættirnir eru ekki við hæfi barna yngri en 12 ára.</desc>
+  </programme>
+  <programme start="20261001234000 +0000" stop="20261002002300 +0000" channel="ruv.is">
+    <title>Kennarinn III</title>
+    <sub-title>(7 af 8)</sub-title>
+    <desc>Þriðja þáttaröð þessara pólsku spennuþátta um menntaskólakennarann Pawel Zawadzki. Þegar nemandi deyr í siglingu á vegnum skólans beinast spjótin að skipstjóranum, Bogdan, sem er faðir Pawels. Pawel er sannfærður um sakleysi föður síns en rannsóknin dregur ýmis leyndarmál fram í dagsljósið. Aðalhlutverk: Maciej Stuhr, Katarzyna Dabrowska og Roma Gasiorowska. Þættirnir eru ekki við hæfi barna yngri en 16 ára.</desc>
   </programme>
 </tv>
