@@ -3,49 +3,6 @@
   <channel id="kvf.fo">
     <display-name>KVF</display-name>
   </channel>
-  <programme start="20260925170000 " stop="20260925173000 " channel="kvf.fo">
-    <title>Mumi 21</title>
-    <sub-title>- teknirøð við føroyskari talu til smábørn</sub-title>
-  </programme>
-  <programme start="20260925173000 " stop="20260925180000 " channel="kvf.fo">
-    <title>MORSA 9</title>
-    <sub-title>- føroysk barnarøð</sub-title>
-  </programme>
-  <programme start="20260925180000 " stop="20260925182500 " channel="kvf.fo">
-    <title>Dagur og vika</title>
-  </programme>
-  <programme start="20260925182500 " stop="20260925184000 " channel="kvf.fo">
-    <title>Veðrið</title>
-  </programme>
-  <programme start="20260925184000 " stop="20260925192000 " channel="kvf.fo">
-    <title>Gekkur</title>
-  </programme>
-  <programme start="20260925192000 " stop="20260925194000 " channel="kvf.fo">
-    <title>Eitt heim til Nikolaj</title>
-    <sub-title>- donsk sendirøð (1:3)</sub-title>
-    <desc>Sum 22 ára gamal er Nikolaj fyri einari álvarsligari vanlukku og fær heilaskaða. Mamma hansara, Krista, fer í hernað fyri at geva honum ein gerandisdag við meining og virðing. Saman við familjuni byggir Krista bústaðin Møn Bakkeby, har Nikolaj vónandi kann fáa tað lívið, hon ynskir honum. Upprunaheiti: Et hjem til Nikolaj Framleiðsluár: 2026</desc>
-  </programme>
-  <programme start="20260925194000 " stop="20260925200000 " channel="kvf.fo">
-    <title>Eitt heim til Nikolaj</title>
-    <sub-title>- donsk sendirøð (2:3)</sub-title>
-    <desc>Møn Bakkeby tekur ímóti sínum fyrstu búfólkum. Staðið er ætlað at vera meira enn bara eitt bútilboð, við sangi, felagsskapi og gerandislívi, sum er íblástur frá háskúlanum. Upprunaheiti: Et hjem til Nikolaj Framleiðsluár: 2026</desc>
-  </programme>
-  <programme start="20260925200000 " stop="20260925202000 " channel="kvf.fo">
-    <title>Eitt heim til Nikolaj</title>
-    <sub-title>- donsk sendirøð (3:3)</sub-title>
-    <desc>Gerandisdagurin á Møn Bakkeby er so smátt byrjaður. Eitt nýtt búfólk flytur inn, og felagsskapurin fær eitt sindur av hjálp á leiðini við einum bingo-tiltaki fyri búfólkini. Upprunaheiti: Et hjem til Nikolaj Framleiðsluár: 2026</desc>
-  </programme>
-  <programme start="20260925202000 " stop="20260925221000 " channel="kvf.fo">
-    <title>The Swearing Jar</title>
-    <desc>Carey (Adelaide Clemens) er musiklærari og við barn saman við manni sínum, Simon (Patrick J. Adams). Á einum túri í einaum bókahandil hittir hon tónleikaran Owen (Douglas Smith), sum hon kennir seg sera drigna at. Hvat ger hon nú? Upprunaheiti: The Swearing Jar Framleiðsluár: 2022 Aldursmark: 11 ár</desc>
-  </programme>
-  <programme start="20260925221000 " stop="20260925223500 " channel="kvf.fo">
-    <title>Dagur og vika</title>
-    <sub-title>- við teksti</sub-title>
-  </programme>
-  <programme start="20260925223500 " stop="20260926150000 " channel="kvf.fo">
-    <title>Veðrið</title>
-  </programme>
   <programme start="20260926150000 " stop="20260926160000 " channel="kvf.fo">
     <title>Undansending: Føroyar - Kasakstan</title>
   </programme>
@@ -322,7 +279,53 @@
     <title>Dagur og vika</title>
     <sub-title>- við teksti</sub-title>
   </programme>
-  <programme start="20261001213000 " stop="20261001223000 " channel="kvf.fo">
+  <programme start="20261001213000 " stop="20261001231000 " channel="kvf.fo">
     <title>Veðrið</title>
+  </programme>
+  <programme start="20261001231000 " stop="20261002170000 " channel="kvf.fo">
+    <title>Veðrið</title>
+  </programme>
+  <programme start="20261002170000 " stop="20261002173000 " channel="kvf.fo">
+    <title>Mumi 22</title>
+    <sub-title>- teknirøð við føroyskari talu til smábørn</sub-title>
+  </programme>
+  <programme start="20261002173000 " stop="20261002180000 " channel="kvf.fo">
+    <title>MORSA 10</title>
+    <sub-title>- føroysk barnarøð</sub-title>
+  </programme>
+  <programme start="20261002180000 " stop="20261002182500 " channel="kvf.fo">
+    <title>Dagur og vika</title>
+  </programme>
+  <programme start="20261002182500 " stop="20261002183000 " channel="kvf.fo">
+    <title>Veðrið</title>
+  </programme>
+  <programme start="20261002183000 " stop="20261002184500 " channel="kvf.fo">
+    <title>Undansending: Føroyar - Slovakia</title>
+  </programme>
+  <programme start="20261002184500 " stop="20261002193000 " channel="kvf.fo">
+    <title>Fótbóltur: Føroyar - Slovakia</title>
+    <sub-title>- fyrri hálvleikur</sub-title>
+  </programme>
+  <programme start="20261002193000 " stop="20261002194500 " channel="kvf.fo">
+    <title>Hálvleiksstudio</title>
+  </programme>
+  <programme start="20261002194500 " stop="20261002203000 " channel="kvf.fo">
+    <title>Fótbóltur: Føroyar - Slovakia</title>
+    <sub-title>- seinni hálvleikur</sub-title>
+  </programme>
+  <programme start="20261002203000 " stop="20261002210000 " channel="kvf.fo">
+    <title>Eftir dystin</title>
+  </programme>
+  <programme start="20261002210000 " stop="20261002214000 " channel="kvf.fo">
+    <title>Gekkur</title>
+  </programme>
+  <programme start="20261002214000 " stop="20261002224500 " channel="kvf.fo">
+    <title>Oyðiløgdu hestarnir</title>
+    <sub-title>- útlendsk dokumentar frá 2024</sub-title>
+    <desc>Heimsins fínastu galophestar luttóku í 2023 í tú heimskenda Kentucky Derby í Louisville. Áðrenn kappingin byrjaði, vóru sjey av hestunum deyðir. Hvussu kundi tað ganga so galið? Og hvør kann orsøkin vera til, at slíkir hestar knappliga smella deyðir um? Originaltitel: Broken Horses Produktionsår: 2024 Programkategori: Dokumentar</desc>
+  </programme>
+  <programme start="20261002224500 " stop="20261002234500 " channel="kvf.fo">
+    <title>Dagur og vika</title>
+    <sub-title>- við teksti</sub-title>
   </programme>
 </tv>
