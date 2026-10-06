@@ -3,157 +3,6 @@
   <channel id="dr2.dk">
     <display-name>DR2</display-name>
   </channel>
-  <programme start="20261004235500 +0000" stop="20261005005000 +0000" channel="dr2.dk">
-    <title>Optimistens guide til planeten II (3:6)</title>
-    <desc>Hvordan kan ny teknologi hjælpe os med at løse nogle af klodens største udfordringer? Nikolaj Coster-Waldau rejser verden rundt og møder opfindere, der tænker nyt. I Peru bruges nanoteknologi til at rense forurenede vådområder, i Holland bliver opsamlet CO2 omdannet til et alternativ til cement, og i Frankrig bruges planter til at udvinde metaller. Men i Ecuador ser Nikolaj også bagsiden af vores jagt på naturens ressourcer.
-Canadisk dokumentarserie fra 2025.
-(An Optimist's Guide to the Planet)</desc>
-    <episode-num system="xmltv_ns">1.2.0</episode-num>
-  </programme>
-  <programme start="20261005005000 +0000" stop="20261005014517 +0000" channel="dr2.dk">
-    <title>Da Banksy fik stjålet sin pige</title>
-    <desc>Italiensk dokumentar fra 2023.
-(Banksy and the Stolen Girl)
-I 2019 bliver nødudgangsdøren til det parisiske spillested Bataclan på mystisk vis stjålet. På døren har den britiske gadekunstner Banksy malet en 'Trist pige' til minde om ofrene, der blev dræbt i terrorangrebene i 2015. Nyheden om tyveriet vækker verdensomspændende harme. Men over et år efter forbrydelsen bliver døren fundet, 1.500 kilometer væk fra Paris, på loftet i et landsted i Italien. Her dykker vi ned i historien.</desc>
-  </programme>
-  <programme start="20261005014517 +0000" stop="20261005022500 +0000" channel="dr2.dk">
-    <title>Galskab: Journal nr. 29.264 - Sofie</title>
-    <desc>I 1955 indlægges en 34 årig kvinde på Vordingborg sindssygehospital.
-Hun er ulykkeligt forelsket og deprimeret. Igennem 11 år får Sofie over 20 forskellige slags psykofarmaka. 
-Flere af stofferne viser sig senere at være farlige. Et af dem er LSD.   
-Tilrettelæggelse: Rasmus Holm.</desc>
-    <episode-num system="xmltv_ns">0.5.0</episode-num>
-  </programme>
-  <programme start="20261005022500 +0000" stop="20261005031500 +0000" channel="dr2.dk">
-    <title>På rejse med Griff - Sydstaterne (1:6)</title>
-    <desc>Australsk dokumentarserie fra 2025.
-(Griff's Great American South)
-South Carolina er kendt for sin rige historie og kultur. Skuespiller Griff Rhys Jones tager os med til delstatens ældste og største by Charleston, som bliver kaldt 'Den hellige by' på grund af sine mange kirker. Han sejler forbi Fort Sumter, hvor de første skud i den amerikanske borgerkrig blev affyret og oplever, hvordan den charmerende by hviler på en historie af elendighed og undertrykkelse.</desc>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-  </programme>
-  <programme start="20261005031500 +0000" stop="20261005040000 +0000" channel="dr2.dk">
-    <title>Smagen af Italien II (1:8)</title>
-    <desc>Britisk madserie fra 2022.
-(Stanley Tucci: Searching for Italy)
-Veneto. Et fladt, frodigt og fugtigt område, der ligger i den nordøstlige del af Italien. Mod vest får man læ af Dolomitterne. Mod øst får man varme fra Adriaterhavet. Hovedbyen i regionen er Venedig. Tag med Stanley Tucci rundt i Venedig - for at spise som venetianerne. Her smager han på den traditionelle venetianske snack cicchetti, lærer at lave klassikeren sort risotto og er med til at fange ænder, før han kan mæske sig i anderagout.</desc>
-    <episode-num system="xmltv_ns">1.0.0</episode-num>
-  </programme>
-  <programme start="20261005040000 +0000" stop="20261005045000 +0000" channel="dr2.dk">
-    <title>Husker du... 1992</title>
-    <desc>1992 er året, hvor danskerne siger nej til Maastrichtaftalen, og hvor vi også viser resten af Europa ryggen på fodboldbanen. Vi bliver på utroligste vis Europamestre, og udenrigsminister Uffe Ellemann Jensen kan med høj cigarføring mødes med sine ministerkolleger. Danskerne bliver også konfronteret med en blodig europæisk krig. Ex-jugoslavien er i opløsning, og 2 mil. flygtninge flygter - også til Danmark. Michael Jackson synger meget rammende hittet "Black or white" samme år.
-Sendt første gang 26.02.10.</desc>
-    <episode-num system="xmltv_ns">3.2.0</episode-num>
-  </programme>
-  <programme start="20261005045000 +0000" stop="20261005052000 +0000" channel="dr2.dk">
-    <title>Dengang vi var bønder (5:6)</title>
-    <desc>- Husmænd, 1880-1930
-Sult, kummerformer, tidlig død. Ikke alle på landet nyder godt af udviklingen i sidste halvdel af 1800 tallet. Faktisk opstår der et decideret landproletariat, hvor titusinder af familier hutler sig gennem tilværelsen - uden egen jord og dyr. Mange ender på fattiggården eller hospitalet, og kløften mellem gårdejere og husmænd vokser og vokser. Kunstnerne begynder at beskrive elendighederne på landet og politikerne indser, at man er nødt til at vende udviklingen. Husmandsbevægelsen stiftes, og fra 1900 tallet indføres en lang række reformer. 
-Vært: Liv Thomsen</desc>
-    <episode-num system="xmltv_ns">0.4.0</episode-num>
-  </programme>
-  <programme start="20261005052000 +0000" stop="20261005055000 +0000" channel="dr2.dk">
-    <title>Dengang vi var bønder (6:6)</title>
-    <desc>- Landmænd og økohippier, 1930-1980
-Der er så yndigt ude på landet. I hvert fald indtil landbruget bliver mekaniseret og effektiviseret. Op til 1950erne er det stadig almindeligt med mange generationer under samme tag på den firlængede bondegård. Der er et hav af heste på markerne, og de fleste steder er det stadig pigerne, der malker køerne, og karlene, der hakker, spreder, slåer, tærsker og muger ud.  Men så kommer maskinerne. Fra den første Fergusontraktor til vore dages højteknologi sker der en kolossal forandring med dansk landbrug. På den ene side er der storproducenterne, som møder stor modstand i (by)befolkningen. På den anden side er der bonderøvene, som optræder som helte i prime-time. 
-Vært: Liv Thomsen</desc>
-    <episode-num system="xmltv_ns">0.5.0</episode-num>
-  </programme>
-  <programme start="20261005055000 +0000" stop="20261005060000 +0000" channel="dr2.dk">
-    <title>Dansk teater 300 år: Absurdismen og revyerne</title>
-    <desc>2. verdenskrig er slut, men kaster lange skygger i årevis. Flere kunstnere skriver nu på en anden måde, og det absurde teater opstår. 
-Stig Lommer indfører en crazybetonet stil i sine revyer med Kellerdirk og de såkaldte Lommerpiger på ABC Teatret. 
-I 1960'erne vender de mere holdningsprægede revyer tilbage med Klaus Rifbjerg, Leif Panduro og Jesper Jensen som frontløbere. Kritikken når også inden for Det Kongelige Teaters mure med stedets første musical, Teenagerlove. Det er ellers hovedsageligt de små teatre, der lægger scene til eksperimenter.</desc>
-    <episode-num system="xmltv_ns">0.6.0</episode-num>
-  </programme>
-  <programme start="20261005060000 +0000" stop="20261005060500 +0000" channel="dr2.dk">
-    <title>Radioavisen</title>
-    <desc>Bliv opdateret på de seneste nyheder fra ind- og udland.</desc>
-  </programme>
-  <programme start="20261005060500 +0000" stop="20261005063000 +0000" channel="dr2.dk">
-    <title>Morgenandagten</title>
-    <desc>Morgenandagten fra Vor Frue Kirke, Københavns Domkirke.</desc>
-    <episode-num system="xmltv_ns">2025.231.0</episode-num>
-  </programme>
-  <programme start="20261005063000 +0000" stop="20261005100000 +0000" channel="dr2.dk">
-    <title>Seneste nyt fra TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20261005100000 +0000" stop="20261005151500 +0000" channel="dr2.dk">
-    <title>Seneste nyt fra TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20261005151500 +0000" stop="20261005154500 +0000" channel="dr2.dk">
-    <title>Ludere, lommetyve og lirekassemænd (1:6)</title>
-    <desc>Dansk historieserie fra 2015
-- med ondt skal ondt fordrives, 1800 - 1840  
-Danmark har ikke altid været et lille lykkeligt rigt land. Og vores velfærd kom ikke af sig selv og skal ikke tages for givet.
-I denne serie giver Liv Thomsen stemme til Underdanmark, den anden halvdel, dem der levede i skyggen, langt fra de bonede gulve og pæne borgerhjem
-Vi fortæller om vrangsiderne de seneste 170 år og begynder med historien om morderen Ole Kollerød.
-Han mistede hovedet på Amager Fælled i 1840.
-Men efterlod sig et helt unikt vidnesbyrd om et liv fyldt med vold, forbrydelser - og kærlighed!</desc>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-  </programme>
-  <programme start="20261005154500 +0000" stop="20261005161500 +0000" channel="dr2.dk">
-    <title>Ludere, lommetyve og lirekassemænd (2:6)</title>
-    <desc>Dansk historieserie fra 2015
-- der skal ydes før der kan nydes, 1849 - 1880      
-Danmark har ikke altid været et lille lykkeligt rigt land. Og vores velfærd kom ikke af sig selv og skal ikke tages for givet.
-I denne serie giver Liv Thomsen stemme til Underdanmark, den anden halvdel, dem der levede i skyggen, langt fra de bonede gulve og pæne borgerhjem. Denne gang handler det om Peter Jørgensen, Fattiggårdens Skræk, der boede på fattiggård i en stor del af sit ulykkelige liv, sammen med alle de andre fattiglemmer, der ikke kunne forsørge sig selv, og som resten af Danmark betragtede med lige dele afsky og frygt!</desc>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-  </programme>
-  <programme start="20261005161500 +0000" stop="20261005163500 +0000" channel="dr2.dk">
-    <title>Guldkorn 1970'erne: 1972</title>
-    <desc>I 1972 begynder arbejdsløsheden at stige og det mærker de mange gæstearbejdere, der er kommet til Danmark. Ude i provinsen må små købmandsforretninger se sig udkonkurrerede af de nye supermarkeder - og så er det året, hvor en kristen vækkelse får den danske ungdom til at bytte sex og stoffer ud med Jesus.</desc>
-    <episode-num system="xmltv_ns">1.2.0</episode-num>
-  </programme>
-  <programme start="20261005163500 +0000" stop="20261005172500 +0000" channel="dr2.dk">
-    <title>Kodeknækkerne (8:8)</title>
-    <desc>Britisk dokumentarserie fra 2022.
-(Cracking the Code)
-Den 1. oktober 1990 afsætter den amerikanske kongres tre milliarder dollars til det største biologiske forskningsprojekt nogensinde, nemlig at afkode menneskets genom. Forskere i USA, Storbritannien, Japan, Frankrig, Tyskland og Kina samarbejder om projektet. Men at afkode livets hemmelighed, er en opgave, der presser videnskaben til det yderste. Og bliver et kapløb mod tiden og storkapitalen.</desc>
-    <episode-num system="xmltv_ns">0.7.0</episode-num>
-  </programme>
-  <programme start="20261005172500 +0000" stop="20261005173500 +0000" channel="dr2.dk">
-    <title>Nul stjerner - Finder forladte steder</title>
-    <desc>.</desc>
-  </programme>
-  <programme start="20261005173500 +0000" stop="20261005182000 +0000" channel="dr2.dk">
-    <title>På rejse med Griff - Sydstaterne (2:6)</title>
-    <desc>Australsk dokumentarserie fra 2025.
-(Griff's Great American South)
-Atlanta er en by fuld af beton, stål og motorveje - men er alligevel en af verdens grønneste storbyer. Skuespiller Griff Rhys Jones udforsker den travle og pulserende hiphopby, hvor Coca Cola blev opfundet og grundlagt, Martin Luther King kæmpede mod racediskrimination og Muhammad Ali havde sit comeback. Han drager også op i Appalacherne, hvor både bluegrass, hjemmebrændt og guldgraverhistorier venter.</desc>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-  </programme>
-  <programme start="20261005182000 +0000" stop="20261005200000 +0000" channel="dr2.dk">
-    <title>Filmperler: Love Lies Bleeding</title>
-    <desc>Amerikansk romantisk thriller fra 2024.
-Den unge kvinde Lou leder et fitnesscenter i New Mexico. Her forelsker hun sig i den topambitiøse bodybuilder Jackie, som er på gennemrejse i den lille by. Deres kærlighed bringer dem tættere sammen, men trækker dem også dybt ind i Lous families kriminelle netværk. Sammen må Lou og Jackie tackle en række voldelige sammenstød for at kunne være sammen.
-Medvirkende: Kristen Stewart, Katy O'Brian, Ed Harris m.fl.
-Instruktion: Rose Glass.</desc>
-  </programme>
-  <programme start="20261005200000 +0000" stop="20261005201500 +0000" channel="dr2.dk">
-    <title>TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20261005201500 +0000" stop="20261005204500 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
-    <episode-num system="xmltv_ns">2025.151.0</episode-num>
-  </programme>
-  <programme start="20261005204500 +0000" stop="20261005220500 +0000" channel="dr2.dk">
-    <title>Alle Guds farver</title>
-    <desc>Vi følger præsten Viggo og kirketjeneren Bo - bedre kendt i farverig drag som Ramona Macho - i deres arbejde i Enghave Kirke. Lokalt kendt som "Queer Kirken" har Enghave åbnet dørene for alle - uanset baggrund og livssituation. Kirken møder dagligt modstand fra konservative stemmer og er både et fristed og en slagmark.</desc>
-  </programme>
-  <programme start="20261005220500 +0000" stop="20261005225000 +0000" channel="dr2.dk">
-    <title>Huse med hemmeligheder (3:6) Konger, hekse og banebrydende litteratur</title>
-    <desc>I København bor Mie og Viktor på Nordens ældste kollegium, som er midt i en tiltrængt restaurering. Kollegiet blev grundlagt i 1588 af Christopher Valkendorf, der både kronede Christian den 4. og havde hekseafbrændinger og sørøvere på samvittigheden. Kollegiet har huset berømte danskere, som Grundtvig, B.S Ingemann og Herman Bang, der udviklede en ny litterær retning, mens han boede der.</desc>
-    <episode-num system="xmltv_ns">3.2.0</episode-num>
-  </programme>
-  <programme start="20261005225000 +0000" stop="20261005232000 +0000" channel="dr2.dk">
-    <title>Kunstnerkolonien på Sydfyn (5:8)</title>
-    <desc>Den sydfynske natur er nået ind under huden på kunstnerne. Adam drager ind i skoven og for at lave en kjole af mos til sin performance, mens Eske cykler til Svanninge Bakker for at male det danske landskabet for første gang i sit liv.</desc>
-    <episode-num system="xmltv_ns">2.4.0</episode-num>
-  </programme>
   <programme start="20261005232000 +0000" stop="20261006002000 +0000" channel="dr2.dk">
     <title>Vi er stjernestøv</title>
     <desc>Kan stjernestøv gemme sig i rendestenen? Amatørforskeren Jon Larsen leder med kost og magnet efter mikroskopiske partikler fra verdensrummet i byens tagrender. NASA og den videnskabelige elite afviser hans opsigtsvækkende fund, men Jon nægter at give op. En humoristisk dokumentar om nysgerrighed, stædighed og den lille mands kamp mod eliten.</desc>
@@ -177,8 +26,9 @@ Sendt første gang 08.09.2019</desc>
     <episode-num system="xmltv_ns">4.0.0</episode-num>
   </programme>
   <programme start="20261006020000 +0000" stop="20261006023000 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <title>Deadline: Må en anklager bære tørklæde?</title>
+    <desc>Kan en anklager ved retten fremstå neutral, hvis hun samtidig bærer et tørklæde? Nej, mener Socialdemokratiet, der nu vil udvide forbuddet mod religiøse symboler ved danske domstole.
+Vi tager den principielle debat om sammenblandingen af jura og religion med to eksperter og spørger derefter Socialdemokratiets Lea Wermelin - hvorfor en anklager ikke må benytte tørklæde i retten?</desc>
     <episode-num system="xmltv_ns">2025.151.0</episode-num>
   </programme>
   <programme start="20261006023000 +0000" stop="20261006030000 +0000" channel="dr2.dk">
@@ -192,6 +42,11 @@ Vært: Christian Bennike.</desc>
     <desc>Salget af elbiler er de seneste år vokset og vokset, og politikerne har bare klappet begejstret i hænderne over udviklingen. Men nu vil den selverklærede "grønneste regering nogensinde" pludselig gøre elbilerne dyrere fra årsskiftet. Et selvmål for den grønne omstilling lyder det fra oppositionen.
 Vi tager debatten i Deadline med Christian Bennike for bordenden.</desc>
     <episode-num system="xmltv_ns">2025.149.0</episode-num>
+  </programme>
+  <programme start="20261006033000 +0000" stop="20261006040000 +0000" channel="dr2.dk">
+    <title>Deadline: Angriber regeringen ungdommen?</title>
+    <desc>Et frontalangreb på det man selv har betragtet som en kerneværdi. Sådan lyder kritikken af regeringens nye forslag, der skal sætte en stopper for SU'en til flere end 80.000 hjemmeboende studerende. Men hvorfor er SU'en hellig? Vært, Issa Mahmoud Jeppesen, spørger ungdommen.</desc>
+    <episode-num system="xmltv_ns">2025.148.0</episode-num>
   </programme>
   <programme start="20261006040000 +0000" stop="20261006045500 +0000" channel="dr2.dk">
     <title>Kontinenterne (5:6) Nordamerika</title>
@@ -347,8 +202,9 @@ Den frivillige eskadrille F19 forsvarer det nordlige Finland mod sovjetiske flya
     <episode-num system="xmltv_ns">2025.152.0</episode-num>
   </programme>
   <programme start="20261007023000 +0000" stop="20261007030000 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <title>Deadline: Må en anklager bære tørklæde?</title>
+    <desc>Kan en anklager ved retten fremstå neutral, hvis hun samtidig bærer et tørklæde? Nej, mener Socialdemokratiet, der nu vil udvide forbuddet mod religiøse symboler ved danske domstole.
+Vi tager den principielle debat om sammenblandingen af jura og religion med to eksperter og spørger derefter Socialdemokratiets Lea Wermelin - hvorfor en anklager ikke må benytte tørklæde i retten?</desc>
     <episode-num system="xmltv_ns">2025.151.0</episode-num>
   </programme>
   <programme start="20261007030000 +0000" stop="20261007033000 +0000" channel="dr2.dk">
@@ -488,8 +344,9 @@ Canadisk dokumentarserie fra 2025.
     <episode-num system="xmltv_ns">2025.152.0</episode-num>
   </programme>
   <programme start="20261008030000 +0000" stop="20261008033000 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <title>Deadline: Må en anklager bære tørklæde?</title>
+    <desc>Kan en anklager ved retten fremstå neutral, hvis hun samtidig bærer et tørklæde? Nej, mener Socialdemokratiet, der nu vil udvide forbuddet mod religiøse symboler ved danske domstole.
+Vi tager den principielle debat om sammenblandingen af jura og religion med to eksperter og spørger derefter Socialdemokratiets Lea Wermelin - hvorfor en anklager ikke må benytte tørklæde i retten?</desc>
     <episode-num system="xmltv_ns">2025.151.0</episode-num>
   </programme>
   <programme start="20261008040000 +0000" stop="20261008050000 +0000" channel="dr2.dk">
@@ -949,8 +806,8 @@ Instruktion: Jesper Høm.</desc>
     <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
   </programme>
   <programme start="20261011120000 +0000" stop="20261011130000 +0000" channel="dr2.dk">
-    <title>Gudstjenesten</title>
-    <desc>Tag til gudstjeneste sammen med Sofie Østergaard. Hver søndag besøger Sofie en kirke et sted i Danmark, og i selskab med en særlig gæst tager hun plads på kirkebænken. Sammen med præsten taler de om forholdet til tro og eksistens og om det at være til gudstjeneste.</desc>
+    <title>Gudstjenesten: Marie Nipper - Troens billeder</title>
+    <desc>Sofie Østergaard byder indenfor til gudstjeneste i Gentofte Kirke, der er særligt kendt for sin moderne kirkekunst. Derfor har hun inviteret kunsthistoriker Marie Nipper med til en samtale om forholdet mellem kunst og tro. For kirkekunsten er som en håndsrækning, der leder os på vej i troen, mener præst Adam Garff.</desc>
     <episode-num system="xmltv_ns">2025.41.0</episode-num>
   </programme>
   <programme start="20261011130000 +0000" stop="20261011145000 +0000" channel="dr2.dk">
@@ -1037,5 +894,148 @@ Hvad skete der med Baywatch-stjernerne efter, at strandfesten var slut?</desc>
 Canadisk dokumentarserie fra 2025.
 (An Optimist's Guide to the Planet)</desc>
     <episode-num system="xmltv_ns">1.3.0</episode-num>
+  </programme>
+  <programme start="20261012001000 +0000" stop="20261012013000 +0000" channel="dr2.dk">
+    <title>Alle Guds farver</title>
+    <desc>Vi følger præsten Viggo og kirketjeneren Bo - bedre kendt i farverig drag som Ramona Macho - i deres arbejde i Enghave Kirke. Lokalt kendt som "Queer Kirken" har Enghave åbnet dørene for alle - uanset baggrund og livssituation. Kirken møder dagligt modstand fra konservative stemmer og er både et fristed og en slagmark.</desc>
+  </programme>
+  <programme start="20261012013000 +0000" stop="20261012020000 +0000" channel="dr2.dk">
+    <title>Signe Molde på udebane: Hash er harmløst</title>
+    <desc>Hvad rimer egentlig på hashmisbrug? Signe Molde er inviteret til Marijuana March med Fri Hash Bevægelsen, der for øvrigt leder efter et nyt slogan. For hashaktivister kæmper stadig for retten til at ryge uden at være kriminel. Men hvorfor er de storrygende hashaktivister slet ikke bange for, at hashen skader deres hjerner?</desc>
+    <episode-num system="xmltv_ns">3.2.0</episode-num>
+  </programme>
+  <programme start="20261012020000 +0000" stop="20261012023000 +0000" channel="dr2.dk">
+    <title>Ludere, lommetyve og lirekassemænd (1:6)</title>
+    <desc>Dansk historieserie fra 2015
+- med ondt skal ondt fordrives, 1800 - 1840  
+Danmark har ikke altid været et lille lykkeligt rigt land. Og vores velfærd kom ikke af sig selv og skal ikke tages for givet.
+I denne serie giver Liv Thomsen stemme til Underdanmark, den anden halvdel, dem der levede i skyggen, langt fra de bonede gulve og pæne borgerhjem
+Vi fortæller om vrangsiderne de seneste 170 år og begynder med historien om morderen Ole Kollerød.
+Han mistede hovedet på Amager Fælled i 1840.
+Men efterlod sig et helt unikt vidnesbyrd om et liv fyldt med vold, forbrydelser - og kærlighed!</desc>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+  </programme>
+  <programme start="20261012023000 +0000" stop="20261012032000 +0000" channel="dr2.dk">
+    <title>På rejse med Griff - Sydstaterne (2:6)</title>
+    <desc>Australsk dokumentarserie fra 2025.
+(Griff's Great American South)
+Atlanta er en by fuld af beton, stål og motorveje - men er alligevel en af verdens grønneste storbyer. Skuespiller Griff Rhys Jones udforsker den travle og pulserende hiphopby, hvor Coca Cola blev opfundet og grundlagt, Martin Luther King kæmpede mod racediskrimination og Muhammad Ali havde sit comeback. Han drager også op i Appalacherne, hvor både bluegrass, hjemmebrændt og guldgraverhistorier venter.</desc>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+  </programme>
+  <programme start="20261012040000 +0000" stop="20261012045000 +0000" channel="dr2.dk">
+    <title>Husker du... 1993</title>
+    <desc>Torsdag den 18. maj 1993 bryder Nørrebro i brand, da en demonstration efter Danmarks ja til Maastricht løber fuldstændig ud af kontrol og omdanner Nørrebro til en krigsskueplads i et inferno af vold og had. 1993 er et voldsomt år, ikke bare i Danmark, men i hele verden. Krigen i det tidligere Jugoslavien kræver danske ofre, Moskva er i undtagelsestilstand og World Trade Center bliver udsat for et terrorangreb ... Men der er lyspunkter. F.eks. får udtrykket "Jernladies" en helt ny betydning i det danske sprogbrug:
+Sendt første gang 12.03.06.</desc>
+    <episode-num system="xmltv_ns">3.3.0</episode-num>
+  </programme>
+  <programme start="20261012045000 +0000" stop="20261012052000 +0000" channel="dr2.dk">
+    <title>Ludere, lommetyve og lirekassemænd (1:6)</title>
+    <desc>Dansk historieserie fra 2015
+- med ondt skal ondt fordrives, 1800 - 1840  
+Danmark har ikke altid været et lille lykkeligt rigt land. Og vores velfærd kom ikke af sig selv og skal ikke tages for givet.
+I denne serie giver Liv Thomsen stemme til Underdanmark, den anden halvdel, dem der levede i skyggen, langt fra de bonede gulve og pæne borgerhjem
+Vi fortæller om vrangsiderne de seneste 170 år og begynder med historien om morderen Ole Kollerød.
+Han mistede hovedet på Amager Fælled i 1840.
+Men efterlod sig et helt unikt vidnesbyrd om et liv fyldt med vold, forbrydelser - og kærlighed!</desc>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+  </programme>
+  <programme start="20261012052000 +0000" stop="20261012055000 +0000" channel="dr2.dk">
+    <title>Ludere, lommetyve og lirekassemænd (2:6)</title>
+    <desc>Dansk historieserie fra 2015
+- der skal ydes før der kan nydes, 1849 - 1880      
+Danmark har ikke altid været et lille lykkeligt rigt land. Og vores velfærd kom ikke af sig selv og skal ikke tages for givet.
+I denne serie giver Liv Thomsen stemme til Underdanmark, den anden halvdel, dem der levede i skyggen, langt fra de bonede gulve og pæne borgerhjem. Denne gang handler det om Peter Jørgensen, Fattiggårdens Skræk, der boede på fattiggård i en stor del af sit ulykkelige liv, sammen med alle de andre fattiglemmer, der ikke kunne forsørge sig selv, og som resten af Danmark betragtede med lige dele afsky og frygt!</desc>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+  </programme>
+  <programme start="20261012055000 +0000" stop="20261012060000 +0000" channel="dr2.dk">
+    <title>Dansk teater 300 år: Det politiske teater</title>
+    <desc>I 1970erne er fronterne hårdt trukket op. Der er politik i alt også i teateret, som er et våben i klasse- og kønskampen
+Teateret bliver farligt og rykker ud på gaden, ligesom mange andre danskere, der bruger det offentlige rum til at udtrykke deres vrede og kritik.
+I slutningen af årtiet begynder Kirsten Delholm og Billedstofteateret til gengæld at skabe forestillinger til museer og andre ikke-teaterscener. Uden ord og musik.</desc>
+    <episode-num system="xmltv_ns">0.7.0</episode-num>
+  </programme>
+  <programme start="20261012060000 +0000" stop="20261012060500 +0000" channel="dr2.dk">
+    <title>Radioavisen</title>
+    <desc>Bliv opdateret på de seneste nyheder fra ind- og udland.</desc>
+  </programme>
+  <programme start="20261012060500 +0000" stop="20261012063000 +0000" channel="dr2.dk">
+    <title>Morgenandagten</title>
+    <desc>Morgenandagten fra Vor Frue Kirke, Københavns Domkirke.</desc>
+  </programme>
+  <programme start="20261012063000 +0000" stop="20261012100000 +0000" channel="dr2.dk">
+    <title>Seneste nyt fra TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20261012100000 +0000" stop="20261012151500 +0000" channel="dr2.dk">
+    <title>Seneste nyt fra TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20261012151500 +0000" stop="20261012154500 +0000" channel="dr2.dk">
+    <title>Ludere, lommetyve og lirekassemænd (3:6)</title>
+    <desc>Dansk historieserie fra 2015
+- Rababerdrenge mod panserbasser, 1880-1900
+Danmark har ikke altid været et lille lykkeligt rigt land. Og vores velfærd kom ikke af sig selv og skal ikke tages for givet.
+I denne serie giver Liv Thomsen stemme til Underdanmark, den anden halvdel, dem der levede i skyggen, langt fra de bonede gulve og pæne borgerhjem. Denne gang handler det om Christian Christensen, der voksede i det såkaldte rabarberland på Nørrebro i København i slutningen af 1800 tallet. Han var én af titusinde indvandrere i hovedstaden, der levede under uhørt uhumske forhold og som fra helt lille måtte hjælpe med at forsørge en hastigt voksende familie.</desc>
+    <episode-num system="xmltv_ns">0.2.0</episode-num>
+  </programme>
+  <programme start="20261012154500 +0000" stop="20261012161500 +0000" channel="dr2.dk">
+    <title>Ludere, lommetyve og lirekassemænd (4:6)</title>
+    <desc>Dansk historieserie fra 2015
+- Danmarks slavinder, 1900 - 1930
+Danmark har ikke altid været et lille lykkeligt rigt land. Og vores velfærd kom ikke af sig selv og skal ikke tages for givet.
+I denne serie giver Liv Thomsen stemme til Underdanmark, den anden halvdel, dem der levede i skyggen, langt fra de bonede gulve og pæne borgerhjem. Denne gang handler det om Marie Christensen, der var én af mange tjenestepiger omkring år 1900. Pigerne blev behandlet som slavinder, knoklede det meste af døgnet og boede på bittesmå værelser. I den sparsomme fritid kom nogle af pigerne i ulykke eller tyede til prostitution, og omverdens dom var hård.</desc>
+    <episode-num system="xmltv_ns">0.3.0</episode-num>
+  </programme>
+  <programme start="20261012161500 +0000" stop="20261012170000 +0000" channel="dr2.dk">
+    <title>På rejse med Griff - Sydstaterne (3:6)</title>
+    <desc>Australsk dokumentarserie fra 2025.
+(Griff's Great American South)
+Tennessee - så amerikansk, som det kan blive! Skuespiller Griff Rhys Jones besøger Chattanooga ved Tennessee-floden, hvor utallige dæmninger, vandkraft og store vandreservoirer har givet delstaten tidlig adgang til atomkraft. Herfra rejser han videre til countrymusikkens hovedstad Nashville - også kendt for sin formidable grillmad, hårdtslående whiskey og den ikoniske Dolly Parton.</desc>
+    <episode-num system="xmltv_ns">0.2.0</episode-num>
+  </programme>
+  <programme start="20261012170000 +0000" stop="20261012191500 +0000" channel="dr2.dk">
+    <title>Filmperler: De andres liv</title>
+    <desc>Tysk Oscar-belønnet thrillerdrama fra 2006.
+(Das Leben der Anderen)
+Østberlin, 1984. Fem år før murens fald holder DDR's regering befolkningen i et jerngreb med kontrol og overvågning. Den partiloyale Stasi-agent Wiesler håber at fremme sin karriere, da han får til opgave at overvåge den frittænkende forfatter Dreyman og dennes kæreste. Overvågningen viser ham imidlertid et hidtil ukendt liv, som han får sværere og sværere ved at modstå. Men systemet lader sig ikke stoppe, og et meget farligt spil tager form.
+'De andres liv' er en af de senere års mest roste og prisbelønnede film. Det gribende Stasi-drama modtog bl.a. en Oscar for bedste udenlandske film, en Bodil, en Robert og tre European Film Awards.
+Medvirkende: Ulrich Mühe, Martina Gedeck, Sebastian Koch m.fl.
+Instruktion: Florian Henckel von Donnersmarck.</desc>
+  </programme>
+  <programme start="20261012191500 +0000" stop="20261012201500 +0000" channel="dr2.dk">
+    <title>Fodbold: Canada - Danmark (k), direkte</title>
+    <desc>For anden gang på fire dage skal kvindelandsholdet i fodbold teste formen af mod Canada. For Danmark er kampen en vigtig del af forberedelserne frem mod næste sommers VM-slutrunde, og det stærke canadiske hold virker som en perfekt testmodstander for de danske kvinder. Kampen spilles på BMO Field i Toronto, som ved sommerens VM-slutrunde for herrer lagde græs til seks kampe.
+Kommentatorer: Henrik Liniger og Arnela Muminovic</desc>
+  </programme>
+  <programme start="20261012201500 +0000" stop="20261012213000 +0000" channel="dr2.dk">
+    <title>Fodbold: Canada - Danmark (k), direkte</title>
+    <desc>For anden gang på fire dage skal kvindelandsholdet i fodbold teste formen af mod Canada. For Danmark er kampen en vigtig del af forberedelserne frem mod næste sommers VM-slutrunde, og det stærke canadiske hold virker som en perfekt testmodstander for de danske kvinder. Kampen spilles på BMO Field i Toronto, som ved sommerens VM-slutrunde for herrer lagde græs til seks kampe.
+Kommentatorer: Henrik Liniger og Arnela Muminovic</desc>
+  </programme>
+  <programme start="20261012213000 +0000" stop="20261012214500 +0000" channel="dr2.dk">
+    <title>TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20261012214500 +0000" stop="20261012221500 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <episode-num system="xmltv_ns">2025.155.0</episode-num>
+  </programme>
+  <programme start="20261012221500 +0000" stop="20261012230000 +0000" channel="dr2.dk">
+    <title>Huse med hemmeligheder (4:6) Lægebolig og skandaleombrust kærlighedstragedie</title>
+    <desc>Michael og Louise har overtaget et hus fra 1877 i Troense. Boligen blev opført som embedsbolig til egnens læge, der var ansat af de adelige på Valdemar Slot. Ane Cortzen undersøger, hvilken rolle lægen spillede i tragedien om Elvira Madigan og Sixten Sparre. Samtidig rådgiver hun om en større ombygning af køkken og entré, så løsningen harmonerer med husets oprindelige æstetik.</desc>
+    <episode-num system="xmltv_ns">3.3.0</episode-num>
+  </programme>
+  <programme start="20261012230000 +0000" stop="20261012233000 +0000" channel="dr2.dk">
+    <title>Kunstnerkolonien på Sydfyn (6:8)</title>
+    <desc>Lilibeth jagter træernes skygger på græsset til det, hun håber ender som et endeligt værk til udstillingen. Samtidig slipper Ida sin digitale avatar fri i den sydfynske natur. Tidspresset begynder for alvor at spidse til da kuratoren er på vej.</desc>
+    <episode-num system="xmltv_ns">2.5.0</episode-num>
+  </programme>
+  <programme start="20261012233000 +0000" stop="20261013003000 +0000" channel="dr2.dk">
+    <title>Verner Panton - En dansk verdensstjerne</title>
+    <desc>Verner Panton designede farverige lamper og stole, der provokerede i sin samtid - og som i dag er elskede ikoner. 
+I år ville han være fyldt 100 år, og fra Basel knokler hans datter og enke for at værne om hans designarv. 
+Panton drømte om at gøre os friere. Med plastik, stærke farver, bløde former og psykedeliske totalmiljøer udfordrede han vores måde at være sammen på. 
+Han var langt fra dansk designs ideal om træ og afdæmpede kulører og måtte ud i Europa for finde producenter og få sit store gennembrud.</desc>
   </programme>
 </tv>
