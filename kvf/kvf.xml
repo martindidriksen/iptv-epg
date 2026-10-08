@@ -3,40 +3,6 @@
   <channel id="kvf.fo">
     <display-name>KVF</display-name>
   </channel>
-  <programme start="20261007170000 " stop="20261007173000 " channel="kvf.fo">
-    <title>Alt um djór</title>
-    <sub-title>- barnarøð frá BBC við føroyskari talu</sub-title>
-  </programme>
-  <programme start="20261007173000 " stop="20261007180500 " channel="kvf.fo">
-    <title>Snipp snapp</title>
-    <sub-title>- føroysk sending til børn</sub-title>
-    <desc>VIT hava verið í Fuglafjarðar skúla og filmað 11 nýggjar Snipp Snapp-sendingar. Børn, sum ganga í 2. flokki í Fuglafjarðar skúla eru vertir hvørt mikukvøld.</desc>
-  </programme>
-  <programme start="20261007180500 " stop="20261007190000 " channel="kvf.fo">
-    <title>Gylta gullið 5:5</title>
-    <sub-title>- føroysk dokumentarrøð frá 2014</sub-title>
-    <desc>Hesin partur er millum annað um, tá tiltikni skipapakkin hjá Atla Dam, sála kemur og hópin av dýrum, stórum og nýmótans skipum verða smíðað ? ikki minst til uppisjóvarvinnuna. Vit eru úti á fiskifeltinum  við Finnur Fría í august 2013 við Arna Hansen sum skipara. Hann greiðir  frá, hvussu fiskurin ferðast og søgulig rætt føroyinga. Hann saman við Tummas Thomsen og 14 øðrum vóru parteigarar á fyrsta Tróndur í Gøtu.  Hann kom í 1987 sum partur av skipapakkanum.  Longu í 1990 vóru teir við at missa alt ? bæði skip og hús. Stutt áðrenn Atli Dam, sáli doyði, hevði Zacharias Hammer eina langa samrøðu við Atla, um tiltikna skipapakkan.  Skipapakkin legði lunnar undir stóru og góðu uppisjóvarskipini vit hava í dag. Nøkur søgulig og rørandi brót við Atla, sum ongantíð eru víst fyrr. Vit vitja eisini Vónina í Fuglafirði og hoyra um trol- og nótaframleisluna síðani 1971. Lagt til rættis: Zac harias Hammer</desc>
-  </programme>
-  <programme start="20261007190000 " stop="20261007194000 " channel="kvf.fo">
-    <title>Bóndi søkir kærleika</title>
-    <sub-title>- donsk sendirøð (7:13)</sub-title>
-    <desc>Jonathan vónar at koma heilt tætt at damurnar, tá ið hann skal á dates við teimum báðum. Á bólkadate´ini hjá Rasmusi skulu tey flenna á einum láturskeiði, men verður tað stuttligt ? ella bara óbehagiligt? Upprunaheiti: Landmand søger kærlighed Framleiðsluár: 2026</desc>
-  </programme>
-  <programme start="20261007194000 " stop="20261007201000 " channel="kvf.fo">
-    <title>At fiska og vera í náttúruni 1:8</title>
-    <sub-title>- svensk røð frá 2021</sub-title>
-    <desc>Emilie fer at fiska vestanfyri í heimasjógvi hjá Martin. Plássið eitur Käringön, eitt hugnaligt fiskipláss frá 1600-talinum. M.a. fiskar hon í kajakk saman við soni Martins, Johan Falklind. Programmleiðarar: Martin Falklind og Emilie Björkman. 1. partur av 8. Broadcast Company SVT</desc>
-  </programme>
-  <programme start="20261007201000 " stop="20261007210500 " channel="kvf.fo">
-    <title>Hvar skulu vit búgva?</title>
-    <sub-title>- donsk sendirøð</sub-title>
-    <desc>Við fíggjarætlanum upp á 2,3 milliónir krónur verða Christian og Dilsad send hvør sín veg í landinum fyri at hjálpa Jasmin í Keypmannahavn og Sverre í Aalborg. Sverre skal hava pláss fyri bæði crossfit, sangi og rolluspæli, meðan Jasmin droymir um eina tvey-rúms íbúð. Framleiðsluár: 2026</desc>
-  </programme>
-  <programme start="20261007210500 " stop="20261008170000 " channel="kvf.fo">
-    <title>Størst</title>
-    <sub-title>- Ingemann á heimsins størstu kinesisku matstovu</sub-title>
-    <desc>Hann ferðast um allan heim og vitjar tey størstu mannaskaptu støðini á jørðini. Her, mitt í tí kommunistiska ríkinum, er fyrrverandi skúlalærarin, Frú Qin, vorðin margmillióningur við matstovuni, sum hvønn dag ger mat til 5.000 gestir. Framl.: Heartland Framl. fyri: TV 2 DANMARK Framl. ár: 2014</desc>
-  </programme>
   <programme start="20261008170000 " stop="20261008173000 " channel="kvf.fo">
     <title>Snipp snapp</title>
     <sub-title>- føroysk sending til børn</sub-title>
@@ -275,7 +241,41 @@
     <title>Dagur og vika</title>
     <sub-title>- við teksti</sub-title>
   </programme>
-  <programme start="20261013220000 " stop="20261013230000 " channel="kvf.fo">
+  <programme start="20261013220000 " stop="20261014170000 " channel="kvf.fo">
     <title>Veðrið</title>
+  </programme>
+  <programme start="20261014170000 " stop="20261014173000 " channel="kvf.fo">
+    <title>Alt um djór</title>
+    <sub-title>- barnarøð frá BBC við føroyskari talu</sub-title>
+  </programme>
+  <programme start="20261014173000 " stop="20261014180000 " channel="kvf.fo">
+    <title>Snipp snapp - nýggir partar</title>
+    <sub-title>- føroysk barnasending (1:7)</sub-title>
+    <desc>Í Snipp snapp eru teknifilmar, ið eru ætlaðir yngru børnunum, hesa ferð m.a. Bláa og Labbaliðið.</desc>
+  </programme>
+  <programme start="20261014180000 " stop="20261014184500 " channel="kvf.fo">
+    <title>Svart gull 1:2</title>
+    <sub-title>- kolasølan í Føroyum, føroyskur dokumentarur frá 2015</sub-title>
+    <desc>"og í fjøllunum dýrasta grip" Kolasølan í Føroyum er bæði aldargomul og spennandi. Staðarnøvn, sum vísa til kol, hava sín uppruna í fyrndar tíð og fyrstu ferð vit hoyra um kol, í skrivligum keldum, er tíðliga í 17. øld.</desc>
+  </programme>
+  <programme start="20261014184500 " stop="20261014192500 " channel="kvf.fo">
+    <title>Bóndi søkir kærleika</title>
+    <sub-title>- donsk sendirøð (8:13)</sub-title>
+    <desc>Ikki allar samrøður ganga líka lætt, tá ið bóndin Magnus skal á speed-date. Heima hjá Rasmusi flyta kvinnurnar inn, men tey mongu veiðutroféini falla ikki í góða jørð hjá øllum. Sofie vitjar bæði Jonathan og Charlotte fyri at hoyra, hvussu tað gongur við kærleikanum. Upprunaheiti: Landmand søger kærlighed Framleiðsluár: 2026</desc>
+  </programme>
+  <programme start="20261014192500 " stop="20261014195500 " channel="kvf.fo">
+    <title>At fiska og vera í náttúruni 2:8</title>
+    <sub-title>- svensk røð frá 2021</sub-title>
+    <desc>Martin vitjar Emiliu og ætlar sær at fiska í Dalarna, har stórir partar av vatninum verða gagnnýttir við kraftverkum og byrgingum, sum órógva natúrliga umhvørvið hjá fiskinum. Nú arbeiða áhugafelagsskapir og onnur fyri at fáa fiskinum tað natúrliga umhvørvið aftur. Programmleiðarar: Martin Falklind og Emilie Björkman. 2. partur av 8 Broadcast Company SVT</desc>
+  </programme>
+  <programme start="20261014195500 " stop="20261014203500 " channel="kvf.fo">
+    <title>Hvar skulu vit búgva?</title>
+    <sub-title>- donsk sendirøð</sub-title>
+    <desc>Arkitektur, náttúra og pláss til eitt keramikverkstað eru í fokus, tá Camilla tekur Bente við á húsaveiðu í Norður­sælandi. Sara fer til Suðurfyn fyri at hjálpa Barbaru og døtrum hennara at finna eitt fast heim, og dreymar og fíggjarætlan krevja, at hugsað verður í kompromissum. Framleiðsluár: 2026</desc>
+  </programme>
+  <programme start="20261014203500 " stop="20261014213500 " channel="kvf.fo">
+    <title>Can You Kepp a Secret?</title>
+    <sub-title>- am. kærleiksfilmur frá 2019</sub-title>
+    <desc>Tá Emma (Alexandra Daddario) væntar, at flogfarið, har hon er umborð, fer at detta niður, fortelur hon øll síni loyndarmál fyri honum (Tyler Hoechlin), sum hon situr undir liðini á. Men flogfarið dettur ikki niður, og dagin eftir kemur hon eftir, at hesin sami maðurin eigur fyritøkuna, sum hon arbeiðir fyri. Hvat er nú til ráða at taka? Ein filmur við  Alexandru Daddario úr ?Batwatch? og sjónvarpsrøðini ?White Lotus?. Upprunah.: Can You Keep a Secret? Við eru: Emma Corrigan: Alexandra Daddario, Jacko Harper: Tyler Hoechlin og Lissy: Sunita Mani. Framl.ár: 2019 Aldursmark: 11</desc>
   </programme>
 </tv>

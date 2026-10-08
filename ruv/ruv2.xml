@@ -3,10 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20261007190000 +0000" stop="20261007192700 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20261008192000 +0000" stop="20261008211000 +0000" channel="ruv2.is">
     <title>Haukar - Stjarnan</title>
     <desc>Leikir í bikarkeppni karla í handbolta.
@@ -85,6 +81,10 @@ Leikur Íslands og Króatíu í umspili í undankeppni HM kvenna í fótbolta.</
 Uppgjör á leik Íslands og Króatíu í umspili í undankeppni HM kvenna í fótbolta.</desc>
   </programme>
   <programme start="20261013194500 +0000" stop="20261013201200 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20261014190000 +0000" stop="20261014192700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
