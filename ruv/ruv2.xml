@@ -3,16 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20261008192000 +0000" stop="20261008211000 +0000" channel="ruv2.is">
-    <title>Haukar - Stjarnan</title>
-    <desc>Leikir í bikarkeppni karla í handbolta.
-
-Leikur Hauka og Stjörnunnar í 16-liða úrslitum Powerade-bikars karla í handbolta.</desc>
-  </programme>
-  <programme start="20261008211000 +0000" stop="20261008213700 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20261009173000 +0000" stop="20261009182000 +0000" channel="ruv2.is">
     <title>KrakkaRÚV</title>
   </programme>
@@ -40,13 +30,13 @@ Vigdís er ein heima í fyrsta skipti og það fer af stað fjörug atburðarás
 
 Handrit: Elísabet Sara Kolsöe, Karítas Magnúsdóttir og Hlynur Axel Bjarkason</desc>
   </programme>
-  <programme start="20261009192000 +0000" stop="20261009211000 +0000" channel="ruv2.is">
+  <programme start="20261009192500 +0000" stop="20261009211500 +0000" channel="ruv2.is">
     <title>FH - Fram</title>
     <desc>Leikir í bikarkeppni karla í handbolta.
 
 Leikur FH og Fram í 16-liða úrslitum Powerade-bikars karla í handbolta.</desc>
   </programme>
-  <programme start="20261009211000 +0000" stop="20261009213700 +0000" channel="ruv2.is">
+  <programme start="20261009211500 +0000" stop="20261009214200 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
@@ -85,6 +75,10 @@ Uppgjör á leik Íslands og Króatíu í umspili í undankeppni HM kvenna í f�
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
   <programme start="20261014190000 +0000" stop="20261014192700 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20261015190000 +0000" stop="20261015192700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
