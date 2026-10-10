@@ -3,43 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20261009173000 +0000" stop="20261009182000 +0000" channel="ruv2.is">
-    <title>KrakkaRÚV</title>
-  </programme>
-  <programme start="20261009173100 +0000" stop="20261009175300 +0000" channel="ruv2.is">
-    <title>Silfruskógur II</title>
-    <desc>Önnur sería af Silfruskógi, sem er bresk sjónvarpsþáttaröð úr heimi vísindaskáldskapar fyrir unglinga. Lous, Meg, Glen og Kaz uppgötva að hópurinn þeirra er bara einn þeirra fjögurra sem taka þátt í leiknum um að bjarga heiminum.</desc>
-  </programme>
-  <programme start="20261009175300 +0000" stop="20261009180200 +0000" channel="ruv2.is">
-    <title>Eilíft drama II</title>
-    <desc>Önnur þáttaröð af Eilífu drama. Hvað gerist þegar besta vinkonan byrjar að hanga með einhverjum öðrum? Saga um vináttu sem rofnar og breytist. Þáttaröðin er á sænsku með íslenskum texta.
-
-Olivia þorir loksins að setja Alexu mörk og þá opnast henni nýr heimur.</desc>
-  </programme>
-  <programme start="20261009180300 +0000" stop="20261009181500 +0000" channel="ruv2.is">
-    <title>Kameljón I</title>
-    <desc>Fjórir efnilegir knattspyrnuiðkendur. Einn draumur. Ekkert er sjálfgefið. Sumir berjast fyrir því að falla inn í hópinn, aðrir fyrir því að valda ekki vonbrigðum. Serían er á norsku með íslenskum texta.
-
-Leon reynir að passa inn í heim Amunds.</desc>
-  </programme>
-  <programme start="20261009181400 +0000" stop="20261009181900 +0000" channel="ruv2.is">
-    <title>Sögur - stuttmyndir</title>
-    <desc>Þrjár leiknar stuttmyndir, skrifaðar af ungum höfundum á aldrinum 7-12 ára. Myndirnar voru framleiddar í tengslum við verkefnið Sögur hjá KrakkaRÚV. Handritin að stuttmyndunum þremur, Einhyrningurinn og kanínan, Óvæntar fréttir og Hvað er í gangi? voru valin í handritasamkeppni Sagna 2025. Leikstjórn og framleiðsla: Rosalie Rut Sigrúnardóttir
-
-Vigdís er ein heima í fyrsta skipti og það fer af stað fjörug atburðarás sem hún nær ekki að stöðva.
-
-Handrit: Elísabet Sara Kolsöe, Karítas Magnúsdóttir og Hlynur Axel Bjarkason</desc>
-  </programme>
-  <programme start="20261009192500 +0000" stop="20261009211500 +0000" channel="ruv2.is">
-    <title>FH - Fram</title>
-    <desc>Leikir í bikarkeppni karla í handbolta.
-
-Leikur FH og Fram í 16-liða úrslitum Powerade-bikars karla í handbolta.</desc>
-  </programme>
-  <programme start="20261009211500 +0000" stop="20261009214200 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20261010190000 +0000" stop="20261010192000 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
@@ -79,6 +42,10 @@ Uppgjör á leik Íslands og Króatíu í umspili í undankeppni HM kvenna í f�
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
   <programme start="20261015190000 +0000" stop="20261015192700 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20261016190000 +0000" stop="20261016192700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>

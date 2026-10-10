@@ -3,40 +3,6 @@
   <channel id="kvf.fo">
     <display-name>KVF</display-name>
   </channel>
-  <programme start="20261009170000 " stop="20261009173000 " channel="kvf.fo">
-    <title>Mumi 23</title>
-    <sub-title>- teknirøð til smábørn</sub-title>
-  </programme>
-  <programme start="20261009173000 " stop="20261009180000 " channel="kvf.fo">
-    <title>MORSA 11:11</title>
-    <sub-title>- føroysk barnarøð frá 2017</sub-title>
-  </programme>
-  <programme start="20261009180000 " stop="20261009182500 " channel="kvf.fo">
-    <title>Dagur og vika</title>
-  </programme>
-  <programme start="20261009182500 " stop="20261009184000 " channel="kvf.fo">
-    <title>Veðrið</title>
-  </programme>
-  <programme start="20261009184000 " stop="20261009192000 " channel="kvf.fo">
-    <title>Gekkur</title>
-  </programme>
-  <programme start="20261009192000 " stop="20261009205000 " channel="kvf.fo">
-    <title>Infinite</title>
-    <sub-title>- amr. spenningsfilmur frá 2021</sub-title>
-    <desc>Evan McCauley (Mark Wahlberg) verður plágaður av  minnum um hendingar, hann ongantíð sjálvur hevur upplivað, og fyrst óttast hann, at hann stríðist við skizofreni. Men tá ið hann finnur út av, at hesi minnini stava frá undanfarnum lívum, broytist alt. Hann er nevniliga partur av einum bólki av fólki, sum verða endurfødd ferð eftir ferð. Saman royna tey at nýta henda serliga eginleikan til at betra um heimin, men tey mugu stríðast móti myrkum kreftum, ið vilja steðga teimum. Við: Evan McCauley: Mark Wahlberg, Bathurst 2020: Chiwetel Ejiofor og Nora Brightman: Sophie Cookson Framleiðsluár: 2021 Aldursmark: 11 ár</desc>
-  </programme>
-  <programme start="20261009205000 " stop="20261009222500 " channel="kvf.fo">
-    <title>John Wick</title>
-    <sub-title>- am. spenningsf. frá 2014</sub-title>
-    <desc>Eftir at konan doyði, livir fyrrverandi leigudrápsmaðurin John Wick nú eitt friðarligt lív saman við sínum kæra hundi Daisy - men so kemur John Wick av óvart at provokera nakrar russiskar brotsmenn, sum hevna seg við at bróta inn hjá honum, stjala bilin og drepa hundin, sum er hansara eitt og alt. Tað skuldu teir aldri havt gjørt! John finnur sær nú vápnini fram aftur, og náðileysur jagstrar hann brotsmenninar! Leikarar: John Wick: Keanu Reeves, Viggo Tarasov: Michael Nyqvist og Marcus: Willem Dafoe. Upprunah.: John Wick Framl. ár: 2014 Filmurin er óhóskandi fyri børn!</desc>
-  </programme>
-  <programme start="20261009222500 " stop="20261009225000 " channel="kvf.fo">
-    <title>Dagur og vika</title>
-    <sub-title>- við teksti</sub-title>
-  </programme>
-  <programme start="20261009225000 " stop="20261010180000 " channel="kvf.fo">
-    <title>Veðrið</title>
-  </programme>
   <programme start="20261010180000 " stop="20261010190000 " channel="kvf.fo">
     <title>Gylta gullið 5:5</title>
     <sub-title>- føroysk dokumentarrøð frá 2014</sub-title>
@@ -276,7 +242,43 @@
     <title>Dagur og vika</title>
     <sub-title>- við teksti</sub-title>
   </programme>
-  <programme start="20261015214000 " stop="20261015224000 " channel="kvf.fo">
+  <programme start="20261015214000 " stop="20261015231500 " channel="kvf.fo">
     <title>Veðrið</title>
+  </programme>
+  <programme start="20261015231500 " stop="20261016170000 " channel="kvf.fo">
+    <title>Veðrið</title>
+  </programme>
+  <programme start="20261016170000 " stop="20261016173000 " channel="kvf.fo">
+    <title>Í Mumidali - nýggj barnarøð</title>
+    <sub-title>- barnarøð við føroyskari talu, Lítla Mý flytir inn (1:13)</sub-title>
+    <desc>Tá Mymlan uttan at siga frá frammanundan kemur til Mumi og tey við ØLLUM sínum óstýriligu børnum, skal vælkenda tolsemið hjá Mumifamiljuni standa sína roynd. Ringast er hjá Mumi, sum má taka sær av lítlu Mý.</desc>
+  </programme>
+  <programme start="20261016173000 " stop="20261016180000 " channel="kvf.fo">
+    <title>MORSA 11:12</title>
+    <sub-title>- føroysk barnarøð</sub-title>
+    <desc>Í nýggju barnarøðini Morsa fer Elisabeth á Bakka at vísa ymiska hárseting. Og vit vísa nýggju bretsku barnarøðina Katie, sum BBC hevur gjørt. Vertur: Jákup Wardum. Upptøka: Bjørg Mohr Andersen. Klipt: Bjørg Mohr Andersen og Sólfríð Maria í Rók. Lagt til rættis: Elin á Rógvi.</desc>
+  </programme>
+  <programme start="20261016180000 " stop="20261016182500 " channel="kvf.fo">
+    <title>Dagur og vika</title>
+  </programme>
+  <programme start="20261016182500 " stop="20261016184000 " channel="kvf.fo">
+    <title>Veðrið</title>
+  </programme>
+  <programme start="20261016184000 " stop="20261016192000 " channel="kvf.fo">
+    <title>Gekkur</title>
+  </programme>
+  <programme start="20261016192000 " stop="20261016205500 " channel="kvf.fo">
+    <title>The Father</title>
+    <sub-title>- bretskt Oscar-vinnandi drama frá 2020</sub-title>
+    <desc>Anthony (Anthony Hopkins) lurtar eftir operu, spælir klassiskan tónleik og lesur kendar bókmenir. Men Anthony hevur Alzheimers, og tað gevur stórar avbjóðingar hjá umsorganarfullu dóttur hansara Annu (Olivia Colman). Hon roynir at fjálga um hann við at lata hann verða verandi í sínum egna, kenda umhvørvi. Men Anthony styggir allar heimahjálpirnar burtur, og sum frá líður, og hann missir takið á veruleikanum, noyðist Anna at taka ta tungu avgerðina - fyri seg sjálva og pápan. Anthony Hopkins vann Oscar fyri ?Besta mannliga høvuðsleiklut?, og filmurin fekk harafturat ein Oscar fyri ?Besta handrit?. Við eru: Anthony: Anthony Hopkins, Anne: Olivia Colman og The Man: Mark Gatiss. Við eru eisini: The Woman: Olivia Williams. Laura: Imogen Poots. Paul: Rufus Sewell. Dr Sarai: Ayesha Dharker. Handrit: Chrostopher Hampton og Florian Zeller. Leikstj.: Florian Zeller. Framl. ár: 2020 Aldursmark: 11</desc>
+  </programme>
+  <programme start="20261016205500 " stop="20261016225000 " channel="kvf.fo">
+    <title>John Wick 2</title>
+    <sub-title>- amr. spenningsfilmur frá 2017</sub-title>
+    <desc>Tann víðagitni leigumordarin John Wick (Keanu Reeves) hevur lagt vápnini á hillina, men tá gangstarin Santino D?Antonia (Riccardo Scamarcio) krevur eina tænastu endurgoldna, verður Wick noyddur at halda lyftið, hann einaferð gav. Uppgávan førir hann til Rom, har gamlir vinir eru til reiðar at hjálpa. Upprunaheiti: John Wick: Chapter 2 Framleiðsluár: 2017 Ikki hóskandi fyri børn</desc>
+  </programme>
+  <programme start="20261016225000 " stop="20261016235000 " channel="kvf.fo">
+    <title>Dagur og vika</title>
+    <sub-title>- við teksti</sub-title>
   </programme>
 </tv>
