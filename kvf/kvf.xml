@@ -3,21 +3,6 @@
   <channel id="kvf.fo">
     <display-name>KVF</display-name>
   </channel>
-  <programme start="20261010180000 " stop="20261010190000 " channel="kvf.fo">
-    <title>Gylta gullið 5:5</title>
-    <sub-title>- føroysk dokumentarrøð frá 2014</sub-title>
-    <desc>Hesin partur er millum annað um, tá tiltikni skipapakkin hjá Atla Dam, sála kemur og hópin av dýrum, stórum og nýmótans skipum verða smíðað ? ikki minst til uppisjóvarvinnuna. Vit eru úti á fiskifeltinum  við Finnur Fría í august 2013 við Arna Hansen sum skipara. Hann greiðir  frá, hvussu fiskurin ferðast og søgulig rætt føroyinga. Hann saman við Tummas Thomsen og 14 øðrum vóru parteigarar á fyrsta Tróndur í Gøtu.  Hann kom í 1987 sum partur av skipapakkanum.  Longu í 1990 vóru teir við at missa alt ? bæði skip og hús. Stutt áðrenn Atli Dam, sáli doyði, hevði Zacharias Hammer eina langa samrøðu við Atla, um tiltikna skipapakkan.  Skipapakkin legði lunnar undir stóru og góðu uppisjóvarskipini vit hava í dag. Nøkur søgulig og rørandi brót við Atla, sum ongantíð eru víst fyrr. Vit vitja eisini Vónina í Fuglafirði og hoyra um trol- og nótaframleisluna síðani 1971. Lagt til rættis: Zac harias Hammer</desc>
-  </programme>
-  <programme start="20261010190000 " stop="20261010222000 " channel="kvf.fo">
-    <title>Sement 2026</title>
-    <sub-title>- 2. umfar</sub-title>
-    <desc>Tónleikakappingin Sement verður fyriskipað á hvørjum ári. Tað er Tórsgøta í Havn, ið skipar fyri. Endamálið við kappingini er at geva einstaklingum og bólkum eina lopfjøl inn á tónleikapallin.</desc>
-  </programme>
-  <programme start="20261010222000 " stop="20261011070000 " channel="kvf.fo">
-    <title>Anne og Anders i Evropa 4:6</title>
-    <sub-title>- cypriotiskt marknaumráði</sub-title>
-    <desc>Kypros er býtt sundur í tvey: Millum griksk-kypriotar í syðra parti og turkisk-kypriotar í norðara parti - og millum hesar báðar partarnar ganga st-hermenn á varðhaldi fyri at halda friðin á tí lítlu oynni. Anne og Anders lenda mitt í øllum og royna at skilja ta gomlu ósemjuna gjøgnum vetrarsvimjarar, danskar hotelleigarar - og ein forseta. Og framvegis prutlar undir lokinum.</desc>
-  </programme>
   <programme start="20261011070000 " stop="20261011072600 " channel="kvf.fo">
     <title>MORSA 10</title>
     <sub-title>- føroysk barnarøð</sub-title>
@@ -277,8 +262,23 @@
     <sub-title>- amr. spenningsfilmur frá 2017</sub-title>
     <desc>Tann víðagitni leigumordarin John Wick (Keanu Reeves) hevur lagt vápnini á hillina, men tá gangstarin Santino D?Antonia (Riccardo Scamarcio) krevur eina tænastu endurgoldna, verður Wick noyddur at halda lyftið, hann einaferð gav. Uppgávan førir hann til Rom, har gamlir vinir eru til reiðar at hjálpa. Upprunaheiti: John Wick: Chapter 2 Framleiðsluár: 2017 Ikki hóskandi fyri børn</desc>
   </programme>
-  <programme start="20261016225000 " stop="20261016235000 " channel="kvf.fo">
+  <programme start="20261016225000 " stop="20261017180000 " channel="kvf.fo">
     <title>Dagur og vika</title>
     <sub-title>- við teksti</sub-title>
+  </programme>
+  <programme start="20261017180000 " stop="20261017190000 " channel="kvf.fo">
+    <title>Svart gull 1:2</title>
+    <sub-title>- kolasølan í Føroyum, føroyskur dokumentarur frá 2015</sub-title>
+    <desc>"og í fjøllunum dýrasta grip" Kolasølan í Føroyum er bæði aldargomul og spennandi. Staðarnøvn, sum vísa til kol, hava sín uppruna í fyrndar tíð og fyrstu ferð vit hoyra um kol, í skrivligum keldum, er tíðliga í 17. øld.</desc>
+  </programme>
+  <programme start="20261017190000 " stop="20261017222000 " channel="kvf.fo">
+    <title>Sement 2026</title>
+    <sub-title>- 3. umfar</sub-title>
+    <desc>Tónleikakappingin Sement verður fyriskipað á hvørjum ári. Tað er Tórsgøta í Havn, ið skipar fyri. Endamálið við kappingini er at geva einstaklingum og bólkum eina lopfjøl inn á tónleikapallin.</desc>
+  </programme>
+  <programme start="20261017222000 " stop="20261017232000 " channel="kvf.fo">
+    <title>Anne og Anders í Evropa 5:6</title>
+    <sub-title>- grasrøtur og gourmet í Ungarn</sub-title>
+    <desc>Ungarn er tað landið, sum dámar at ganga sjálvt. Á ferðini í tí gamla slættalandinum hitta Anne og Anders grasrøtur og gourmettypur, paprika-bøndur og popptónleikarar.</desc>
   </programme>
 </tv>
