@@ -3,49 +3,6 @@
   <channel id="kvf.fo">
     <display-name>KVF</display-name>
   </channel>
-  <programme start="20261015170000 " stop="20261015173000 " channel="kvf.fo">
-    <title>Snipp snapp - nýggir partar</title>
-    <sub-title>- føroysk barnasending (1:7)</sub-title>
-    <desc>Í Snipp snapp eru teknifilmar, ið eru ætlaðir yngru børnunum, hesa ferð m.a. Bláa og Labbaliðið.</desc>
-  </programme>
-  <programme start="20261015173000 " stop="20261015180000 " channel="kvf.fo">
-    <title>Í Mumidali - nýggj barnarøð</title>
-    <sub-title>- barnarøð við føroyskari talu, Lítla Mý flytir inn (1:13)</sub-title>
-    <desc>Tá Mymlan uttan at siga frá frammanundan kemur til Mumi og tey við ØLLUM sínum óstýriligu børnum, skal vælkenda tolsemið hjá Mumifamiljuni standa sína roynd. Ringast er hjá Mumi, sum má taka sær av lítlu Mý.</desc>
-  </programme>
-  <programme start="20261015180000 " stop="20261015182500 " channel="kvf.fo">
-    <title>Dagur og vika</title>
-  </programme>
-  <programme start="20261015182500 " stop="20261015183000 " channel="kvf.fo">
-    <title>Veðrið</title>
-  </programme>
-  <programme start="20261015183000 " stop="20261015192000 " channel="kvf.fo">
-    <title>Leivur vil liva</title>
-    <sub-title>- føroysk dokumentar, aldursmark 11 ár</sub-title>
-    <desc>Leivur hevur verið sproytumisnýtari í nógv ár. Hann vil gjarna sleppa burtur úr misbrúkinum, men tað er ikki so lætt. Í sendingini fylgja vit honum í gerandisdegnum á Herberginum, har hann hevur búð tey seinastu árini. Gevið gætur: Í sendingini eru myndir, ið kunna vera ógvusligar fyri summi. Lagt til rættis: Birgit Carina Eliasen og Bárður Veihe.</desc>
-  </programme>
-  <programme start="20261015192000 " stop="20261015200000 " channel="kvf.fo">
-    <title>Nýbyggjararnir</title>
-    <sub-title>- donsk lívsstílssending (2:9)</sub-title>
-    <desc>Flísar, flísar og aftur flísar. Ein nýggj uppgáva bíðar nýbyggjarunum, tá ið tey fara undir baðirúmið í húsinum ? og tað verður ikki uttan avbjóðingar. Meðan summi ríva sær í hárið yvir hundraðtals mosaikkflísum, mugu onnur hugsa kreativt, tá ið óhappið er úti. Upprunatittul: Nybyggerne Framleiðsluár: 2026</desc>
-  </programme>
-  <programme start="20261015200000 " stop="20261015205000 " channel="kvf.fo">
-    <title>Vegurin hjá Emmu</title>
-    <sub-title>- donsk dokumentar frá 2026</sub-title>
-    <desc>Í trý intens ár fylgja vit para-súkklukappkoyraranum Emmu Lund á hennara ferð úr myrkrinum í tunglyndi til sigurskósina ? og hennara altupptakandi jakt eftir gulli við Paralympisku Leikunum í París í 2024. Men stríðið fer ikki bara fram á súkkluni: Emma má eisini takast við síni brek, finna fótafestið í sínum samleika og finna vegin í einum nýggjum lívi sum mamma. Upprunaheiti: Emmas vej Framleiðsluár: 2026</desc>
-  </programme>
-  <programme start="20261015205000 " stop="20261015212000 " channel="kvf.fo">
-    <title>Hví drekki eg?</title>
-    <sub-title>- da. dokumentarur (2:3)</sub-title>
-    <desc>57 ára gamli Mikael byrjar at fáa tamarhald á misbrúki sínum. Líka sum hini í bólkinum hevur hann ikki sagt familjuni alt um sítt misbrúk. Hvussu fer honum at ganga, tá hann kemur út í veruleikan? Sesong: 1 Partur: 2 Framleitt í: 2025 Framleitt fyri: TV 2 Danmark Aldursmark: 11</desc>
-  </programme>
-  <programme start="20261015212000 " stop="20261015214500 " channel="kvf.fo">
-    <title>Dagur og vika</title>
-    <sub-title>- við teksti</sub-title>
-  </programme>
-  <programme start="20261015214500 " stop="20261015231500 " channel="kvf.fo">
-    <title>Veðrið</title>
-  </programme>
   <programme start="20261015231500 " stop="20261016170000 " channel="kvf.fo">
     <title>Veðrið</title>
   </programme>
@@ -281,9 +238,52 @@
     <sub-title>- donsk sendirøð</sub-title>
     <desc>Isabella og Frederik leita eftir friði, náttúru og plássi til familjulív nær Kalundborg, Slagelse og Høng. Samstundis leita Malene og Emil eftir einum bústaði í Aarhus, sum tey hava møguleika at seta sín egna dám á. Fíggjarætlanirnar eru trongar, og krøvini eru høg, tá bæði staðseting og innrætting skulu ganga upp. Framleiðsluár: 2026</desc>
   </programme>
-  <programme start="20261021210500 " stop="20261021220500 " channel="kvf.fo">
+  <programme start="20261021210500 " stop="20261022170000 " channel="kvf.fo">
     <title>Størstur</title>
     <sub-title>- á ferð við Peter Ingemann í Dubai</sub-title>
     <desc>Peter Ingemann vitjar tey størstu mannaskaptu støðini á jørðini - hesaferð í Dubai, har er Pálmin, heimsins størsta oyggj gjørd av mannahondum, fólkað við millióningum og trygdarfólki! Framl.: Heartland Framl. fyri: TV 2 DANMARK Framl. ár: 2014</desc>
+  </programme>
+  <programme start="20261022170000 " stop="20261022173000 " channel="kvf.fo">
+    <title>Snipp snapp</title>
+    <sub-title>- føroysk barnasending (2:7)</sub-title>
+    <desc>Í Snipp snapp eru teknifilmar, ið eru ætlaðir yngru børnunum, hesa ferð m.a. Bláa og Labbaliðið.</desc>
+  </programme>
+  <programme start="20261022173000 " stop="20261022180000 " channel="kvf.fo">
+    <title>Í Mumidali</title>
+    <sub-title>- barnarøð við føroyskari talu, Várvísan (2:13)</sub-title>
+    <desc>Á heimferðini til Mumidalin órógvar eitt alt ov vinaligt skógardýr Mumrik. Spurningurin er, um hann skal venda aftur ella gera tann nýggja sangin fyrst.</desc>
+  </programme>
+  <programme start="20261022180000 " stop="20261022182500 " channel="kvf.fo">
+    <title>Dagur og vika</title>
+  </programme>
+  <programme start="20261022182500 " stop="20261022183000 " channel="kvf.fo">
+    <title>Veðrið</title>
+  </programme>
+  <programme start="20261022183000 " stop="20261022192000 " channel="kvf.fo">
+    <title>Tá týskurin bumbaði Klaksvík</title>
+    <sub-title>- føroysk dokumentar</sub-title>
+    <desc>Í oktober í 1941 varð Klaksvíkin bumbað tríggjar ferðir. Hetta vóru sera dramatiskar hendingar, sum skelkaðu og settu seg í minnið á teimum, ið vóru vitni til hendingarnar. Í sendingni greiða tey frá, sum vóru børn tá, um bumbingini og hvussu tey upplivdu hendingarnar. Kári Sólstein og Hans Petur Hansen leggja til rættis.</desc>
+  </programme>
+  <programme start="20261022192000 " stop="20261022200000 " channel="kvf.fo">
+    <title>Nýbyggjararnir</title>
+    <sub-title>- donsk lívsstílssending (3:9)</sub-title>
+    <desc>Umvælingin røkkur nýggjar hæddir, tá fleiri pør velja at broyta upprunaligu grundætlanina í forstovuni og vaskirúminum. Hetta sendir tey út í eina strævna og tíðarkrevjandi niðurtøku av veggjum, og tá kemur eisini fram, at tað eru nógvar skapandi og nýhugsandi leiðir at nútímansgera upprunaliga innbúgvið í húsinum. Upprunaheiti: Nybyggerne Framleiðsluár: 2026</desc>
+  </programme>
+  <programme start="20261022200000 " stop="20261022204000 " channel="kvf.fo">
+    <title>Sum farin undir heilt</title>
+    <sub-title>- Jan, fyrsti partur</sub-title>
+    <desc>Ein dag í desember 1990 bróta pápi og beiggi hjá Jan seg inn í íbúðina hjá honum. Jan er ikki komin heim til jóla, og familjan hevur einki frætt frá honum í fleiri vikur. Men aftan fyri hurðina liggur ein stór rúgva av óopnaðum posti ? og ein púra tóm íbúð. Jan er horvin. Eingin hevur sæð hann í 30 ár. Kann Kristian Bech hjálpa við at loysa gátuna? Upprunaheiti: Som sunket i jorden Framleiðsluár: 2026</desc>
+  </programme>
+  <programme start="20261022204000 " stop="20261022211000 " channel="kvf.fo">
+    <title>Hví drekki eg?</title>
+    <sub-title>- da. dokumentarur (3:3)</sub-title>
+    <desc>40 ára gamla Britta verður útskrivað av Ringgården og kennir seg klára til eitt nýtt lív, har hon kann vera har fyri børnunum hjá sær. Men stutt eftir at hon er komin heim, hendir okkurt. Sesong: 1 Partur: 3 Framleitt í: 2025 Framleitt fyri: TV 2 Danmark Aldursmark: 11</desc>
+  </programme>
+  <programme start="20261022211000 " stop="20261022213500 " channel="kvf.fo">
+    <title>Dagur og vika</title>
+    <sub-title>- við teksti</sub-title>
+  </programme>
+  <programme start="20261022213500 " stop="20261022223500 " channel="kvf.fo">
+    <title>Veðrið</title>
   </programme>
 </tv>

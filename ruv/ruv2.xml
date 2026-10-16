@@ -3,10 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20261015190000 +0000" stop="20261015192700 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20261016190000 +0000" stop="20261016192700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
@@ -46,6 +42,16 @@ Liðakeppni karla á HM í fimleikum.</desc>
 Liðakeppni kvenna á HM í fimleikum.</desc>
   </programme>
   <programme start="20261021200000 +0000" stop="20261021202700 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20261022173000 +0000" stop="20261022200000 +0000" channel="ruv2.is">
+    <title>HM í fimleikum</title>
+    <desc>Beinar útsendingar frá HM í fimleikum.
+
+Fjölþraut karla á HM í fimleikum.</desc>
+  </programme>
+  <programme start="20261022200000 +0000" stop="20261022202700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
