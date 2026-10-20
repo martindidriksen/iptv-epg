@@ -3,16 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20261019192500 +0000" stop="20261019213500 +0000" channel="ruv2.is">
-    <title>Breiðablik - Grindavík</title>
-    <desc>Leikir í bikarkeppni karla í körfubolta.
-
-Leikur Breiðabliks og Grindavíkur í 32-liða úrslitum VÍS-bikars karla í körfubolta.</desc>
-  </programme>
-  <programme start="20261019213000 +0000" stop="20261019215700 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20261020173000 +0000" stop="20261020203000 +0000" channel="ruv2.is">
     <title>HM í fimleikum</title>
     <desc>Beinar útsendingar frá HM í fimleikum.
@@ -58,6 +48,10 @@ Fjölþraut kvenna á HM í fimleikum.</desc>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
   <programme start="20261025190000 +0000" stop="20261025192000 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20261026190000 +0000" stop="20261026192700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
