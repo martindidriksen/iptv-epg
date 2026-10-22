@@ -3,40 +3,6 @@
   <channel id="kvf.fo">
     <display-name>KVF</display-name>
   </channel>
-  <programme start="20261021170000 " stop="20261021173000 " channel="kvf.fo">
-    <title>Alt um djór</title>
-    <sub-title>- barnarøð frá BBC við føroyskari talu</sub-title>
-  </programme>
-  <programme start="20261021173000 " stop="20261021180000 " channel="kvf.fo">
-    <title>Snipp snapp</title>
-    <sub-title>- føroysk barnasending (2:7)</sub-title>
-    <desc>Í Snipp snapp eru teknifilmar, ið eru ætlaðir yngru børnunum, hesa ferð m.a. Bláa og Labbaliðið.</desc>
-  </programme>
-  <programme start="20261021180000 " stop="20261021191500 " channel="kvf.fo">
-    <title>Svart gull 2:2</title>
-    <sub-title>- kolasølan í Føroyum - føroyskur dokumentarur frá 2015</sub-title>
-    <desc>"og í fjøllunum dýrasta grip" Kolasølan í Føroyum er bæði aldargomul og spennandi. Staðarnøvn, sum vísa til kol, hava sín uppruna í fyrndar tíð og fyrstu ferð vit hoyra um kol, í skrivligum keldum, er tíðliga í 17. øld.</desc>
-  </programme>
-  <programme start="20261021191500 " stop="20261021195500 " channel="kvf.fo">
-    <title>Bóndi søkir kærleika</title>
-    <sub-title>- donsk sendirøð (9:13)</sub-title>
-    <desc>Mørkini verða flutt bæði hjá Lassa og kvinnunum, tá dagurin býður upp á stevnumøtir við fýra hjólum og hestakreftum. Menninir hjá Maiu skulu hitta vinir hennara og royna seg sum bartendarar ? við blandadum úrslitum. Upprunaheiti: Landmand søger kærlighed Framleiðsluár: 2026</desc>
-  </programme>
-  <programme start="20261021195500 " stop="20261021202500 " channel="kvf.fo">
-    <title>At fiska og vera í náttúruni 3:8</title>
-    <sub-title>- svensk røð frá 2021</sub-title>
-    <desc>Vit eru við programmleiðarunum Emilie Björkman og Martin Falklind og fiska ymsastaðni í Svøríki. Tey hitta fólk, sum stórtrívast við at njóta náttúruna og hava tráðuna við sær. Broadcast Company SVT</desc>
-  </programme>
-  <programme start="20261021202500 " stop="20261021210500 " channel="kvf.fo">
-    <title>Hvar skulu vit búgva?</title>
-    <sub-title>- donsk sendirøð</sub-title>
-    <desc>Isabella og Frederik leita eftir friði, náttúru og plássi til familjulív nær Kalundborg, Slagelse og Høng. Samstundis leita Malene og Emil eftir einum bústaði í Aarhus, sum tey hava møguleika at seta sín egna dám á. Fíggjarætlanirnar eru trongar, og krøvini eru høg, tá bæði staðseting og innrætting skulu ganga upp. Framleiðsluár: 2026</desc>
-  </programme>
-  <programme start="20261021210500 " stop="20261022170000 " channel="kvf.fo">
-    <title>Størstur</title>
-    <sub-title>- á ferð við Peter Ingemann í Dubai</sub-title>
-    <desc>Peter Ingemann vitjar tey størstu mannaskaptu støðini á jørðini - hesaferð í Dubai, har er Pálmin, heimsins størsta oyggj gjørd av mannahondum, fólkað við millióningum og trygdarfólki! Framl.: Heartland Framl. fyri: TV 2 DANMARK Framl. ár: 2014</desc>
-  </programme>
   <programme start="20261022170000 " stop="20261022173000 " channel="kvf.fo">
     <title>Snipp snapp</title>
     <sub-title>- føroysk barnasending (2:7)</sub-title>
@@ -300,7 +266,31 @@
     <title>Dagur og vika</title>
     <sub-title>- við teksti</sub-title>
   </programme>
-  <programme start="20261027215500 " stop="20261027225500 " channel="kvf.fo">
+  <programme start="20261027215500 " stop="20261028170000 " channel="kvf.fo">
     <title>Veðrið</title>
+  </programme>
+  <programme start="20261028170000 " stop="20261028173000 " channel="kvf.fo">
+    <title>Alt um djór</title>
+    <sub-title>- barnarøð frá BBC við føroyskari talu</sub-title>
+  </programme>
+  <programme start="20261028173000 " stop="20261028180000 " channel="kvf.fo">
+    <title>Snipp snapp</title>
+    <sub-title>- føroysk barnasending (3:7)</sub-title>
+    <desc>Í Snipp snapp eru teknifilmar, ið eru ætlaðir smábørnum, hesa ferð m.a. Bláa og Labbaliðið.</desc>
+  </programme>
+  <programme start="20261028180000 " stop="20261028183500 " channel="kvf.fo">
+    <title>Einabúgvin í Kvívíksskor</title>
+    <sub-title>- føroysk sending frá 1999</sub-title>
+    <desc>Sjónvarpið, saman við vágamonnum, fóru eftir einum sjáldsomum veðri í Kvívíksskor í september 1998. Skorin er í bjørgunum fyri vestan og ongin hevur verið har tey seinastu 50 árini. Ongin veit hvussu veðrurin er komin niður har ella hvør eigur hann. Zacharias Hammer gjørdi sendingina.</desc>
+  </programme>
+  <programme start="20261028183500 " stop="20261028191500 " channel="kvf.fo">
+    <title>Bóndi søkir kærleika</title>
+    <sub-title>- donsk sendirøð (10:13)</sub-title>
+    <desc>Tá Rasmus er skjútti, skulu kvinnurnar sjálvandi við á veiðu. Tað ber eisini við sær, at veiðan skal skerast sundur, og tað dámar ikki øllum líka væl. Hjá Magnusi flyta kvinnurnar inn, og ein teirra hevur eina heilt serliga gávu við sær. Lasse skal á romantiska vikuskiftisferð, men fer kærleikin at blóma, nú tey eru einsamøll? Upprunaheiti: Landmand søger kærlighed Framleiðsluár: 2026</desc>
+  </programme>
+  <programme start="20261028191500 " stop="20261028201500 " channel="kvf.fo">
+    <title>At fiska og vera í náttúruni 4:8</title>
+    <sub-title>- svensk røð frá 2021</sub-title>
+    <desc>Härjedalen bjóðar serstaka uppliving á mangan hátt. Her møtast fjøll og skógur. Her livur fiskur, sum vanliga heldur til í vøtnum, sum liggja ovarlaga saman við áburru og geddu, sum vit vanliga síggja í teimum føðsluríkaru vøtnunum. Programml.: Martin Falklind og Emilie Björkman. 4. partur av 8. Broadcast Company SVT</desc>
   </programme>
 </tv>
