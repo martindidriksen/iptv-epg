@@ -3,49 +3,6 @@
   <channel id="kvf.fo">
     <display-name>KVF</display-name>
   </channel>
-  <programme start="20261022170000 " stop="20261022173000 " channel="kvf.fo">
-    <title>Snipp snapp</title>
-    <sub-title>- føroysk barnasending (2:7)</sub-title>
-    <desc>Í Snipp snapp eru teknifilmar, ið eru ætlaðir yngru børnunum, hesa ferð m.a. Bláa og Labbaliðið.</desc>
-  </programme>
-  <programme start="20261022173000 " stop="20261022180000 " channel="kvf.fo">
-    <title>Í Mumidali</title>
-    <sub-title>- barnarøð við føroyskari talu, Várvísan (2:13)</sub-title>
-    <desc>Á heimferðini til Mumidalin órógvar eitt alt ov vinaligt skógardýr Mumrik. Spurningurin er, um hann skal venda aftur ella gera tann nýggja sangin fyrst.</desc>
-  </programme>
-  <programme start="20261022180000 " stop="20261022182500 " channel="kvf.fo">
-    <title>Dagur og vika</title>
-  </programme>
-  <programme start="20261022182500 " stop="20261022183000 " channel="kvf.fo">
-    <title>Veðrið</title>
-  </programme>
-  <programme start="20261022183000 " stop="20261022192000 " channel="kvf.fo">
-    <title>Tá týskurin bumbaði Klaksvík</title>
-    <sub-title>- føroysk dokumentar</sub-title>
-    <desc>Í oktober 1941 var Klaksvík bumbað tríggjar ferðir. Hetta vóru sera dramatiskar hendingar, sum skelkaðu og settu seg í minnið á teimum, ið vóru vitni til hendingarnar. Í sendingini greiða tey, sum vóru børn tá, frá bumbingini, og hvussu tey upplivdu hana. John William Joensen og Kári Sólstein hava lagt til rættis.</desc>
-  </programme>
-  <programme start="20261022192000 " stop="20261022200000 " channel="kvf.fo">
-    <title>Nýbyggjararnir</title>
-    <sub-title>- donsk lívsstílssending (3:9)</sub-title>
-    <desc>Umvælingin røkkur nýggjar hæddir, tá fleiri pør velja at broyta upprunaligu grundætlanina í forstovuni og vaskirúminum. Hetta sendir tey út í eina strævna og tíðarkrevjandi niðurtøku av veggjum, og tá kemur eisini fram, at tað eru nógvar skapandi og nýhugsandi leiðir at nútímansgera upprunaliga innbúgvið í húsunum. Upprunaheiti: Nybyggerne Framleiðsluár: 2026</desc>
-  </programme>
-  <programme start="20261022200000 " stop="20261022204000 " channel="kvf.fo">
-    <title>Sum farin undir heilt</title>
-    <sub-title>- Jan, fyrsti partur</sub-title>
-    <desc>Ein dagin í desember 1990 bróta pápi og beiggi Jan seg inn í íbúðina hjá honum. Jan er ikki komin heim til jóla, og familjan hevur einki frætt frá honum í fleiri vikur. Men aftan fyri hurðina liggur ein stór rúgva av posti, sum ikki er latin upp ? og ein púra tóm íbúð. Jan er horvin. Eingin hevur sæð hann í 30 ár. Kann Kristian Bech hjálpa við at loysa gátuna? Upprunaheiti: Som sunket i jorden Framleiðsluár: 2026</desc>
-  </programme>
-  <programme start="20261022204000 " stop="20261022211000 " channel="kvf.fo">
-    <title>Hví drekki eg?</title>
-    <sub-title>- da. dokumentarur (3:3)</sub-title>
-    <desc>40 ára gamla Britta verður útskrivað av Ringgården og kennir seg klára til eitt nýtt lív, har hon kann vera har fyri børnunum hjá sær. Men stutt eftir at hon er komin heim, hendir okkurt. Sesong: 1 Partur: 3 Framleitt í: 2025 Framleitt fyri: TV 2 Danmark Aldursmark: 11</desc>
-  </programme>
-  <programme start="20261022211000 " stop="20261022213500 " channel="kvf.fo">
-    <title>Dagur og vika</title>
-    <sub-title>- við teksti</sub-title>
-  </programme>
-  <programme start="20261022213500 " stop="20261023170000 " channel="kvf.fo">
-    <title>Veðrið</title>
-  </programme>
   <programme start="20261023170000 " stop="20261023173000 " channel="kvf.fo">
     <title>Í Mumidali</title>
     <sub-title>- barnarøð við føroyskari talu, Várvísan (2:13)</sub-title>
@@ -131,12 +88,12 @@
     <desc>Í nýggju barnarøðini Morsa fer Elisabeth á Bakka at vísa ymiska hárseting. Og vit vísa nýggju bretsku barnarøðina Katie, sum BBC hevur gjørt. Vertur: Jákup Wardum. Upptøka: Bjørg Mohr Andersen. Klipt: Bjørg Mohr Andersen og Sólfríð Maria í Rók. Lagt til rættis: Elin á Rógvi.</desc>
   </programme>
   <programme start="20261025100000 " stop="20261025150000 " channel="kvf.fo">
-    <title>Heystguðstænasta í Eiðis kirkju</title>
-    <sub-title>- Ida Lykke Kannuberg, prestur, prædikar</sub-title>
+    <title>Guðstænasta í Havnar kirkju</title>
+    <sub-title>- Anne Mette Greve Klemensen, prestur, prædikar</sub-title>
   </programme>
   <programme start="20261025150000 " stop="20261025161000 " channel="kvf.fo">
-    <title>Heystguðstænasta í Eiðis kirkju</title>
-    <sub-title>- Ida Lykke Kannuberg, prestur, prædikar</sub-title>
+    <title>Guðstænasta í Havnar kirkju</title>
+    <sub-title>- Anne Mette Greve Klemensen, prestur, prædikar</sub-title>
   </programme>
   <programme start="20261025161000 " stop="20261025163500 " channel="kvf.fo">
     <title>Í luftini við Teiti Lassen</title>
@@ -288,9 +245,24 @@
     <sub-title>- donsk sendirøð (10:13)</sub-title>
     <desc>Tá Rasmus er skjútti, skulu kvinnurnar sjálvandi við á veiðu. Tað ber eisini við sær, at veiðan skal skerast sundur, og tað dámar ikki øllum líka væl. Hjá Magnusi flyta kvinnurnar inn, og ein teirra hevur eina heilt serliga gávu við sær. Lasse skal á romantiska vikuskiftisferð, men fer kærleikin at blóma, nú tey eru einsamøll? Upprunaheiti: Landmand søger kærlighed Framleiðsluár: 2026</desc>
   </programme>
-  <programme start="20261028191500 " stop="20261028201500 " channel="kvf.fo">
+  <programme start="20261028191500 " stop="20261028194500 " channel="kvf.fo">
     <title>At fiska og vera í náttúruni 4:8</title>
     <sub-title>- svensk røð frá 2021</sub-title>
     <desc>Härjedalen bjóðar serstaka uppliving á mangan hátt. Her møtast fjøll og skógur. Her livur fiskur, sum vanliga heldur til í vøtnum, sum liggja ovarlaga saman við áburru og geddu, sum vit vanliga síggja í teimum føðsluríkaru vøtnunum. Programml.: Martin Falklind og Emilie Björkman. 4. partur av 8. Broadcast Company SVT</desc>
+  </programme>
+  <programme start="20261028194500 " stop="20261028202500 " channel="kvf.fo">
+    <title>Hvar skulu vit búgva?</title>
+    <sub-title>- donsk sendirøð</sub-title>
+    <desc>Sára leitar eftir bústaði í Odense til móðir og dóttir, Therese og Annabell.  Tríggir møguleikar eru at velja í, men onkur eyka møguleiki ger, at tær forelska seg í einum sjarmerandi húsi í býnum. Samstundis leita  Heidi og Hasan eftir ti góða familjulívinum í Viborg, tey ynskja sær urtagarð og pláss. Upprunaheiti: Beliggenhed, beliggenhed, beliggenhed Framleiðsluár: 2026 Programkategori: Livsstil (12)</desc>
+  </programme>
+  <programme start="20261028202500 " stop="20261028205500 " channel="kvf.fo">
+    <title>Petra sløkkir streymin 1:2</title>
+    <sub-title>- parlagið skal royna seg</sub-title>
+    <desc>Orkukreppan er veruleiki, og vit verða øll eggjað til at spara streym. Men hvussu fær ein familja í Danmark gerandisdagin at virka, um sløkt verður fyri streyminum? Sesong: 2022 Partur: 1. Framl. ár: 2023 Framl.: Nordisk Film TV A/S Framl. fyri: TV 2 DANMARK</desc>
+  </programme>
+  <programme start="20261028205500 " stop="20261028215500 " channel="kvf.fo">
+    <title>Størstur</title>
+    <sub-title>- á ferð við Peter Ingemann í Fransk Guyana</sub-title>
+    <desc>Hesaferð fer Peter Ingemann til evropeisku rúmdarhavnina í Fransk Guyana í Suðuramerika. Hann er við, tá ið heimsins størsta kommerciella rakett verður skotin út í rúmdina. Peter sleppur við inn í eftirlitsrúmið í rúmdarhavnini, har Fleur Le Fèvre er stjóri, tað er hann, ið hevur fingurin á reyða knøttinum, um alt ikki gongur eftir ætlan. Peter er eisini á varðhaldi við fremmandaherliðnum, sum teljast við í harða soldátakjarnanum. Teir ansa  rakettini. Og Peter hittir Gisbert Linden, loytnant, sum sigur frá sínum 15 árum í herdeildini.</desc>
   </programme>
 </tv>

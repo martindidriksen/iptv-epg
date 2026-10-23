@@ -3,163 +3,27 @@
   <channel id="dr2.dk">
     <display-name>DR2</display-name>
   </channel>
-  <programme start="20261021233000 +0000" stop="20261022002000 +0000" channel="dr2.dk">
-    <title>Vil AI tage mit job?</title>
-    <desc>Kan AI overgå mennesker i de fleste opgaver? Fire fagpersoner sættes på prøve mod deres AI-modstykker i en række identiske opgaver: en praktiserende læge, en modefotograf, en advokatfuldmægtig og en komponist. Med både omdømme og job på spil er spørgsmålet: Hvem klarer sig bedst - mennesker eller AI?
-Britisk dokumentar fra 2025.
-(Will AI take My Job)</desc>
-  </programme>
-  <programme start="20261022002000 +0000" stop="20261022010500 +0000" channel="dr2.dk">
-    <title>Optimistens guide til planeten II (5:6)</title>
-    <desc>Hvordan sikrer vi os vand nok i fremtiden? Nikolaj Coster-Waldau rejser til Peru, Indien og Finland for at møde mennesker, der finder nye løsninger på en voksende vandkrise. I Peru opsamler net tåge og forvandler den til rent vand, i Indien genoplives gamle brønde og søer, og i Finland bliver spildevand til både rent vand og energi. Kan innovation og gamle traditioner sikre os den livsvigtige ressource?
-Canadisk dokumentarserie fra 2025.
-(An Optimist's Guide to the Planet)</desc>
-    <episode-num system="xmltv_ns">1.4.0</episode-num>
-  </programme>
-  <programme start="20261022010500 +0000" stop="20261022014500 +0000" channel="dr2.dk">
-    <title>Danmark i Den Kolde Krig (3:12)</title>
-    <desc>Dansk dokumentarserie fra 2000. Atombomben bliver modtaget med begejstring, da den springer første gang og sætter en stopper for 2. verdenskrig. Og der går mange år, før protesterne mod bomber og oprustning for alvor begynder. Mærkeligt nok er videnskabsmændene, der opfandt bomben, de første til at protestere. Senere følger befolkningen med, og i starten af 60'erne begynder de første marcher mod atomvåben i Danmark.</desc>
-    <episode-num system="xmltv_ns">0.2.0</episode-num>
-  </programme>
-  <programme start="20261022014500 +0000" stop="20261022020000 +0000" channel="dr2.dk">
-    <title>På skuldrene af Bohr (1:6)</title>
-    <desc>Nogle mener at tid slet ikke eksisterer. Vi oplever den kun, fordi vi som mennesker ikke kan se de allermindste ting i universet, men kan det virkelig passe? Dansk videnskabsserie fra 2022 om kvantefysikkens uforklarligheder, som tager udgangspunkt i de ideer og tanker den danske fysiker Niels Bohr havde for 100 år siden, og som blev fundamentet til kvantemekanikken. En teori om de allermindste ting i universet.</desc>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-  </programme>
-  <programme start="20261022020000 +0000" stop="20261022023000 +0000" channel="dr2.dk">
-    <title>Deadline: Hvem taber i AI-kapløbet?</title>
-    <desc>Der bliver investeret massivt i kunstig intelligens, og flere spår, at teknologien vil forandre samfundet grundlæggende. I Deadline spørger vi André Rogaczewski, administrerende direktør i en af Danmarks største techvirksomhed: Tager AI vores arbejde? Hvem høster gevinsterne, og hvem taber i AI-kapløbet? Vært: Ulrik Rosenkvist Schultz</desc>
-    <episode-num system="xmltv_ns">2025.161.0</episode-num>
-  </programme>
-  <programme start="20261022023000 +0000" stop="20261022030000 +0000" channel="dr2.dk">
-    <title>Deadline: Taber Trump alt i Texas?</title>
-    <desc>Et politisk jordskælv truer i Texas. Republikanernes højborg gennem årtier kan være på vej til at blive demokratisk. Med præcis to uger til midtvejsvalget kæmper Trump for at redde sin skandaliserede kandidat. Imens bruger en ung demokrat Biblen til at omvende texanerne.  
-Kan Texas være begyndelsen til enden på Trump? Eller er det en demokratisk feberdrøm? Sandra Brovall søger svarene i dagens udgave af Deadline.</desc>
-    <episode-num system="xmltv_ns">2025.160.0</episode-num>
-  </programme>
-  <programme start="20261022030000 +0000" stop="20261022033000 +0000" channel="dr2.dk">
-    <title>Deadline: Frygter fagbevægelsen fremtiden?</title>
-    <desc>Som formand for Fagbevægelsens Hovedorganisation er han en af landets mest magtfulde mænd. Og nu vil Morten Skov Christiansen vælges til endnu periode for bordenden.
-Men hvad er visionerne for Fagbevægelsen i en tid, hvor flere mener, at arbejdsmarkedet vil være uigenkendeligt om få år?
-Vært: Issa Mahmoud Jeppesen.</desc>
-    <episode-num system="xmltv_ns">2025.159.0</episode-num>
-  </programme>
-  <programme start="20261022033000 +0000" stop="20261022040000 +0000" channel="dr2.dk">
-    <title>Deadline: Ufrivillig abort, tragedie eller biologi?</title>
-    <desc>Hvordan forklarer man en spontan abort til skuffede par? Det spørgsmål splitter landets eksperter. Er det naturens gang, som skal følges op med et 'prøv igen'? Eller et sorgfuldt tab, hvor årsagen skal granskes?</desc>
-    <episode-num system="xmltv_ns">2025.158.0</episode-num>
-  </programme>
-  <programme start="20261022040000 +0000" stop="20261022050000 +0000" channel="dr2.dk">
-    <title>Danmarkshistorien fortalt af Erik Kjersgaard (5:12)</title>
-    <desc>Dansk dokumentarserie fra 1982. Om adelsvældets storhedstid 1523-1625. Den katolske kirke bliver omstyrtet af den lutheranske reformation og efterlader den verdslige adel som den herskende klasse. Samtidig trækker det op til et nyt storpolitisk opgør med Sverige.</desc>
-    <episode-num system="xmltv_ns">0.4.0</episode-num>
-  </programme>
-  <programme start="20261022050000 +0000" stop="20261022053000 +0000" channel="dr2.dk">
-    <title>Øgendahl og de store forfattere: Johannes V. Jensen (4:6)</title>
-    <desc>Kan Johannes V. Jensens sanselige sprog forføre Mick Øgendahl? Se med, når Øgendahl går i fodsporene på nobelpristageren, hvis roman "Kongens Fald" flere gange er kåret til den bedste danske roman nogensinde. Rejsen fører Mick til nordjyske Himmerland, underjordiske ruiner og bagsædet af en Nimbus-motorcykel med en fartglad Johannes V. Jensen bag styret. Øgendahl gør sit bedste i forsøget på at blive klogere på de store danske forfattere, som han aldrig har fået læst.</desc>
-    <episode-num system="xmltv_ns">0.3.0</episode-num>
-  </programme>
-  <programme start="20261022053000 +0000" stop="20261022060000 +0000" channel="dr2.dk">
-    <title>Værtshushistorier: Kanalen</title>
-    <desc>Det første værthus i Thyborøn, - Kanalen, åbnede i 1978. Indtil da, var det så godt som umuligt for indbyggerne i den vestjyske by at købe sig en øl, eller et glas vin. Indre Mission har de sidste 100 år stået stærkt i det lille fiskersamfund og alkohol har ikke været en del af overbevisningen. Bent Bro fra bandet Tørfisk fortæller historien.</desc>
-    <episode-num system="xmltv_ns">0.5.0</episode-num>
-  </programme>
-  <programme start="20261022060000 +0000" stop="20261022060500 +0000" channel="dr2.dk">
-    <title>Radioavisen</title>
-    <desc>Bliv opdateret på de seneste nyheder fra ind- og udland.</desc>
-  </programme>
-  <programme start="20261022060500 +0000" stop="20261022063000 +0000" channel="dr2.dk">
-    <title>Morgenandagten</title>
-    <desc>Morgenandagten fra Vor Frue Kirke, Københavns Domkirke.</desc>
-    <episode-num system="xmltv_ns">2025.246.0</episode-num>
-  </programme>
-  <programme start="20261022063000 +0000" stop="20261022100000 +0000" channel="dr2.dk">
-    <title>Seneste nyt fra TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20261022100000 +0000" stop="20261022151500 +0000" channel="dr2.dk">
-    <title>Seneste nyt fra TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20261022151500 +0000" stop="20261022155500 +0000" channel="dr2.dk">
-    <title>Danmark i Den Kolde Krig (3:12)</title>
-    <desc>Dansk dokumentarserie fra 2000. Atombomben bliver modtaget med begejstring, da den springer første gang og sætter en stopper for 2. verdenskrig. Og der går mange år, før protesterne mod bomber og oprustning for alvor begynder. Mærkeligt nok er videnskabsmændene, der opfandt bomben, de første til at protestere. Senere følger befolkningen med, og i starten af 60'erne begynder de første marcher mod atomvåben i Danmark.</desc>
-    <episode-num system="xmltv_ns">0.2.0</episode-num>
-  </programme>
-  <programme start="20261022155500 +0000" stop="20261022163500 +0000" channel="dr2.dk">
-    <title>Danmark i Den Kolde Krig (4:12)</title>
-    <desc>Dansk dokumentarserie fra 2000. I sommeren 1951 landsætter amerikanerne over 12.000 bygningsarbejdere og soldater ved den lille danske koloni Thule i Grønland. Forud er gået et politisk spil, som danskerne har tabt. Amerikanerne satser alt for at overtage et lille stykke af kongeriget Danmark. Danskerne, der boede i kolonien, og de centrale embedsmænd fortæller historien om dengang, amerikanerne kom.</desc>
-    <episode-num system="xmltv_ns">0.3.0</episode-num>
-  </programme>
-  <programme start="20261022163500 +0000" stop="20261022172500 +0000" channel="dr2.dk">
-    <title>Optimistens guide til planeten II (6:6)</title>
-    <desc>Hvor går vi hen herfra? Nikolaj Coster-Waldau rejser til Indien, Finland og Peru for at møde mennesker, der udfordrer gamle forestillinger og finder nye veje til en bæredygtig fremtid. I Indien lærer man at leve sikkert med slanger, i Finland gentænkes atomkraft som en del af løsningen på klimakrisen, og i Peru plantes millioner af træer for at bringe vandet tilbage til Andesbjergene. Kan fælles handling skabe forandring?
-Canadisk dokumentarserie fra 2025.
-(An Optimist's Guide to the Planet)</desc>
-    <episode-num system="xmltv_ns">1.5.0</episode-num>
-  </programme>
-  <programme start="20261022172500 +0000" stop="20261022193003 +0000" channel="dr2.dk">
-    <title>VM idrætsgymnastik: All around (m), finale, direkte</title>
-    <desc>I mændenes mangekamp ved VM i idrætsgymnastik er sportens største mandlige  stjerner, de to olympiske guldvindere Oka og Hashimoto fra Japan, i direkte kamp om VM-guldet.
-Kommentatorer: Birgitte Borch og Helge Vammen</desc>
-  </programme>
-  <programme start="20261022193003 +0000" stop="20261022200000 +0000" channel="dr2.dk">
-    <title>Stjernerne fra lokal-tv (1:3): De glade amatører kommer!</title>
-    <desc>En blind fotograf, en dansende onkel Kurt, et bøssekor og fuld fart på kommunalvalget i Esbjerg. Der er lagt an til dansk kulturrevolution fra Bornholm til Nordjylland, da Stéphanie Surrugue, Ole Ryborg, Jacob Riising og et hav af nye lokale tv-stjerner vender bunden i vejret på danskernes fjernsyn, og en hær af glade amatører og tv-pionerer tager kampen op mod Danmarks Radios monopol.</desc>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-  </programme>
-  <programme start="20261022200000 +0000" stop="20261022201500 +0000" channel="dr2.dk">
-    <title>TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20261022201500 +0000" stop="20261022204500 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
-    <episode-num system="xmltv_ns">2025.162.0</episode-num>
-  </programme>
-  <programme start="20261022204500 +0000" stop="20261022211500 +0000" channel="dr2.dk">
-    <title>Trumps USA</title>
-    <desc>I "Trumps USA" stiller vi skarpt på de afgørende udviklinger, personopgør og dagsordener, der udspiller sig i amerikansk politik.</desc>
-    <episode-num system="xmltv_ns">2025.27.0</episode-num>
-  </programme>
-  <programme start="20261022211500 +0000" stop="20261022225500 +0000" channel="dr2.dk">
-    <title>A Storm Foretold - det amerikanske oprør</title>
-    <desc>Dansk dokumentarfilm fra 2023.
-Christoffer Guldbrandsens dokumentarfilm giver et unikt indblik i magtens indre i Donald Trumps sidste måneder som præsident. Filmen følger kongemageren bag Trump, Roger Stone, som bevæger sig i en politisk verden og tankegang, hvor alt er tilladt. Her skifter alliancer og fjendskaber som i et Shakespeare-drama. Var det forudsigeligt, at Trumps præsidentperiode kulminerede med det dødbringende angreb på Kongressen i Washington D.C. i januar 2021? (Dokumania)
-Programmet indeholder videoklip og lyd fra præsident Donald Trumps tale i Washington D.C. den 6. januar 2021. Talen blev afholdt, kort tid før demonstranter indledte et angreb på USA's lovgivende forsamling, Kongressen. 
-Indholdet i Trumps tale har siden været genstand for debat. Mest markant i forbindelse med en BBC-dokumentar, der blev vist en uge før det amerikanske præsidentvalg i 2024.  
-I november 2025 blev samme BBC-dokumentar genstand for skarp kritik på grund af den måde, BBC havde sammenklippet dele af Trumps tale på. Det førte til, at BBC's generaldirektør og nyhedsdirektør trådte tilbage samt at BBC undskyldte for måden, udsendelsen var klippet på. 
-Set i lyset af den omfattende debat om Trumps tale og senest omkring BBC's dokumentar-program har DR valgt at give DR's brugere fuld adgang til Donald Trumps tale i sin helhed ved de programmer, der omhandler eller viser dele af Trumps tale fra januar 2021. Blandt andet i dette program, A Storm Foretold. På den måde kan man danne sig et fuldt overblik over talens indhold, hvis man ønsker det. Talen i sin helhed kan findes via denne artikel på dr.dk: 
- (https://www.dr.dk/nyheder/udland/topchefer-gaaet-af-bbc-kan-havne-i-en-overlevelseskamp)</desc>
-  </programme>
-  <programme start="20261022225500 +0000" stop="20261022234500 +0000" channel="dr2.dk">
-    <title>Rusland i krig (2:3) - Sovjetunionen</title>
-    <desc>Tysk dokumentarserie fra 2023.
-(Russia's Wars)
-Den Røde Hær er Ruslands sværd. Den vinder den russiske borgerkrig, udvider riget og forsvarer landet mod Hitlers vanvid. Efter sejren i 1945 bliver Stalins hær synonymt med undertrykkelse af de kommunistiske satellitstater i Østeuropa. Da Sovjetunionen invaderer Afghanistan i 1979, bliver det et nederlag, der har alvorlige konsekvenser for det skrantende Sovjetunionen.</desc>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-  </programme>
-  <programme start="20261022234500 +0000" stop="20261023000500 +0000" channel="dr2.dk">
+  <programme start="20261022235000 +0000" stop="20261023001000 +0000" channel="dr2.dk">
     <title>P3 Essensen: Sådan blev Ruslands hemmelige atomprogram afsløret</title>
     <desc>Rusland har i årevis arbejdet indædt på at udbygge landets atomprogram. Med satellitbilleder har internationale observatører kunne følge med i udbygningen af baser og militære installationer over hele Rusland, men har indtil videre kun kunnet gisne om, hvad der mon foregår under jorden, hvor satellitterne ikke kan se med.
 Indtil Danwatch falder over 4 terabyte med fortrolige informationer i en russisk database for byggeudbud...</desc>
     <episode-num system="xmltv_ns">1.73.0</episode-num>
   </programme>
-  <programme start="20261023000500 +0000" stop="20261023010000 +0000" channel="dr2.dk">
+  <programme start="20261023001000 +0000" stop="20261023010500 +0000" channel="dr2.dk">
     <title>Eiffeltårnet</title>
     <desc>Fransk dokumentar 2023.
 (Eiffel Tower - Building the Impossible)
 Siden 1889 har det raget 300 meter op i den parisiske himmel. Eiffeltårnet er et symbol på fremskridt og nytænkning og et ikon, der tiltrækker 6.000.000 besøgende hvert år. Her følger vi i ingeniøren og arkitekten Gustave Eiffels fodspor for at forstå tankerne bag konstruktionen. Hvordan kunne man rejse tårnet på bare to år? Og hvilke menneskelige og tekniske udfordringer mødte Eiffel og hans folk?</desc>
   </programme>
-  <programme start="20261023010000 +0000" stop="20261023020000 +0000" channel="dr2.dk">
+  <programme start="20261023010500 +0000" stop="20261023020000 +0000" channel="dr2.dk">
     <title>I magtens korridorer (7:8) Krigen i Syrien - del 1</title>
     <desc>Amerikansk dokumentarserie fra 2023.
 I 2009 modtager præsident Barack Obama Nobels Fredspris. I foråret 2011 slår det syriske regime hårdt ned på demonstranter, der kræver reformer. Da Syriens diktator Bashar al-Assad slår 1.500 forsvarsløse mænd, kvinder og børn ihjel med kemiske våben, bliver det et vendepunkt. Men i stedet for en militær intervention, foreslår Rusland, at de fjerner kemiske våben i Syrien. Og konsekvenserne af Obama og hans rådgiveres beslutninger er mangfoldige.</desc>
     <episode-num system="xmltv_ns">0.6.0</episode-num>
   </programme>
   <programme start="20261023020000 +0000" stop="20261023023000 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <title>Deadline: Slut med støtten til Ukraine?</title>
+    <desc>De diplomatiske skyer trækker sig lige nu sammen over Ukraine: Trump rækker ud til Putin, og i Europa stormer Le Pen og AfD frem med løfter om at stoppe al støtte til Ukraine. Christian Bennike spørger professor Mikkel Vedby, hvad det betyder for krigen og for verdensfreden. Og bagefter debatterer udlandsredaktør Anna Libak og iværksætter Klaus Riskjær, hvad Danmark bør gøre.</desc>
     <episode-num system="xmltv_ns">2025.162.0</episode-num>
   </programme>
   <programme start="20261023023000 +0000" stop="20261023030000 +0000" channel="dr2.dk">
@@ -167,7 +31,7 @@ I 2009 modtager præsident Barack Obama Nobels Fredspris. I foråret 2011 slår 
     <desc>Der bliver investeret massivt i kunstig intelligens, og flere spår, at teknologien vil forandre samfundet grundlæggende. I Deadline spørger vi André Rogaczewski, administrerende direktør i en af Danmarks største techvirksomhed: Tager AI vores arbejde? Hvem høster gevinsterne, og hvem taber i AI-kapløbet? Vært: Ulrik Rosenkvist Schultz</desc>
     <episode-num system="xmltv_ns">2025.161.0</episode-num>
   </programme>
-  <programme start="20261023030000 +0000" stop="20261023033500 +0000" channel="dr2.dk">
+  <programme start="20261023030000 +0000" stop="20261023040000 +0000" channel="dr2.dk">
     <title>Deadline: Taber Trump alt i Texas?</title>
     <desc>Et politisk jordskælv truer i Texas. Republikanernes højborg gennem årtier kan være på vej til at blive demokratisk. Med præcis to uger til midtvejsvalget kæmper Trump for at redde sin skandaliserede kandidat. Imens bruger en ung demokrat Biblen til at omvende texanerne.  
 Kan Texas være begyndelsen til enden på Trump? Eller er det en demokratisk feberdrøm? Sandra Brovall søger svarene i dagens udgave af Deadline.</desc>
@@ -195,6 +59,7 @@ Kan Texas være begyndelsen til enden på Trump? Eller er det en demokratisk feb
   <programme start="20261023060500 +0000" stop="20261023063000 +0000" channel="dr2.dk">
     <title>Morgenandagten</title>
     <desc>Morgenandagten fra Vor Frue Kirke, Københavns Domkirke.</desc>
+    <episode-num system="xmltv_ns">2025.247.0</episode-num>
   </programme>
   <programme start="20261023063000 +0000" stop="20261023100000 +0000" channel="dr2.dk">
     <title>Seneste nyt fra TVA</title>
@@ -227,25 +92,24 @@ Medvirkende: Helle Virkner, Poul Reichhardt, Bodil Udsen, Arthur Jensen, Lis Lø
 Manuskript: Habakuk.</desc>
     <episode-num system="xmltv_ns">0.38.0</episode-num>
   </programme>
-  <programme start="20261023172500 +0000" stop="20261023194000 +0000" channel="dr2.dk">
+  <programme start="20261023172500 +0000" stop="20261023194500 +0000" channel="dr2.dk">
     <title>VM idrætsgymnastik: All around (k), finale, direkte</title>
     <desc>I kvindernes mangekamp ved VM i idrætsgymnast er en gymnast fra det afrikanske kontinent for første gang i historie med i kampen om guldet. Kalia Neymour fra Algeriet er oppe mod de stærke amerikanere, som var lige efter hende i kvalifikationen.
 Kommentatorer: Birgitte Borch og Helge Vammen</desc>
   </programme>
-  <programme start="20261023194000 +0000" stop="20261023200000 +0000" channel="dr2.dk">
-    <title>Alt forladt - Civilbunkeren Regan Vest</title>
-    <desc>Dybt inde i Rold Skov i Nordjylland ligger det sted, hvor Kongehuset og den danske regering skulle overleve og styre Danmark, hvis atomkrigen brød ud. De to Urban Explorers Jan Elhøj og Morten Kirckhoff går på opdagelse i de mørke tunneler og forestiller sig livet under jorden efter ragnarok.
-Tilrettelæggelse: Morten Steenstrup
-Sendt første gang 28.01.13</desc>
-    <episode-num system="xmltv_ns">0.2.0</episode-num>
+  <programme start="20261023194500 +0000" stop="20261023200000 +0000" channel="dr2.dk">
+    <title>Troldspejlet: Odysseens monstre</title>
+    <desc>Odysseen er først og fremmest en monsterfilm, og Christopher Nolans nye version er ingen undtagelse. Jakob Stegelmann ser på Odysseens klassiske monstre og alle de uhyrer i andre film og computerspil, de har inspireret til.</desc>
+    <episode-num system="xmltv_ns">0.8.0</episode-num>
   </programme>
   <programme start="20261023200000 +0000" stop="20261023201500 +0000" channel="dr2.dk">
     <title>TVA</title>
     <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
   </programme>
   <programme start="20261023201500 +0000" stop="20261023210500 +0000" channel="dr2.dk">
-    <title>Debatten</title>
-    <desc>Danmarks stærkeste stemmer diskuterer tidens sværeste beslutninger. Hver torsdag direkte fra DR Byen. Vært: Clement Kjersgaard.</desc>
+    <title>Debatten: Hvem står bag Ukraine?</title>
+    <desc>Danmark er blandt de største støtter til Ukraine, mens både Trumps USA og en række europæiske lande vakler mere.  Samtidigt fortsætter den massive oprustning herhjemme, hvor forsvarsministeren i dag kunne præsentere indkøbet af nye langtrækkende missiler, der eksempelvis vil kunne ramme mål i Rusland. Hvor længe og hvor meget skal vi blive ved med at støtte? Står Danmark mere og mere alene - og udsat? Og kan Europa stå imod Rusland - uden USA? Det er Debatten i aften.
+Vært: Clement Kjersgaard.</desc>
     <episode-num system="xmltv_ns">2025.27.0</episode-num>
   </programme>
   <programme start="20261023210500 +0000" stop="20261023225500 +0000" channel="dr2.dk">
@@ -279,7 +143,7 @@ Spotify, YouTube og SoundCloud. I 2010'erne transformerer musiklandskabet sig ra
 Britisk dokumentar fra 2025.
 (Will AI take My Job)</desc>
   </programme>
-  <programme start="20261024015500 +0000" stop="20261024024500 +0000" channel="dr2.dk">
+  <programme start="20261024015500 +0000" stop="20261024025000 +0000" channel="dr2.dk">
     <title>Rusland i krig (2:3) - Sovjetunionen</title>
     <desc>Tysk dokumentarserie fra 2023.
 (Russia's Wars)
@@ -352,18 +216,17 @@ Instruktion: Piv Bernth.</desc>
     <desc>Verdens førende mandlige idrætsgymnaster skal afgøre, hvem der er bedst på hver af de individuelle redskaber.
 Kommentatorer: Birgitte Borch og Joao Marcus Fuglsig</desc>
   </programme>
-  <programme start="20261024160000 +0000" stop="20261024165000 +0000" channel="dr2.dk">
+  <programme start="20261024160500 +0000" stop="20261024165500 +0000" channel="dr2.dk">
     <title>Husker du... 1996</title>
     <desc>I 1996 forsøger danskerne for alvor at træde ind på den internationale scene.  Bjarne Riis er en sand verdensmand, da han vinder Tour-de-France og cykel feberen breder sig i Danmark.  Anna Castberg, museumsdirektør for Arken må dog erkende at hendes internationale meritter ikke holder vand. Hun har løjet om sine eksamenspapirer. Kulturby 96 fejer hen over København. Nu skal København vise sit internationale værd. Det kniber noget med formatet, da den fatwaramte forfatter Salman Rushdie skal have en pris i byen. Han afvises af sikkerhedsgrunde. Det bliver starten på det Poul Nyrup Rasmussen kalder: "Den værste uge i hele min politiske karriere". 
 Sendt første gang 2.04.06.</desc>
     <episode-num system="xmltv_ns">3.6.0</episode-num>
   </programme>
-  <programme start="20261024165000 +0000" stop="20261024173000 +0000" channel="dr2.dk">
-    <title>Store danskere - Ove Sprogøe</title>
-    <desc>Han er en af de skuespillere, der har været med i flest film og tv-serier og teaterforestillinger - den mest flittige. Men fra starten tegnede det helt håbløst for den unge Ove Sprogøe. Han fik flere afslag på at blive skuespiller og hans fremtoning; en lille mand med en fremstående hage var der ikke mange førsteelsker-roller til. Men alligevel blev han en af tidens største skuespillere.
-Tilrettelæggelse: Anne Røgilds.
-Sendt første gang 30.09.11</desc>
-    <episode-num system="xmltv_ns">2010.2.0</episode-num>
+  <programme start="20261024165500 +0000" stop="20261024173000 +0000" channel="dr2.dk">
+    <title>Store danskere - Poul Reumert</title>
+    <desc>Poul Reumert var "kongen" af det Kongelige Teater i det 20. århundrede. Han var ven med landets regent, og kendt af alle danskere. Men han havde måttet kæmpe for sit gennembrud. Han arbejdede altid, og ligegyldig hvad der var sket privat, så stod han på scenen. Poul Reumert stillede strenge krav både til sig selv og alle andre. Men i sit tredje og sidste ægteskab med den unge og smukke islænding Anna Borg, viste han en anderledes kærlig side. Poul Reumert havde mange titler, men mest stolt var han når han blev kaldt Islands svigersøn.
+Tilrettelæggelse: Lone Leegaard.
+Sendt første gang 21.10.07</desc>
   </programme>
   <programme start="20261024173000 +0000" stop="20261024180000 +0000" channel="dr2.dk">
     <title>Stjernerne fra lokal-tv (1:3): De glade amatører kommer!</title>
@@ -375,10 +238,6 @@ Sendt første gang 30.09.11</desc>
     <desc>Fabio Luisi står i spidsen for DR Symfoniorkestret, og violinikonet Anne Sophie Mutter, der spiller Beethovens violinkoncert, Brahms lyse og melodiske 2. symfoni, bliver ikke bedre end her med DR Symfoniorkestret og dets chefdirigent.
 Optaget i DR Koncerthuset oktober 2025.
 Indledende præsentation med Caspar Phillipson.</desc>
-  </programme>
-  <programme start="20261024184500 +0000" stop="20261024194500 +0000" channel="dr2.dk">
-    <title>Et klassisk liv</title>
-    <desc>På Stevns går en flok heldige køer og lytter til klassisk musik opført af nogle af verdens dygtigste unge musikere. De er rejst dertil for at lære at manøvrere i en benhård konkurrencepræget karriere. Hos Jacob er der undervisning, fællesskab frem for individuel perfektion og en forventning om, at man trækker i gummistøvlerne og lærer at dyrke jorden.</desc>
   </programme>
   <programme start="20261024194500 +0000" stop="20261024200000 +0000" channel="dr2.dk">
     <title>RO PÅ med DR Symfoniorkestret: Morgendis over Djursland</title>
@@ -519,8 +378,12 @@ Sendt første gang 06.10.2019</desc>
     <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
   </programme>
   <programme start="20261025211500 +0000" stop="20261025221500 +0000" channel="dr2.dk">
-    <title>Stjerner og striber</title>
-    <desc>Gør udenrigspolitik great again! DR's udlandskorrespondenter graver sig ned i de helt store dramaer og nørder løs i detaljerne og persongallerierne. Nyt afsnit hver fredag - fordi vi elsker international politik!</desc>
+    <title>Stjerner og striber: Baller af stål</title>
+    <desc>Der er lagt op til et dyrt bal i Washington DC, og Donald Trump har foreløbig samlet 330 millioner dollars ind fra diskrete donorer. Men hvad får de gavmilde velgørere egentlig for deres penge?
+I Frankrig får voldelige demonstrationer præsident Emmanuel Macron op i det røde felt, Hollywood-stjernen Matthew McConaughey har kastet sig ind valgkampen, og så har Donald Trump de seneste dage brugt meget tid på at tale om mænd udseende og kroppe. Hvorfor?
+Deltagere: Udlandskorrespondent Stéphanie Surrugue, USA-journalist Lasse Engelbrecht, nyhedsvært og tidl. USA-korrespondent Philip Khokhar.
+Tilrettelæggelse: Lasse Berg Sørensen og Julie Sønnichsen.
+Redigering: Buster Hoff.</desc>
     <episode-num system="xmltv_ns">2025.11.0</episode-num>
   </programme>
   <programme start="20261025221500 +0000" stop="20261025235500 +0000" channel="dr2.dk">
@@ -698,8 +561,8 @@ Sendt første gang 29.09.2019</desc>
     <episode-num system="xmltv_ns">2025.163.0</episode-num>
   </programme>
   <programme start="20261027033000 +0000" stop="20261027040000 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <title>Deadline: Slut med støtten til Ukraine?</title>
+    <desc>De diplomatiske skyer trækker sig lige nu sammen over Ukraine: Trump rækker ud til Putin, og i Europa stormer Le Pen og AfD frem med løfter om at stoppe al støtte til Ukraine. Christian Bennike spørger professor Mikkel Vedby, hvad det betyder for krigen og for verdensfreden. Og bagefter debatterer udlandsredaktør Anna Libak og iværksætter Klaus Riskjær, hvad Danmark bør gøre.</desc>
     <episode-num system="xmltv_ns">2025.162.0</episode-num>
   </programme>
   <programme start="20261027040000 +0000" stop="20261027043500 +0000" channel="dr2.dk">
@@ -839,8 +702,8 @@ I 2019 forsvinder næsen på Zlatan Ibrahimovic-statuen i Malmø. Tyveriet skabe
     <episode-num system="xmltv_ns">2025.163.0</episode-num>
   </programme>
   <programme start="20261028040000 +0000" stop="20261028043500 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <title>Deadline: Slut med støtten til Ukraine?</title>
+    <desc>De diplomatiske skyer trækker sig lige nu sammen over Ukraine: Trump rækker ud til Putin, og i Europa stormer Le Pen og AfD frem med løfter om at stoppe al støtte til Ukraine. Christian Bennike spørger professor Mikkel Vedby, hvad det betyder for krigen og for verdensfreden. Og bagefter debatterer udlandsredaktør Anna Libak og iværksætter Klaus Riskjær, hvad Danmark bør gøre.</desc>
     <episode-num system="xmltv_ns">2025.162.0</episode-num>
   </programme>
   <programme start="20261028050000 +0000" stop="20261028054000 +0000" channel="dr2.dk">
@@ -892,10 +755,10 @@ Sendt første gang 26.03.06.</desc>
 Sendt første gang 2.04.06.</desc>
     <episode-num system="xmltv_ns">3.6.0</episode-num>
   </programme>
-  <programme start="20261028175500 +0000" stop="20261028181000 +0000" channel="dr2.dk">
-    <title>Troldspejlet: En amerikansk k-pop succes</title>
-    <desc>Med KPop Demon Hunters sensationelle popularitet er koreansk popkultur for alvor blevet udbredt. Jakob Stegelmann deler begejstringen og giver forklaringen på, hvordan amerikanske kræfter er en stor del af hemmeligheden bag succesen.</desc>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
+  <programme start="20261028175500 +0000" stop="20261028181500 +0000" channel="dr2.dk">
+    <title>Explainer: Er du klar til katastrofen?</title>
+    <desc>Alexander har overtalt sin familie til at medvirke i et eksperiment. I tre døgn skal de leve i et realistisk katastrofescenarie, hvor de hverken har vand, strøm, internet eller varme. For er vi danskere forberedte nok, hvis katastrofen pludselig rammer?</desc>
+    <episode-num system="xmltv_ns">2023.2.0</episode-num>
   </programme>
   <programme start="20261028181500 +0000" stop="20261028190000 +0000" channel="dr2.dk">
     <title>Smagen af Italien II (5:8)</title>
@@ -942,5 +805,128 @@ Vi følger Donald Trump, der vender tilbage på verdensscenen med en uforudsigel
     <desc>Britisk dokumentar fra 2022.
 (Subject)
 Hvordan er det at dele sit liv med hele verden? Her fortæller tidligere medvirkende fra fem af de største dokumentarer i nyere tid: 'The Staircase', 'Hoop Dreams', 'The Wolfpack', 'Capturing the Friedmans' og 'The Square' - hvor livsomvæltende det er at få sit liv skildret på skærmen, og hvilke konsekvenser det har.</desc>
+  </programme>
+  <programme start="20261029004500 +0000" stop="20261029013000 +0000" channel="dr2.dk">
+    <title>Concorde - Højt at flyve dybt at falde (1:2)</title>
+    <desc>Amerikansk dokumentarserie fra 2023.
+(Concorde - The Untold Story)
+Concorden. Verdens hurtigste trafikfly. Et fly, der er så radikalt, at det ligner noget, som er taget ud af en science fiction-tegneserie. Det er verdens eneste succesfulde overlyds-passagerfly, der kan krydse Atlanten på under tre timer. Her er historien om, hvordan genier og spioner skabte det ikoniske fly - midt i en hård kappestrid mellem Europa, Sovjetunionen og USA om luftfartens fremtid.</desc>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+  </programme>
+  <programme start="20261029013000 +0000" stop="20261029022000 +0000" channel="dr2.dk">
+    <title>Optimistens guide til planeten II (6:6)</title>
+    <desc>Hvor går vi hen herfra? Nikolaj Coster-Waldau rejser til Indien, Finland og Peru for at møde mennesker, der udfordrer gamle forestillinger og finder nye veje til en bæredygtig fremtid. I Indien lærer man at leve sikkert med slanger, i Finland gentænkes atomkraft som en del af løsningen på klimakrisen, og i Peru plantes millioner af træer for at bringe vandet tilbage til Andesbjergene. Kan fælles handling skabe forandring?
+Canadisk dokumentarserie fra 2025.
+(An Optimist's Guide to the Planet)</desc>
+    <episode-num system="xmltv_ns">1.5.0</episode-num>
+  </programme>
+  <programme start="20261029022000 +0000" stop="20261029030000 +0000" channel="dr2.dk">
+    <title>Danmark i Den Kolde Krig (4:12)</title>
+    <desc>Dansk dokumentarserie fra 2000. I sommeren 1951 landsætter amerikanerne over 12.000 bygningsarbejdere og soldater ved den lille danske koloni Thule i Grønland. Forud er gået et politisk spil, som danskerne har tabt. Amerikanerne satser alt for at overtage et lille stykke af kongeriget Danmark. Danskerne, der boede i kolonien, og de centrale embedsmænd fortæller historien om dengang, amerikanerne kom.</desc>
+    <episode-num system="xmltv_ns">0.3.0</episode-num>
+  </programme>
+  <programme start="20261029030000 +0000" stop="20261029033000 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <episode-num system="xmltv_ns">2025.165.0</episode-num>
+  </programme>
+  <programme start="20261029033000 +0000" stop="20261029040000 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <episode-num system="xmltv_ns">2025.164.0</episode-num>
+  </programme>
+  <programme start="20261029040000 +0000" stop="20261029043500 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <episode-num system="xmltv_ns">2025.163.0</episode-num>
+  </programme>
+  <programme start="20261029050000 +0000" stop="20261029060000 +0000" channel="dr2.dk">
+    <title>Danmarkshistorien fortalt af Erik Kjersgaard (6:12)</title>
+    <desc>Dansk dokumentarserie fra 1982. Om tiden, der ofte kaldes for 'Svenske-krigene' 1625-1720. Erik Kjersgaard mener, at der i virkeligheden er tale om én lang krig med visse pauser. Danmark står på randen af politisk udslettelse, men indfører da enevælden - et hårdt militaristisk diktatur - for at afværge faren udefra.</desc>
+    <episode-num system="xmltv_ns">0.5.0</episode-num>
+  </programme>
+  <programme start="20261029060000 +0000" stop="20261029063000 +0000" channel="dr2.dk">
+    <title>Øgendahl og de store forfattere: Herman Bang (5:6)</title>
+    <desc>Kan Herman Bang lære Mick Øgendahl at se øjeblikkets magi? Se med, når Øgendahl går i fodsporene på Bang, der revolutionerede dansk journalistik og litteratur med en visuel og realistisk skrivestil, der formåede at indfange øjeblikke og skæbner i få ord. Fra en kontroversiel debutroman, der blev forbudt, til et liv som forfulgt homoseksuel, Bang skabte skandale i datidens konservative samfund. Øgendahl gør sit bedste i forsøget på at blive klogere på de store danske forfattere, som han aldrig har fået læst.</desc>
+    <episode-num system="xmltv_ns">0.4.0</episode-num>
+  </programme>
+  <programme start="20261029063000 +0000" stop="20261029070000 +0000" channel="dr2.dk">
+    <title>Mig og 70'erne (2:4)</title>
+    <desc>I fire afsnit tager vi på en nostalgisk rejse til 70'erne, når vi sammen med en række kendte danskere spoler tiden tilbage til det årti, hvor de gik fra teenager til voksen. Det årti, hvor de købte den første plade og tunede knallerten, inden de drønede af sted mod det første kys og den første kæreste. Med Chris Pedersen ved roret dykker vi i dette afsnit ned i moden. Hvordan gik vi klædt? Hvorfor skulle vi ikke kunne kende forskel på drengene og pigerne? Og kunne en disker egentlig godt score en flipper?</desc>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+  </programme>
+  <programme start="20261029070000 +0000" stop="20261029070500 +0000" channel="dr2.dk">
+    <title>Radioavisen</title>
+    <desc>Bliv opdateret på de seneste nyheder fra ind- og udland.</desc>
+  </programme>
+  <programme start="20261029070500 +0000" stop="20261029073000 +0000" channel="dr2.dk">
+    <title>Morgenandagten</title>
+    <desc>Morgenandagten fra Vor Frue Kirke, Københavns Domkirke.</desc>
+  </programme>
+  <programme start="20261029073000 +0000" stop="20261029110000 +0000" channel="dr2.dk">
+    <title>Seneste nyt fra TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20261029110000 +0000" stop="20261029161500 +0000" channel="dr2.dk">
+    <title>Seneste nyt fra TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20261029161500 +0000" stop="20261029170000 +0000" channel="dr2.dk">
+    <title>Danmark i Den Kolde Krig (5:12)</title>
+    <desc>Dansk dokumentarserie fra 2000. Kort tid efter 2. verdenskrig bider frygten sig fast i det danske samfund. En regulær frygt for at russerne vil besætte landet. På ganske kort tid går Danmark fra at være neutralt til at melde sig under fanerne i den vestlige blok. Frygten fører også til, at en gruppe gamle modstandsfolk danner et hemmelig netværk - der skal i aktion, hvis russerne besætter landet.</desc>
+    <episode-num system="xmltv_ns">0.4.0</episode-num>
+  </programme>
+  <programme start="20261029170000 +0000" stop="20261029173500 +0000" channel="dr2.dk">
+    <title>Justitsmord - Corfitz Ulfeldt (1:2)</title>
+    <desc>Dansk dokumentarserie fra 1998. Luksushoren Dina Vinhofer anklager Corfitz Ulfeldt og Leonora Christine for at ville myrde kong Christian 3. - en af de tre mister livet. Piet van Deurs tager den spegede sag op sammen med statsadvokat Erik Merlung og forsvarsadvokat Jørgen Jacobsen for at undersøge, om der kan være tale om justitsmord. De indkalder historikere som vidner og fremlægger bevismateriale.</desc>
+    <episode-num system="xmltv_ns">0.2.0</episode-num>
+  </programme>
+  <programme start="20261029173500 +0000" stop="20261029174500 +0000" channel="dr2.dk">
+    <title>På skuldrene af H. C. Ørsted - Hvad var der før Big Bang?</title>
+    <desc>Ting i universet ved nogle gange ikke, hvor store de er, og det kan give en helt ny forklaring på, hvad der var før vores univers. Sir Roger Penrose arbejdede ofte side om side med Stephen Hawkins, men fik ikke samme fokus. Han har gennem mange år arbejdet på en teori om, hvad der var før Big Bang.
+Dansk videnskabsserie fra 2020 med de største fysikere i verden.</desc>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+  </programme>
+  <programme start="20261029174500 +0000" stop="20261029183000 +0000" channel="dr2.dk">
+    <title>Vores vidunderlige vulkaner (1:2)</title>
+    <desc>BBC-dokumentarserie fra 2025
+(Wonders of the Volcanoes)
+Med røg og flammer former vulkaner Jordens overflade. De er uforudsigelige og blandt de mest destruktive naturkræfter - altid klar til at gå i udbrud. Deres enorme kraft giver genlyd og minder os om, hvor skrøbelige vi mennesker er. Tag med til Sicilien og oplev den mægtige vulkan Etna, der er mere end tre kilometer høj og ikke blot er Europas største vulkan, men også en af de mest aktive på kloden. Hvordan kan folk leve side om side med så stor kraft og så stor fare?</desc>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+  </programme>
+  <programme start="20261029183000 +0000" stop="20261029193000 +0000" channel="dr2.dk">
+    <title>Ud i vildmarken med Simon Reeve II (1:4)</title>
+    <desc>Tropisk regnskov, tusindvis af uopdagede planter og dyr og en næsten glemt verden. Simon Reeve rejser denne gang til Papua Ny Guinea - et af de frodigste områder på Jorden for plante- og dyrearter. Sammen med et lille hold kæmpe han sig ind i en vild regnskov, besøger den afsidesliggende landsby Mupun, vandrer op i Torricelli-bjergene for at bestige det højeste punkt, Mount Sulen, og leder efter verdens mest sjældne dyr - den sorte trækænguru. 
+BBC-naturserie fra 2026.
+(Wilderness With Simon Reeve)</desc>
+    <episode-num system="xmltv_ns">1.0.0</episode-num>
+  </programme>
+  <programme start="20261029193000 +0000" stop="20261029204500 +0000" channel="dr2.dk">
+    <title>Champions League fodbold: HB Køge - Barcelona (k), direkte</title>
+    <desc>.</desc>
+    <episode-num system="xmltv_ns">2025.5.0</episode-num>
+  </programme>
+  <programme start="20261029204500 +0000" stop="20261029221500 +0000" channel="dr2.dk">
+    <title>Champions League fodbold: HB Køge - Barcelona (k), direkte</title>
+    <desc>.</desc>
+    <episode-num system="xmltv_ns">2025.5.0</episode-num>
+  </programme>
+  <programme start="20261029221500 +0000" stop="20261029223000 +0000" channel="dr2.dk">
+    <title>TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20261029223000 +0000" stop="20261029230000 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <episode-num system="xmltv_ns">2025.166.0</episode-num>
+  </programme>
+  <programme start="20261029230000 +0000" stop="20261029233000 +0000" channel="dr2.dk">
+    <title>Trumps USA</title>
+    <desc>I "Trumps USA" stiller vi skarpt på de afgørende udviklinger, personopgør og dagsordener, der udspiller sig i amerikansk politik.</desc>
+    <episode-num system="xmltv_ns">2025.28.0</episode-num>
+  </programme>
+  <programme start="20261029233000 +0000" stop="20261030011000 +0000" channel="dr2.dk">
+    <title>Far from Maine</title>
+    <desc>Roy Cohen, israelsk instruktør med arabisk-jødisk baggrund, mister sin palæstinensiske ven Aseel, dræbt af israelsk politi. De mødtes på en fredslejr som teenagere. I dag taler Roy til sin ven om sorg, ansvar og splittet tilhørsforhold i et Israel præget af krig og radikalisering efter 7. oktober.</desc>
   </programme>
 </tv>
