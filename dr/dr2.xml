@@ -3,149 +3,21 @@
   <channel id="dr2.dk">
     <display-name>DR2</display-name>
   </channel>
-  <programme start="20261024233000 +0000" stop="20261025001500 +0000" channel="dr2.dk">
-    <title>Redningen: Drengene i grotten</title>
-    <desc>Amerikansk dokumentar fra 2021.
-(The Rescue)
-I 2018 bliver 12 drenge og deres fodboldtræner fanget i en oversvømmet grotte i det nordlige Thailand. Her følger vi redningsarbejdet fra begyndelse og hører historien fra grottedykkerne, der reddede drengene ud. Hvordan gjorde de det? Hvorfor gjorde de det? Og hvordan fandt de modet til den farlige, hårrejsende og klaustrofobiske aktion? (Dokumania)</desc>
-  </programme>
-  <programme start="20261025001500 +0000" stop="20261025024000 +0000" channel="dr2.dk">
-    <title>Jagten på de sidste naziforbrydere</title>
-    <desc>Britisk dokumentar fra 2022.
-(Klarsfeld: A Love Story)
-I mere end 50 år har Beate og Serge Klarsfeld opsporet og afsløret nazistiske krigsforbrydere over hele verden. De har medvirket til at stille den berygtede Gestapo-chef Klaus Barbie, kendt som 'Slagteren fra Lyon', for retten. Nu hvor de er i 80'erne, fortsætter de deres indsats mod nynazister og holocaustbenægtere. Her dykker vi ned i parrets fortid, kærlighed og nuværende kamp for retfærdighed.</desc>
-  </programme>
-  <programme start="20261025024000 +0000" stop="20261025031000 +0000" channel="dr2.dk">
-    <title>Militærkuppet i Chile</title>
-    <desc>De var der, da militæret tog magten for 50 år siden. Den 11. september 1973 styrter militæret Chiles folkevalgte præsident Salvador Allende. Jorge, Carolina, Francisco og Sonja fortæller om tortur, terror og henrettelser i kølvandet på kuppet. Og om den svenske ambassadør Harald Edelstam, der utrætteligt redder mennesker ud af militærets kløer. I 17 år styrer militærjuntaen landet med hård hånd under ledelse af general Augusto Pinochet.
-Svensk dokumentar 2023.
-(Året var special: Dödens dag 11 september 1973)</desc>
-  </programme>
-  <programme start="20261025031000 +0000" stop="20261025040000 +0000" channel="dr2.dk">
-    <title>Liv Ullmann: Et norsk ikon (1:3) Skuespilleren</title>
-    <desc>Norsk dokumentarserie fra 2023. 
-(Liv Ullmann: A Road Less Travelled)
-Liv Ullmann er en af de største skuespillere i filmhistorien. I 2022 modtog hun en æres-Oscar og er kendt for roller i bl.a. 'Persona' og 'Scener fra et ægteskab' af Ingmar Bergman. Serien dykker ned i hendes karriere, livet som international stjerne og UNICEF-ambassadør. Her fortæller hun om sit liv, fra hun kom til verden i Tokyo i 1938, 2. verdenskrig og barndommen i Trondheim i Norge til gennembruddet i Hollywood.</desc>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-  </programme>
-  <programme start="20261025040000 +0000" stop="20261025050000 +0000" channel="dr2.dk">
-    <title>Vejen til Indien (1:3)</title>
-    <desc>Kan Indien lære Rob Rinder og Rylan Clark at leve det gode liv? De to kendisvenner rejser gennem en af verdens ældste civilisationer. Med E.M. Forsters banebrydende roman 'Vejen til Indien' som inspiration følger de i forfatterens fodspor gennem landet - og oplever dets kunst, kultur og historie. I Delhi besøger de det prægtige Humayuns gravsted, møder milliardæren og kunstsamleren Shalini Passi og slutter rejsen i Kathputli Colony, hvor de optræder med dukketeater.
-BBC-dokumentarserie fra 2025.
-(Rob &amp; Rylan's Passage to India)</desc>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-  </programme>
-  <programme start="20261025050000 +0000" stop="20261025053000 +0000" channel="dr2.dk">
-    <title>Kunstnerkolonien på Sydfyn (7:8)</title>
-    <desc>Kurator Michael Thouber ser for første gang kunstnernes værker til udstillingen, men Adam er langt fra færdig, mens Eske afslører sit nye eksperiment. Vil det lykkes at skabe et nyt kunstværk?</desc>
-    <episode-num system="xmltv_ns">2.6.0</episode-num>
-  </programme>
-  <programme start="20261025053000 +0000" stop="20261025060114 +0000" channel="dr2.dk">
-    <title>Værtshushistorier: Drop Inn</title>
-    <desc>I 1970 er værtshuset Drop Inn centrum for Københavns bohemer - og stedet, hvor det storstilede eksperiment Thy-Lejren bliver født over en flok øl. Men for eksperimentets bagmand udvikler lejren sig katastrofalt.</desc>
-    <episode-num system="xmltv_ns">0.3.0</episode-num>
-  </programme>
-  <programme start="20261025060114 +0000" stop="20261025070000 +0000" channel="dr2.dk">
-    <title>Kunsten at bygge en metro</title>
-    <desc>For første gang i Danmarkshistorien er kunst en del af et stationsbyggeri helt fra starten. Over syv år følger vi kunstnere som Superflex, Pernille With Madsen og Christian Schmidt-Rasmussen bringe liv, farve og identitet ind i stationerne på den nye metrolinje til Sydhavnen. Kæmpestore værker skabt i samarbejde med ingeniører, der kulminerer med Kong Frederiks åbning af de nye stationer.</desc>
-  </programme>
-  <programme start="20261025070000 +0000" stop="20261025083500 +0000" channel="dr2.dk">
-    <title>Seneste nyt fra TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20261025110000 +0000" stop="20261025115500 +0000" channel="dr2.dk">
-    <title>Seneste nyt fra TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20261025115500 +0000" stop="20261025125500 +0000" channel="dr2.dk">
-    <title>Gudstjenesten: Mikael Arendt - Tro på skærmen</title>
-    <desc>Hvordan holder vi fast i det menneskelige og åndelige i en verden, hvor teknologien buldrer frem? Sofie Østergaard har inviteret generalsekretær i KLF, Kirke og Medier, Mikael Arendt, med til Gentofte Kirke for at tale om netop det. For med kunstig intelligens følger både potentiale og store etiske udfordringer, og ifølge præst Adam Garff må vi aldrig glemme det ansvar, der følger med.</desc>
-    <episode-num system="xmltv_ns">2025.43.0</episode-num>
-  </programme>
-  <programme start="20261025125500 +0000" stop="20261025170000 +0000" channel="dr2.dk">
-    <title>VM idrætsgymnastik: Disciplinfinaler (k+m), direkte</title>
-    <desc>Verdens bedste kvindelige idrætsgymnaster kæmper om medaljerne i disciplinfinalerne på hvert af de individuelle redskaber
-Kommentatorer: Birgitte Borch og Helge Vammen</desc>
-  </programme>
-  <programme start="20261025170000 +0000" stop="20261025172000 +0000" channel="dr2.dk">
-    <title>P3 Essensen: Så meget magt har tech-milliardærene</title>
-    <desc>Få amerikanske tech-virksomheder sidder på en enorm del af den teknologi og digitale infrastruktur, vi er afhængige af hver dag. Google, Microsoft, Meta, OpenAI og andre tech-giganter bestemmer i stigende grad, hvordan vi får information, kommunikerer, bruger sociale medier, finder vej og benytter kunstig intelligens.
-Samtidig har tech-milliærderer som Elon Musk fået en stadig større politisk og samfundsmæssig indflydelse. Tech-virksomhedernes teknologi spiller også en vigtig rolle i alt fra krig og sikkerhed til økonomi og kommunikation.
-Men hvordan har amerikansk tech fået så meget magt? Hvor afhængige er vi egentlig af de største tech-virksomheder? Og hvad betyder det for Danmark, at så meget af vores digitale infrastruktur er kontrolleret af få amerikanske virksomheder og milliardærer?
-Jo fra P3 Essensen undersøger magten bag amerikansk tech - og spørger, om tech-giganterne i virkeligheden er blevet mere magtfulde end stater.
-Og til at hjælpe os med at få svar på dét, har vi Rebecca Adler-Nissen,  professor i international politik på KU og leder af CAISA.</desc>
-    <episode-num system="xmltv_ns">1.74.0</episode-num>
-  </programme>
-  <programme start="20261025172000 +0000" stop="20261025175000 +0000" channel="dr2.dk">
-    <title>Mig og 70'erne (2:4)</title>
-    <desc>I fire afsnit tager vi på en nostalgisk rejse til 70'erne, når vi sammen med en række kendte danskere spoler tiden tilbage til det årti, hvor de gik fra teenager til voksen. Det årti, hvor de købte den første plade og tunede knallerten, inden de drønede af sted mod det første kys og den første kæreste. Med Chris Pedersen ved roret dykker vi i dette afsnit ned i moden. Hvordan gik vi klædt? Hvorfor skulle vi ikke kunne kende forskel på drengene og pigerne? Og kunne en disker egentlig godt score en flipper?</desc>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-  </programme>
-  <programme start="20261025175000 +0000" stop="20261025185000 +0000" channel="dr2.dk">
-    <title>En by i provinsen (1:17)</title>
-    <desc>Dansk krimiserie fra 1977. Tankejerens kone findes død på en trappe, mens tankejeren selv er til generalforsamling i Handelsstanden. Kriminalinspektør Eriksen, der er ny i byen, og kriminalassistent Samuelsen efterforsker dødsfaldet, som virker lidt mystisk. Der er huller i tankejerens alibi, og hvor var hans søn den aften?
-Medvirkende: Henning Moritzen, Jens Okking, Birgit Sadolin, Ulla Jessen, Dirch Passer, Bjørn Watt-Boolsen m.fl.</desc>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-  </programme>
-  <programme start="20261025185000 +0000" stop="20261025190000 +0000" channel="dr2.dk">
-    <title>Vores sange med DR Pigekoret: Tit er jeg glad</title>
-    <desc>DR Pigekoret synger Tit er jeg glad og Brudestykke fra Fanø.
-Dirigent: Charlotte Rowan.
-Optaget i DR Koncerthuset 2026.</desc>
-    <episode-num system="xmltv_ns">1.2.0</episode-num>
-  </programme>
-  <programme start="20261025190000 +0000" stop="20261025200000 +0000" channel="dr2.dk">
-    <title>Den klassiske musikquiz (5:8)</title>
-    <desc>Phillip Faber er den veloplagte vært, der forsøger at holde styr på de to holdkaptajner Frederik Cilius og Mathias Hammer. Med sig har de Rie Koch, Katrine Nordland, Søren Schauser og Magnus Koch. DR SymfoniOrkestret og dirigent Petr Popelka står for musikken. 
-Kan det lade sig gøre at finde frem til et stykke musik efter bare en enkelt tone? Hvor svært er det at genkende musik spillet bagfra? Kan man fremføre orkestermusik på plastikrør? Er det muligt ud fra dirigentens gestik at gennemskue, hvad han dirigerer, uden at orkestret spiller til? Og hvor hurtigt kan de to hold finde frem til et stykke musik, hvor der mangler en masse noder?
-Sendt første gang 06.10.2019</desc>
-    <episode-num system="xmltv_ns">4.4.0</episode-num>
-  </programme>
-  <programme start="20261025200000 +0000" stop="20261025204500 +0000" channel="dr2.dk">
-    <title>Huse med hemmeligheder (6:6) Winston Churchills forbindelse til Amager</title>
-    <desc>På Amager ligger en velbevaret villa fra 1898 i det charmerende kvarter Eberts Villaby. Husejerne Kathrine og Leif vil genanvende et støbejernsrækværk fra et nedlagt elværk og lave en tagterrasse - men hvordan griber de bedst opgaven an? Ane Cortzen kommer på sporet af en særdeles aktiv modstandsmand, som boede i villaen under Anden Verdenskrig - og hvis indsats senere førte til en invitation til selveste Winston Churchills´ statsmandsbegravelse i 1965.</desc>
-    <episode-num system="xmltv_ns">3.5.0</episode-num>
-  </programme>
-  <programme start="20261025204500 +0000" stop="20261025210000 +0000" channel="dr2.dk">
-    <title>Troldspejlet: Den danske James Bond</title>
-    <desc>Det nye danske James Bond-spil er blevet et internationalt hit. Jakob Stegelmann dykker ned i James Bonds tidligere uheldige karriere som spilfigur og undersøger, hvad danske IO Interactive har gjort rigtigt for at bryde forbandelsen.</desc>
-    <episode-num system="xmltv_ns">0.5.0</episode-num>
-  </programme>
-  <programme start="20261025210000 +0000" stop="20261025211500 +0000" channel="dr2.dk">
-    <title>TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20261025211500 +0000" stop="20261025221500 +0000" channel="dr2.dk">
-    <title>Stjerner og striber: Baller af stål</title>
-    <desc>Der er lagt op til et dyrt bal i Washington DC, og Donald Trump har foreløbig samlet 330 millioner dollars ind fra diskrete donorer. Men hvad får de gavmilde velgørere egentlig for deres penge?
-I Frankrig får voldelige demonstrationer præsident Emmanuel Macron op i det røde felt, Hollywood-stjernen Matthew McConaughey har kastet sig ind valgkampen, og så har Donald Trump de seneste dage brugt meget tid på at tale om mænd udseende og kroppe. Hvorfor?
-Deltagere: Udlandskorrespondent Stéphanie Surrugue, USA-journalist Lasse Engelbrecht, nyhedsvært og tidl. USA-korrespondent Philip Khokhar.
-Tilrettelæggelse: Lasse Berg Sørensen og Julie Sønnichsen.
-Redigering: Buster Hoff.</desc>
-    <episode-num system="xmltv_ns">2025.11.0</episode-num>
-  </programme>
-  <programme start="20261025221500 +0000" stop="20261025235500 +0000" channel="dr2.dk">
-    <title>Antebellum</title>
-    <desc>Amerikansk thriller fra 2020.
-Eden er slave i de amerikanske sydstater, men lægger planer om at flygte fra sin gruopvækkende tilværelse på bomuldsplantagen. Fremme i vor tid flyver den succesfulde forfatter Veronica til en konference i sydstaterne. Men snart bliver hun kidnappet af folk med dystre planer.
-Medvirkende: Janelle Monáe, Eric Lange, Jena Malone m.fl.
-Instruktion: Gerard Bush og Christopher Renz.</desc>
-  </programme>
-  <programme start="20261025235500 +0000" stop="20261026013000 +0000" channel="dr2.dk">
+  <programme start="20261025235500 +0000" stop="20261026013500 +0000" channel="dr2.dk">
     <title>Dream Scenario</title>
     <desc>Amerikansk komediedrama fra 2023.
 Den forpjuskede, uundseelige universitetslærer Paul lever et helt almindeligt liv. Men alt ændrer sig, da han på besynderlig vis begynder at dukke op i millioner af menneskers drømme. Fra den ene dag til den anden opnår Paul kendisstatus. Med ét ved alle, hvem han er, men han går fra berømt til berygtet, da hans natlige optrædener pludselig tager en dyster drejning.
 Medvirkende: Nicolas Cage, Julianne Nicholson, Michael Cera m.fl.
 Instruktion: Kristoffer Borgli.</desc>
   </programme>
-  <programme start="20261026013000 +0000" stop="20261026022000 +0000" channel="dr2.dk">
+  <programme start="20261026013500 +0000" stop="20261026022500 +0000" channel="dr2.dk">
     <title>Optimistens guide til planeten II (6:6)</title>
     <desc>Hvor går vi hen herfra? Nikolaj Coster-Waldau rejser til Indien, Finland og Peru for at møde mennesker, der udfordrer gamle forestillinger og finder nye veje til en bæredygtig fremtid. I Indien lærer man at leve sikkert med slanger, i Finland gentænkes atomkraft som en del af løsningen på klimakrisen, og i Peru plantes millioner af træer for at bringe vandet tilbage til Andesbjergene. Kan fælles handling skabe forandring?
 Canadisk dokumentarserie fra 2025.
 (An Optimist's Guide to the Planet)</desc>
     <episode-num system="xmltv_ns">1.5.0</episode-num>
   </programme>
-  <programme start="20261026022000 +0000" stop="20261026031500 +0000" channel="dr2.dk">
+  <programme start="20261026022500 +0000" stop="20261026031500 +0000" channel="dr2.dk">
     <title>Frankrig mellem to verdenskrige (1:2)</title>
     <desc>Fransk dokumentarserie fra 2023.
 (France Between the Two Wars)
@@ -163,6 +35,13 @@ Canadisk dokumentarserie fra 2025.
 (Griff's Great American South)
 Memphis er den største by langs Mississippifloden. Skuespiller Griff Rhys Jones besøger byen, som mange betragter som arnestedet for blues - men også for gospel, rock og soul. Her har legender som Louis Armstrong, Muddy Waters og B.B. King spillet, og det var også her, Elvis Presley fandt sit helt særlige udtryk.</desc>
     <episode-num system="xmltv_ns">0.3.0</episode-num>
+  </programme>
+  <programme start="20261026041500 +0000" stop="20261026050000 +0000" channel="dr2.dk">
+    <title>Smagen af Italien II (4:8)</title>
+    <desc>Britisk madserie fra 2022.
+(Stanley Tucci: Searching for Italy)
+London. En magnetisk metropol, der oser af elegance og charme. Der er i dag over 3.000 italienske restauranter og delikatesseforretninger i byen. Her tager Stanley Tucci os med til nogle af sine personlige yndlingssteder, hvor der serveres italienske klassikere som risotto og ossobuco. Men også nye retter som skotske kammuslinger med krydret og fed 'nduja og salsa verde og torsk med lakrids, sortkål og sprøde kartofler.</desc>
+    <episode-num system="xmltv_ns">1.3.0</episode-num>
   </programme>
   <programme start="20261026050000 +0000" stop="20261026055000 +0000" channel="dr2.dk">
     <title>Husker du... 1995</title>
@@ -199,6 +78,7 @@ En film af Iris Schmidt - efter en bog af Sofie Marie Koksbang.</desc>
   <programme start="20261026070500 +0000" stop="20261026073000 +0000" channel="dr2.dk">
     <title>Morgenandagten</title>
     <desc>Morgenandagten fra Vor Frue Kirke, Københavns Domkirke.</desc>
+    <episode-num system="xmltv_ns">2025.249.0</episode-num>
   </programme>
   <programme start="20261026073000 +0000" stop="20261026110000 +0000" channel="dr2.dk">
     <title>Seneste nyt fra TVA</title>
@@ -303,7 +183,7 @@ Sendt første gang 29.09.2019</desc>
     <desc>De diplomatiske skyer trækker sig lige nu sammen over Ukraine: Trump rækker ud til Putin, og i Europa stormer Le Pen og AfD frem med løfter om at stoppe al støtte til Ukraine. Christian Bennike spørger professor Mikkel Vedby, hvad det betyder for krigen og for verdensfreden. Og bagefter debatterer udlandsredaktør Anna Libak og iværksætter Klaus Riskjær, hvad Danmark bør gøre.</desc>
     <episode-num system="xmltv_ns">2025.162.0</episode-num>
   </programme>
-  <programme start="20261027040000 +0000" stop="20261027043500 +0000" channel="dr2.dk">
+  <programme start="20261027040000 +0000" stop="20261027043000 +0000" channel="dr2.dk">
     <title>Deadline: Hvem taber i AI-kapløbet?</title>
     <desc>Der bliver investeret massivt i kunstig intelligens, og flere spår, at teknologien vil forandre samfundet grundlæggende. I Deadline spørger vi André Rogaczewski, administrerende direktør i en af Danmarks største techvirksomhed: Tager AI vores arbejde? Hvem høster gevinsterne, og hvem taber i AI-kapløbet? Vært: Ulrik Rosenkvist Schultz</desc>
     <episode-num system="xmltv_ns">2025.161.0</episode-num>
@@ -932,5 +812,150 @@ Instruktion: Scott Beck og Bryan Woods.</desc>
 Barbra og Johnny besøger deres fars gravsted, da de angribes af en mærkelig mand. Barbra søger tilflugt i et gammelt hus, hvor også andre har skjult sig. Udenfor samler der sig flere og flere morderiske typer, der prøver at bryde ind i det barrikaderede hus. Sandheden går op for de overlevende i huset. De døde er begyndt at angribe de levende, og nu er huset belejret af menneskeædende zombier.
 Medvirkende: Duane Jones, Judith O'Dea, Karl Hardman m.fl.
 Instruktion: George A. Romero.</desc>
+  </programme>
+  <programme start="20261101003000 +0000" stop="20261101022000 +0000" channel="dr2.dk">
+    <title>Djævelen i hjertet</title>
+    <desc>Amerikansk gyser fra 1987.
+(Angel Heart)
+Den lurvede Harry Angel er en privatdetektiv, der får en opgave af den mystiske Louis Cyphre: Find sangeren Johnny Favorite. Jagten på den forsvundne sanger fører Harry Angel sydpå til New Orleans, hvor sangeren i sin tid færdedes i lyssky voodoo-kredse. Det ene mord efter det andet begås i Angels fodspor. Er han offer for et diabolsk komplot?
+Harry Angel: Mickey Rourke.
+Louis Cyphre: Robert De Niro.
+Epiphany Proudfoot: Lisa Bonet.
+Margaret Krusemark: Charlotte Rampling.
+Instruktion: Alan Parker.</desc>
+  </programme>
+  <programme start="20261101022000 +0000" stop="20261101031500 +0000" channel="dr2.dk">
+    <title>Stewardesserne (1:2)</title>
+    <desc>Amerikansk dokumentarserie fra 2024.
+(Fly With Me)
+De var glamourøse og elegante - og de drømte om eventyr. I midten af det 20. århundrede var stewardesser et symbol på frihed. Flyselskaberne ansatte uafhængige, nysgerrige kvinder og forventede, at de var føjelige. Alligevel kom de til at spille en vigtig rolle i kvindebevægelsens opstart. De rejste spørgsmål om løn, udseende og kontrollen over kvinders kroppe. Hvordan gik disse kvinder fra at indordne sig kønsklichéer til at kæmpe for ligestilling på arbejdsmarkedet?</desc>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+  </programme>
+  <programme start="20261101031500 +0000" stop="20261101040000 +0000" channel="dr2.dk">
+    <title>Liv Ullmann: Et norsk ikon (2:3) Historiefortælleren</title>
+    <desc>Norsk dokumentarserie fra 2023.
+(Liv Ullmann: A Road Less Travelled)
+Dårlig samvittighed, ravnemor og skyldfølelse. Livet er komplekst, og kvinder kan aldrig blive perfekte, siger Liv Ullmann i et interview. I 1977 udgiver hun sin selvbiografi. Den bliver en bestseller. Hun begynder også at skrive og instruere film og teater, bl.a. to af Ingmar Bergmans originale manuskripter. Her fortæller hun om janteloven i Norge, og succeserne og nederlagene som historiefortæller i både hjemlandet og globalt.</desc>
+  </programme>
+  <programme start="20261101040000 +0000" stop="20261101050000 +0000" channel="dr2.dk">
+    <title>Vejen til Indien (2:3)</title>
+    <desc>Fra Delhis smogfyldte kaos til Rajasthan - kongernes land. Kendisvennerne Rob og Rylan besøger denne gang en region, der er kendt for natur, kunsthåndværk og paladser. Første stop er Udaipur, også kaldet 'Østens Venedig', hvor de oplever City Palace sammen med tronfølgeren Lakshyaraj. Derefter går turen til Jaipur, 'Den lyserøde by', der er berømt for sine prægtige smykker og design. Rejsen slutter med diwali hos maharajaen af Jaipur.
+BBC-dokumentarserie fra 2025.
+(Rob &amp; Rylan's Passage to India)</desc>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+  </programme>
+  <programme start="20261101050000 +0000" stop="20261101053000 +0000" channel="dr2.dk">
+    <title>Kunstnerkolonien på Sydfyn (8:8)</title>
+    <desc>Dagen er kommet, hvor de seks kunstnere skal udstille sammen på Faaborg Museum. Spørgsmålet er, om værkerne kan komme til sin ret i de gamle lokaler og om der er plads til Bjørns kæmpeværker. Spørgsmålet er hvordan kunstnere og gæster modtage den store åbning?</desc>
+    <episode-num system="xmltv_ns">2.7.0</episode-num>
+  </programme>
+  <programme start="20261101053000 +0000" stop="20261101060000 +0000" channel="dr2.dk">
+    <title>Værtshushistorier: Rosengårdens Bodega</title>
+    <desc>Rosengården er et gammelt københavnsk værtshus. Her fandt et opgør sted for 70 år siden, der endte med mord - skudhullerne sidder stadigvæk i væggen. På Rosengården mødte modstandsmanden Brandt og stikkeren hestetyven hinanden en forårsdag i 1944. Forfatteren Kaspar Colling Nielsen kender historien og fører os ind i mørket.</desc>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+  </programme>
+  <programme start="20261101060000 +0000" stop="20261101070000 +0000" channel="dr2.dk">
+    <title>En by i provinsen (1:17)</title>
+    <desc>Dansk krimiserie fra 1977. Tankejerens kone findes død på en trappe, mens tankejeren selv er til generalforsamling i Handelsstanden. Kriminalinspektør Eriksen, der er ny i byen, og kriminalassistent Samuelsen efterforsker dødsfaldet, som virker lidt mystisk. Der er huller i tankejerens alibi, og hvor var hans søn den aften?
+Medvirkende: Henning Moritzen, Jens Okking, Birgit Sadolin, Ulla Jessen, Dirch Passer, Bjørn Watt-Boolsen m.fl.</desc>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+  </programme>
+  <programme start="20261101070000 +0000" stop="20261101110000 +0000" channel="dr2.dk">
+    <title>Seneste nyt fra TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20261101110000 +0000" stop="20261101130000 +0000" channel="dr2.dk">
+    <title>Seneste nyt fra TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20261101130000 +0000" stop="20261101140000 +0000" channel="dr2.dk">
+    <title>Gudstjenesten: Sandie Westh - Sorg er kærlighed</title>
+    <desc>I fællesskabet kan vi finde et sprog for sorgen. Det har radiovært og forfatter, Sandie Westh, erfaret efter to livsomvæltende tab. Sammen med Sofie Østergaard tager hun plads på kirkebænken i Gentofte Kirke, hvor hospitals- og sognepræst Hanne Bang står for årets Allehelgensgudstjeneste. For i dag skal vi mindes de mennesker, vi har mistet og huske på den kærlighed, der for altid vil bo i os.</desc>
+  </programme>
+  <programme start="20261101140000 +0000" stop="20261101155500 +0000" channel="dr2.dk">
+    <title>The Professionals</title>
+    <desc>Amerikansk western fra 1966.
+En gruppe højt specialiserede lejesoldater bliver af rigmanden Grant hyret til at befri hans smukke kone, der er blevet bortført af den mexicanske oprører kaptajn Raza. Bill og Rico er gamle venner af kaptajn Raza og kender området som deres egen lomme, men alligevel venter der dem en overraskelse, da de når frem.
+Medvirkende: Burt Lancaster, Lee Marvin, Claudia Cardinale m.fl.
+Instruktion: Richard Brooks.</desc>
+  </programme>
+  <programme start="20261101155500 +0000" stop="20261101162500 +0000" channel="dr2.dk">
+    <title>Hårde muller og stramme baller (1:3) Verdens farligste mand</title>
+    <desc>Arnold Schwarzenegger har kaldt sin ven Sven-Ole Thorsen for verdens farligste mand. I 1970'erne er de to i gang med at gøre bodybuilding stort i Danmark, samtidig med at Thorsen kaster sig ud i en karatekrig med sin rival, Jørgen Albrechtsen.</desc>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+  </programme>
+  <programme start="20261101162500 +0000" stop="20261101165500 +0000" channel="dr2.dk">
+    <title>Mig og 70'erne (3:4)</title>
+    <desc>I fire afsnit tager vi på en nostalgisk rejse til 70'erne, når vi sammen med en række kendte danskere spoler tiden tilbage til det årti, hvor de gik fra teenager til voksen. Det årti, hvor de købte den første plade og tunede knallerten, inden de drønede af sted mod det første kys og den første kæreste. 
+I dette afsnit dykker vi ned i ferien og fritiden i 70'erne. Hvad fik man tiden til at gå med, når man kom hjem fra skole, og hvor gik familiens ferier hen i et årti, hvor charterferien tager fart? Og hvorfor var det lige at de lækre drenge hakkede, borede og tunede deres knallerter - og at mærket på knallerten bestemt ikke var lige meget?</desc>
+    <episode-num system="xmltv_ns">0.2.0</episode-num>
+  </programme>
+  <programme start="20261101165500 +0000" stop="20261101172500 +0000" channel="dr2.dk">
+    <title>De ville dø for sagen: Ellen &amp; Vorherre</title>
+    <desc>Ellen Kirstine Marie Nielsen var overbevist om, at kristendommen var den sande tro og skulle udbredes til hele verden. Derfor drog hun i starten af 1900-tallet til Kina og blev der i 60 år. Hun var parat til at ofre sig selv for at omvende de vantro. Sammen med en række historikere forsøger Liv Thomsen at forstå hvorfor.</desc>
+    <episode-num system="xmltv_ns">0.2.0</episode-num>
+  </programme>
+  <programme start="20261101172500 +0000" stop="20261101175500 +0000" channel="dr2.dk">
+    <title>Stjernerne fra lokal-tv (2:3): Fyret som Bingovært</title>
+    <desc>Røven på en kamel, en stjålet traktor i Fredericia og kristent børne-tv. Puk Elgård får debut som TV bingo-værtinde, Johannes Langkilde farver håret kulsort til et møde med Susi og Leo, og Jacob Riising får det varmt som 15-årig tv-praktikant. Dansk lokal tv og de nye amatørstjerner vender bunden i vejret på danskernes fjernsyn fra Bornholm til Nordjylland, hvor lokal-tv bliver en smutvej til en ministerpost.</desc>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+  </programme>
+  <programme start="20261101175500 +0000" stop="20261101185000 +0000" channel="dr2.dk">
+    <title>En by i provinsen (2:17)</title>
+    <desc>Dansk krimiserie fra 1977. Kriminalinspektør Eriksen undersøger et indbrud, hvor der kun er stjålet smykker og ikke andre værdigenstande. Der er noget uldent ved måden, tyven er brudt ind på. På Hotel Gripsholm finder kriminalassistent Samuelsen en tatoveret død mand, og han må en tur til København.
+Medvirkende: Henning Moritzen, Jens Okking, Birgit Sadolin, Ulla Jessen, Dirch Passer, Bjørn Watt-Boolsen m.fl.</desc>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+  </programme>
+  <programme start="20261101185000 +0000" stop="20261101190000 +0000" channel="dr2.dk">
+    <title>Vores sange med DR Pigekoret: Stjernefart</title>
+    <desc>DR Pigekoret synger Sleep og Stjernefart.
+Dirigent: Charlotte Rowan.
+Optaget i DR Koncerthuset i juni 2026.</desc>
+  </programme>
+  <programme start="20261101190000 +0000" stop="20261101200000 +0000" channel="dr2.dk">
+    <title>Den klassiske musikquiz (6:8)</title>
+    <desc>Phillip Faber er den veloplagte vært, der forsøger at holde styr på de to holdkaptajner Frederik Cilius og Mathias Hammer. Med sig har de Katrine Gislinge, Isabella Hübener, Jacob la Cour og Victor Koch. DR SymfoniOrkestret og dirigent Petr Popelka står for musikken.
+Kan det lade sig gøre at finde frem til et stykke musik efter bare en enkelt tone? Hvor svært er det at genkende musik spillet bagfra? Kan man fremføre orkestermusik på plastikrør og slagtøjsinstrumenter? Og hvor hurtigt kan de to hold finde frem til et stykke musik, hvor der mangler en masse noder? 
+Sendt første gang 13.10.2019</desc>
+    <episode-num system="xmltv_ns">4.5.0</episode-num>
+  </programme>
+  <programme start="20261101200000 +0000" stop="20261101203000 +0000" channel="dr2.dk">
+    <title>Din for altid (1) Gunn og Preben</title>
+    <desc>Dansk dokumentarserie fra 2017
+Hvordan er det at dele seng, bord og fjernbetjening dag ud og dag ind et helt liv? 
+Kan man elske den samme hele livet? 
+Gunn og Preben har været gift i 67 år og sover stadig med hinanden i hånden. Pia mødte Kristian da hun var 14 år  - i dag 50 år efter er de tættere end nogensinde. 
+Ny dokumentarserie undersøger opskriften på den langvarige ægteskabelige succes. 
+Tilrettelæggelse : Lisbet Barrett og Vibeke Heide-Jørgensen  
+Sendt første gang 08.06.2017</desc>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+  </programme>
+  <programme start="20261101203000 +0000" stop="20261101210000 +0000" channel="dr2.dk">
+    <title>Det danske filmmirakel (1:6) Film var ikke planen</title>
+    <desc>De ville lave teatret om - men kom til at ændre dansk film i stedet! En hel generation af nye skuespillere, der ender med at blive vores største stjerner, gør oprør mod fortidens danske film og insisterer på at få hverdagen ind i sproget og skuespillet. Og med Nikolaj Cederholm i spidsen bliver det eksperimenterende Dr. Dante-teater stedet, hvor ALLE unge skuespillere vil forbi for at udvikle og opfinde en ny form for skuespil - og overskride både deres egne og publikums grænser på vejen dertil.</desc>
+    <episode-num system="xmltv_ns">2.0.0</episode-num>
+  </programme>
+  <programme start="20261101210000 +0000" stop="20261101211500 +0000" channel="dr2.dk">
+    <title>TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20261101211500 +0000" stop="20261101221500 +0000" channel="dr2.dk">
+    <title>Stjerner og striber</title>
+    <desc>Gør udenrigspolitik great again! DR's udlandskorrespondenter graver sig ned i de helt store dramaer og nørder løs i detaljerne og persongallerierne. Nyt afsnit hver fredag - fordi vi elsker international politik!</desc>
+    <episode-num system="xmltv_ns">2025.12.0</episode-num>
+  </programme>
+  <programme start="20261101221500 +0000" stop="20261101235000 +0000" channel="dr2.dk">
+    <title>Blink Twice</title>
+    <desc>Amerikansk thriller fra 2024.
+Da tech-milliardæren Slater King møder servitricen Frida, slår det gnister. Slater inviterer Frida på en drømmeferie på hans private ø sammen med hans venner. Det er det rene paradis. Vilde nætter glider over i soldrukne dage i luksuriøse omgivelser. Men måske er drømmen for god til at være sand. Der er noget helt, helt galt med den endeløse fest.
+Medvirkende: Channing Tatum, Naomi Ackie, Christian Slater m.fl.
+Instruktion: Zoë Kravitz.</desc>
+  </programme>
+  <programme start="20261101235000 +0000" stop="20261102012500 +0000" channel="dr2.dk">
+    <title>The Others</title>
+    <desc>Spansk-amerikansk gyserdrama fra 2001.
+Graces mand er i krig, og sammen med sine to børn venter hun på ham i et stort gammelt hus på øen Jersey. Børnenes hud er overfølsom for lys, så gardinerne skal altid være trukket for og dørene være lukket. I halvmørket hører børnene andre eksistenser i huset, og tjenestefolkene kender tilsyneladende husets hemmelighed. Men den stærkt religiøse Grace nægter at tro på det overnaturlige.
+Medvirkende: Nicole Kidman, Fionnula Flanagan, Christopher Eccleston m.fl.
+Instruktion: Alejandro Amenábar.</desc>
   </programme>
 </tv>
