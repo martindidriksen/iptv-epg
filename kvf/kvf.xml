@@ -3,45 +3,6 @@
   <channel id="kvf.fo">
     <display-name>KVF</display-name>
   </channel>
-  <programme start="20261028170000 " stop="20261028173000 " channel="kvf.fo">
-    <title>Alt um djór</title>
-    <sub-title>- barnarøð frá BBC við føroyskari talu</sub-title>
-  </programme>
-  <programme start="20261028173000 " stop="20261028180000 " channel="kvf.fo">
-    <title>Snipp snapp</title>
-    <sub-title>- føroysk barnasending (3:7)</sub-title>
-    <desc>Í Snipp snapp eru teknifilmar, ið eru ætlaðir smábørnum, hesa ferð m.a. Bláa og Labbaliðið.</desc>
-  </programme>
-  <programme start="20261028180000 " stop="20261028184000 " channel="kvf.fo">
-    <title>Einabúgvin í Kvívíksskor</title>
-    <sub-title>- føroysk sending frá 1999</sub-title>
-    <desc>Sjónvarpið, saman við vágamonnum, fóru eftir einum sjáldsomum veðri í Kvívíksskor í september 1998. Skorin er í bjørgunum fyri vestan og ongin hevur verið har tey seinastu 50 árini. Ongin veit hvussu veðrurin er komin niður har ella hvør eigur hann. Zacharias Hammer gjørdi sendingina.</desc>
-  </programme>
-  <programme start="20261028184000 " stop="20261028192000 " channel="kvf.fo">
-    <title>Bóndi søkir kærleika</title>
-    <sub-title>- donsk sendirøð (10:13)</sub-title>
-    <desc>Tá Rasmus er skjútti, skulu kvinnurnar sjálvandi við á veiðu. Tað ber eisini við sær, at veiðan skal skerast sundur, og tað dámar ikki øllum líka væl. Hjá Magnusi flyta kvinnurnar inn, og ein teirra hevur eina heilt serliga gávu við sær. Lasse skal á romantiska vikuskiftisferð, men fer kærleikin at blóma, nú tey eru einsamøll? Upprunaheiti: Landmand søger kærlighed Framleiðsluár: 2026</desc>
-  </programme>
-  <programme start="20261028192000 " stop="20261028195000 " channel="kvf.fo">
-    <title>At fiska og vera í náttúruni 4:8</title>
-    <sub-title>- svensk røð frá 2021</sub-title>
-    <desc>Härjedalen bjóðar serstaka uppliving á mangan hátt. Her møtast fjøll og skógur. Her livur fiskur, sum vanliga heldur til í vøtnum, sum liggja ovarlaga saman við áburru og geddu, sum vit vanliga síggja í teimum føðsluríkaru vøtnunum. Programml.: Martin Falklind og Emilie Björkman. 4. partur av 8. Broadcast Company SVT</desc>
-  </programme>
-  <programme start="20261028195000 " stop="20261028203000 " channel="kvf.fo">
-    <title>Hvar skulu vit búgva?</title>
-    <sub-title>- donsk sendirøð</sub-title>
-    <desc>Sára leitar eftir bústaði í Odense til móðir og dóttir, Therese og Annabell.  Tríggir møguleikar eru at velja í, men onkur eyka møguleiki ger, at tær forelska seg í einum sjarmerandi húsi í býnum. Samstundis leita  Heidi og Hasan eftir ti góða familjulívinum í Viborg, tey ynskja sær urtagarð og pláss. Upprunaheiti: Beliggenhed, beliggenhed, beliggenhed Framleiðsluár: 2026 Programkategori: Livsstil (12)</desc>
-  </programme>
-  <programme start="20261028203000 " stop="20261028210000 " channel="kvf.fo">
-    <title>Petra sløkkir streymin 1:2</title>
-    <sub-title>- parlagið skal royna seg</sub-title>
-    <desc>Orkukreppan er veruleiki, og vit verða øll eggjað til at spara streym. Men hvussu fær ein familja í Danmark gerandisdagin at virka, um sløkt verður fyri streyminum? Sesong: 2022 Partur: 1. Framl. ár: 2023 Framl.: Nordisk Film TV A/S Framl. fyri: TV 2 DANMARK</desc>
-  </programme>
-  <programme start="20261028210000 " stop="20261029170000 " channel="kvf.fo">
-    <title>Størstur</title>
-    <sub-title>- á ferð við Peter Ingemann í Fransk Guyana</sub-title>
-    <desc>Hesaferð fer Peter Ingemann til evropeisku rúmdarhavnina í Fransk Guyana í Suðuramerika. Hann er við, tá ið heimsins størsta kommerciella rakett verður skotin út í rúmdina. Peter sleppur við inn í eftirlitsrúmið í rúmdarhavnini, har Fleur Le Fèvre er stjóri, tað er hann, ið hevur fingurin á reyða knøttinum, um alt ikki gongur eftir ætlan. Peter er eisini á varðhaldi við fremmandaherliðnum, sum teljast við í harða soldátakjarnanum. Teir ansa  rakettini. Og Peter hittir Gisbert Linden, loytnant, sum sigur frá sínum 15 árum í herdeildini.</desc>
-  </programme>
   <programme start="20261029170000 " stop="20261029173000 " channel="kvf.fo">
     <title>Snipp snapp</title>
     <sub-title>- føroysk barnasending (3:7)</sub-title>
@@ -310,7 +271,48 @@
     <title>Dagur og vika</title>
     <sub-title>- við teksti</sub-title>
   </programme>
-  <programme start="20261103213500 " stop="20261103223500 " channel="kvf.fo">
+  <programme start="20261103213500 " stop="20261104162500 " channel="kvf.fo">
     <title>Veðrið</title>
+  </programme>
+  <programme start="20261104162500 " stop="20261104165000 " channel="kvf.fo">
+    <title>Alt um djór</title>
+    <sub-title>- barnarøð frá BBC við føroyskari talu</sub-title>
+  </programme>
+  <programme start="20261104165000 " stop="20261104171500 " channel="kvf.fo">
+    <title>Snipp snapp</title>
+    <sub-title>- føroysk barnasending (4:7)</sub-title>
+    <desc>Í Snipp snapp eru teknifilmar, ið eru ætlaðir yngru børnunum, hesa ferð m.a. Bláa og Labbaliðið.</desc>
+  </programme>
+  <programme start="20261104171500 " stop="20261104180000 " channel="kvf.fo">
+    <title>Hondbóltur: Undansending</title>
+  </programme>
+  <programme start="20261104180000 " stop="20261104183500 " channel="kvf.fo">
+    <title>Hondbóltur: Føroyar - Kosovo</title>
+    <sub-title>- EM-undankappingardystur - menn - fyrri hálvleikur</sub-title>
+  </programme>
+  <programme start="20261104183500 " stop="20261104185000 " channel="kvf.fo">
+    <title>Hálvleiksstudio</title>
+  </programme>
+  <programme start="20261104185000 " stop="20261104193000 " channel="kvf.fo">
+    <title>Hondbóltur: Føroyar - Kosovo</title>
+    <sub-title>- EM-undankappingardystur - menn - seinni hálvleikur</sub-title>
+  </programme>
+  <programme start="20261104193000 " stop="20261104200000 " channel="kvf.fo">
+    <title>Eftir dystin</title>
+  </programme>
+  <programme start="20261104200000 " stop="20261104203500 " channel="kvf.fo">
+    <title>Seyðamaður og granskari 1:2</title>
+    <sub-title>- føroysk stuttrøð frá 2003</sub-title>
+    <desc>Hósvíkingurin Helgi í Brekkunum hevur frá barnsbeini av havt stóran áhuga fyri seyði. Hann gekk burtur í haga í fleiri hagapørtum í bygdini. Og síðani hann seinast í áttatiárunum fór at røkta í heimbygdini, hevur hann miðvíst lagt seg eftir at fáa sum mest burtur úr seyðahaldinum. Hann var forvitin eftir at vita, um tað er rætt, at seyðurin í teimum kørgu fjallahøgunum hevur betri fiti enn aðrir hagar. Tá hann fekk møguleikan at kanna hetta, tók hann av. Segði læraraarbeiðið í Havn frá sær og tók við einum festi í heimbygdini. Neyva skrásetingin í sambandi við kanningina hevur givið seyðamanninum úr Hósvík møguleikar at gera fleiri aðrar niðurstøður, ið kunnu gagna føroyska seyðahaldinum. Lagt til rættis: Tórður Mikkelsen.</desc>
+  </programme>
+  <programme start="20261104203500 " stop="20261104211500 " channel="kvf.fo">
+    <title>Bóndi søkir kærleika</title>
+    <sub-title>- donsk sendirøð (11:13)</sub-title>
+    <desc>Upprunaheiti: Landmand søger kærlighed Framleiðsluár: 2026</desc>
+  </programme>
+  <programme start="20261104211500 " stop="20261104221500 " channel="kvf.fo">
+    <title>Petra sløkkir streymin 2:2</title>
+    <sub-title>- kunnu vit liva í streymloysi?</sub-title>
+    <desc>Tað hevur verið strævið fyri parlagið at liva í streymloysi,  men bæði Petra og Asbjørn eru fyrireikað og vilja hava tað besta burtur úr tí, sum eftir er av royndartíðini - bæði sum par, men eisini við so vanligum gerandisdegi, sum til ber, hóast eingin streymur er. Sesong: 2022 Partur: 2. Framl. ár: 2023 Framl.: Nordisk Film TV A/S Framl. fyri: TV 2 DK</desc>
   </programme>
 </tv>

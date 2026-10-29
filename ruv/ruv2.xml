@@ -3,10 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20261028190000 +0000" stop="20261028192700 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20261029190000 +0000" stop="20261029192700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
@@ -28,6 +24,28 @@
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
   <programme start="20261103190000 +0000" stop="20261103192700 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20261104190000 +0000" stop="20261104192000 +0000" channel="ruv2.is">
+    <title>Stofan</title>
+    <desc>Umfjallanir um leiki í undankeppni EM karla í handbolta.
+
+Upphitun fyrir leik Íslands og Úkraínu í undankeppni EM karla í handbolta.</desc>
+  </programme>
+  <programme start="20261104192000 +0000" stop="20261104210500 +0000" channel="ruv2.is">
+    <title>Ísland - Úkraína</title>
+    <desc>Leikir í undankeppni EM karla í handbolta.
+
+Leikur Íslands og Úkraínu í undankeppni EM karla í handbolta.</desc>
+  </programme>
+  <programme start="20261104210500 +0000" stop="20261104212500 +0000" channel="ruv2.is">
+    <title>Stofan</title>
+    <desc>Umfjallanir um leiki í undankeppni EM karla í handbolta.
+
+Uppgjör á leik Íslands og Úkraínu í undankeppni EM karla í handbolta.</desc>
+  </programme>
+  <programme start="20261104212500 +0000" stop="20261104215200 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
