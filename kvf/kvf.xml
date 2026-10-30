@@ -3,44 +3,6 @@
   <channel id="kvf.fo">
     <display-name>KVF</display-name>
   </channel>
-  <programme start="20261029170000 " stop="20261029173000 " channel="kvf.fo">
-    <title>Snipp snapp</title>
-    <sub-title>- føroysk barnasending (3:7)</sub-title>
-    <desc>Í Snipp snapp eru teknifilmar, ið eru ætlaðir yngru børnunum, hesa ferð m.a. Bláa og Labbaliðið.</desc>
-  </programme>
-  <programme start="20261029173000 " stop="20261029180000 " channel="kvf.fo">
-    <title>Í Mumidali</title>
-    <sub-title>- barnarøð við føroyskari talu, Síðsti drekin (3:13)</sub-title>
-    <desc>Mumi verður sum gandaður, tá hann finnur ein ektaðan dreka, sum er passaliga stórur at hava til kelidjór. Hann vil bara hava drekan at vera góðan við seg, men hvussu skal hann temja drekan?</desc>
-  </programme>
-  <programme start="20261029180000 " stop="20261029182500 " channel="kvf.fo">
-    <title>Dagur og vika</title>
-  </programme>
-  <programme start="20261029182500 " stop="20261029183000 " channel="kvf.fo">
-    <title>Veðrið</title>
-  </programme>
-  <programme start="20261029183000 " stop="20261029200500 " channel="kvf.fo">
-    <title>BIRITA</title>
-    <sub-title>- føroyskur heimildarfilmur frá 2026</sub-title>
-    <desc>Birita er ein føroyskur heimildarfilmur frá 2026, leikstjórnaður av Búa Egason Dam. Filmurin fylgir Biritu Mohr, ið hevur Alzheimers og hennara familju. Ein sjónleikarafamilja roynir at seta upp Shakespeareleikin King Lear (Lear kong) við Biritu í einum av høvuðsleiklutunum, samstundis sum filmurin vísir kærliekssøguna millum mammuna og pápan, og tá avgerðin skal takast um at flyta Biritu í røkt. Filmurin er tilnevndur Filmsvirðisløn Norðurlandaráðsins 2026 sum føroyski kandidaturin.</desc>
-  </programme>
-  <programme start="20261029200500 " stop="20261029204500 " channel="kvf.fo">
-    <title>Nýbyggjararnir</title>
-    <sub-title>- donsk lívsstílssending (4:9)</sub-title>
-    <desc>Tvey rúm upp á bert tríggjar dagar. Nýbyggjararnir standa við eini ógvuliga stórari avbjóðing, tá gongin og eitt kamar skulu gerast av nýggjum. Tann heilt stóra litapallettan kemur veruliga til sín rætt, við øllum frá sólskinsgulum rúmum til vegglistaverk við einum ráum berlinskum dámi. Upprunaheiti: Nybyggerne Framleiðsluár: 2026</desc>
-  </programme>
-  <programme start="20261029204500 " stop="20261029213000 " channel="kvf.fo">
-    <title>Sum farin undir heilt</title>
-    <sub-title>- Jan, annar partur</sub-title>
-    <desc>Leitanin eftir Jan hevur nú staðið upp á í nærum fýra ár. Sporini eru fá, og enn hevur einki ført til eitt gjøgnumbrot. Livir Jan kanska onkrastaðni har úti? Ella er hann deyður? Allir møguleikar standa framvegis opnir. Men ein teldupostur til løgregluna vendir øllum á høvdið. Upprunaheiti: Som sunket i jorden Framleiðsluár: 2026</desc>
-  </programme>
-  <programme start="20261029213000 " stop="20261029215500 " channel="kvf.fo">
-    <title>Dagur og vika</title>
-    <sub-title>- við teksti</sub-title>
-  </programme>
-  <programme start="20261029215500 " stop="20261029232000 " channel="kvf.fo">
-    <title>Veðrið</title>
-  </programme>
   <programme start="20261029232000 " stop="20261029234500 " channel="kvf.fo">
     <title>Dagur og vika</title>
     <sub-title>- við teksti</sub-title>
@@ -310,9 +272,52 @@
     <sub-title>- donsk sendirøð (11:13)</sub-title>
     <desc>Upprunaheiti: Landmand søger kærlighed Framleiðsluár: 2026</desc>
   </programme>
-  <programme start="20261104211500 " stop="20261104221500 " channel="kvf.fo">
+  <programme start="20261104211500 " stop="20261105170000 " channel="kvf.fo">
     <title>Petra sløkkir streymin 2:2</title>
     <sub-title>- kunnu vit liva í streymloysi?</sub-title>
     <desc>Tað hevur verið strævið fyri parlagið at liva í streymloysi,  men bæði Petra og Asbjørn eru fyrireikað og vilja hava tað besta burtur úr tí, sum eftir er av royndartíðini - bæði sum par, men eisini við so vanligum gerandisdegi, sum til ber, hóast eingin streymur er. Sesong: 2022 Partur: 2. Framl. ár: 2023 Framl.: Nordisk Film TV A/S Framl. fyri: TV 2 DK</desc>
+  </programme>
+  <programme start="20261105170000 " stop="20261105173000 " channel="kvf.fo">
+    <title>Snipp snapp</title>
+    <sub-title>- føroysk barnasending (4:7)</sub-title>
+    <desc>Í Snipp snapp eru teknifilmar, ið eru ætlaðir yngru børnunum, hesa ferð m.a. Bláa og Labbaliðið.</desc>
+  </programme>
+  <programme start="20261105173000 " stop="20261105180000 " channel="kvf.fo">
+    <title>Í Mumidali</title>
+    <sub-title>- barnarøð við føroyskari talu, Flótandi leikhúsið (4:13)</sub-title>
+    <desc>Tá vatnflóð fyllir dalin, leitar Mumifamiljan sær eftir einum øðrum stað at búgva - tey finna eitt flótandi leikhús! Men man onkur annar longu búgva her frammanundan?</desc>
+  </programme>
+  <programme start="20261105180000 " stop="20261105182500 " channel="kvf.fo">
+    <title>Dagur og vika</title>
+  </programme>
+  <programme start="20261105182500 " stop="20261105183000 " channel="kvf.fo">
+    <title>Veðrið</title>
+  </programme>
+  <programme start="20261105183000 " stop="20261105191500 " channel="kvf.fo">
+    <title>Talvið um Tinganes</title>
+    <sub-title>- føroyskur dokumentarur</sub-title>
+    <desc>Beinir Johannesen hevur eitt greitt mál undan løgtingsvalinum í 2026. Hann vil vera Føroya løgmaður og við tí skriva søgu sum tann yngsti nakrantíð í embætinum, bert 29 ára gamal. Málið er at skipa eina breiða samgongu og gera upp við blokkpolitikkin. Tað krevur semjur og neyðsemjur. Meðan fjølmiðlarnir gita um, hvat fer fram aftanfyri afturlatnu dyrnar, halda politikararnir kortunum tætt at kroppinum. Lagt til rættis: Elin Mirjamsdóttir.</desc>
+  </programme>
+  <programme start="20261105191500 " stop="20261105200000 " channel="kvf.fo">
+    <title>Nýbyggjararnir</title>
+    <sub-title>- donsk lívsstílssending (5:9)</sub-title>
+    <desc>Hesaferð skulu nýbyggingarnir út í forgarðin, og so er knappliga lætt at síggja, hvat grannin ger og fáa hugskot haðani. Tað skapar ikki bara forvitin eygnabrá, men eisini ørkymlan og ringt lag á vegnum. Upprunaheiti: Nybyggerne Framl. ár: 2026 Programkategori: Reality</desc>
+  </programme>
+  <programme start="20261105200000 " stop="20261105203000 " channel="kvf.fo">
+    <title>Verðinsdamurnar II</title>
+    <sub-title>- norðurlendsk minimalisma og gløs i Helsinki (1:4) do.røð frá 2025</sub-title>
+    <desc>Verðinsdamunum dáma finska byggilyst og eru hugtiknar av stóru málningalistini, men eru ikki samdar um góðskuna á dragshowinum á hotellinum.</desc>
+  </programme>
+  <programme start="20261105203000 " stop="20261105211500 " channel="kvf.fo">
+    <title>Fongslið í El Salvador - vælkomin í helviti  (1:2)</title>
+    <sub-title>- am. dok. frá 2026</sub-title>
+    <desc>Í fongslinum í El Salvador liva fangarnir undir ringum korum, har revsing og eftirlit súrga lívið handan rimarnar. Upprunaheiti: Megafængslet - velkommen til helvede Framleiðsluár: 2026 Programkategori: Lívsstíl (1)</desc>
+  </programme>
+  <programme start="20261105211500 " stop="20261105214000 " channel="kvf.fo">
+    <title>Dagur og vika</title>
+    <sub-title>- við teksti</sub-title>
+  </programme>
+  <programme start="20261105214000 " stop="20261105224000 " channel="kvf.fo">
+    <title>Veðrið</title>
   </programme>
 </tv>
