@@ -3,16 +3,6 @@
   <channel id="kvf.fo">
     <display-name>KVF</display-name>
   </channel>
-  <programme start="20261031180000 " stop="20261031203000 " channel="kvf.fo">
-    <title>Landsinnsavning hjá Reyða Krossi 2026</title>
-    <sub-title>- beinleiðis úr Norðurlandahúsinum</sub-title>
-    <desc>Í ár fyllir Reyði Krossur Føroya 100 ár, og tað verður hátíðarhildið við stórari landsinnsavning. Sent verður beinleiðis úr Norðurlandahúsinum, og á skránni verður tónleikur, samrøður og søgur úr hjálpararbeiðinum, samstundis sum savnað verður inn til hjálpararbeiðið hjá Reyða Krossi í Føroyum og kring heimin. Vertir eru Elin á Rógvi og Uni Holm Johannesen.</desc>
-  </programme>
-  <programme start="20261031203000 " stop="20261101070000 " channel="kvf.fo">
-    <title>The Circle</title>
-    <sub-title>- am. spenningsf. frá 2017, óhósk.fyri børn</sub-title>
-    <desc>Tá tann unga Mae Holland (Emma Watson) verður sett í starv á ´The Circle´, heimsins størsta sosiala miðli, sær hon tað sum sín stóra møguleika í lívinum. ´The Circle´ linkar personligar teldupostar, sosialar miðlar, bankaupplýsingar og innkeyp saman, og gevur brúkarum ein online samleika, sum er púra gjøgnumskygdur.  Karismatiski leiðarin, Eamon Bailey (Tom Hanks), er hugtikin av Mae, og hon verður andlitið hjá fyritøkuni úteftir, men skjótt byrjar hon at fáa samvitskubit av ambitiónunum hjá fyritøkuni - og fylgjunum av teimum. Leikarar: Mae Holland: Emma Watson, Eamon Bailey: Tom Hanks Framl. ár: 2017</desc>
-  </programme>
   <programme start="20261101070000 " stop="20261101073000 " channel="kvf.fo">
     <title>MORSA 12:12</title>
     <sub-title>- føroysk barnarøð frá 2016</sub-title>
@@ -41,12 +31,7 @@
     <sub-title>- barnarøð við føroyskari talu, Síðsti drekin (3:13)</sub-title>
     <desc>Mumi verður sum gandaður, tá hann finnur ein ektaðan dreka, sum er passaliga stórur at hava til kelidjór. Hann vil bara hava drekan at vera góðan við seg, men hvussu skal hann temja drekan?</desc>
   </programme>
-  <programme start="20261101091600 " stop="20261101093400 " channel="kvf.fo">
-    <title>Les Vimús</title>
-    <sub-title>- Dinosauravinir - Eggið</sub-title>
-    <desc>Inni í holuni hjá Vimúsi eru nógvar bøkur, ja eitt heilt músabókasavn. Vimúsi dámar væl at lesa søgur, siga frá søgum og eisini at lurta eftir søgum. Og tí tímir Vimús væl at fáa vitjan. Ein søguvitjan er altíð góð. Ein søguvitjan er soleiðis, at ein lesur søgu og hin lurtar.</desc>
-  </programme>
-  <programme start="20261101093400 " stop="20261101110000 " channel="kvf.fo">
+  <programme start="20261101091600 " stop="20261101110000 " channel="kvf.fo">
     <title>Les Vimús</title>
     <sub-title>- Dinosauravinir - Eggið</sub-title>
     <desc>Inni í holuni hjá Vimúsi eru nógvar bøkur, ja eitt heilt músabókasavn. Vimúsi dámar væl at lesa søgur, siga frá søgum og eisini at lurta eftir søgum. Og tí tímir Vimús væl at fáa vitjan. Ein søguvitjan er altíð góð. Ein søguvitjan er soleiðis, at ein lesur søgu og hin lurtar.</desc>
@@ -317,7 +302,27 @@
     <title>Dagur og vika</title>
     <sub-title>- við teksti</sub-title>
   </programme>
-  <programme start="20261106222000 " stop="20261106232000 " channel="kvf.fo">
+  <programme start="20261106222000 " stop="20261107180000 " channel="kvf.fo">
     <title>Veðrið</title>
+  </programme>
+  <programme start="20261107180000 " stop="20261107183500 " channel="kvf.fo">
+    <title>Einabúgvin í Kvívíksskor</title>
+    <sub-title>- føroysk sending frá 1999</sub-title>
+    <desc>Sjónvarpið, saman við vágamonnum. fóru eftir einum sjáldsomum veðri í Kvívíksskor september 1998. Skorin er í bjørgunum fyri vestan og ongin hevur verið har tey seinastu 50 árini. Ongin veit hvussu veðrurin er komin niður har ella hvør eigur hann. Zacharias Hammer gjørdi sendingina</desc>
+  </programme>
+  <programme start="20261107183500 " stop="20261107191500 " channel="kvf.fo">
+    <title>Villdjórahjarta 5:7</title>
+    <sub-title>- norsk røð frá 2022</sub-title>
+    <desc>Stinkandi og krevjandi tindasvín eru hjartaliga vælkomin heima hjá Ingrid. Hon missir ikki vónina um at bjarga teimum undan avoyðing í Noreg. (5:7) Sesong 1. Broadcast Company NRK</desc>
+  </programme>
+  <programme start="20261107191500 " stop="20261107200500 " channel="kvf.fo">
+    <title>Ongan panikk</title>
+    <sub-title>- danskt undirhald (6:7)</sub-title>
+    <desc>Tað gongur heilt galið, tá Rasmus Botoft og Neel Rønholt skulu til foreldrafund í 2.b. Hinvegin eydnast tað Magnusi Haugaard at selja eitt ómøguligt hús. Í impro kann alt henda ? tíbetur eru tað fýra dugnaligir sjónleikarar, sum taka yvir í sjónvarpsstovuni. Framleiðsluár: 2026 Framleitt fyri: TV 2 DANMARK</desc>
+  </programme>
+  <programme start="20261107200500 " stop="20261107210500 " channel="kvf.fo">
+    <title>The Upside</title>
+    <sub-title>- amr. filmur frá 2027</sub-title>
+    <desc>Tann smákriminelli Dell (Kevin Hart) er júst leyslatin úr fongsli og leitar eftir einum arbeiði. Millióningurin Phillip Lacasse (Bryan Cranston) er bundin at einum koyristóli og hevur tørv á einum hjálpara ? eitt starv, sum Dell treyðugt søkir. Dell væntar at fáa noktandi svar, men Phillip, sum leingist eftir broyting, verður hugtikin av sarkastiska skemtinum hjá Dell og ger av at seta hann í starv. ?The Upside? er ein enskmælt endurgerð av franska ?De urørlige?. Upprunaheiti: The Upside Framleiðsluár: 2017</desc>
   </programme>
 </tv>
