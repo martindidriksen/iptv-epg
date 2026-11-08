@@ -3,173 +3,6 @@
   <channel id="dr2.dk">
     <display-name>DR2</display-name>
   </channel>
-  <programme start="20261106234000 +0000" stop="20261107012500 +0000" channel="dr2.dk">
-    <title>Heretic</title>
-    <desc>Amerikansk gyser fra 2024.
-To unge missionærer står over for deres livs prøvelse, da de en dag banker på den forkerte dør. Bag den venter den mystiske mr. Reed, som ubarmhjertigt trækker dem ind i et intenst psykologisk spil, hvor deres tro bliver sat på en brutal prøve.
-Medvirkende: Hugh Grant, Sophie Thatcher, Chloe East m.fl.
-Instruktion: Scott Beck og Bryan Woods.</desc>
-  </programme>
-  <programme start="20261107012500 +0000" stop="20261107020500 +0000" channel="dr2.dk">
-    <title>Dengang i 2010'erne (4:7)</title>
-    <desc>Amerikansk dokumentarserie fra 2023.
-(The 2010s)
-"Jeg vil gøre Amerika stort igen." I 2010'erne stiger Donald Trumps popularitet i meningsmålingerne. Han formår at tale til arbejderklassen, besejrer Hillary Clinton ved valget i 2016 og indfrier mange af sine valgløfter. Men han efterlader et polariseret og splittet USA.</desc>
-    <episode-num system="xmltv_ns">0.3.0</episode-num>
-  </programme>
-  <programme start="20261107020500 +0000" stop="20261107025500 +0000" channel="dr2.dk">
-    <title>Geniale hverdagsobjekter (2:6)</title>
-    <desc>BBC-dokumentarserie fra 2022.
-(The Secret Genius of Modern Life)
-Vidste du, at ubådskrig er ansvarlig for, at din takeaway når sikkert frem? Denne gang dykker professor Hannah Fry ned i teknologien bag en af vor tids store videnskabelige bedrifter nemlig madleveringsapps som Deliveroo og Just Eat, der bruges af 24 millioner mennesker i Storbritannien. Hun møder teamet bag onlinemadleveringsfirmaet Deliveroo, og finder ud af, hvordan pensionister, der bestilte mad i 1980'erne, revolutionerede madlevering.</desc>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-  </programme>
-  <programme start="20261107025500 +0000" stop="20261107035500 +0000" channel="dr2.dk">
-    <title>Ud i vildmarken med Simon Reeve II (1:4)</title>
-    <desc>Tropisk regnskov, tusindvis af uopdagede planter og dyr og en næsten glemt verden. Simon Reeve rejser denne gang til Papua Ny Guinea - et af de frodigste områder på Jorden for plante- og dyrearter. Sammen med et lille hold kæmpe han sig ind i en vild regnskov, besøger den afsidesliggende landsby Mupun, vandrer op i Torricelli-bjergene for at bestige det højeste punkt, Mount Sulen, og leder efter verdens mest sjældne dyr - den sorte trækænguru. 
-BBC-naturserie fra 2026.
-(Wilderness With Simon Reeve)</desc>
-    <episode-num system="xmltv_ns">1.0.0</episode-num>
-  </programme>
-  <programme start="20261107035500 +0000" stop="20261107043500 +0000" channel="dr2.dk">
-    <title>Jerusalem - Kampen om den hellige by (5:6)</title>
-    <desc>Amerikansk dokumentarserie fra 2021). 
-(Jerusalem: City of Faith and Fury) 
-Jerusalem, 1939. I begyndelsen af 2. verdenskrig føler araberne i Palæstina sig fanget mellem stormagterne. Titusindvis af jødiske flygtninge ankommer, og det skaber flere konflikter. Samtidig kæmper David Ben-Gurion and Golda Meir jødernes sag. I 1948 bliver staten Israel udråbt, men krig bryder ud mellem Israel og nabolandene. Da den slutter et år senere, er Jerusalem delt i øst og vest mellem Israel og Jordan.</desc>
-    <episode-num system="xmltv_ns">0.4.0</episode-num>
-  </programme>
-  <programme start="20261107043500 +0000" stop="20261107050000 +0000" channel="dr2.dk">
-    <title>Mens vi venter på at dø - Bygger vi et kontroltårn</title>
-    <desc>Med udgangspunkt i udtrykket "vi kan lige så godt have det sjovt, når vi alligevel er her" tager vennerne Jørgen Skouboe og John Dahl ud for at dyrke de små drengedrømme, som ellers så ofte drukner i hverdagens travle fornuftsrutiner. I denne uge bygger John og Jørgen et kontroltårn af jern, træ og en Fiat Uno, så de kan holde øje med hundene på stranden. Med sig har de sjove anekdoter, gode øl, fin tobak - og ikke mindst masser af vildt og fascinerende grej, som skal prøves af.
-Værter: Jørgen Skouboe og John Dahl.
-Sendt første gang 01.05.11</desc>
-    <episode-num system="xmltv_ns">0.2.0</episode-num>
-  </programme>
-  <programme start="20261107050000 +0000" stop="20261107052000 +0000" channel="dr2.dk">
-    <title>Der kan man se (15:16)</title>
-    <desc>Dansk satireserie fra 1997. I forbindelse med temaet 'Frihed til at vælge' kommer værterne ind på kongehusets medlemmer. Clausen mener ikke, at Frække Frederik, også kaldet Pingo, kan vælge frit. Hausgaard har den holdning, at dronningen frit skal kunne vælge sin svigerdatter. Og han vil slet ikke tage stilling til den dametøjsmodel, som kronprinsen nu ikke længere er kæreste med. Den kommende kronprinsesse skal blot være en smuk og fødedygtig kvinde.
-Medvirkende: Erik Clausen og Niels Hausgaard.</desc>
-    <episode-num system="xmltv_ns">0.14.0</episode-num>
-  </programme>
-  <programme start="20261107052000 +0000" stop="20261107052500 +0000" channel="dr2.dk">
-    <title>Smilehullet - Lily Broberg</title>
-    <desc>Dansk underholdningsprogram fra 1994. Lily Broberg synger i dette klip fra 1975 visen om 'Flugten til Tahiti' - foran et veloplagt publikum.</desc>
-    <episode-num system="xmltv_ns">0.10.0</episode-num>
-  </programme>
-  <programme start="20261107052500 +0000" stop="20261107060500 +0000" channel="dr2.dk">
-    <title>Store danskere - Poul Reumert</title>
-    <desc>Poul Reumert var "kongen" af det Kongelige Teater i det 20. århundrede. Han var ven med landets regent, og kendt af alle danskere. Men han havde måttet kæmpe for sit gennembrud. Han arbejdede altid, og ligegyldig hvad der var sket privat, så stod han på scenen. Poul Reumert stillede strenge krav både til sig selv og alle andre. Men i sit tredje og sidste ægteskab med den unge og smukke islænding Anna Borg, viste han en anderledes kærlig side. Poul Reumert havde mange titler, men mest stolt var han når han blev kaldt Islands svigersøn.
-Tilrettelæggelse: Lone Leegaard.
-Sendt første gang 21.10.07</desc>
-    <episode-num system="xmltv_ns">2006.0.0</episode-num>
-  </programme>
-  <programme start="20261107060500 +0000" stop="20261107065000 +0000" channel="dr2.dk">
-    <title>Smagen af Italien II (6:8)</title>
-    <desc>Britisk madserie fra 2022.
-(Stanley Tucci: Searching for Italy)
-Calabrien. En region med barske landskaber, dramatiske bjergkæder og en 800 kilometer lang, betagende kystlinje. Dette er Stanley Tuccis forfædres hjemland. Tag med, når han rejser gennem regionen og sin families historie. Og når han smager calabriske retter som den 100 år gamle opskrift pane di cuti, områdets berømte rødløgsmarmelade og friskfanget sværdfisk, som kan koste op til 5.000 dollars på markedet.</desc>
-    <episode-num system="xmltv_ns">1.5.0</episode-num>
-  </programme>
-  <programme start="20261107065000 +0000" stop="20261107070000 +0000" channel="dr2.dk">
-    <title>Vores sange med DR Pigekoret: Stjernefart</title>
-    <desc>DR Pigekoret synger Sleep og Stjernefart.
-Dirigent: Charlotte Rowan.
-Optaget i DR Koncerthuset i juni 2026.</desc>
-    <episode-num system="xmltv_ns">1.3.0</episode-num>
-  </programme>
-  <programme start="20261107070000 +0000" stop="20261107070500 +0000" channel="dr2.dk">
-    <title>Radioavisen</title>
-    <desc>Bliv opdateret på de seneste nyheder fra ind- og udland.</desc>
-  </programme>
-  <programme start="20261107070500 +0000" stop="20261107073000 +0000" channel="dr2.dk">
-    <title>Morgenandagten</title>
-    <desc>Morgenandagten fra Vor Frue Kirke, Københavns Domkirke.</desc>
-  </programme>
-  <programme start="20261107073000 +0000" stop="20261107110000 +0000" channel="dr2.dk">
-    <title>Seneste nyt fra TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20261107110000 +0000" stop="20261107130000 +0000" channel="dr2.dk">
-    <title>Seneste nyt fra TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20261107130000 +0000" stop="20261107133000 +0000" channel="dr2.dk">
-    <title>Tegnsprogsmagasinet Udsyn</title>
-    <desc>Den døve finske rapper Signmark er kendt verden over for sin musik og sange på tegnsprog. Nu har han efter 20 år på toppen valgt at indstille karrieren. Vi mødte ham, da han for en måneds tid siden sagde farvel til sine danske fans med en afskedskoncert. Vi fulgte ham fra han landede i København til han gik af scenen. Hvorfor stopper Signmark? Og hvad skal der nu ske? Det og meget mere, får du svar på her i Udsyn. Hans sidste sang hedder Hello and Goodbye, hvilket også er titlen på portrætprogrammet.</desc>
-    <episode-num system="xmltv_ns">2025.33.0</episode-num>
-  </programme>
-  <programme start="20261107133000 +0000" stop="20261107143000 +0000" channel="dr2.dk">
-    <title>En succes</title>
-    <desc>Dansk tv-drama fra 1993. I en provinsby ruster man sig til det forestående folketingsvalg - nu vil man have den lokale kandidat ind på Christiansborg. Vælgerforeningen hyrer et reklamebureau til at bane vejen for den temmelig konturløse Asger Steensen, og Frank - den unge, ambitiøse chef for bureauet - satser alt.
-Medvirkende: Dejan Cukic, Helle Dolleris, Hans Henrik Voetmann, Mette Ahrenkiel, m.fl.
-Manuskript: Niels Arden Oplev, Per Holmen. 
-Instruktion: Niels Arden Oplev.</desc>
-  </programme>
-  <programme start="20261107143000 +0000" stop="20261107150500 +0000" channel="dr2.dk">
-    <title>Hvornår var det nu det var (11:17)</title>
-    <desc>Dansk quizprogram fra 1993. Se klip fra Jehovas vidners verdenskongres i København, en fyringsrunde i virksomheden Carmen Clairol og overrækkelsen af Henkel-prisen til Bodil Kjer i denne udgave af Hvornår var det nu, det var?</desc>
-    <episode-num system="xmltv_ns">2.10.0</episode-num>
-  </programme>
-  <programme start="20261107150500 +0000" stop="20261107153000 +0000" channel="dr2.dk">
-    <title>Huset på Christianshavn (41) Bimmers bortkomst</title>
-    <desc>Dansk komedieserie fra 1973. Meyer skal kigge efter Karlas søn. Men da Karla vender hjem, er Bimmer forsvundet. Hele huset tager del i eftersøgningen af ham, og Clausen vender hjem med et barn i en barnevogn - det viser sig dog at være en pige.
-Medvirkende: Helle Virkner, Poul Reichhardt, Bodil Udsen, Arthur Jensen, Lis Løwert, Paul Hagen, Ove Sprogøe, Kirsten Walther, Willy Rathnov, Claus Ryskjær m.fl.
-Manuskript: Lise Nørgaard.</desc>
-    <episode-num system="xmltv_ns">0.40.0</episode-num>
-  </programme>
-  <programme start="20261107153000 +0000" stop="20261107163500 +0000" channel="dr2.dk">
-    <title>Til minde om Herbert Blomstedt</title>
-    <desc>Vi mindes nyligt afdøde maestro Blomstedt med Brahms' Ein Deutsches Requiem, som han opførte med DR Symfoniorkestret og DR Koncertkoret i 2012. Herbert Blomstedt blev orkestrets første chefdirigent i 1967 og bevarede igennem seks årtier og utallige koncerter et nært bånd til orkestret.
-Medvirkende: DR Symfoniorkestret, DR Koncertkoret, Herbert Blomstedt og solisterne Camilla Tilling og Peter Mattei.
-Genudsendelse fra 2012.</desc>
-  </programme>
-  <programme start="20261107163500 +0000" stop="20261107170500 +0000" channel="dr2.dk">
-    <title>Det danske filmmirakel (1:6) Film var ikke planen</title>
-    <desc>De ville lave teatret om - men kom til at ændre dansk film i stedet! En hel generation af nye skuespillere, der ender med at blive vores største stjerner, gør oprør mod fortidens danske film og insisterer på at få hverdagen ind i sproget og skuespillet. Og med Nikolaj Cederholm i spidsen bliver det eksperimenterende Dr. Dante-teater stedet, hvor ALLE unge skuespillere vil forbi for at udvikle og opfinde en ny form for skuespil - og overskride både deres egne og publikums grænser på vejen dertil.</desc>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-  </programme>
-  <programme start="20261107170500 +0000" stop="20261107175500 +0000" channel="dr2.dk">
-    <title>Husker du... 1998</title>
-    <desc>- året hvor vi bliver vidne til århundredets største sexskandale i Det Hvide Hus mellem præsidenten Bill Clinton og praktikanten Monica Lewinsky. Præsidenten gør alt for at holde fanen højt, men medierne og den politiske elite lugter blod og tvinger ham til at sige undskyld til nationen. I Danmark er der dømt valggyser på begge landsdækkende tv-kanaler - bliver det Uffe Ellemann-Jensen eller Poul Nyrup Rasmussen, der bliver statsminister? I sidste ende bliver det 179 færøske stemmer, der afgør det mest spændende valg i dansk politisk historie. Under fodbold VM i Frankrig spiller Danmarks største boldkunstner Michael Laudrup sin sidste landskamp mod Brasilien.
-Sendt første gang 16.04.10</desc>
-    <episode-num system="xmltv_ns">3.8.0</episode-num>
-  </programme>
-  <programme start="20261107175500 +0000" stop="20261107183500 +0000" channel="dr2.dk">
-    <title>VM ishockey: Danmark - Japan (k), direkte</title>
-    <desc>Danmark møder Japan i den anden gruppekamp ved VM i ishockey for kvinder i Hockey Arena Herning. Med Finland, Canada og Sverige som de øvrige modstandere i gruppen har Danmark formentlig brug for en sejr over Japan for at have chance for at nå kvartfinalen. Ved VM i 2024 mødtes de to hold også - dengang vandt Japan det indbyrdes opgør 3-0.
-Kommentatorer: Frederik Lindved og Marie Linander Henriksen.</desc>
-    <episode-num system="xmltv_ns">2025.1.0</episode-num>
-  </programme>
-  <programme start="20261107183500 +0000" stop="20261107192500 +0000" channel="dr2.dk">
-    <title>VM ishockey: Danmark - Japan (k), direkte</title>
-    <desc>Danmark møder Japan i den anden gruppekamp ved VM i ishockey for kvinder i Hockey Arena Herning. Med Finland, Canada og Sverige som de øvrige modstandere i gruppen har Danmark formentlig brug for en sejr over Japan for at have chance for at nå kvartfinalen. Ved VM i 2024 mødtes de to hold også - dengang vandt Japan det indbyrdes opgør 3-0.
-Kommentatorer: Frederik Lindved og Marie Linander Henriksen.</desc>
-    <episode-num system="xmltv_ns">2025.1.0</episode-num>
-  </programme>
-  <programme start="20261107192500 +0000" stop="20261107204000 +0000" channel="dr2.dk">
-    <title>VM ishockey: Danmark - Japan (k), direkte</title>
-    <desc>Danmark møder Japan i den anden gruppekamp ved VM i ishockey for kvinder i Hockey Arena Herning. Med Finland, Canada og Sverige som de øvrige modstandere i gruppen har Danmark formentlig brug for en sejr over Japan for at have chance for at nå kvartfinalen. Ved VM i 2024 mødtes de to hold også - dengang vandt Japan det indbyrdes opgør 3-0.
-Kommentatorer: Frederik Lindved og Marie Linander Henriksen.</desc>
-    <episode-num system="xmltv_ns">2025.1.0</episode-num>
-  </programme>
-  <programme start="20261107204000 +0000" stop="20261107210000 +0000" channel="dr2.dk">
-    <title>Alt forladt - Sindssygehospitalet</title>
-    <desc>Et gammelt sindssygehospital ved Vordingborg gemmer på mange menneskeskæbner. De to Urban Explorers Jan Elhøj og Morten Kirckhoff går på opdagelse i de gamle stuer og finder fastspændingsbælter og elektrochokmaskiner, der fortæller om en svunden tid.
-Tilrettelæggelse: Morten Steenstrup
-Sendt første gang 14.01.13</desc>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-  </programme>
-  <programme start="20261107210000 +0000" stop="20261107211500 +0000" channel="dr2.dk">
-    <title>TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20261107211500 +0000" stop="20261107231000 +0000" channel="dr2.dk">
-    <title>The Apprentice</title>
-    <desc>Dansk-Canadisk spillefilm fra 2024.
-Historien om, hvordan en ung Donald Trump startede sin ejendomsvirksomhed i 1970'erne og 80'ernes New York, med den hjælpende hånd fra den berygtede advokat Roy Cohn. 1970'ernes New York: Den unge og håbefulde Donald J. Trump er fast besluttet på at komme ud af sin magtfulde fars skygge og skabe sig et navn på Manhattan. Han er i de tidligste dage af sin karriere, da han møder manden, der vil blive en af de vigtigste figurer i hans liv, den politiske fikser Roy Cohn. Den indflydelsesrige advokat ser potentialet i den unge Donald, og viser sin nye lærling, hvordan man samler rigdom og magt gennem bedrag, intimidering og mediemanipulation. Resten er historie.
-Medvirkende: Sebastian Stan, Jeremy Strong, Maria Bakalova, Martin Donovan m.fl.
-Instruktør: Ali Abbasi.</desc>
-  </programme>
   <programme start="20261107231000 +0000" stop="20261108005000 +0000" channel="dr2.dk">
     <title>Året jeg begyndte at onanere og stoppede med at præstere</title>
     <desc>Svensk komediedrama fra 2022.
@@ -191,11 +24,18 @@ BBC-dokumentar fra 2026.
 I 1950'erne og 60'erne markedsfører flyselskaberne stewardesserne som Barbie-dukker. De bliver mere og mere seksualiserede, må ikke være gravide eller overvægtige - og de skal stoppe, når de fylder 32 år eller bliver gift. Forskelsbehandlingen og racediskriminationen er massiv. Men grupper som 'Stewardesses for Women's Rights' opstår og kulminerer i et gruppesøgsmål, der ændrer arbejdsrettigheder og sikrer større ligeløn.</desc>
     <episode-num system="xmltv_ns">0.1.0</episode-num>
   </programme>
-  <programme start="20261108031500 +0000" stop="20261108040500 +0000" channel="dr2.dk">
+  <programme start="20261108031500 +0000" stop="20261108040000 +0000" channel="dr2.dk">
     <title>Liv Ullmann: Et norsk ikon (3:3) Ambassadøren</title>
     <desc>Norsk dokumentarserie fra 2023.
 (Liv Ullmann: A Road Less Travelled)
 I 1973 bliver Liv Ullmann nomineret for en Oscar for 'Udvandrene', og USA's udenrigsminister Henry Kissinger inviterer hende ud. Som en international anerkendt kunstner bruger hun sin berømmelse til at kæmpe for humanitære forandringer. Hun bliver bl.a. den første kvindelige Goodwill-ambassadør for UNICEF, taler ved præsident Bill Clintons indsættelse og til Kongressen på vegne af flygtningekvinder og -børn.</desc>
+    <episode-num system="xmltv_ns">0.2.0</episode-num>
+  </programme>
+  <programme start="20261108040000 +0000" stop="20261108050000 +0000" channel="dr2.dk">
+    <title>Vejen til Indien (3:3)</title>
+    <desc>Fra sextempler til hellige ritualer ved Ganges. På sidste etape af deres indiske eventyr undersøger kendisvennerne Rob og Rylan, hvad Indiens kunst og kultur kan lære dem om livet, kærligheden og døden. I landsbyen Khajuraho udforsker de begrebet kama og jagten på nydelse. I den hellige by Varanasi prøver de kræfter med mudderbrydning - og midt mellem ligbål og hellige ritualer reflekterer de over livets forgængelighed. 
+BBC-dokumentarserie fra 2025.
+(Rob &amp; Rylan's Passage to India)</desc>
     <episode-num system="xmltv_ns">0.2.0</episode-num>
   </programme>
   <programme start="20261108050000 +0000" stop="20261108053000 +0000" channel="dr2.dk">
@@ -940,10 +780,12 @@ Manuskript: Johannes Møllehave.</desc>
   <programme start="20261113171500 +0000" stop="20261113181500 +0000" channel="dr2.dk">
     <title>U21 EM fodbold: Danmark-Holland (m), kvalifikation, direkte</title>
     <desc>.</desc>
+    <episode-num system="xmltv_ns">2025.0.0</episode-num>
   </programme>
   <programme start="20261113181500 +0000" stop="20261113193000 +0000" channel="dr2.dk">
     <title>U21 EM fodbold: Danmark-Holland (m), kvalifikation, direkte</title>
     <desc>.</desc>
+    <episode-num system="xmltv_ns">2025.0.0</episode-num>
   </programme>
   <programme start="20261113193000 +0000" stop="20261113213500 +0000" channel="dr2.dk">
     <title>BlacKkKlansman</title>
@@ -967,5 +809,142 @@ Instruktion: Spike Lee.</desc>
 Den franske betjent Virginie og hendes to kolleger får til opgave at eskortere en illegal immigrant til lufthavnen. Her vil han blive sat på et fly og fløjet til sit hjemland. Men Virginie opdager, at deres passager risikerer at blive henrettet, hvis han vender tilbage til sit eget land. Nu står trioen over for et svært valg. Kan de virkelig overlade en mand til den visse død?
 Medvirkende: Virginie Efira, Omar Sy, Grégory Gadebois m.fl.
 Instruktion: Anne Fontaine.</desc>
+  </programme>
+  <programme start="20261114002500 +0000" stop="20261114021500 +0000" channel="dr2.dk">
+    <title>Jagten</title>
+    <desc>Oscarnomineret dansk drama fra 2013.
+Den 40-årige fraskilte familiefar Lucas står foran en genforening med sin søn, da han anklages for en forbrydelse, han ikke har begået. Nu starter heksejagten i en mindre dansk provinsby. Hvor længe kan et menneske holde til det, når vennerne og kæresten også begynder at tvivle...
+Medvirkende: Mads Mikkelsen, Susse Wold, Thomas Bo Larsen, Lars Ranthe m.fl.
+Instruktion: Thomas Vinterberg.
+Uegnet for mindre børn.</desc>
+  </programme>
+  <programme start="20261114021500 +0000" stop="20261114025500 +0000" channel="dr2.dk">
+    <title>Dengang i 2010'erne (5:7)</title>
+    <desc>Amerikansk dokumentarserie fra 2023.
+(The 2010s)
+Twitter, Facebook, Youtube, Instagram og TikTok. Starten af 2010'ere er en utrolig væksttid for de sociale medier. Internettet og mainstreamplatformene giver adgang til informationer og ændrer den måde vi ser os selv og verden på. Nu forbinder vi os ikke længere kun med vores venner, men kan også skabe store sociale bevægelser.</desc>
+    <episode-num system="xmltv_ns">0.4.0</episode-num>
+  </programme>
+  <programme start="20261114025500 +0000" stop="20261114031500 +0000" channel="dr2.dk">
+    <title>Alt forladt - Scala-bygningen</title>
+    <desc>Den "gamle" Scala-bygning er nu revet ned, men før den blev det, nåede de to Urban Explorers Jan Elhøj og Morten Kirckhoff at udforske stedet og dokumentere det for eftertiden. Det bliver også en chance for at genopleve deres ungdom.
+Tilrettelæggelse: Morten Steenstrup
+Sendt første gang 04.02.13</desc>
+    <episode-num system="xmltv_ns">0.3.0</episode-num>
+  </programme>
+  <programme start="20261114031500 +0000" stop="20261114042000 +0000" channel="dr2.dk">
+    <title>Ud i vildmarken med Simon Reeve II (2:4)</title>
+    <desc>Kolonier af søløver, legesyge delfiner, unikke havfugle og sjældne hajer. Denne gang udforsker Simon Reeve Cortéshavet i det vestlige Mexico, også kendt som 'verdens akvarium'. Her findes næsten en tredjedel af Jordens havpattedyrarter, og havet er også berømt for hajer såsom tyrehajer og de truede hammerhajer.  
+BBC-naturserie fra 2026.
+(Wilderness With Simon Reeve)</desc>
+    <episode-num system="xmltv_ns">1.1.0</episode-num>
+  </programme>
+  <programme start="20261114050000 +0000" stop="20261114052000 +0000" channel="dr2.dk">
+    <title>Der kan man se (16:16)</title>
+    <desc>Dansk satireserie fra 1997. Det er sæsonens sidste udsendelse, og værterne er klar til at acceptere den gamle sandhed: Ude af øje, ude af sind. Nordjyden mener, at dyrkelsen af kroppen kan ende i ren tragedie, når kvinder bliver ældre. Clausen beretter, at han har været fotomodel for fodindlæg og støttestrømper - fordi han har så flotte kraftige lægge. Hausgaard viser, hvordan man kan holde ansigtet i de rette folder ved at stimulere huden med elastikker.
+Medvirkende: Erik Clausen og Niels Hausgaard.</desc>
+    <episode-num system="xmltv_ns">0.15.0</episode-num>
+  </programme>
+  <programme start="20261114052000 +0000" stop="20261114061500 +0000" channel="dr2.dk">
+    <title>Eiffeltårnet</title>
+    <desc>Fransk dokumentar 2023.
+(Eiffel Tower - Building the Impossible)
+Siden 1889 har det raget 300 meter op i den parisiske himmel. Eiffeltårnet er et symbol på fremskridt og nytænkning og et ikon, der tiltrækker 6.000.000 besøgende hvert år. Her følger vi i ingeniøren og arkitekten Gustave Eiffels fodspor for at forstå tankerne bag konstruktionen. Hvordan kunne man rejse tårnet på bare to år? Og hvilke menneskelige og tekniske udfordringer mødte Eiffel og hans folk?</desc>
+  </programme>
+  <programme start="20261114061500 +0000" stop="20261114070000 +0000" channel="dr2.dk">
+    <title>Smagen af Italien II (7:8)</title>
+    <desc>Britisk madserie fra 2022.
+(Stanley Tucci: Searching for Italy)
+Sardinien. Den mytiske italienske ø er berømt for sit barske landskab, krystalblå hav og kulinariske lækkerier. Tag med Stanley Tucci rundt på øen, hvor han smager på delikatesser som bottarga, der er rogn fra multe, den klassiske sardinske pastaret fregola ai frutti di mare, bitter corbezzolo-honning og lækre pecorino-oste. På den isolerede ø Isola di San Pietro tager Tucci med på en bådtur for at fiske og smage på blåfinnet tun.</desc>
+    <episode-num system="xmltv_ns">1.6.0</episode-num>
+  </programme>
+  <programme start="20261114070000 +0000" stop="20261114070500 +0000" channel="dr2.dk">
+    <title>Radioavisen</title>
+    <desc>Bliv opdateret på de seneste nyheder fra ind- og udland.</desc>
+  </programme>
+  <programme start="20261114070500 +0000" stop="20261114073000 +0000" channel="dr2.dk">
+    <title>Morgenandagten</title>
+    <desc>Morgenandagten fra Vor Frue Kirke, Københavns Domkirke.</desc>
+  </programme>
+  <programme start="20261114073000 +0000" stop="20261114110000 +0000" channel="dr2.dk">
+    <title>Seneste nyt fra TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20261114110000 +0000" stop="20261114130000 +0000" channel="dr2.dk">
+    <title>Seneste nyt fra TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20261114130000 +0000" stop="20261114133000 +0000" channel="dr2.dk">
+    <title>Tegnsprogsmagasinet Udsyn</title>
+    <desc>Et magasinprogram på tegnsprog, der zoomer ind på døves liv i en hørende verden. Og fortæller om det, der rører sig i tiden, sætter spørgsmål til debat og skildrer det nære og det sære.</desc>
+    <episode-num system="xmltv_ns">2025.34.0</episode-num>
+  </programme>
+  <programme start="20261114133000 +0000" stop="20261114143000 +0000" channel="dr2.dk">
+    <title>Margrethes elsker</title>
+    <desc>Dansk tv-drama fra 1987. Margrethe arbejder på et bibliotek - og en dag dukker den noget yngre Jack op. Lone Scherfigs tv-fortælling er en bittersød historie om en stille eksistens, som én gang i sit liv prøver at række ud efter kærligheden.
+Medvirkende: Solveig Kallenbach, Allan Winther, Peter Gilsfort, Rikke Wølck m.fl.
+Manuskript og instruktion: Lone Scherfig.</desc>
+  </programme>
+  <programme start="20261114143500 +0000" stop="20261114161000 +0000" channel="dr2.dk">
+    <title>Kødets lyst</title>
+    <desc>Amerikansk komediedrama fra 1971.
+(Carnal Knowledge)
+Universitetsvennerne Jonathan og Sandy jagter kvinder uden rigtig at forstå dem. De følger forskellige mål. Den ene gifter sig, den anden lever et liv fokuseret på nydelse. Efterhånden som de bliver ældre, spekulerer de på, hvem der har fået mest ud af deres forskellige tilgang til livet.
+Medvirkende: Jack Nicholson, Art Garfunkel, Candice Bergen m.fl.
+Instruktion: Mike Nichols.</desc>
+  </programme>
+  <programme start="20261114161000 +0000" stop="20261114170500 +0000" channel="dr2.dk">
+    <title>Jack Nicholson - Rebel, gavflab og førsteelsker</title>
+    <desc>Fransk dokumentar fra 2023.
+(Dr Jack &amp; Mr Nicholson)
+Han er Hollywoods sidste legende, for evigt gådefuld. Den amerikanske skuespiller Jack Nicholson er en helt usædvanlig type. Et ikon, der skiller sig ud med sit dræbersmil. På 50 år har han indspillet over 60 film, vundet tre Oscars og en hel stribe af andre priser. Men hvem er denne på en og samme tid venlige, foruroligende, forførende og skræmmende mand, der lever helt efter sine egne regler? Her dykker vi ned i den talentfulde stjernes liv og karriere.</desc>
+  </programme>
+  <programme start="20261114170500 +0000" stop="20261114174000 +0000" channel="dr2.dk">
+    <title>Hvornår var det nu det var (12:17)</title>
+    <desc>Dansk quizprogram fra 1993. Gorm viser klip fra DR's arkiver i forsøget på at få årstal ud af quizdeltagerne. Se bl.a. den nybagte All England-mester Sven Pri og det påbegyndte privathospital Mermaid Clinic.</desc>
+    <episode-num system="xmltv_ns">2.11.0</episode-num>
+  </programme>
+  <programme start="20261114174000 +0000" stop="20261114181000 +0000" channel="dr2.dk">
+    <title>Huset på Christianshavn (42) Clausens røde hunde</title>
+    <desc>Dansk komedieserie fra 1973. Clausen er blevet overfølsom over for sine dyr. Så hans fugle udstationeres hos Larsen, musene ender hos Olsens, og Karla aftager hamstere og marsvin. Men måske er det slet ikke dyrene, Clausen ikke kan tåle.
+Medvirkende: Helle Virkner, Poul Reichhardt, Bodil Udsen, Arthur Jensen, Lis Løwert, Paul Hagen, Ove Sprogøe, Kirsten Walther, Willy Rathnov, Claus Ryskjær m.fl.
+Manuskript: Johannes Møllehave.</desc>
+    <episode-num system="xmltv_ns">0.41.0</episode-num>
+  </programme>
+  <programme start="20261114181000 +0000" stop="20261114190000 +0000" channel="dr2.dk">
+    <title>Husker du... 1999</title>
+    <desc>Stormen raser, da århundredes orkan rammer Danmark. Poul Nyrup kommer i modvind med sin efterløn og milleniumsforskrækkede danskerne garderer sig mod det nye årtusinde. 
+Sendt første gang 30.04.06.</desc>
+    <episode-num system="xmltv_ns">3.9.0</episode-num>
+  </programme>
+  <programme start="20261114190000 +0000" stop="20261114202500 +0000" channel="dr2.dk">
+    <title>Luisi, Mozart &amp; Skrjabin</title>
+    <desc>DR Symfoniorkestret spiller Eine kleine Nachtmusik og to virtuose Mozart arier med sangerinden Maria Schellenberg. Herefter får du Skrjabins vidunderlige 2. symfoni. Caspar Phillipson introducerer.
+Chefdirigent Fabio Luisi dirigerer fra DR Koncerthuset 2024.</desc>
+  </programme>
+  <programme start="20261114202500 +0000" stop="20261114210000 +0000" channel="dr2.dk">
+    <title>Danske mord - Smukke Carola</title>
+    <desc>Hun var en af de mange prostituerede som ved århundredeskiftet trak i Nyhavn i København. Smukke Carola, som hun blev kaldt, fik skåret halsen over og politiet var overbevist om, at det var hendes kæreste, der også var hendes alfons, som stod bag drabet. Men meget tyder på, at den skyldige var en helt anden. 
+Sendt første gang 16.03.2008</desc>
+    <episode-num system="xmltv_ns">0.2.0</episode-num>
+  </programme>
+  <programme start="20261114210000 +0000" stop="20261114211500 +0000" channel="dr2.dk">
+    <title>TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20261114211500 +0000" stop="20261114225500 +0000" channel="dr2.dk">
+    <title>Nova &amp; Alice</title>
+    <desc>Svensk romantisk komediedrama fra 2024.
+To umage kunstnere tvinges ud på en fælles turné. Alice, en etableret stjerne med en dalende karriere, og Nova, en kaotisk nykommer på vej mod toppen, støder sammen både musikalsk og personligt. Men mens turnébussen ruller gennem den svenske sommer, smelter deres forskelle sammen. Irritation bliver til respekt og ømhed, og en kærlighedshistorie tager form. Sommeren bliver et vendepunkt, der ændrer alt.
+Medvirkende: Hedda Stiernstedt, Josefin Asplund, Johan Rheborg m.fl.
+Instruktion: Emma Bucht.</desc>
+  </programme>
+  <programme start="20261114225500 +0000" stop="20261115004000 +0000" channel="dr2.dk">
+    <title>Bryllup, begravelse og dåb - filmen</title>
+    <desc>Svensk komediedrama fra 2021.
+(Bröllop, begravning och dop - filmen)
+Familierne Öhrn og Seger bevæger sig gennem et efterår og en vinter på vej mod julen og mod en nyårsaften, som uundgåeligt indebærer slutningen på det gamle år og begyndelsen på noget nyt... En film om kærligheden og døden og alt det indimellem.
+Medvirkende: Helena Bergström, Maria Lundqvist, Marie Göranzon m.fl.
+Instruktion: Colin Nutley.</desc>
   </programme>
 </tv>
