@@ -3,10 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20261110190000 +0000" stop="20261110192700 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20261111185000 +0000" stop="20261111205000 +0000" channel="ruv2.is">
     <title>Írland - Ísland</title>
     <desc>Leikir í forkeppni EM kvenna í körfubolta.
@@ -34,6 +30,16 @@ Leikur Írlands og Íslands í forkeppni EM kvenna í körfubolta 2029.</desc>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
   <programme start="20261116190000 +0000" stop="20261116192700 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20261117191500 +0000" stop="20261117212000 +0000" channel="ruv2.is">
+    <title>Ísland - Aserbaísjan</title>
+    <desc>Leikir í forkeppni EM kvenna í körfubolta.
+
+Leikur Íslands og Aserbaísjan í forkeppni EM kvenna í körfubolta 2029.</desc>
+  </programme>
+  <programme start="20261117212000 +0000" stop="20261117214700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
