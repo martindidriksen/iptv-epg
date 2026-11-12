@@ -3,27 +3,29 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20261111185000 +0000" stop="20261111205000 +0000" channel="ruv2.is">
-    <title>Írland - Ísland</title>
-    <desc>Leikir í forkeppni EM kvenna í körfubolta.
-
-Leikur Írlands og Íslands í forkeppni EM kvenna í körfubolta 2029.</desc>
-  </programme>
-  <programme start="20261111205000 +0000" stop="20261111211700 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20261112190000 +0000" stop="20261112192700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20261113163000 +0000" stop="20261113190000 +0000" channel="ruv2.is">
+    <title>ÍM25 í sundi</title>
+    <desc>Íslandsmeistaramótið í sundi í 25 metra laug.</desc>
   </programme>
   <programme start="20261113190000 +0000" stop="20261113192700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
+  <programme start="20261114163000 +0000" stop="20261114190000 +0000" channel="ruv2.is">
+    <title>ÍM25 í sundi</title>
+    <desc>Íslandsmeistaramótið í sundi í 25 metra laug.</desc>
+  </programme>
   <programme start="20261114190000 +0000" stop="20261114192000 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20261115163000 +0000" stop="20261115190000 +0000" channel="ruv2.is">
+    <title>ÍM25 í sundi</title>
+    <desc>Íslandsmeistaramótið í sundi í 25 metra laug.</desc>
   </programme>
   <programme start="20261115190000 +0000" stop="20261115192000 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
@@ -40,6 +42,16 @@ Leikur Írlands og Íslands í forkeppni EM kvenna í körfubolta 2029.</desc>
 Leikur Íslands og Aserbaísjan í forkeppni EM kvenna í körfubolta 2029.</desc>
   </programme>
   <programme start="20261117212000 +0000" stop="20261117214700 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20261118182500 +0000" stop="20261118201000 +0000" channel="ruv2.is">
+    <title>Stjarnan - ÍBV</title>
+    <desc>Leikir í bikarkeppni kvenna í handbolta.
+
+Leikur Stjörnunnar og ÍBV í 16-liða úrslitum Powerade-bikars kvenna í handbolta.</desc>
+  </programme>
+  <programme start="20261118201000 +0000" stop="20261118203700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
