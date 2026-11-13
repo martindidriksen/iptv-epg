@@ -3,10 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20261112190000 +0000" stop="20261112192700 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20261113163000 +0000" stop="20261113190000 +0000" channel="ruv2.is">
     <title>ÍM25 í sundi</title>
     <desc>Íslandsmeistaramótið í sundi í 25 metra laug.</desc>
@@ -54,5 +50,15 @@ Leikur Stjörnunnar og ÍBV í 16-liða úrslitum Powerade-bikars kvenna í hand
   <programme start="20261118201000 +0000" stop="20261118203700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20261119190000 +0000" stop="20261119192700 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20261119192500 +0000" stop="20261119211000 +0000" channel="ruv2.is">
+    <title>Grótta - Fram</title>
+    <desc>Leikir í bikarkeppni kvenna í handbolta.
+
+Leikur Gróttu og Fram í 16-liða úrslitum Powerade-bikars kvenna í handbolta.</desc>
   </programme>
 </tv>
