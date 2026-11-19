@@ -3,40 +3,6 @@
   <channel id="kvf.fo">
     <display-name>KVF</display-name>
   </channel>
-  <programme start="20261118170000 " stop="20261118173000 " channel="kvf.fo">
-    <title>Alt um djór</title>
-    <sub-title>- barnarøð frá BBC við føroyskari talu</sub-title>
-  </programme>
-  <programme start="20261118173000 " stop="20261118180000 " channel="kvf.fo">
-    <title>Snipp snapp</title>
-    <sub-title>- føroysk barnasending (6:7)</sub-title>
-    <desc>Í Snipp snapp eru teknifilmar, ið eru ætlaðir yngru børnunum, hesa ferð m.a. Bláa og Labbaliðið.</desc>
-  </programme>
-  <programme start="20261118180000 " stop="20261118183500 " channel="kvf.fo">
-    <title>Í Skorini við Tjørnuvíkingum</title>
-    <sub-title>- føroysk sending frá 1997</sub-title>
-    <desc>Tjørnuvíkingar eru hvørt ár úti í Skorini eftir seyði. Zacharias Hammer og Jógvan Eli Dam vóru við teimum í 1997. Frásøgumaður: Steinbjørn Magnussen.</desc>
-  </programme>
-  <programme start="20261118183500 " stop="20261118191500 " channel="kvf.fo">
-    <title>Bóndi søkir kærleika</title>
-    <sub-title>- donsk sendirøð (13:13)</sub-title>
-    <desc>Nógvar kenslur eru upp á spæl, tá ið  Rasmus skal velja, hvørjum hann vil bjóða við til eitt romantiskt uppihald. Samstundis vaknar ein forelska Maia í Keypmannahavn. Sofie vitjar Magnus, Maia og Rasmus fyri at hoyra hvussu gongur. Upprunaheiti: Landmand søger kærlighed Framleiðsluár: 2026</desc>
-  </programme>
-  <programme start="20261118191500 " stop="20261118194500 " channel="kvf.fo">
-    <title>At fiska og vera í náttúruni 6:8</title>
-    <sub-title>- svensk røð frá 2021</sub-title>
-    <desc>Áhugin at fiska geddu er nógv vaksin í Svøríki seinastu árini. Kanska er tað støddin, sum er lokkandi. Tær kunnu viga upp í eini tíggju kilo ella meir. Martin og Emilie hava avtalu við Mathias Holgersson og Rickard Linderot, tveir av fremstu frítíðarfiskarum í Svøríki. Teir fiska í einum loyniligum vatni í Västerbotten. Programmleiðarar: Martin Falklind og Emilie Björkman. 6. partur av 8. Broadcast Company SVT</desc>
-  </programme>
-  <programme start="20261118194500 " stop="20261118204500 " channel="kvf.fo">
-    <title>Húsdreymar</title>
-    <sub-title>- svensk røð frá 2026 (1:11)</sub-title>
-    <desc>Í sesong frumsýningini hitta vit húsdroymarar frá fyrr. Minnast tit Simon og Anders í Abild, sum hava tað  allarbest, tá ið teir endurnýggja. Teir taka okkum við til nýggjar avbjóðingar. Vit hitta Ásu, sum var við í allarfyrstu sesong. Er hon liðug nú? Vit vitja Mea og Bruno, sum hava umskapað ein brunn til ein svimjihyl í náttúruni. Og hvussu hevur gingist við sambýlinum í Malmö, har tey nú hava livað saman í tvey ár. Partur 1 av 11.</desc>
-  </programme>
-  <programme start="20261118204500 " stop="20261119170000 " channel="kvf.fo">
-    <title>Størstur</title>
-    <sub-title>- við Peter Ingemann til Berlin</sub-title>
-    <desc>Berlin er yndisbýurin hjá Peter Ingemann. Býurin hevur sæð tvey heimskríggj og so kalda kríggið. Og samstundis hevur Berlin verið miðdepil fyri nakrar av størstu søguligu hendingunum í nýggjari tíð. Framl.: Heartland Framl. fyri: TV 2 DANMARK Framl.ár: 2017</desc>
-  </programme>
   <programme start="20261119170000 " stop="20261119173000 " channel="kvf.fo">
     <title>Snipp snapp</title>
     <sub-title>- føroysk barnasending (6:7)</sub-title>
@@ -168,12 +134,12 @@
     <sub-title>- barnarøð við føroyskari talu, Hattifnattaoyggin (6:13)</sub-title>
     <desc>Snorkadiddan eggjar Mumi til at hava hana við eina ferð út í eina loyndarfulla oyggj, har Mumipápi einaferð rendi seg í teir margháttligu/løgnu, ógvisligu hattifnattarnar.</desc>
   </programme>
-  <programme start="20261122085100 " stop="20261122110000 " channel="kvf.fo">
+  <programme start="20261122085100 " stop="20261122100000 " channel="kvf.fo">
     <title>Les Vimús</title>
     <sub-title>- aldrinstíð, segði Álvur Ákason</sub-title>
     <desc>Inni í holuni hjá Vimúsi eru nógvar bøkur, ja eitt heilt músabókasavn. Vimúsi dámar væl at lesa søgur, siga frá søgum og eisini at lurta eftir søgum. Og tí tímir Vimús væl at fáa vitjan. Ein søguvitjan er altíð góð. Ein søguvitjan er soleiðis, at ein lesur søgu og hin lurtar.</desc>
   </programme>
-  <programme start="20261122110000 " stop="20261122150000 " channel="kvf.fo">
+  <programme start="20261122100000 " stop="20261122150000 " channel="kvf.fo">
     <title>Guðstænasta úr Gøtu kirkju</title>
     <sub-title>- Gimmi Olsen, prestur, prædikar</sub-title>
   </programme>
@@ -197,7 +163,7 @@
   <programme start="20261122180000 " stop="20261122191500 " channel="kvf.fo">
     <title>Í menniskjum góður tokki</title>
     <sub-title>- jóla- og stuðulskonsert hjá Barnabata</sub-title>
-    <desc>Árliga jóla- og stuðulskonsertin hjá Barnabata, Í menniskjum góður tokki. Við at stuðla Í menniskjum góður tokki kunnu vit hjálpa føroyskum barnafamiljum, ið liva í fátækraváða. Evnið til sendingina er ?Felagsskapur?, har vit royna at fáa tað menniskjaliga, konkreta, og neyðuga perspektivið við.</desc>
+    <desc>Árliga jóla- og stuðulskonsertin hjá Barnabata, Í menniskjum góður tokki. Við at stuðla Í menniskjum góður tokki kunnu vit hjálpa føroyskum barnafamiljum, ið liva í fátækraváða. Evnið til sendingina er "Felagsskapur", har vit royna at fáa tað menniskjaliga, konkreta, og neyðuga perspektivið við.</desc>
   </programme>
   <programme start="20261122191500 " stop="20261122200500 " channel="kvf.fo">
     <title>Silja millum strokini</title>
@@ -308,7 +274,41 @@
     <title>Dagur og vika</title>
     <sub-title>- við teksti</sub-title>
   </programme>
-  <programme start="20261124213000 " stop="20261124223000 " channel="kvf.fo">
+  <programme start="20261124213000 " stop="20261125170000 " channel="kvf.fo">
     <title>Veðrið</title>
+  </programme>
+  <programme start="20261125170000 " stop="20261125173000 " channel="kvf.fo">
+    <title>Alt um djór</title>
+    <sub-title>- barnarøð frá BBC við føroyskari talu</sub-title>
+  </programme>
+  <programme start="20261125173000 " stop="20261125180000 " channel="kvf.fo">
+    <title>Snipp snapp</title>
+    <sub-title>- føroysk barnasending (7:7)</sub-title>
+    <desc>Í Snipp snapp eru teknifilmar, ið eru ætlaðir yngru børnunum, hesa ferð m.a. Bláa og Labbaliðið.</desc>
+  </programme>
+  <programme start="20261125180000 " stop="20261125184000 " channel="kvf.fo">
+    <title>Ræning omaneggja</title>
+    <sub-title>- sending frá 1988</sub-title>
+    <desc>28. mai 1988 vóru skúvoyingar og rændu omaneggja. Teir vóru norðuri á Dalinum henda dagin. 15 mans vóru við og fýra fóru niður. Teir høvdu tvær línur við og gjørdu 12 sig. Men nógv egg vóru ikki henda dagin, tí hóttafall er á lomvigastovninum og hann minkar ár undan ári. Sendingin vísir hvat gongur fyri seg ein dag í ræning.</desc>
+  </programme>
+  <programme start="20261125184000 " stop="20261125191000 " channel="kvf.fo">
+    <title>At fiska og vera í náttúruni 7:8</title>
+    <sub-title>- svensk røð frá 2021</sub-title>
+    <desc>Martin fer at royna eitt av teimum fáu støðunum í Svøríki, har til ber at fiska tosk og reyðsprøku við góðari samvitsku. Heystvindurin hevur høga aldu við sær! Programmleiðarar: Martin Falklind. 7. partur av 8. Broadcast Company SVT</desc>
+  </programme>
+  <programme start="20261125191000 " stop="20261125194000 " channel="kvf.fo">
+    <title>Frank og Kastanjugarðurin</title>
+    <sub-title>- drepa gæs og nýtt traktorsetur</sub-title>
+    <desc>Gásarungar eru fittir, men vaksnar gæs eru ágangandi. Frank fer at velja nakrar gæs at drepa, hann rópar tað revsingartíman.  Og so skal traktorurin gerast aftur, hann er brúktur so nógv, at setrið er brotið, tað skal skiftast.</desc>
+  </programme>
+  <programme start="20261125194000 " stop="20261125204000 " channel="kvf.fo">
+    <title>Húsdreymar</title>
+    <sub-title>- svensk røð frá 2026 (2:11)</sub-title>
+    <desc>Alica er fylt 21 ár og skal flyta heiman. Hon hevur verið so heppin at finna eina íbúð mitt í Göteborg. Og eftir sum Alica er kokkur og elskar mat og veitslur, er valið lætt. Nýggja íbúðin skal í roynd og veru vera ein stórur køkur. Fínt, rópar Gert Wingårdh. ?Hvør vil ikki búgva í einum køki?"</desc>
+  </programme>
+  <programme start="20261125204000 " stop="20261125214000 " channel="kvf.fo">
+    <title>Størstur</title>
+    <sub-title>- Ingemann í Grand Central Terminal, New York</sub-title>
+    <desc>Mitt í New York liggur Grand Central Terminal - heimsins størsta tokstøð! 750.000 fólk ganga gjøgnum farstøðina hvønn einasta dag, so Audrey, fyrrverandi løgreglumaður, sum er pensjonistur, hevur úr at gera, hann dugir toktíðirnar uttanat. Farstøðin er tó nógv meira enn ein tokflutningsstøð, Peter Ingemann vitjar ein fínan tennisklubba, ið er ætlaður teimum ríkastu á Manhattan. Danski meistarakokkurin, Claus Meyer, hevur eisini funnið vegin til Grand Central. Og hóast New Yorkarnir stríðast við úttaluna, hava teir kastað kærleikan á danskar klassikarar, sum breyðsuppu og ´frøsnapparar´. Risastóri Subway ella fótgangaratunnilin í New York er eisini vorðin staðið hjá mongum tónleikarum, m.a. Saw Lady, sum spælir í gongdunum undir stórbýnum. Upprunaheiti: Størst Framl.ár: 2018 Programkategori: Dokumentar</desc>
   </programme>
 </tv>

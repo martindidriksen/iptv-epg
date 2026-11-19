@@ -3,16 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20261118182500 +0000" stop="20261118201000 +0000" channel="ruv2.is">
-    <title>Stjarnan - ÍBV</title>
-    <desc>Leikir í bikarkeppni kvenna í handbolta.
-
-Leikur Stjörnunnar og ÍBV í 16-liða úrslitum Powerade-bikars kvenna í handbolta.</desc>
-  </programme>
-  <programme start="20261118201000 +0000" stop="20261118203700 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20261119190000 +0000" stop="20261119192700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
@@ -40,6 +30,10 @@ Leikur Gróttu og Fram í 16-liða úrslitum Powerade-bikars kvenna í handbolta
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
   <programme start="20261124190000 +0000" stop="20261124192700 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20261125190000 +0000" stop="20261125192700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
