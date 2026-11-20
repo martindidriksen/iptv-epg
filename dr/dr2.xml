@@ -3,177 +3,52 @@
   <channel id="dr2.dk">
     <display-name>DR2</display-name>
   </channel>
-  <programme start="20261118235000 +0000" stop="20261119002000 +0000" channel="dr2.dk">
-    <title>De ville dø for sagen: Lise &amp; antifascismen</title>
-    <desc>Lise Lindbæk var krigsreporter og glødende antifascist. I første halvdel af 1900-tallet befandt hun sig i begivenhedernes centrum i Europa, og kæmpede med sin pen mod tidens fascister f.eks. general Franco i den spanske borgerkrig. Hun var parat til at dø for sagen. Liv Thomsen forsøger sammen med en række historikere at finde ud af hvorfor.</desc>
-    <episode-num system="xmltv_ns">0.3.0</episode-num>
-  </programme>
-  <programme start="20261119002000 +0000" stop="20261119013000 +0000" channel="dr2.dk">
-    <title>Sandheden om Andrew Tate</title>
-    <desc>Britisk dokumentar fra 2024.
-(I Am Andrew Tate)
-Han bliver kaldt verdens største kvindehader. Den tidligere kickbokser Andrew Tates misogyne tirader er blevet set milliarder af gange på nettet. Han taler om at få styr på livet og når ind til teenagedrenge på en måde, kun få formår. Men den hypermaskuline influencer er nu anklaget for menneskehandel og voldtægt. Her fortælles historien on en af verdens mest berygtede mænd. Hvem er Tate egentlig? Og hvordan blev han et globalt ikon for giftig maskulinitet? (Dokumania)</desc>
-  </programme>
-  <programme start="20261119013000 +0000" stop="20261119022000 +0000" channel="dr2.dk">
-    <title>Spionhvalen (1:2)</title>
-    <desc>Britisk dokumentarserie fra 2024.
-(Secrets of the Spy Whale)
-I 2019 opdager norske fiskere en tilsyneladende tam hvidhval. Hvalen er iført seletøj udstyret med en kameraholder med inskriptionen 'Udstyr, Sankt Petersborg'. Hurtigt opstår der spekulationer om, at den måske er undsluppet et russisk militærprogram. Mens besøgende strømmer til havnen for at få et glimt af 'Hvaldimir', som hvalen bliver kaldt, trænger flere spørgsmål sig på: Er det kontaktsøgende havpattedyr blevet trænet af russerne? Og er den virkelig en spion?</desc>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-  </programme>
-  <programme start="20261119022000 +0000" stop="20261119030000 +0000" channel="dr2.dk">
-    <title>Danmark i Den Kolde Krig (7:12)</title>
-    <desc>Dansk dokumentarserie fra 2000. De var danskere, men familien vokser op i "fjendeland". Faderen i familien bliver i 1959 sendt på partiskole i DDR. Derefter bliver han på opfordring af DKP oversætter og redaktør af det kommunistiske tidsskrift DDR-revy i Dresden. Siden hen bliver han korrespondent for Land og Folk i Østberlin. Hans gamle mor og hans børn flytter med ham til DDR, og her bor de indtil begyndelsen af 80'erne.</desc>
-    <episode-num system="xmltv_ns">0.6.0</episode-num>
-  </programme>
-  <programme start="20261119030000 +0000" stop="20261119033000 +0000" channel="dr2.dk">
-    <title>Deadline: Hvor går statsministerens grænse i Rwanda?</title>
-    <desc>"En epokegørende dag for Europa". Sådan lød det fra Mette Frederiksen, da hun i mandags præsenteret en ordning, der vil sende afviste asylansøgere til et udrejsecenter i Rwanda - et land, der bliver mødt af hård international kritik for sine gentagne brud på menneskerettighederne. Deadline er taget til Spejlsalen på Christiansborg for at spørge statsministeren, hvilket problem, den nye udrejseordning løser. Og hvem tager ansvaret, hvis det går galt?</desc>
-    <episode-num system="xmltv_ns">2025.177.0</episode-num>
-  </programme>
-  <programme start="20261119033000 +0000" stop="20261119040000 +0000" channel="dr2.dk">
-    <title>Deadline: Radikale omfavner Rwanda</title>
-    <desc>For få år siden svømmede De Radikales leder Morten Østergaard fra en ø i Stege Bugt i protest mod et planlagt udrejsecenter for afviste asylansøgere. Det virker nu som meget længe siden, for i går bakkede partiet op om regeringens planer om at åbne et udrejsecenter i Rwanda. Hvad er der sket med de Radikale, og hvor langt vil de gå i migrationspolitikken? Christian Bennike spørger partiets udlændingeordfører, Magnus Georg Jensen.</desc>
-    <episode-num system="xmltv_ns">2025.176.0</episode-num>
-  </programme>
-  <programme start="20261119040000 +0000" stop="20261119043000 +0000" channel="dr2.dk">
-    <title>Deadline: Et samlet Venstre?</title>
-    <desc>Efter måneder med interne spændinger, eksklusioner og faldende meningsmålinger skulle Troels Lund Poulsens lederskab stå sin prøve ved Venstres landsmøde i weekenden. To minutters klapsalver til formanden sendte et signal om et parti, der står samlet bag sin leder. Men har Troels Lund Poulsen fået stoppet blødningen i Venstre - eller ulmer splittelsen stadig under overfladen?
-Issa Mahmoud Jeppesen taler med Preben Bang Henriksen, der som ny-ekskluderet fulgte landsmødet fra sidelinjen, om Venstres nye retning.</desc>
-    <episode-num system="xmltv_ns">2025.175.0</episode-num>
-  </programme>
-  <programme start="20261119043000 +0000" stop="20261119050000 +0000" channel="dr2.dk">
-    <title>Deadline: Hvem stoler Jacob Harris på?</title>
-    <desc>Han har været i vælten hele ugen: Tirsdag mødtes han med den russiske ambassadør, onsdag nægtede han at rejse sig op for Zelenskyj, og nu anklager løsgængeren Jacob Harris statsministeren for korruption. Christian Bennike spørger ham, hvem der udgør det system, han kæmper mod, og hvem Jacob Harris selv stoler på.</desc>
-    <episode-num system="xmltv_ns">2025.174.0</episode-num>
-  </programme>
-  <programme start="20261119050000 +0000" stop="20261119060000 +0000" channel="dr2.dk">
-    <title>Danmarkshistorien fortalt af Erik Kjersgaard (9:12)</title>
-    <desc>Dansk dokumentarserie fra 1982. Om perioden 1850-1900. 'Dampdragen' er H.C. Andersens poetiske navn for jernbanen, som kommer til at ændre landets struktur. De mange tekniske fremskridt fremmer industrialiseringen, og på landet bliver andelsbevægelsen grundlagt. Frederik 7. indgår et skandaløst ægteskab med grevinde Danner.</desc>
-    <episode-num system="xmltv_ns">0.8.0</episode-num>
-  </programme>
-  <programme start="20261119060000 +0000" stop="20261119063000 +0000" channel="dr2.dk">
-    <title>Værtshushistorier: Rosengårdens Bodega</title>
-    <desc>Rosengården er et gammelt københavnsk værtshus. Her fandt et opgør sted for 70 år siden, der endte med mord - skudhullerne sidder stadigvæk i væggen. På Rosengården mødte modstandsmanden Brandt og stikkeren hestetyven hinanden en forårsdag i 1944. Forfatteren Kaspar Colling Nielsen kender historien og fører os ind i mørket.</desc>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-  </programme>
-  <programme start="20261119063000 +0000" stop="20261119070000 +0000" channel="dr2.dk">
-    <title>Øgendahl og de store forfattere: Henrik Pontoppidan (2:6)</title>
-    <desc>Kan Henrik Pontoppidan give Mick Øgendahl opskriften på lykke? Se med, når Øgendahl kaster sig over nobelpristagerens store roman "Lykke-Per", og undervejs drømmer sig til fantasimøder med ham. Mick møder også musikeren Michael Falch, der har brugt Pontoppidan som ledetråd igennem livet. Og passer det, Pontoppidan forvandlede sig fra ung ingeniør-studerende til forfatter, da han en nat strandede på et bjerg i Schweiz under en farlig snestorm? Øgendahl gør sit bedste i forsøget på at blive klogere på de store danske forfattere, som han aldrig har fået læst.</desc>
-    <episode-num system="xmltv_ns">1.1.0</episode-num>
-  </programme>
-  <programme start="20261119070000 +0000" stop="20261119070500 +0000" channel="dr2.dk">
-    <title>Radioavisen</title>
-    <desc>Bliv opdateret på de seneste nyheder fra ind- og udland.</desc>
-  </programme>
-  <programme start="20261119070500 +0000" stop="20261119073000 +0000" channel="dr2.dk">
-    <title>Morgenandagten</title>
-    <desc>Morgenandagten fra Vor Frue Kirke, Københavns Domkirke.</desc>
-    <episode-num system="xmltv_ns">2025.270.0</episode-num>
-  </programme>
-  <programme start="20261119073000 +0000" stop="20261119110000 +0000" channel="dr2.dk">
-    <title>Seneste nyt fra TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20261119110000 +0000" stop="20261119161500 +0000" channel="dr2.dk">
-    <title>Seneste nyt fra TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20261119161500 +0000" stop="20261119165500 +0000" channel="dr2.dk">
-    <title>Danmark i Den Kolde Krig (7:12)</title>
-    <desc>Dansk dokumentarserie fra 2000. De var danskere, men familien vokser op i "fjendeland". Faderen i familien bliver i 1959 sendt på partiskole i DDR. Derefter bliver han på opfordring af DKP oversætter og redaktør af det kommunistiske tidsskrift DDR-revy i Dresden. Siden hen bliver han korrespondent for Land og Folk i Østberlin. Hans gamle mor og hans børn flytter med ham til DDR, og her bor de indtil begyndelsen af 80'erne.</desc>
-    <episode-num system="xmltv_ns">0.6.0</episode-num>
-  </programme>
-  <programme start="20261119165500 +0000" stop="20261119173000 +0000" channel="dr2.dk">
-    <title>Danmark i Den Kolde Krig (8:12)</title>
-    <desc>Dansk dokumentarserie fra 2000. DDR er Danmarks nære nabo mod syd under den kolde krig. Og den østtyske efterretningstjeneste Stasi interesserer sig levende for det danske samfund. To kvinder arbejder på universitet i Greifsvald, hvor man underviser kommende stasiagenter. Den ene er dansker og gift med en østtysker. Den anden er østtysker og en loyal DDR-borger, som i årevis samarbejder med Stasi. Begge oplever de murens fald på nært hold.</desc>
-    <episode-num system="xmltv_ns">0.7.0</episode-num>
-  </programme>
-  <programme start="20261119173000 +0000" stop="20261119183000 +0000" channel="dr2.dk">
-    <title>Champions League fodbold: Paris FC - HB Køge (k), direkte</title>
-    <desc>For anden kamp i træk er HB Køge på udebane i Champions League og i aften er de danske mestre taget en tur til den franske hovedstad for at møde Paris FC, som vandt sølv i den franske liga. Det bliver en vanskelig opgave for HB Køge og bare et enkelt point i Frankrig kan vise sig at være et vigtigt skridt mod at komme videre i Champions League.
-Kommentatorer: Henrik Liniger og Arnela Muminovic.</desc>
-    <episode-num system="xmltv_ns">2025.7.0</episode-num>
-  </programme>
-  <programme start="20261119183000 +0000" stop="20261119194500 +0000" channel="dr2.dk">
-    <title>Champions League fodbold: Paris FC - HB Køge (k), direkte</title>
-    <desc>For anden kamp i træk er HB Køge på udebane i Champions League og i aften er de danske mestre taget en tur til den franske hovedstad for at møde Paris FC, som vandt sølv i den franske liga. Det bliver en vanskelig opgave for HB Køge og bare et enkelt point i Frankrig kan vise sig at være et vigtigt skridt mod at komme videre i Champions League.
-Kommentatorer: Henrik Liniger og Arnela Muminovic.</desc>
-    <episode-num system="xmltv_ns">2025.7.0</episode-num>
-  </programme>
-  <programme start="20261119194500 +0000" stop="20261119200000 +0000" channel="dr2.dk">
-    <title>Troldspejlet: Hekse er blevet helte</title>
-    <desc>Hekse har primært været portrætteret som gnæggende skurke, men noget har ændret sig: Heksen er blevet en af de gode! Jakob Stegelmann ser på, hvorfor vi er gået fra at brænde formodede hekse på bålet til at hylde dem som forbilleder i fiktionen.</desc>
-    <episode-num system="xmltv_ns">0.9.0</episode-num>
-  </programme>
-  <programme start="20261119200000 +0000" stop="20261119210000 +0000" channel="dr2.dk">
-    <title>Ud i vildmarken med Simon Reeve II (4:4)</title>
-    <desc>Stejle bjerge, vidtstrakte græssletter og endeløse ørkener. Denne gang rejser Simon Reeve gennem Mongoliet - verdens tyndest befolkede land. Landet er seks gange større end Storbritannien, men har færre end 3,5 millioner indbyggere. Her leder han efter sneleoparder og møder nomadefolk, der træner og jager med kongeørne.
-BBC-naturserie fra 2026.
-(Wilderness With Simon Reeve)</desc>
-    <episode-num system="xmltv_ns">1.3.0</episode-num>
-  </programme>
-  <programme start="20261119210000 +0000" stop="20261119211500 +0000" channel="dr2.dk">
-    <title>TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20261119211500 +0000" stop="20261119214500 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
-    <episode-num system="xmltv_ns">2025.178.0</episode-num>
-  </programme>
-  <programme start="20261119214500 +0000" stop="20261119221500 +0000" channel="dr2.dk">
-    <title>Trumps USA: Rovdyrenes middagsbord</title>
-    <desc>Verdens tre største atommagters præsidenter holder et lukket møde. Skal verdens øvrige nationer være bekymret? Og kan en svækket præsident Trump komme styrket hjem til USA?
-Vært: Lillian Kretz.</desc>
-    <episode-num system="xmltv_ns">2025.31.0</episode-num>
-  </programme>
-  <programme start="20261119221500 +0000" stop="20261119234500 +0000" channel="dr2.dk">
-    <title>Verdens vildeste realityshow</title>
-    <desc>Alene, nøgen, sultende og fanget i et lille rum i 15 måneder. Dette er historien om en mand, der var fuldstændig uvidende om, at hans liv blev sendt på japansk tv til over 15 millioner seere om ugen. 
-Japansk dokumentar fra 2024.
-(The Contestant)
-(Dokumania)</desc>
-  </programme>
-  <programme start="20261119234500 +0000" stop="20261120003000 +0000" channel="dr2.dk">
+  <programme start="20261119234500 +0000" stop="20261120003500 +0000" channel="dr2.dk">
     <title>Spionhvalen (2:2)</title>
     <desc>Britisk dokumentarserie fra 2024.
 (Secrets of the Spy Whale)
 Dyreeksperter bliver tilkaldt for at vurdere helbredet hos hvidhvalen Hvaldimir. Det står klart, at den er blevet trænet - men til hvilket formål og af hvem? Det er først, da journalister analyserer satellitbilleder af Ruslands arktiske militærbaser, at hvalens egentlige identitet begynder at blive tydelig.</desc>
     <episode-num system="xmltv_ns">0.1.0</episode-num>
   </programme>
-  <programme start="20261120003000 +0000" stop="20261120014000 +0000" channel="dr2.dk">
+  <programme start="20261120003500 +0000" stop="20261120014000 +0000" channel="dr2.dk">
     <title>Mishandlet af mor</title>
     <desc>Hun mishandlede sine børn. Den kendte youtuber Ruby Franke postede videoer på nettet om børneopdragelse og familiens hverdagsliv. Det billede, de viste verden, var næsten perfekt - og tiltrak millioner af følgere. Men bag kulisserne, gemte der sig en historie om misbrug, manipulation og vold. Hvordan gik den populære influencer fra et perfekt familieliv til at risikere 30 års fængsel for børnemishandling?
 Britisk dokumentar fra 2025.
 (Abused By Mum: The Ruby Franke Scandal)</desc>
   </programme>
-  <programme start="20261120014000 +0000" stop="20261120023000 +0000" channel="dr2.dk">
+  <programme start="20261120014000 +0000" stop="20261120023500 +0000" channel="dr2.dk">
     <title>Den totale krig (3:4)</title>
     <desc>Krigslykken vender. I 1943 lider Nazityskland et afgørende nederlag ved Stalingrad, mens Japan mister initiativet i Stillehavskrigen. Ved Kursk går Den Røde Hær til modangreb, og i Italien falder Mussolini. Samtidig bliver krigen stadig mere total, da de allierede intensiverer bombningen af Tyskland og tager nye teknologier i brug. På Teheran-konferencen bekræfter Roosevelt, Churchill og Stalin planen om en anden front i Vesteuropa. D-dag rykker nærmere.
 Fransk dokumentarserie fra 2025.
 (The Sound and the Fury)</desc>
     <episode-num system="xmltv_ns">0.2.0</episode-num>
   </programme>
-  <programme start="20261120023000 +0000" stop="20261120030000 +0000" channel="dr2.dk">
+  <programme start="20261120023500 +0000" stop="20261120030500 +0000" channel="dr2.dk">
     <title>Værtshushistorier: Café Viking</title>
     <desc>En mandag i 2012 forandrer alt sig på  Nørrebroværtshuset Cafe Viking. Værtshusejer Jane Pedersen bliver afpresset af en ung fyr til at betale beskyttelsespenge til en lokal bande. Men den lille rødhårede dame nægter at ligge under for truslerne - også selvom hun ved, at det kan få fatale konsekvenser. Digteren Claus Høxbroe, fortæller historien</desc>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
   </programme>
-  <programme start="20261120030000 +0000" stop="20261120033000 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+  <programme start="20261120030500 +0000" stop="20261120033500 +0000" channel="dr2.dk">
+    <title>Deadline: Har tech-bosserne for meget magt?</title>
+    <desc>Big tech boomer. Men har tech-bosserne fået for stor magt? 
+Digital analytiker Christine Vejlø og it-iværksætter David Heinemeier Hansson er uenige om svaret på det spørgsmål. De mødes i debat med Casper Schrøder for bordenden.</desc>
     <episode-num system="xmltv_ns">2025.178.0</episode-num>
   </programme>
-  <programme start="20261120033000 +0000" stop="20261120040000 +0000" channel="dr2.dk">
+  <programme start="20261120033500 +0000" stop="20261120040500 +0000" channel="dr2.dk">
     <title>Deadline: Hvor går statsministerens grænse i Rwanda?</title>
     <desc>"En epokegørende dag for Europa". Sådan lød det fra Mette Frederiksen, da hun i mandags præsenteret en ordning, der vil sende afviste asylansøgere til et udrejsecenter i Rwanda - et land, der bliver mødt af hård international kritik for sine gentagne brud på menneskerettighederne. Deadline er taget til Spejlsalen på Christiansborg for at spørge statsministeren, hvilket problem, den nye udrejseordning løser. Og hvem tager ansvaret, hvis det går galt?</desc>
     <episode-num system="xmltv_ns">2025.177.0</episode-num>
   </programme>
-  <programme start="20261120040000 +0000" stop="20261120043500 +0000" channel="dr2.dk">
+  <programme start="20261120040500 +0000" stop="20261120043500 +0000" channel="dr2.dk">
     <title>Deadline: Radikale omfavner Rwanda</title>
     <desc>For få år siden svømmede De Radikales leder Morten Østergaard fra en ø i Stege Bugt i protest mod et planlagt udrejsecenter for afviste asylansøgere. Det virker nu som meget længe siden, for i går bakkede partiet op om regeringens planer om at åbne et udrejsecenter i Rwanda. Hvad er der sket med de Radikale, og hvor langt vil de gå i migrationspolitikken? Christian Bennike spørger partiets udlændingeordfører, Magnus Georg Jensen.</desc>
     <episode-num system="xmltv_ns">2025.176.0</episode-num>
+  </programme>
+  <programme start="20261120043000 +0000" stop="20261120050000 +0000" channel="dr2.dk">
+    <title>Deadline: Et samlet Venstre?</title>
+    <desc>Efter måneder med interne spændinger, eksklusioner og faldende meningsmålinger skulle Troels Lund Poulsens lederskab stå sin prøve ved Venstres landsmøde i weekenden. To minutters klapsalver til formanden sendte et signal om et parti, der står samlet bag sin leder. Men har Troels Lund Poulsen fået stoppet blødningen i Venstre - eller ulmer splittelsen stadig under overfladen?
+Issa Mahmoud Jeppesen taler med Preben Bang Henriksen, der som ny-ekskluderet fulgte landsmødet fra sidelinjen, om Venstres nye retning.</desc>
+    <episode-num system="xmltv_ns">2025.175.0</episode-num>
   </programme>
   <programme start="20261120050000 +0000" stop="20261120054000 +0000" channel="dr2.dk">
     <title>Hvornår var det nu det var (11:17)</title>
@@ -206,6 +81,7 @@ Det samme gør Uppercut Danseteater, men med dans!</desc>
   <programme start="20261120070500 +0000" stop="20261120073000 +0000" channel="dr2.dk">
     <title>Morgenandagten</title>
     <desc>Morgenandagten fra Vor Frue Kirke, Københavns Domkirke.</desc>
+    <episode-num system="xmltv_ns">2025.271.0</episode-num>
   </programme>
   <programme start="20261120073000 +0000" stop="20261120110000 +0000" channel="dr2.dk">
     <title>Seneste nyt fra TVA</title>
@@ -252,8 +128,8 @@ Instruktion: Spike Lee.</desc>
     <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
   </programme>
   <programme start="20261120211500 +0000" stop="20261120220500 +0000" channel="dr2.dk">
-    <title>Debatten</title>
-    <desc>Danmarks stærkeste stemmer diskuterer tidens sværeste beslutninger. Hver torsdag direkte fra DR Byen. Vært: Clement Kjersgaard.</desc>
+    <title>Debatten: Er Rwanda løsningen?</title>
+    <desc>Danmark vil sende afviste asylansøgere til et udrejsecenter i Rwanda allerede næste år, men det indebærer ikke de udvisningsdømte kriminelle. Kan regeringen sikre, at Rwanda lever op til menneskerettigheder? Fraskriver Danmark sig sit ansvar, eller er løsningen tværtimod ikke vidtgående nok? Udlændinge- og integrationsminister Morten Bødskov, er blandt deltagerne i ugens udgave af Debatten. Vært: Clement Kjersgaard.</desc>
     <episode-num system="xmltv_ns">2025.31.0</episode-num>
   </programme>
   <programme start="20261120220500 +0000" stop="20261120234000 +0000" channel="dr2.dk">
@@ -682,8 +558,9 @@ Sendt første gang 27.10.2019</desc>
     <episode-num system="xmltv_ns">2025.179.0</episode-num>
   </programme>
   <programme start="20261124033000 +0000" stop="20261124040000 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <title>Deadline: Har tech-bosserne for meget magt?</title>
+    <desc>Big tech boomer. Men har tech-bosserne fået for stor magt? 
+Digital analytiker Christine Vejlø og it-iværksætter David Heinemeier Hansson er uenige om svaret på det spørgsmål. De mødes i debat med Casper Schrøder for bordenden.</desc>
     <episode-num system="xmltv_ns">2025.178.0</episode-num>
   </programme>
   <programme start="20261124040000 +0000" stop="20261124043500 +0000" channel="dr2.dk">
@@ -829,8 +706,9 @@ Dansk videnskabsserie fra 2022 om kvantefysikkens uforklarligheder, som tager ud
     <episode-num system="xmltv_ns">2025.179.0</episode-num>
   </programme>
   <programme start="20261125040000 +0000" stop="20261125043500 +0000" channel="dr2.dk">
-    <title>Deadline</title>
-    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <title>Deadline: Har tech-bosserne for meget magt?</title>
+    <desc>Big tech boomer. Men har tech-bosserne fået for stor magt? 
+Digital analytiker Christine Vejlø og it-iværksætter David Heinemeier Hansson er uenige om svaret på det spørgsmål. De mødes i debat med Casper Schrøder for bordenden.</desc>
     <episode-num system="xmltv_ns">2025.178.0</episode-num>
   </programme>
   <programme start="20261125050000 +0000" stop="20261125055000 +0000" channel="dr2.dk">
@@ -938,5 +816,134 @@ London, 2021. En mand i pink Star Wars-stormtrooper-kostume kører rundt og skyd
 Japansk dokumentar fra 2024.
 (The Contestant)
 (Dokumania)</desc>
+  </programme>
+  <programme start="20261126011500 +0000" stop="20261126020000 +0000" channel="dr2.dk">
+    <title>Spionhvalen (2:2)</title>
+    <desc>Britisk dokumentarserie fra 2024.
+(Secrets of the Spy Whale)
+Dyreeksperter bliver tilkaldt for at vurdere helbredet hos hvidhvalen Hvaldimir. Det står klart, at den er blevet trænet - men til hvilket formål og af hvem? Det er først, da journalister analyserer satellitbilleder af Ruslands arktiske militærbaser, at hvalens egentlige identitet begynder at blive tydelig.</desc>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+  </programme>
+  <programme start="20261126020000 +0000" stop="20261126022000 +0000" channel="dr2.dk">
+    <title>P3 Essensen - Sådan blev Ruslands hemmelige atomprogram afsløret</title>
+    <desc>Rusland har i årevis arbejdet indædt på at udbygge landets atomprogram. Med satellitbilleder har internationale observatører kunne følge med i udbygningen af baser og militære installationer over hele Rusland, men har indtil videre kun kunnet gisne om, hvad der mon foregår under jorden, hvor satellitterne ikke kan se med.
+Indtil Danwatch falder over 4 terabyte med fortrolige informationer i en russisk database for byggeudbud...</desc>
+    <episode-num system="xmltv_ns">1.73.0</episode-num>
+  </programme>
+  <programme start="20261126022000 +0000" stop="20261126030000 +0000" channel="dr2.dk">
+    <title>Danmark i Den Kolde Krig (7:12)</title>
+    <desc>Dansk dokumentarserie fra 2000. De var danskere, men familien vokser op i "fjendeland". Faderen i familien bliver i 1959 sendt på partiskole i DDR. Derefter bliver han på opfordring af DKP oversætter og redaktør af det kommunistiske tidsskrift DDR-revy i Dresden. Siden hen bliver han korrespondent for Land og Folk i Østberlin. Hans gamle mor og hans børn flytter med ham til DDR, og her bor de indtil begyndelsen af 80'erne.</desc>
+    <episode-num system="xmltv_ns">0.6.0</episode-num>
+  </programme>
+  <programme start="20261126030000 +0000" stop="20261126033000 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <episode-num system="xmltv_ns">2025.181.0</episode-num>
+  </programme>
+  <programme start="20261126033000 +0000" stop="20261126040000 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <episode-num system="xmltv_ns">2025.180.0</episode-num>
+  </programme>
+  <programme start="20261126040000 +0000" stop="20261126043500 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <episode-num system="xmltv_ns">2025.179.0</episode-num>
+  </programme>
+  <programme start="20261126045500 +0000" stop="20261126060000 +0000" channel="dr2.dk">
+    <title>Danmarkshistorien fortalt af Erik Kjersgaard (10:12)</title>
+    <desc>Dansk dokumentarserie fra 1982. Om perioden 1900-1933. Århundredets begyndelse er præget af det sejrende demokrati under Venstres ledelse. Men også af 1. verdenskrig og den stærke økonomiske og kulturelle turbulens, som krigen udløser.</desc>
+    <episode-num system="xmltv_ns">0.9.0</episode-num>
+  </programme>
+  <programme start="20261126060000 +0000" stop="20261126063000 +0000" channel="dr2.dk">
+    <title>Øgendahl og de store forfattere: Michael Strunge (3:6)</title>
+    <desc>Kan Michael Strunge gøre Mick Øgendahl klogere på punk, poesi og livets hastighed? Se med, når Øgendahl bruger en storbynat sammen med en af 1980'ernes helt store generationsikoner, og havner til en mystisk punkkoncert med neonlys og ungdomsoprør. Hvordan kunne Strunge skrive 11 digtsamlinger på kun 8 år? Og hvad sker der med Mick, når han er vågen en hel nat med Strunge? Øgendahl gør sit bedste i forsøget på at blive klogere på de store danske forfattere, som han aldrig har fået læst.</desc>
+    <episode-num system="xmltv_ns">1.2.0</episode-num>
+  </programme>
+  <programme start="20261126063000 +0000" stop="20261126070000 +0000" channel="dr2.dk">
+    <title>Mig og 80'erne (1:4)</title>
+    <desc>"Hjemmet"
+Tag med en nostalgisk rejse når en række markante danskere åbner op for deres private fotoalbum fra 80'erne; årtiet hvor de gik fra børn til voksne. 
+Om de var bz'er, yuppie eller fredsaktivist, var det årtiet, hvor de lejer deres første moviebox med vennerne og hvor frygten for AIDS ånder dem i nakken. 
+I dette afsnit går vi på opdagelse i 80'er-hjem og ser nærmere på, hvordan de- og vi boede og indrettede os i et fattigt og polariseret årti, hvor man enten hyldede fællesskabet og det ikke-kommercielle, eller skurede op for forbruget, installerede solarium over dobbelt senge og for alvor begyndte at dyrkede sig selv.</desc>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+  </programme>
+  <programme start="20261126070000 +0000" stop="20261126070500 +0000" channel="dr2.dk">
+    <title>Radioavisen</title>
+    <desc>Bliv opdateret på de seneste nyheder fra ind- og udland.</desc>
+  </programme>
+  <programme start="20261126070500 +0000" stop="20261126073000 +0000" channel="dr2.dk">
+    <title>Morgenandagten</title>
+    <desc>Morgenandagten fra Vor Frue Kirke, Københavns Domkirke.</desc>
+  </programme>
+  <programme start="20261126073000 +0000" stop="20261126110000 +0000" channel="dr2.dk">
+    <title>Seneste nyt fra TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20261126110000 +0000" stop="20261126161500 +0000" channel="dr2.dk">
+    <title>Seneste nyt fra TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20261126161500 +0000" stop="20261126164500 +0000" channel="dr2.dk">
+    <title>Danmark i Den Kolde Krig (8:12)</title>
+    <desc>Dansk dokumentarserie fra 2000. DDR er Danmarks nære nabo mod syd under den kolde krig. Og den østtyske efterretningstjeneste Stasi interesserer sig levende for det danske samfund. To kvinder arbejder på universitet i Greifsvald, hvor man underviser kommende stasiagenter. Den ene er dansker og gift med en østtysker. Den anden er østtysker og en loyal DDR-borger, som i årevis samarbejder med Stasi. Begge oplever de murens fald på nært hold.</desc>
+    <episode-num system="xmltv_ns">0.7.0</episode-num>
+  </programme>
+  <programme start="20261126164500 +0000" stop="20261126172500 +0000" channel="dr2.dk">
+    <title>Danmark i Den Kolde Krig (9:12)</title>
+    <desc>Dansk dokumentarserie fra 2000. Oleg Gordijevskij lever i 11 år som russisk dobbeltagent. Han er tæt på at blive henrettet i Sovjetunionen, men når at flygte til England, hvor han bliver boende. Han beslutter sig for at arbejde for Vesten, da han er KGB-agent på den sovjetiske ambassade i København i 70'erne. Han fortæller om sin tid i Danmark og det livsfarlige job som dobbeltagent.</desc>
+    <episode-num system="xmltv_ns">0.8.0</episode-num>
+  </programme>
+  <programme start="20261126172500 +0000" stop="20261126182000 +0000" channel="dr2.dk">
+    <title>Hitlers håndlangere - Joseph Goebbels</title>
+    <desc>Han var Hitlers propagandaminister - målrettet, skarp og skruppelløs. Joseph Goebbels arbejdede sig op til at blive en central og magtfuld skikkelse i Det Tredje Rige. Med følelsesladet retorik og moderne medier som radio, film og aviser iscenesatte han Hitlers image, styrede den offentlige mening og spredte den nazistiske ideologi. Hans mål var at forføre og kontrollere massernes tanker og følelser. Og med ord og billeder banede han vejen for forfølgelse og udryddelse. 
+Tysk dokumentarserie fra 2025.
+(Hitler's Entourage)</desc>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+  </programme>
+  <programme start="20261126182000 +0000" stop="20261126190500 +0000" channel="dr2.dk">
+    <title>Live Aid - Da rocken reddede verden (1:4)</title>
+    <desc>Amerikansk dokumentarserie fra 2025.
+(Live Aid 40 Years)
+I 1984 samler rockstjernen Bob Geldof en række popikoner for at indspille en sang til fordel for det hungersnødramte Etiopien. Det, der begynder som et nødhjælpsprojekt, vokser til en global bevægelse og trækker Geldof ind i en kompleks verden af bistand, velgørenhed og afrikansk politik - og kommer til at forme resten af hans liv.</desc>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+  </programme>
+  <programme start="20261126190500 +0000" stop="20261126200000 +0000" channel="dr2.dk">
+    <title>Nøglerne til slottet (1:4): Dogepaladset</title>
+    <desc>Hemmelige rum, imponerende rigdom og grufulde torturkamre. Historiker Lucy Worsley får nøglerne til Dogepaladset i Venedig, hovedsædet for et af historiens mægtigste imperier. Bag de prægtige mure gemmer sig storslåede sale, der vidner om velstand, men også historier om brutal magtudøvelse, hemmelige retssager og hårde straffe. Lucy udforsker paladsets mørke sider og hører om den berygtede kvindebedårer Casanova, der som en af de få lykkedes med at flygte fra fængslet.
+BBC-dokumentarserie fra 2026.
+(The Keys to the Castle)</desc>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+  </programme>
+  <programme start="20261126200000 +0000" stop="20261126210000 +0000" channel="dr2.dk">
+    <title>Magisk mudder</title>
+    <desc>Stjerne-geologen Minik Rosing har fået en vild ide: Kan det mudder, der skylles ud i uendelige mængder fra undersiden af den grønlandske indlandsis, være med til at løse mangel på mad i de fattige lande og samtidig mindske klimaforandringerne?
+Dokumentaren følger over 8 år Minik Rosings videnskabelige op- og nedture fra det første mudder bliver samlet op, videre til forsøg i med potteplanter i laboratoriet, på fynske spidskålsmarker, majsdyrkning i Ghana - lige til vi får svaret på, om det virker.</desc>
+  </programme>
+  <programme start="20261126210000 +0000" stop="20261126211500 +0000" channel="dr2.dk">
+    <title>TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20261126211500 +0000" stop="20261126214500 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <episode-num system="xmltv_ns">2025.182.0</episode-num>
+  </programme>
+  <programme start="20261126214500 +0000" stop="20261126221500 +0000" channel="dr2.dk">
+    <title>Trumps USA</title>
+    <desc>I "Trumps USA" stiller vi skarpt på de afgørende udviklinger, personopgør og dagsordener, der udspiller sig i amerikansk politik.</desc>
+    <episode-num system="xmltv_ns">2025.32.0</episode-num>
+  </programme>
+  <programme start="20261126221500 +0000" stop="20261127000000 +0000" channel="dr2.dk">
+    <title>Bo Widerberg - den svenske mesterinstruktør</title>
+    <desc>Bo Widerberg var en af Sveriges mest indflydelsesrige filmskabere. Den anerkendte og excentriske instruktør og forfatter blev født i Malmø i 1930. Han udgav flere romaner og novellesamlinger, inden han rettede en skarp kritik mod den indadvendte svenske filmkultur og argumenterede for en ny bølge af realisme i filmkunsten. Her dykker vi ned i hans karriere og passionerede jagt på livet, der fik konsekvenser for både hans kolleger, familie og ham selv.
+Svensk dokumentar fra 2025.
+(Being Bo Widerberg)</desc>
+  </programme>
+  <programme start="20261127000000 +0000" stop="20261127013500 +0000" channel="dr2.dk">
+    <title>Bag om Barbie</title>
+    <desc>Barbie er verdens mest kendte dukke, der lever i en fortryllet og glitrende glamourverden fuld af eventyr. Men under overfladen gemmer der sig en mørk og dramatisk historie. Her undersøger vi hemmelighederne bag skabelsen af den ikoniske dukke og hendes ekstraordinære liv. En fortælling om milliarder af kroner og om kamp og forræderi mellem hendes mor og far - de to skabere Ruth Handler og Jack Ryan. 
+Britisk dokumentar fra 2024.
+(Barbie Uncovered)(Dokumania)</desc>
   </programme>
 </tv>
