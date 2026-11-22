@@ -3,10 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20261121190000 +0000" stop="20261121192000 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20261122190000 +0000" stop="20261122192000 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
@@ -52,6 +48,25 @@ Uppgjör á leik Íslands og Bosníu í undankeppni HM karla í körfubolta.</de
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
   <programme start="20261127190000 +0000" stop="20261127192700 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20261128173000 +0000" stop="20261128182300 +0000" channel="ruv2.is">
+    <title>KrakkaRÚV</title>
+  </programme>
+  <programme start="20261128173100 +0000" stop="20261128175400 +0000" channel="ruv2.is">
+    <title>Kóngulóarstrákurinn og frábæru vinir hans</title>
+    <desc>Kóngulóarstrákurinn og frábæru vinir hans berjast gegn illmennum á götum New York borgar.</desc>
+  </programme>
+  <programme start="20261128175400 +0000" stop="20261128180100 +0000" channel="ruv2.is">
+    <title>Kraftaflan</title>
+    <desc>Kraftaflan, stórkostlegasta kartöfluofurhetja heims, tekst á við Slæmu Ertuna á göngum matvörubúðarinnar.</desc>
+  </programme>
+  <programme start="20261128180100 +0000" stop="20261128182300 +0000" channel="ruv2.is">
+    <title>Hvolpasveitin VI</title>
+    <desc>Sjötta serían af Hvolpsveitinni þar sem uppáhalds hvolparnir okkar lenda í nýjum ævintýrum og leysa skemmtilegt verkefni.</desc>
+  </programme>
+  <programme start="20261128190000 +0000" stop="20261128192000 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>

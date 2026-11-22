@@ -3,26 +3,6 @@
   <channel id="kvf.fo">
     <display-name>KVF</display-name>
   </channel>
-  <programme start="20261121180000 " stop="20261121183500 " channel="kvf.fo">
-    <title>Í Skorini við Tjørnuvíkingum</title>
-    <sub-title>- føroysk sending frá 1997</sub-title>
-    <desc>Tjørnuvíkingar eru hvørt ár úti í Skorini eftir seyði. Zacharias Hammer og Jógvan Eli Dam vóru við teimum í 1997. Frásøgumaður: Steinbjørn Magnussen.</desc>
-  </programme>
-  <programme start="20261121183500 " stop="20261121191500 " channel="kvf.fo">
-    <title>Villdjórahjarta 7:7</title>
-    <sub-title>- norsk røð frá 2022</sub-title>
-    <desc>Aviv, djóralækni, ætlar at lata upp sjúkrahús til villdjór Í Noregi. Men avbjóðingarnar eru nógvar hjá tí hjartagóða djóralæknanum. (7:7) Sesong 1. Broadcast Company NRK</desc>
-  </programme>
-  <programme start="20261121191500 " stop="20261121200000 " channel="kvf.fo">
-    <title>Seyðamaður og granskari 1:2</title>
-    <sub-title>- føroysk stuttrøð frá 2003</sub-title>
-    <desc>Hósvíkingurin Helgi í Brekkunum hevur frá barnsbeini av havt stóran áhuga fyri seyði. Hann gekk burtur í haga í fleiri hagapørtum í bygdini. Og síðani hann seinast í áttatiárunum fór at røkta í heimbygdini, hevur hann miðvíst lagt seg eftir at fáa sum mest burtur úr seyðahaldinum. Hann var forvitin eftir at vita, um tað er rætt, at seyðurin í teimum kørgu fjallahøgunum hevur betri fiti enn aðrir hagar. Tá hann fekk møguleikan at kanna hetta, tók hann av. Segði læraraarbeiðið í Havn frá sær og tók við einum festi í heimbygdini. Neyva skrásetingin í sambandi við kanningina hevur givið seyðamanninum úr Hósvík møguleikar at gera fleiri aðrar niðurstøður, ið kunnu gagna føroyska seyðahaldinum. Lagt til rættis: Tórður Mikkelsen.</desc>
-  </programme>
-  <programme start="20261121200000 " stop="20261122070000 " channel="kvf.fo">
-    <title>William Tell</title>
-    <sub-title>- evropeiskur filmur frá 2024, óhósk. fyri børn</sub-title>
-    <desc>Sveis, 1307. Tá ið tann harðrendi eysturíkski landshøvdingin Gessler (Connor Swindells) noyðir William Tell (Claes Bang) at skjóta eitt súrepli av høvdinum á soninum, verður tann fyrrverandi krossferðarriddarin noyddur í stríðið móti kúgan. Fyri at bjarga fólkinum, noyðist hann at bróta harðskapslyftið hjá sær. Ein altjóða stórfilmur við danska sjónleikaranum Claues Bang í høvuðsleiklutinum. Leikstjórnað hevur bretin Nick Hamm. Evropeisk samframveiðsla millum Stórabretland, Italia,  Sveis og Týskland. Partvís amerikonsk fígging, men fyrst og fremst bretsk-italsk-sveisisk. Upprunaheiti: William Tell Framl.ár: 2024</desc>
-  </programme>
   <programme start="20261122070000 " stop="20261122071400 " channel="kvf.fo">
     <title>Hvat gera tit?</title>
     <sub-title>- føroysk barnasending (3:5)</sub-title>
@@ -304,7 +284,27 @@
     <title>Dagur og vika</title>
     <sub-title>- við teksti</sub-title>
   </programme>
-  <programme start="20261127224500 " stop="20261127234500 " channel="kvf.fo">
+  <programme start="20261127224500 " stop="20261128180000 " channel="kvf.fo">
     <title>Veðrið</title>
+  </programme>
+  <programme start="20261128180000 " stop="20261128184000 " channel="kvf.fo">
+    <title>Ræning omaneggja</title>
+    <sub-title>- sending frá 1988</sub-title>
+    <desc>28. mai 1988 vóru skúvoyingar og rændu omaneggja. Teir vóru norðuri á Dalinum henda dagin. 15 mans vóru við og fýra fóru niður. Teir høvdu tvær línur við og gjørdu 12 sig. Men nógv egg vóru ikki henda dagin, tí hóttafall er á lomvigastovninum og hann minkar ár undan ári. Sendingin vísir hvat gongur fyri seg ein dag í ræning.</desc>
+  </programme>
+  <programme start="20261128184000 " stop="20261128192000 " channel="kvf.fo">
+    <title>Seyðamaður og granskari 2:2</title>
+    <sub-title>- føroysk stuttrøð frá 2003</sub-title>
+    <desc>Helgi í Brekkunum segði læraraarbeiðið í Havn frá sær og tók við einum festi í heimbygdini Hósvík fyri at kanna fitina í seyðakjøtinum. Hann fann út av, at lomb, ið fáa nógva mjólk frá mammuni til tey verða flett, hava ósunnari fiti enn tey, ið eta nógv gras. Neyva skrásetingin í sambandi við kanningina hevur givið seyðamanninum úr Hósvík møguleikar at gera fleiri aðrar niðurstøður, ið gagna føroyska seyðahaldinum. Tórður Mikkelsen gjørdi sendingina í 2003</desc>
+  </programme>
+  <programme start="20261128192000 " stop="20261128203500 " channel="kvf.fo">
+    <title>Í menniskjum góður tokki</title>
+    <sub-title>- jóla- og stuðulskonsert hjá Barnabata, endurs. frá sunnud.</sub-title>
+    <desc>Árliga jóla- og stuðulskonsertin hjá Barnabata, Í menniskjum góður tokki. Við at stuðla Í menniskjum góður tokki kunnu vit hjálpa føroyskum barnafamiljum, ið liva í fátækraváða. Evnið til sendingina er "Felagsskapur", har vit royna at fáa tað menniskjaliga, konkreta, og neyðuga perspektivið við.</desc>
+  </programme>
+  <programme start="20261128203500 " stop="20261128213500 " channel="kvf.fo">
+    <title>Reality</title>
+    <sub-title>- am. filmur frá 2023</sub-title>
+    <desc>Whistleblowarin Reality Winner (Sydney Sweeney) verður settur fastur av FBI fyri at stjala dulsmál frá trygdartænastuni NSA í USA og leka til fjølmiðlarnar. Kunningin prógvar ávirkanina hjá Ruslandi valinum í USA í 2016. Filmurin byggir á veruliga hending. Upprunaheiti: Reality Framl. ár: 2023 Programkategori: Film</desc>
   </programme>
 </tv>
