@@ -3,10 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20261124190000 +0000" stop="20261124192700 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20261125190000 +0000" stop="20261125192700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
@@ -67,6 +63,37 @@ Uppgjör á leik Íslands og Bosníu í undankeppni HM karla í körfubolta.</de
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
   <programme start="20261130190000 +0000" stop="20261130192700 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20261201173000 +0000" stop="20261201182100 +0000" channel="ruv2.is">
+    <title>KrakkaRÚV</title>
+  </programme>
+  <programme start="20261201173100 +0000" stop="20261201175600 +0000" channel="ruv2.is">
+    <title>Jóladagatalið: Jól í Snædal</title>
+    <desc>Talsett, norskt jóladagatal sem segir frá Hlyni og vinum hans í Snædal og spennandi og skemmtilegum ævintýrum sem þeir lenda í.</desc>
+  </programme>
+  <programme start="20261201175600 +0000" stop="20261201181800 +0000" channel="ruv2.is">
+    <title>Múmínálfarnir II</title>
+    <desc>Ástsælu Múmínálfar Tove Jansson snúa aftur og lenda í alls kyns skemmtilegum ævintýrum.</desc>
+  </programme>
+  <programme start="20261201181800 +0000" stop="20261201182000 +0000" channel="ruv2.is">
+    <title>Fílsi leikur sér</title>
+    <desc>Ný sería um hinn skemmtilega Fílsa. Í þessari seríu fer Fílsi í kunnuglega barnaleiki og syngur skemmtileg lög með þér!</desc>
+  </programme>
+  <programme start="20261201182000 +0000" stop="20261201182500 +0000" channel="ruv2.is">
+    <title>Krakkafréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir settar fram á einfaldan og aðgengilegan hátt.
+
+Umsjón: Ari Páll Karlsson, Embla Bachmann og Snæ Humadóttir. Ritstjórn: Ari Páll Karlsson.</desc>
+  </programme>
+  <programme start="20261201185500 +0000" stop="20261201192000 +0000" channel="ruv2.is">
+    <title>Stofan</title>
+    <desc>Umfjallanir um leiki í undankeppni HM kvenna í fótbolta.
+
+Uppgjör á leik Portúgals og Íslands í umspili í undankeppni HM kvenna í fótbolta.</desc>
+  </programme>
+  <programme start="20261201192000 +0000" stop="20261201194700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
