@@ -3,40 +3,6 @@
   <channel id="kvf.fo">
     <display-name>KVF</display-name>
   </channel>
-  <programme start="20261125170000 " stop="20261125173000 " channel="kvf.fo">
-    <title>Alt um djór</title>
-    <sub-title>- barnarøð frá BBC við føroyskari talu</sub-title>
-  </programme>
-  <programme start="20261125173000 " stop="20261125180000 " channel="kvf.fo">
-    <title>Snipp snapp</title>
-    <sub-title>- føroysk barnasending (7:7)</sub-title>
-    <desc>Í Snipp snapp eru teknifilmar, ið eru ætlaðir yngru børnunum, hesa ferð m.a. Bláa og Labbaliðið.</desc>
-  </programme>
-  <programme start="20261125180000 " stop="20261125184000 " channel="kvf.fo">
-    <title>Ræning omaneggja</title>
-    <sub-title>- sending frá 1988</sub-title>
-    <desc>28. mai 1988 vóru skúvoyingar og rændu omaneggja. Teir vóru norðuri á Dalinum henda dagin. 15 mans vóru við og fýra fóru niður. Teir høvdu tvær línur við og gjørdu 12 sig. Men nógv egg vóru ikki henda dagin, tí hóttafall er á lomvigastovninum og hann minkar ár undan ári. Sendingin vísir hvat gongur fyri seg ein dag í ræning.</desc>
-  </programme>
-  <programme start="20261125184000 " stop="20261125191000 " channel="kvf.fo">
-    <title>At fiska og vera í náttúruni 7:8</title>
-    <sub-title>- svensk røð frá 2021</sub-title>
-    <desc>Martin fer at royna eitt av teimum fáu støðunum í Svøríki, har til ber at fiska tosk og reyðsprøku við góðari samvitsku. Heystvindurin hevur høga aldu við sær! Programmleiðarar: Martin Falklind. 7. partur av 8. Broadcast Company SVT</desc>
-  </programme>
-  <programme start="20261125191000 " stop="20261125194000 " channel="kvf.fo">
-    <title>Frank og Kastanjugarðurin</title>
-    <sub-title>- drepa gæs og nýtt traktorsetur</sub-title>
-    <desc>Gásarungar eru fittir, men vaksnar gæs eru ágangandi. Frank fer at velja nakrar gæs at drepa, hann rópar tað revsingartíman.  Og so skal traktorurin gerast aftur, hann er brúktur so nógv, at setrið er brotið, tað skal skiftast.</desc>
-  </programme>
-  <programme start="20261125194000 " stop="20261125204000 " channel="kvf.fo">
-    <title>Húsdreymar</title>
-    <sub-title>- svensk røð frá 2026 (2:11)</sub-title>
-    <desc>Alica er fylt 21 ár og skal flyta heiman. Hon hevur verið so heppin at finna eina íbúð mitt í Göteborg. Og eftir sum Alica er kokkur og elskar mat og veitslur, er valið lætt. Nýggja íbúðin skal í roynd og veru vera ein stórur køkur. Fínt, rópar Gert Wingårdh. ?Hvør vil ikki búgva í einum køki?"</desc>
-  </programme>
-  <programme start="20261125204000 " stop="20261126170000 " channel="kvf.fo">
-    <title>Størstur</title>
-    <sub-title>- Ingemann í Grand Central Terminal, New York</sub-title>
-    <desc>Mitt í New York liggur Grand Central Terminal - heimsins størsta tokstøð! 750.000 fólk ganga gjøgnum farstøðina hvønn einasta dag, so Audrey, fyrrverandi løgreglumaður, sum er pensjonistur, hevur úr at gera, hann dugir toktíðirnar uttanat. Farstøðin er tó nógv meira enn ein tokflutningsstøð, Peter Ingemann vitjar ein fínan tennisklubba, ið er ætlaður teimum ríkastu á Manhattan. Danski meistarakokkurin, Claus Meyer, hevur eisini funnið vegin til Grand Central. Og hóast New Yorkarnir stríðast við úttaluna, hava teir kastað kærleikan á danskar klassikarar, sum breyðsuppu og ´frøsnapparar´. Risastóri Subway ella fótgangaratunnilin í New York er eisini vorðin staðið hjá mongum tónleikarum, m.a. Saw Lady, sum spælir í gongdunum undir stórbýnum. Upprunaheiti: Størst Framl.ár: 2018 Programkategori: Dokumentar</desc>
-  </programme>
   <programme start="20261126170000 " stop="20261126173000 " channel="kvf.fo">
     <title>Snipp snapp</title>
     <sub-title>- føroysk barnasending (7:7)</sub-title>
@@ -175,7 +141,7 @@
     <desc>Inni í holuni hjá Vimúsi eru nógvar bøkur, ja eitt heilt músabókasavn. Vimúsi dámar væl at lesa søgur, siga frá søgum og eisini at lurta eftir søgum. Og tí tímir Vimús væl at fáa vitjan. Ein søguvitjan er altíð góð. Ein søguvitjan er soleiðis, at ein lesur søgu og hin lurtar.</desc>
   </programme>
   <programme start="20261129150000 " stop="20261129155500 " channel="kvf.fo">
-    <title>Spírabrak barnamøti hjá Heimamissiónini</title>
+    <title>Spírabrak - barnamøti hjá Heimamissiónini</title>
   </programme>
   <programme start="20261129155500 " stop="20261129164000 " channel="kvf.fo">
     <title>Klassisk uppliving 1:4</title>
@@ -302,7 +268,50 @@
     <title>Dagur og vika</title>
     <sub-title>- við teksti</sub-title>
   </programme>
-  <programme start="20261201214500 " stop="20261201224500 " channel="kvf.fo">
+  <programme start="20261201214500 " stop="20261202170000 " channel="kvf.fo">
     <title>Veðrið</title>
+  </programme>
+  <programme start="20261202170000 " stop="20261202170500 " channel="kvf.fo">
+    <title>Pjøppa og Goffi 2:24</title>
+    <sub-title>- føroysk barnasending</sub-title>
+  </programme>
+  <programme start="20261202170500 " stop="20261202173000 " channel="kvf.fo">
+    <title>Jólakongur 1</title>
+    <sub-title>- norsk jólarøð við føroyskari talu, frá 2014</sub-title>
+    <desc>JÓLAKONGUR Ein bergtakandi blanding av ævintýri, riddarum og vinalag. Ein familjurøð um 9 ára gamla Kevin og spennandi hendingar, tá hann finnur ein dal, har riddarar búgva. Kevin og tey búgva í Silvurskógi. Pápin er grannskoðari og arbeiðir fyri eina eitt sindur grussuta konu, sum ber seg at, sum átti hon alla bygdina. Mamman, sum er løgreglukona, keðir seg í starvinum, tí onki hendir nakrantíð, systirin, Mira, ímyndar sær, at hon er prinsessa, og tað roynir hon so eisini at vísa. Øll í Silvurskógi hava nógv at gera til jóla, tá Kevin og tey koma eftir, at húsini eru full í soppi, og at tey noyðast at flyta út. Útlitini fyri at fáa eini gleðilig jól eru alt annað enn góð.</desc>
+  </programme>
+  <programme start="20261202173000 " stop="20261202180000 " channel="kvf.fo">
+    <title>Jólakongur 2</title>
+    <sub-title>- norsk jólarøð við føroyskari talu, frá 2014</sub-title>
+    <desc>Kevin er forvitin eftir at vita meir um handskan , sum hann hevur funnið í holuni í skóginum,  men Petur forðar. Og kortini førir handskin Kevin til ein heim, hann ikki visti um.</desc>
+  </programme>
+  <programme start="20261202180000 " stop="20261202182500 " channel="kvf.fo">
+    <title>Í Villingabergi</title>
+    <sub-title>- føroysk sending frá 1989</sub-title>
+    <desc>Villingaberg, vestanfyri á Suðuroynni millum Sandvík og Hvalba, er størsta feitilendi í Føroyum. Sjónvarpið var við ein túr, tá hvalbingar vóru har eftir veðri. Sendingina gjørdu: Jógvan Asbjørn Skaale og Bjarni Rubeksen.</desc>
+  </programme>
+  <programme start="20261202182500 " stop="20261202185500 " channel="kvf.fo">
+    <title>At fiska og vera í náttúruni 8:8</title>
+    <sub-title>- svensk røð frá 2021</sub-title>
+    <desc>Martin og Emilie eru farin at fiska áburru. Emilie, sum var við barn, tá upptøkurnar til seinasta umfar av sendirøðini vóru, hevur nú nýfødda barnið hjá sær. Eisini mamma Emiliu, Anna Lena Björkman, er við. Programmleiðari: Martin Falklind og Emilie Björkman. 8. partur av 8. Broadcast Company SVT.</desc>
+  </programme>
+  <programme start="20261202185500 " stop="20261202192500 " channel="kvf.fo">
+    <title>Frank og Kastanjugarðurin</title>
+    <sub-title>- svensk kurvaflætting og nýggjan ambolt</sub-title>
+    <desc>Frank er farin til Svøríki at vitja ein flættimeistari, sum skal læra ham at flætta eina kurv. Heima á Kastanjugarðinum hevur Frank útvega sær eina stóra rundsag, sum skal snøggast, og ambolturin skal hava eitt nýtt undirlag.</desc>
+  </programme>
+  <programme start="20261202192500 " stop="20261202202500 " channel="kvf.fo">
+    <title>Húsdreymar</title>
+    <sub-title>- svensk røð frá 2026 (3:11)</sub-title>
+    <desc>- frá 60-unum til nútímans sethús. Ber til at umvæla eini gomul sethús til eini nútímans hús. Sofia og Alexander hava funnið besta staðið í Ulricehamn beint við Ásundet. Men fyri at tey skulu trivast, tørvar ein heildar umvæling. Tey biðja hjálp frá Linus Fernström, fyrrverandi málmanni í hondbólti, sum gjørdi sítt fyrsta hús í "Húsdreymar" fyri nøkrum árum síðani. Hann tekur avbjóðingina, og sær fyri sær stórar gluggar og slætt tak. Partur 3 av 11.</desc>
+  </programme>
+  <programme start="20261202202500 " stop="20261202211000 " channel="kvf.fo">
+    <title>Størstur</title>
+    <sub-title>- jól í Finnlandi</sub-title>
+  </programme>
+  <programme start="20261202211000 " stop="20261202221000 " channel="kvf.fo">
+    <title>Gler fyri milliónir</title>
+    <sub-title>- fryst vatn - blomstrandi forrætning</sub-title>
+    <desc>Ísur, gler og kavi er vakurt tilfar, men kann vera svikaligt, óstøðugt og broytiligt at arbeiða við, og tað krevur nógv av teimum, sum handfara tað frysta vatnið. Vit hitta fólk, sum arbeiða við gleri/ísi alt árið í tí kalda, blómandi milliónaídnaðinum av marglætisframleiðslu, sum kann vera alt frá glerhotellum til stórar standmyndir,  -ella ísterningar. Prísur fyri ísterningarnar? Upp í 800 kr. fyri 12 stk!! Upprunaheiti: A Frozen Christmas. Framleiðsluár: 2015</desc>
   </programme>
 </tv>
