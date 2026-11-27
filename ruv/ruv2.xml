@@ -3,37 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20261126120000 +0000" stop="20261126123000 +0000" channel="ruv2.is">
-    <title>Aukafréttatími (með táknmálstúlkun)</title>
-  </programme>
-  <programme start="20261126170500 +0000" stop="20261126185000 +0000" channel="ruv2.is">
-    <title>Svíþjóð - Ísland</title>
-    <desc>Beinar útsendingar frá landsleikjum í handbolta.
-
-Landsleikur Svíþjóðar og Íslands í handbolta. Leikurinn er liður í undirbúningi kvennalandsliðsins fyrir EM kvenna í handbolta.</desc>
-  </programme>
-  <programme start="20261126190000 +0000" stop="20261126192000 +0000" channel="ruv2.is">
-    <title>Stofan</title>
-    <desc>Umfjallanir um leiki í undankeppni HM karla í körfubolta.
-
-Upphitun fyrir leik Íslands og Bosníu í undankeppni HM karla í körfubolta.</desc>
-  </programme>
-  <programme start="20261126192000 +0000" stop="20261126212000 +0000" channel="ruv2.is">
-    <title>Ísland - Bosnía</title>
-    <desc>Leikir í undankeppni HM karla í körfubolta.
-
-Leikur Íslands og Bosníu í undankeppni HM karla í körfubolta.</desc>
-  </programme>
-  <programme start="20261126212000 +0000" stop="20261126214000 +0000" channel="ruv2.is">
-    <title>Stofan</title>
-    <desc>Umfjallanir um leiki í undankeppni HM karla í körfubolta.
-
-Uppgjör á leik Íslands og Bosníu í undankeppni HM karla í körfubolta.</desc>
-  </programme>
-  <programme start="20261126214000 +0000" stop="20261126220700 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20261127190000 +0000" stop="20261127192700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
@@ -103,5 +72,26 @@ Uppgjör á leik Portúgals og Íslands í umspili í undankeppni HM kvenna í f
   <programme start="20261202220000 +0000" stop="20261202231800 +0000" channel="ruv2.is">
     <title>The Ground Beneath Our Feet (with English subtitles)</title>
     <desc>An Icelandic documentary from 2025 directed by Yrsa Roca Fannberg. The film explores the sunset of life at Grund Nursing Home in Reykjavík. Having worked there for many years, Yrsa has developed deep connections with the residents who are the film's subject. The result is a poetic and unique insight into this stage of existence, where humanity and compassion shine through. Producer: Hanna Björk Valsdóttir.</desc>
+  </programme>
+  <programme start="20261203172000 +0000" stop="20261203174500 +0000" channel="ruv2.is">
+    <title>KrakkaRÚV</title>
+  </programme>
+  <programme start="20261203172100 +0000" stop="20261203174500 +0000" channel="ruv2.is">
+    <title>Jóladagatalið: Jól í Snædal</title>
+    <desc>Talsett, norskt jóladagatal sem segir frá Hlyni og vinum hans í Snædal og spennandi og skemmtilegum ævintýrum sem þeir lenda í.</desc>
+  </programme>
+  <programme start="20261203174500 +0000" stop="20261203174900 +0000" channel="ruv2.is">
+    <title>Landakort</title>
+    <desc>Valin myndskeið úr Landanum þar sem áhugaverðir staðir eru skoðaðir og merkilegir Íslendingar heimsóttir. Ritstjórn: Gísli Einarsson.</desc>
+  </programme>
+  <programme start="20261203175000 +0000" stop="20261203193500 +0000" channel="ruv2.is">
+    <title>Danmörk - Spánn</title>
+    <desc>Leikir á EM kvenna í handbolta.
+
+Leikur Danmerkur og Spánar EM kvenna í handbolta.</desc>
+  </programme>
+  <programme start="20261203193500 +0000" stop="20261203200200 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
 </tv>
