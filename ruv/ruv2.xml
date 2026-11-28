@@ -3,22 +3,18 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20261127190000 +0000" stop="20261127192700 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20261128173000 +0000" stop="20261128182300 +0000" channel="ruv2.is">
     <title>KrakkaRÚV</title>
   </programme>
-  <programme start="20261128173100 +0000" stop="20261128175400 +0000" channel="ruv2.is">
+  <programme start="20261128173000 +0000" stop="20261128175300 +0000" channel="ruv2.is">
     <title>Kóngulóarstrákurinn og frábæru vinir hans</title>
     <desc>Kóngulóarstrákurinn og frábæru vinir hans berjast gegn illmennum á götum New York borgar.</desc>
   </programme>
-  <programme start="20261128175400 +0000" stop="20261128180100 +0000" channel="ruv2.is">
+  <programme start="20261128175300 +0000" stop="20261128180000 +0000" channel="ruv2.is">
     <title>Kraftaflan</title>
     <desc>Kraftaflan, stórkostlegasta kartöfluofurhetja heims, tekst á við Slæmu Ertuna á göngum matvörubúðarinnar.</desc>
   </programme>
-  <programme start="20261128180100 +0000" stop="20261128182300 +0000" channel="ruv2.is">
+  <programme start="20261128180000 +0000" stop="20261128182300 +0000" channel="ruv2.is">
     <title>Hvolpasveitin VI</title>
     <desc>Sjötta serían af Hvolpsveitinni þar sem uppáhalds hvolparnir okkar lenda í nýjum ævintýrum og leysa skemmtilegt verkefni.</desc>
   </programme>
@@ -91,6 +87,22 @@ Uppgjör á leik Portúgals og Íslands í umspili í undankeppni HM kvenna í f
 Leikur Danmerkur og Spánar EM kvenna í handbolta.</desc>
   </programme>
   <programme start="20261203193500 +0000" stop="20261203200200 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20261204165000 +0000" stop="20261204183500 +0000" channel="ruv2.is">
+    <title>Svíþjóð - Þýskaland</title>
+    <desc>Leikir á EM kvenna í handbolta.
+
+Leikur Svíþjóðar og Þýskalands á EM kvenna í handbolta.</desc>
+  </programme>
+  <programme start="20261204185000 +0000" stop="20261204203500 +0000" channel="ruv2.is">
+    <title>Noregur - Rúmenía</title>
+    <desc>Leikir á EM kvenna í handbolta.
+
+Leikur Noregs og Rúmeníu á EM kvenna í handbolta.</desc>
+  </programme>
+  <programme start="20261204203500 +0000" stop="20261204210200 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>

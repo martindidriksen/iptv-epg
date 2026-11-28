@@ -3,146 +3,6 @@
   <channel id="dr2.dk">
     <display-name>DR2</display-name>
   </channel>
-  <programme start="20261126221500 +0000" stop="20261127000000 +0000" channel="dr2.dk">
-    <title>Bo Widerberg - den svenske mesterinstruktør</title>
-    <desc>Bo Widerberg var en af Sveriges mest indflydelsesrige filmskabere. Den anerkendte og excentriske instruktør og forfatter blev født i Malmø i 1930. Han udgav flere romaner og novellesamlinger, inden han rettede en skarp kritik mod den indadvendte svenske filmkultur og argumenterede for en ny bølge af realisme i filmkunsten. Her dykker vi ned i hans karriere og passionerede jagt på livet, der fik konsekvenser for både hans kolleger, familie og ham selv.
-Svensk dokumentar fra 2025.
-(Being Bo Widerberg)</desc>
-  </programme>
-  <programme start="20261127000000 +0000" stop="20261127013500 +0000" channel="dr2.dk">
-    <title>Bag om Barbie</title>
-    <desc>Barbie er verdens mest kendte dukke, der lever i en fortryllet og glitrende glamourverden fuld af eventyr. Men under overfladen gemmer der sig en mørk og dramatisk historie. Her undersøger vi hemmelighederne bag skabelsen af den ikoniske dukke og hendes ekstraordinære liv. En fortælling om milliarder af kroner og om kamp og forræderi mellem hendes mor og far - de to skabere Ruth Handler og Jack Ryan. 
-Britisk dokumentar fra 2024.
-(Barbie Uncovered)(Dokumania)</desc>
-  </programme>
-  <programme start="20261127013500 +0000" stop="20261127023000 +0000" channel="dr2.dk">
-    <title>Den totale krig (4:4)</title>
-    <desc>Krigen går ind i sin sidste og mest afgørende fase. I juni 1944 gennembryder de Allierede nazisternes Atlantvold ved D-dag, mens Den Røde Hær knuser den tyske modstand i øst. Paris bliver befriet, Berlin falder, og Nazityskland kapitulerer. Men i Stillehavet fortsætter kampene, indtil USA kaster atombomberne over Hiroshima og Nagasaki. En ny verdensorden tager form, men har menneskeheden lært, hvor skrøbelig freden er?
-Fransk dokumentarserie fra 2025.
-(The Sound and the Fury)</desc>
-    <episode-num system="xmltv_ns">0.3.0</episode-num>
-  </programme>
-  <programme start="20261127023000 +0000" stop="20261127030000 +0000" channel="dr2.dk">
-    <title>Værtshushistorier: Drop Inn</title>
-    <desc>I 1970 er værtshuset Drop Inn centrum for Københavns bohemer - og stedet, hvor det storstilede eksperiment Thy-Lejren bliver født over en flok øl. Men for eksperimentets bagmand udvikler lejren sig katastrofalt.</desc>
-    <episode-num system="xmltv_ns">0.3.0</episode-num>
-  </programme>
-  <programme start="20261127030000 +0000" stop="20261127033000 +0000" channel="dr2.dk">
-    <title>Deadline: Undertrykt under tørklædet?</title>
-    <desc>Er tørklædet et symbol på tro og personlig frihed - eller på kvindeundertrykkelse? Debatten om det muslimske hovedtørklæde er blusset op igen, efter at statsministeren har kaldt det et symbol på undertrykkelse. Men hvem har ret til at bestemme, hvad tørklædet betyder? 
-Deadline samler tre kvinder med hver sit forhold til tørklædet til en debat om tro, frihed og ligestilling.</desc>
-    <episode-num system="xmltv_ns">2025.182.0</episode-num>
-  </programme>
-  <programme start="20261127033000 +0000" stop="20261127040000 +0000" channel="dr2.dk">
-    <title>Deadline: Helte og skurke i Silicon Valley</title>
-    <desc>Silicon Valley er hele verdens omdrejningspunkt lige nu. Og midt i det hele står de ultrarige techchefer, der bliver hyldet som visionære helte og afskyet som magtsyge skurke. Hvorfor har de fået den her nærmest mytiske status i vores samfund og populærkultur? Og er et oprør i gang? Sandra Brovall søger svaret i Deadline.</desc>
-    <episode-num system="xmltv_ns">2025.181.0</episode-num>
-  </programme>
-  <programme start="20261127040000 +0000" stop="20261127043500 +0000" channel="dr2.dk">
-    <title>Deadline: Klimakollaps?</title>
-    <desc>Klimatopmødet endte i søndags med, at mere end 130 lande forlod forhandlingerne i protest mod de store olienationer. Verden over bliver årets COP31 set som endnu et alvorligt tilbageslag for den globale klimakamp. Så er det tid til at gentænke hele vores tilgang til klimapolitik? Det spørger vi Bjørn Lomborg og EU's klimakommissær Dan Jørgensen om.</desc>
-    <episode-num system="xmltv_ns">2025.180.0</episode-num>
-  </programme>
-  <programme start="20261127043000 +0000" stop="20261127050000 +0000" channel="dr2.dk">
-    <title>Deadline: Bliver danskerne udskiftet?</title>
-    <desc>Højrefløjen jubler over Mette Frederiksen. Forleden brugte statsministeren nemlig udtrykket "en stor befolkningsudskiftning" - et begreb, som ellers i årevis har været tæt knyttet det yderste højre og især til den etnonationalistiske bevægelse Generation Identitær.  
-Hvad gør det ved den offentlige debat, og hvad gør det ved det danske samfund, at landets statsminister nu taler på den måde?
-Christian Bennike spørger talsmanden for Generation Identitær og Socialdemokratiets værdiordfører i Deadline.</desc>
-    <episode-num system="xmltv_ns">2025.179.0</episode-num>
-  </programme>
-  <programme start="20261127050000 +0000" stop="20261127054000 +0000" channel="dr2.dk">
-    <title>Hvornår var det nu det var (12:17)</title>
-    <desc>Dansk quizprogram fra 1993. Gorm viser klip fra DR's arkiver i forsøget på at få årstal ud af quizdeltagerne. Se bl.a. den nybagte All England-mester Sven Pri og det påbegyndte privathospital Mermaid Clinic.</desc>
-    <episode-num system="xmltv_ns">2.11.0</episode-num>
-  </programme>
-  <programme start="20261127054000 +0000" stop="20261127062000 +0000" channel="dr2.dk">
-    <title>Sprogquizzen</title>
-    <desc>Dansk program fra 2015
-Hvad er en æblefis? Var en bommerøf i gamle dage det samme som en syngende lussing? Hvilket stykke bagværk betyder halvmåne på fransk? Og hvem har opfundet ordet Langtbortistan? Gæt med, og få både lattermusklerne og hjernen motioneret, når Sprogquizzen med Maria Månson som vært dykker ned i det danske sprog og quizzer i dialekter, noget nyt, noget gammelt, noget lånt og noget tegnet. Aftenens deltagere er Rie Helmer Nielsen, Julie Hastrup, Adrian Lloyd Hughes og Mikkel Frey Damgaard.</desc>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-  </programme>
-  <programme start="20261127062000 +0000" stop="20261127063000 +0000" channel="dr2.dk">
-    <title>Vores sange med DR Pigekoret: Der er ingenting i verden så stille som sne</title>
-    <desc>DR Pigekoret synger I den mørke vinter og Der er ingenting i verden så stille som sne.
-Dirigent: Charlotte Rowan.
-Optaget i DR Koncerthuset i december 2025.</desc>
-    <episode-num system="xmltv_ns">1.6.0</episode-num>
-  </programme>
-  <programme start="20261127063000 +0000" stop="20261127070000 +0000" channel="dr2.dk">
-    <title>Det danske filmmirakel (4:6) Befri os fra teknikken</title>
-    <desc>Alt kulminerer med Dogme 95! Nye skuespillere, nye instruktører og Lars von Trier som katalysator. Men dogmebevægelsen var først og fremmest et opgør med den omfattende teknik, som filmfolk var ved at blive kvalt i - store kameraer, dikterende lyssætninger og kæmpe kulisser stod i vejen for den gode historie. Men ved at fjerne alle de snærende bånd fra filmproduktionen, kunne dansk film slå vingerne ud og med den frihed fløj utallige stortalenter både foran og bagved kameraet højt op på himlen.</desc>
-    <episode-num system="xmltv_ns">0.3.0</episode-num>
-  </programme>
-  <programme start="20261127070000 +0000" stop="20261127070500 +0000" channel="dr2.dk">
-    <title>Radioavisen</title>
-    <desc>Bliv opdateret på de seneste nyheder fra ind- og udland.</desc>
-  </programme>
-  <programme start="20261127070500 +0000" stop="20261127073000 +0000" channel="dr2.dk">
-    <title>Morgenandagten</title>
-    <desc>Morgenandagten fra Vor Frue Kirke, Københavns Domkirke.</desc>
-    <episode-num system="xmltv_ns">2025.277.0</episode-num>
-  </programme>
-  <programme start="20261127073000 +0000" stop="20261127110000 +0000" channel="dr2.dk">
-    <title>Seneste nyt fra TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20261127110000 +0000" stop="20261127161500 +0000" channel="dr2.dk">
-    <title>Seneste nyt fra TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20261127161500 +0000" stop="20261127163000 +0000" channel="dr2.dk">
-    <title>Ulf &amp; Claus show (3:4)</title>
-    <desc>Dansk satireserie fra 1980. Lystighederne står i kø i Pilgaard &amp; Ryskjærs sammenbragte sketch-show. Kom med på verdens billigste restaurant og få en treretters menu i løbet af to minutter. Oplev en mand, der forgæves forsøger at blive arresteret på en politistation - men som først kan få en aftale to år ude i fremtiden. Og hør en amerikansk general synge om, at USA giver penge til resten af verden - og at USA i stedet skulle benytte sig af a-bomben.
-Medvirkende: Ulf Pilgaard, Claus Ryskjær, Kirsten Norholt, Claus Strandberg m.fl.</desc>
-    <episode-num system="xmltv_ns">0.2.0</episode-num>
-  </programme>
-  <programme start="20261127163000 +0000" stop="20261127165000 +0000" channel="dr2.dk">
-    <title>Ulf &amp; Claus show (4:4)</title>
-    <desc>Dansk satireserie fra 1980. Morsomhederne orkestreret af Pilgaard &amp; Ryskjær byder på lidt af hvert. Et hittegodskontor ligger inde med en politimand, som blev borte i et gadekryds, en af Danmarks mest frygtede forbrydere har sin kone med på bankrøverjob - og en mand køber en diskussion i TV-Byen, hvilket får ham til at stille spørgsmålet: Er alle sindssyge i DR?
-Medvirkende: Ulf Pilgaard, Claus Ryskjær, Kirsten Norholt, Claus Strandberg m.fl.</desc>
-    <episode-num system="xmltv_ns">0.3.0</episode-num>
-  </programme>
-  <programme start="20261127165000 +0000" stop="20261127172000 +0000" channel="dr2.dk">
-    <title>Kim Schumacher - i alle regnbuens 80'er farver (1:4)</title>
-    <desc>Det er en ny stemme, det er ny musik, og det er et nyt budskab, som rammer øregangene hos danske teenagere i 1980'erne. Kim Schumacher tager bogstavelig talt lyden af fremtiden med sig fra New York, samtidig med at han fortæller en hel generation, at de skal stå ved sig selv uanset køn og seksualitet. Selv går Kim Schumacher forrest, men inden han som radiovært sender nybrud gennem P3, klarer han sig blandt andet ved hjælp af jobs i pornoindustrien og veltilrettelagte indkøbsture som butikstyv.</desc>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-  </programme>
-  <programme start="20261127171500 +0000" stop="20261127180500 +0000" channel="dr2.dk">
-    <title>Frihedens skygge (2:4)</title>
-    <desc>Dansk krimiserie fra 1994. Gabrielsen er i Sverige - han tror, Lasse er ryddet af vejen og afregner med Tomas. Lasse får arbejde på et skovbrug i Sverige, og alt tegner lyst - indtil han opdager, at han er efterlyst af både dansk og svensk politi. Han må tage af sted for at finde Tomas, der som den eneste kan give ham et alibi. Men da han kommer frem, bliver han mødt af skæbnesvangre nyheder.
-Medvirkende: Frits Helmuth, Erik Wedersøe, Peter Mygind, Björn Kjellman m.fl.
-Manuskript og instruktion: Birger Larsen.</desc>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-  </programme>
-  <programme start="20261127180500 +0000" stop="20261127184500 +0000" channel="dr2.dk">
-    <title>Hvornår var det nu det var (14:17)</title>
-    <desc>Dansk quizprogram fra 1993. Gorm og husorkestret med Finn Ziegler i spidsen byder på gensyn og genhør med klip og musik fra perioden 1930 til 1990. Gæt med sammen med de dystende deltagere i studiet.</desc>
-    <episode-num system="xmltv_ns">2.13.0</episode-num>
-  </programme>
-  <programme start="20261127184500 +0000" stop="20261127191000 +0000" channel="dr2.dk">
-    <title>Huset på Christianshavn (44) Feltråb fire bajere</title>
-    <desc>Dansk komedieserie fra 1974. Karla er alene hjemme og bliver voldsomt opskræmt, da hun overrasker en brevsprækkekigger. De øvrige kvinder i huset bliver også nervøse, så beboerne beslutter at oprette et hjemmeværn. Det inkluderer walkie-talkier, fælder og feltråb. 
-Medvirkende: Helle Virkner, Poul Reichhardt, Bodil Udsen, Arthur Jensen, Lis Løwert, Paul Hagen, Ove Sprogøe, Kirsten Walther, Willy Rathnov, Claus Ryskjær m.fl.
-Manuskript: Karen Smith.</desc>
-    <episode-num system="xmltv_ns">0.43.0</episode-num>
-  </programme>
-  <programme start="20261127191000 +0000" stop="20261127210000 +0000" channel="dr2.dk">
-    <title>Let Him Go</title>
-    <desc>Amerikansk thriller fra 2020.
-George og Margaret rammes af en tragedie, da deres voksne søn dør efter at være blevet smidt af en hest på familiens ranch. Tre år senere gifter sønnens enke sig med den voldelige Donnie Weboy. En nat forlader det unge par ranchen sammen med George og Margarets lille barnebarn, Jimmy. Men Margaret er fast besluttet på at redde sit barnebarn ud af kløerne på den farlige familien Weboy, og hun og George begiver sig af sted for at finde Jimmy.
-Medvirkende: Diane Lane, Kevin Costner, Lesley Manville m.fl.
-Instruktion: Thomas Bezucha.</desc>
-  </programme>
-  <programme start="20261127210000 +0000" stop="20261127211500 +0000" channel="dr2.dk">
-    <title>TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20261127211500 +0000" stop="20261127220500 +0000" channel="dr2.dk">
-    <title>Debatten: Hvem tager klimakampen?</title>
-    <desc>Klimatopmødet COP31 endte i et sammenbrud og uden resultat, fordi Danmark og EU mente, at aftalen var for uambitiøs. Er tiden slut for internationale klimaaftaler? Skal Danmark skrue op for tempoet i den grønne omstilling? Og er det tid til en grøn mentalitetsændring? Clement Kjersgaard samler repræsentanter fra regeringen, oppositionen og verden udenfor Christiansborg.
-Vært: Clement Kjersgaard.</desc>
-    <episode-num system="xmltv_ns">2025.32.0</episode-num>
-  </programme>
   <programme start="20261127220500 +0000" stop="20261128000000 +0000" channel="dr2.dk">
     <title>Quigley Down Under</title>
     <desc>Amerikansk western fra 1991.
@@ -178,12 +38,18 @@ BBC-naturserie fra 2026.
 (Wilderness With Simon Reeve)</desc>
     <episode-num system="xmltv_ns">1.3.0</episode-num>
   </programme>
-  <programme start="20261128035500 +0000" stop="20261128045500 +0000" channel="dr2.dk">
+  <programme start="20261128035500 +0000" stop="20261128045000 +0000" channel="dr2.dk">
     <title>Julius Cæsar - En diktator fødes (1:3)</title>
     <desc>BBC-dokumentarserie fra 2024.
 (Julius Caesar - The Making of a Dictator)
 Hvordan skabes en diktator? Rom er centrum i oldtidens mægtigste rige, Romerriget, der blev styret af en folkevalgt regering i 500 år. Men på lidt over ti år blev Republikken omstyrtet af én mand med ambitioner. Julius Cæsar. Gennem tre afsnit følger vi hans vej til magten. En historie om, hvordan ambition fører til tyranni. Og hvordan han nedbrød et århundredgammelt politisk system ved at bruge vold, indgå farlige alliancer og bestikkelse.</desc>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
+  </programme>
+  <programme start="20261128045000 +0000" stop="20261128050000 +0000" channel="dr2.dk">
+    <title>På skuldrene af H. C. Ørsted - Kan mennesket skabe som en Gud?</title>
+    <desc>For 15 år siden opdagede to russiske fysikere et nyt vidunder-materiale. Et stof der er 200 gange stærkere end stål, hårdt som diamant, og stadig kan bøjes. Det er blevet begyndelsen på en ny æra, hvor mennesket selv kan designe sine materialer helt ned i mindste skala. Hermed brydes de regler, der ellers altid har været i den virkelig verden.
+Dansk videnskabsserie fra 2020 med de største fysikere i verden.</desc>
+    <episode-num system="xmltv_ns">0.4.0</episode-num>
   </programme>
   <programme start="20261128050000 +0000" stop="20261128055000 +0000" channel="dr2.dk">
     <title>Stormfulde hjerter</title>
@@ -212,6 +78,7 @@ Det er det mest multikulturelle sted på Jorden. Afrika er en af de hurtigst vok
   <programme start="20261128070500 +0000" stop="20261128073000 +0000" channel="dr2.dk">
     <title>Morgenandagten</title>
     <desc>Morgenandagten fra Vor Frue Kirke, Københavns Domkirke.</desc>
+    <episode-num system="xmltv_ns">2025.278.0</episode-num>
   </programme>
   <programme start="20261128073000 +0000" stop="20261128110000 +0000" channel="dr2.dk">
     <title>Seneste nyt fra TVA</title>
@@ -258,9 +125,8 @@ Instruktion: Hella Joof.</desc>
   </programme>
   <programme start="20261128181500 +0000" stop="20261128190000 +0000" channel="dr2.dk">
     <title>Husker du... 2001</title>
-    <desc>Dansk dokumentarserie fra 2015
-2001 er et år vi aldrig glemmer. Om morgenen den 11. september brager to flyvere ind i World Trade Center i New York, og siden har verden ikke været den samme. Herhjemme raser debatten om flygtninge og indvandrere, og to af dem, der råber højst fra hvert sit synspunkt, er Mimi Jakobsen og Pia Kjærsgaard. Ellers er vi optagede af at finde ud af alle de smarte ting, som vores mobiltelefoner pludselig kan, og hvad der sker i de nye såkaldte reality programmer...
-Sendt første gang 22.09.2015</desc>
+    <desc>Dansk dokumentarserie fra 2015.
+2001 er et år vi aldrig glemmer. Om morgenen den 11. september brager to flyvere ind i World Trade Center i New York, og siden har verden ikke været den samme. Herhjemme raser debatten om flygtninge og indvandrere, og to af dem, der råber højst fra hvert sit synspunkt, er Mimi Jakobsen og Pia Kjærsgaard. Ellers er vi optagede af at finde ud af alle de smarte ting, som vores mobiltelefoner pludselig kan, og hvad der sker i de nye såkaldte reality programmer...</desc>
     <episode-num system="xmltv_ns">4.1.0</episode-num>
   </programme>
   <programme start="20261128190000 +0000" stop="20261128201500 +0000" channel="dr2.dk">
@@ -343,13 +209,13 @@ Tilrettelæggelse : Lisbet Barrett og Vibeke Heide-Jørgensen
 Sendt første gang 22.06.2017</desc>
     <episode-num system="xmltv_ns">0.2.0</episode-num>
   </programme>
-  <programme start="20261129060000 +0000" stop="20261129065000 +0000" channel="dr2.dk">
+  <programme start="20261129055500 +0000" stop="20261129064500 +0000" channel="dr2.dk">
     <title>En by i provinsen (5:17)</title>
     <desc>Dansk krimiserie fra 1978. En ældre dame bliver overfaldet og bestjålet. Det er det fjerde af den slags overfald i løbet af en måned, og beboerne i området er meget utilfredse med politiets håndtering af situationen. De opretter et vagtværn for at tage sagen i egen hånd. Eriksen og Samuelsen forsøger at dæmpe gemytterne og finde gerningsmanden.
 Medvirkende: Henning Moritzen, Jens Okking, Birgit Sadolin, Ulla Jessen, Dirch Passer, Bjørn Watt-Boolsen m.fl.</desc>
     <episode-num system="xmltv_ns">0.4.0</episode-num>
   </programme>
-  <programme start="20261129065000 +0000" stop="20261129070000 +0000" channel="dr2.dk">
+  <programme start="20261129064500 +0000" stop="20261129070000 +0000" channel="dr2.dk">
     <title>Dansk teater 300 år: Man morer sig!</title>
     <desc>Forlystelsessygen raser og i 1843, samme år som Kierkegaards Enten-Eller udkommer, åbner det ultimative forlystelsessted - Tivoli. 
 Grundlagt af guldalderens forlystelseskonge nummer 1 Georg Carstensen. Han skaber forlystelsesstedet Casino, hvor man blandt andet kan opleve Danmarks første revy.
@@ -400,7 +266,7 @@ Liget af en ung kvinde bliver fundet på psykoterapeuten Forsters kontor. Charlo
 Farvel til Berlin: Sidste sæson af det kritikerroste tyske giganthit.</desc>
     <episode-num system="xmltv_ns">4.0.0</episode-num>
   </programme>
-  <programme start="20261129175000 +0000" stop="20261129184500 +0000" channel="dr2.dk">
+  <programme start="20261129174500 +0000" stop="20261129184500 +0000" channel="dr2.dk">
     <title>En by i provinsen (7:17)</title>
     <desc>Dansk krimiserie fra 1978. Samuelsen og en ven er på jagt nede ved søen. Her finder de et lig i vandet, som viser sig at være murer Ivansen. Har cykelhandleren eller fiskeren Rudolf noget med sagen at gøre? Og hvorfor går Samuelsens kone til lægen i al hemmelighed? Der er også kurrer på tråden mellem Eriksen og hans kæreste Lisbet.
 Medvirkende: Henning Moritzen, Jens Okking, Birgit Sadolin, Ulla Jessen, Dirch Passer, Bjørn Watt-Boolsen m.fl.</desc>
@@ -437,7 +303,7 @@ Sendt første gang 19.02.06</desc>
     <title>Cirkus i Afghanistan</title>
     <desc>Zahra og Zalgai elsker cirkus. Her kan de lege, drømme og stadig være børn. Men de nærmer sig 14 år og under Talibans styre bliver deres verden stadig mindre. Snart venter voksenliv med ansvar, regler og en virkelighed, de ikke selv har valgt. Dansk dokumentarfilm fra 2026 (If Luck Will Come).</desc>
   </programme>
-  <programme start="20261129224500 +0000" stop="20261130003000 +0000" channel="dr2.dk">
+  <programme start="20261129224000 +0000" stop="20261130003000 +0000" channel="dr2.dk">
     <title>Let Him Go</title>
     <desc>Amerikansk thriller fra 2020.
 George og Margaret rammes af en tragedie, da deres voksne søn dør efter at være blevet smidt af en hest på familiens ranch. Tre år senere gifter sønnens enke sig med den voldelige Donnie Weboy. En nat forlader det unge par ranchen sammen med George og Margarets lille barnebarn, Jimmy. Men Margaret er fast besluttet på at redde sit barnebarn ud af kløerne på den farlige familien Weboy, og hun og George begiver sig af sted for at finde Jimmy.
@@ -458,7 +324,7 @@ Instruktion: Justin Chon.</desc>
 I 2005 kommer Jeffrey Epstein i politiets søgelys i Florida for at have forgrebet sig seksuelt på unge piger helt ned til 14-års alderen. Ved hjælp af penge, magt og indflydelse undgår Ghislaine at blive inddraget i sagen. Men ofrenes advokater har en strategi, der tvinger hende op i et hjørne. Da hun bliver arresteret den 2. juli 2020, er ofrene lettede. Vil retssagen give yde dem retfærdighed?</desc>
     <episode-num system="xmltv_ns">0.2.0</episode-num>
   </programme>
-  <programme start="20261130030500 +0000" stop="20261130040000 +0000" channel="dr2.dk">
+  <programme start="20261130031000 +0000" stop="20261130040000 +0000" channel="dr2.dk">
     <title>De store civilisationers fald (1:4)</title>
     <desc>BBC-dokumentarserie fra 2025.
 (Civilisations: Rise and Fall)
@@ -798,9 +664,8 @@ I 2000 kan man tjene milliarder på den rigtige ide til en hjemmeside. De danske
   </programme>
   <programme start="20261202170000 +0000" stop="20261202174500 +0000" channel="dr2.dk">
     <title>Husker du... 2001</title>
-    <desc>Dansk dokumentarserie fra 2015
-2001 er et år vi aldrig glemmer. Om morgenen den 11. september brager to flyvere ind i World Trade Center i New York, og siden har verden ikke været den samme. Herhjemme raser debatten om flygtninge og indvandrere, og to af dem, der råber højst fra hvert sit synspunkt, er Mimi Jakobsen og Pia Kjærsgaard. Ellers er vi optagede af at finde ud af alle de smarte ting, som vores mobiltelefoner pludselig kan, og hvad der sker i de nye såkaldte reality programmer...
-Sendt første gang 22.09.2015</desc>
+    <desc>Dansk dokumentarserie fra 2015.
+2001 er et år vi aldrig glemmer. Om morgenen den 11. september brager to flyvere ind i World Trade Center i New York, og siden har verden ikke været den samme. Herhjemme raser debatten om flygtninge og indvandrere, og to af dem, der råber højst fra hvert sit synspunkt, er Mimi Jakobsen og Pia Kjærsgaard. Ellers er vi optagede af at finde ud af alle de smarte ting, som vores mobiltelefoner pludselig kan, og hvad der sker i de nye såkaldte reality programmer...</desc>
     <episode-num system="xmltv_ns">4.1.0</episode-num>
   </programme>
   <programme start="20261202174500 +0000" stop="20261202181000 +0000" channel="dr2.dk">
@@ -967,10 +832,12 @@ Fransk dokumentar fra 2025.
   <programme start="20261203211500 +0000" stop="20261203214500 +0000" channel="dr2.dk">
     <title>Deadline</title>
     <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <episode-num system="xmltv_ns">2025.186.0</episode-num>
   </programme>
   <programme start="20261203214500 +0000" stop="20261203221500 +0000" channel="dr2.dk">
     <title>Trumps USA</title>
     <desc>I "Trumps USA" stiller vi skarpt på de afgørende udviklinger, personopgør og dagsordener, der udspiller sig i amerikansk politik.</desc>
+    <episode-num system="xmltv_ns">2025.33.0</episode-num>
   </programme>
   <programme start="20261203221500 +0000" stop="20261203234500 +0000" channel="dr2.dk">
     <title>Moon-bevægelsen: Gift med kulten</title>
@@ -983,5 +850,112 @@ Britisk dokumentar fra 2025.
     <title>Miraklet i Gullspång</title>
     <desc>Svensk-dansk prisvindende dokumentarfilm fra 2023.
 Et tegn fra Gud får to norske søstre til at købe en lejlighed i den lille svenske by Gullspång. Da de tropper op på ejendomsmæglerens kontor for at underskrive købskontrakten, får de et mindre chok. Foran dem sidder en fremmed kvinde, som ligner deres ældre søster på en prik - en søster, som begik selvmord 30 år tidligere. Hvad der begynder som en utrolig historie om en families genforening bliver snart en Pandoras æske, da alle tre kvinders liv kommer ud af kontrol i jagten efter sandheden. (Dokumania)</desc>
+  </programme>
+  <programme start="20261204013500 +0000" stop="20261204030000 +0000" channel="dr2.dk">
+    <title>Cirkus i Afghanistan</title>
+    <desc>Zahra og Zalgai elsker cirkus. Her kan de lege, drømme og stadig være børn. Men de nærmer sig 14 år og under Talibans styre bliver deres verden stadig mindre. Snart venter voksenliv med ansvar, regler og en virkelighed, de ikke selv har valgt. Dansk dokumentarfilm fra 2026 (If Luck Will Come).</desc>
+  </programme>
+  <programme start="20261204030000 +0000" stop="20261204033000 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <episode-num system="xmltv_ns">2025.186.0</episode-num>
+  </programme>
+  <programme start="20261204033000 +0000" stop="20261204040000 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <episode-num system="xmltv_ns">2025.185.0</episode-num>
+  </programme>
+  <programme start="20261204040000 +0000" stop="20261204043500 +0000" channel="dr2.dk">
+    <title>Deadline</title>
+    <desc>Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier.</desc>
+    <episode-num system="xmltv_ns">2025.184.0</episode-num>
+  </programme>
+  <programme start="20261204050000 +0000" stop="20261204053500 +0000" channel="dr2.dk">
+    <title>Hvornår var det nu det var (13:17)</title>
+    <desc>Dansk quizprogram fra 1993. Blandt de historiske begivenheder i denne udgave af quizzen kan man opleve bombningen af luftfartsselskabet Northwest Orient i København, statsminister Staunings bisættelse og det første valg i Schweiz, hvor kvinder har valgret.</desc>
+    <episode-num system="xmltv_ns">2.12.0</episode-num>
+  </programme>
+  <programme start="20261204053500 +0000" stop="20261204061500 +0000" channel="dr2.dk">
+    <title>Sprogquizzen</title>
+    <desc>Dansk program fra 2015
+Hvem har opfundet ordene skrankepave og samtalekøkken? Hvad er et præstestykke? Hvilket fodtøj har navn efter det italienske ord for 'stiv dolk'? Og hvilket ord kom egentlig først: liebhaverbolig eller kystbanesocialist? Gæt med når Sprogquizzen med Maria Månson dykker ned i det danske sprog og quizzer i dialekter, gammel dansk og billedsprog. Aftenens deltagere er Maise Njor, Katrine Grünfeld, Per Vers og Martin Kongstad.</desc>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+  </programme>
+  <programme start="20261204061500 +0000" stop="20261204063000 +0000" channel="dr2.dk">
+    <title>Troldspejlet: Bæver med budskab</title>
+    <desc>Tegnefilm sælges ofte som hyggelig, harmløs familieunderholdning, men de har ofte ret politiske budskaber. I denne episode af Troldspejlet afslører Jakob Stegelmann de mere eller mindre skjulte budskaber i Pixars nye film Mission: Bæver - og flere andre storfilm.</desc>
+    <episode-num system="xmltv_ns">0.2.0</episode-num>
+  </programme>
+  <programme start="20261204063000 +0000" stop="20261204070000 +0000" channel="dr2.dk">
+    <title>Det danske filmmirakel (5:6) Da TV blev fint</title>
+    <desc>Teater, film - og så TV. I mange år var det rangordenen af, hvad der var mest prestige i at lave. Men med Rumle Hammerichs ankomst som dramachef blev grundstenene lagt til DR Drama og man gik fra at sende filmet teater til at lægge gaderne øde hver søndag aften. Serier som Taxa, Rejseholdet og Forbrydelsen, der blev platform for en hel generation af nye instruktører, skuespillere og manuskriptforfattere, satte nye standarder for tv-fiktion herhjemme og gjorde begrebet Nordic Noir verdenskendt.</desc>
+    <episode-num system="xmltv_ns">0.4.0</episode-num>
+  </programme>
+  <programme start="20261204070000 +0000" stop="20261204070500 +0000" channel="dr2.dk">
+    <title>Radioavisen</title>
+    <desc>Bliv opdateret på de seneste nyheder fra ind- og udland.</desc>
+  </programme>
+  <programme start="20261204070500 +0000" stop="20261204073000 +0000" channel="dr2.dk">
+    <title>Morgenandagten</title>
+    <desc>Morgenandagten fra Vor Frue Kirke, Københavns Domkirke.</desc>
+  </programme>
+  <programme start="20261204073000 +0000" stop="20261204110000 +0000" channel="dr2.dk">
+    <title>Seneste nyt fra TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20261204110000 +0000" stop="20261204161500 +0000" channel="dr2.dk">
+    <title>Seneste nyt fra TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20261204161500 +0000" stop="20261204163500 +0000" channel="dr2.dk">
+    <title>Jul på en sønderjysk gård</title>
+    <desc>Dansk reportage fra 1966. I dagene op til jul er der travlhed på Helliggaard i Rørkær ved Tønder. I den snedækkede have dyrker fru Friedrichsen juleroser, og med sønderjysk dialekt fortæller hun om haven og dens fugle. Indenfor i køkkenet dufter der sødt af specialiteten "Goed raj", og i stalden fortæller gårdejer Friedrichsen om gamle juletraditioner på landet. I gårdens julepyntede stuer spreder hyggen sig med adventskrans, juletræ, gløgg, æbleskiver og ikke mindst årets julepost fra nær og fjern.</desc>
+  </programme>
+  <programme start="20261204163500 +0000" stop="20261204170500 +0000" channel="dr2.dk">
+    <title>Kim Schumacher - i alle regnbuens 80'er farver (2:4)</title>
+    <desc>Musikvideoen er en eksploderende ny genre i 1980'erne, og som modsvar til MTV toner Kim Schumacher op på tv-skærmene i det banebrydende musikvideoprogram '1999'. Danmarks Radio har svært ved at kapere musikvideoen - og svært ved at kapere Schumacher. Han må forsvare, hvad han står for overfor DR's kulturelite, og han får brug for sine særlige talegaver. Den evne hjælper ham allerede som dreng på en kostskole, hvor hierarkiet er vigtigt, og hvor han kommer i nærkontakt med en voksen lærer.</desc>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+  </programme>
+  <programme start="20261204170500 +0000" stop="20261204175500 +0000" channel="dr2.dk">
+    <title>Frihedens skygge (3:4)</title>
+    <desc>Dansk krimiserie fra 1994. Ingen kan give Lasse et alibi for natten, hvor bankdirektøren blev myrdet, efter Tomas er blevet dræbt - og både svensk og dansk politi er lige i hælene på ham. Lasse får hjælp af Tomas' kone, som tror på hans uskyld. Gabrielsen bliver klar over, at Lasse er i live, og i Portugal kommer nye oplysninger frem i forbindelse med den forbrydelse, Lasse tidligere er dømt for.
+Medvirkende: Frits Helmuth, Erik Wedersøe, Peter Mygind, Björn Kjellman m.fl.
+Manuskript og instruktion: Birger Larsen.</desc>
+    <episode-num system="xmltv_ns">0.2.0</episode-num>
+  </programme>
+  <programme start="20261204180000 +0000" stop="20261204184000 +0000" channel="dr2.dk">
+    <title>Hvornår var det nu det var (15:17)</title>
+    <desc>Dansk quizprogram fra 1993. Gæt med, når Gorm viser klip fra disse historiske begivenheder - svenskerne stemmer nej til højrekørsel, Den Lille Havfrue fylder 70 år, og det nedlagte Østre Gasværk kommer i betragtning som teatersal.</desc>
+    <episode-num system="xmltv_ns">2.14.0</episode-num>
+  </programme>
+  <programme start="20261204184000 +0000" stop="20261204191000 +0000" channel="dr2.dk">
+    <title>Huset på Christianshavn (45) Vi må komme hinanden ved</title>
+    <desc>Dansk komedieserie fra 1974. Olsen samler en ung pige og hendes flyttelæs op. Da hun ikke har noget sted at bo, forsøger Olsen at finde et sted hos de andre beboere, hvor hans "halvniece fra Hundested" kan overnatte. Men konerne vil ikke have det, så Olsen installerer hende i flyttevognen.
+Medvirkende: Helle Virkner, Poul Reichhardt, Bodil Udsen, Arthur Jensen, Lis Løwert, Paul Hagen, Ove Sprogøe, Kirsten Walther, Willy Rathnov, Claus Ryskjær m.fl.
+Manuskript: Leif Panduro.</desc>
+    <episode-num system="xmltv_ns">0.44.0</episode-num>
+  </programme>
+  <programme start="20261204191000 +0000" stop="20261204210000 +0000" channel="dr2.dk">
+    <title>Babygirl</title>
+    <desc>Amerikansk erotisk drama fra 2024.
+Den succesfulde direktør Romy sætter sin karriere og sit familieliv på spil, da hun indleder en heftig affære med sin unge praktikant. Begæret vokser og åbner en ny verden af lyst og seksuel nysgerrighed. Men samtidig truer den grænseoverskridende affære med at rive alt, hvad Romy har opbygget, i stykker.
+Medvirkende: Nicole Kidman, Harris Dickinson, Antonio Banderas m.fl.
+Instruktion: Halina Reijn.</desc>
+  </programme>
+  <programme start="20261204210000 +0000" stop="20261204211500 +0000" channel="dr2.dk">
+    <title>TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20261204211500 +0000" stop="20261204220500 +0000" channel="dr2.dk">
+    <title>Debatten</title>
+    <desc>Danmarks stærkeste stemmer diskuterer tidens sværeste beslutninger. Hver torsdag direkte fra DR Byen. Vært: Clement Kjersgaard.</desc>
+  </programme>
+  <programme start="20261204220500 +0000" stop="20261205000500 +0000" channel="dr2.dk">
+    <title>Kom til det vilde vesten!</title>
+    <desc>Amerikansk westernkomedie fra 1963.
+(McLintock!)
+Prærieflækken McLintock har taget navn efter kvægbaronen G.W. McLintock, der ejer det meste af byen og jorden omkring den. G.W. nyder stor respekt i området og frygter intet i denne verden - det skulle da lige være hans kone, rappenskralden Katherine. G.W. og Katherine lever som hund og kat, og parrets forhold bliver ikke mindre kompliceret, da deres datter vender hjem fra universitetet.
+Medvirkende: John Wayne, Maureen O'Hara, Patrick Wayne m.fl.
+Instruktion: Andrew V. McLaglen.</desc>
   </programme>
 </tv>
